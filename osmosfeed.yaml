@@ -5,7 +5,10 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://feeds.feedburner.com/acs/asbcd6 # ACS Synthetic Biology
+  - href: http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=synthetic_biology # bioRxiv Synthetic Biology
+  - href: http://www.nature.com/subjects/computational-biology-and-bioinformatics.rss # Nature Computational Biology and Bioinformatics
+  - href: http://www.liebertonline.com/action/showFeed?mi=cjwv&ai=su&jc=CMB&type=etoc&feed=rss # MaryAnnLiebert Computational Biology
+  - href: http://news.mit.edu/rss/topic/biological-engineering-and-biotechnology # MIT news Bioengineering and Biotechnology
+  - href: http://www.nature.com/subjects/synthetic-biology.rss # Nature Synthetic Biology
+  - href: https://api.quantamagazine.org/feed/ # Quanta Magazine
