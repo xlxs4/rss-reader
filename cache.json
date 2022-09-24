@@ -6,6 +6,16 @@
       "siteUrl": "https://pubs.acs.org",
       "articles": [
         {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00111",
+          "author": "Dany Liu, Maria Sole Sica, Jiwei Mao, Lucy Fang-I Chao, and Verena Siewers",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00111",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00111",
+          "publishedOn": "2022-09-22T04:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] A <italic toggle=\"yes\">p</italic>‑Coumaroyl-CoA Biosensor for Dynamic Regulation of Naringenin Biosynthesis in <named-content content-type=\"genus-species\" xlink:type=\"simple\">Saccharomyces cerevisiae</named-content>",
+          "imageUrl": null
+        },
+        {
           "id": "http://dx.doi.org/10.1021/acssynbio.2c00365",
           "author": "Américo T. Ranzani, Markus Wehrmann, Jennifer Kaiser, Marc Juraschitz, Anna M. Weber, Georg Pietruschka, Uwe Gerken, Günter Mayer, and Andreas Möglich",
           "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00365",
@@ -123,12 +133,52 @@
       "siteUrl": "http://biorxiv.org",
       "articles": [
         {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.21.508913v1?rss=1",
+          "author": "Love, A. M.",
+          "description": "As biotechnology research progresses from simply overexpressing proteins to creating intricate metabolic pathways, gene circuits, and complex phenotypes, harmonizing gene fitness in the context of a host organism has become essential. A significant amount of recent work has focused on decoupling gene expression from host resources to improve the outcome of synthetic biology and metabolic engineering efforts. While insightful, few of these studies have investigated the mechanistic underpinnings of resource allocation during translation elongation. There is a degeneracy in codons - but they are not equivalent. While there is an understanding that codon use is unequal in native genes, there is less knowledge of how this usage bias modulates the supply and demand of protein translation resources. Here we investigate how the partitioning of microbial translational resources, specifically through allocation of tRNA by incorporating dissimilar codon usage bias, can drastically alter expression of proteins and reduce the burden on the host resources. By isolating individual codons experimentally, we find heterologous gene expression can trans-regulate fitness of the host and other heterologous genes. Interestingly, specific codons drive profitable or catastrophic phenotypic outcomes. We correlate codon usage patterns with genetic fitness and empirically derive a novel coding scheme for multi-gene expression called Codon Harmony Index (CHI, {chi}). CHI enables the design of harmonious multi-gene expression systems while avoiding catastrophic cellular burden.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.21.508913v1?rss=1",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 1170,
+          "title": "Specific Codons Control Cellular Resources and Fitness [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.20.508659v1?rss=1",
+          "author": "Blazquez, B.",
+          "description": "Modular cloning assembly has become a benchmark technology in synthetic biology. However, there is a mismatch between its impressive development and the standardization required to promote interoperability between the different systems available. The full development of the field is thus hampered by a surge of oftentimes incompatible organism-specific systems. To overcome these issues, we present Golden Standard (GS), a Type IIS assembly method underpinned by the Standard European Vector Architecture (SEVA). GS unlocks modular cloning applications with any type of microorganism and delivers consistent combinatorial multi-part assembly of standardized genetic elements to create genetic circuits of up to twenty transcription units. Reliance on the Golden Gate syntax renders GS fully compatible with many existing tools and it sets the path towards efficient reusability of available part libraries and assembled TUs. GS was fully validated in terms of DNA assembly performance, portability and phenotype engineering in model and non-model bacteria. In order to facilitate the widespread adoption and future community-driven development of GS, we provide a web-portal featuring: i) a repository of parts and vectors, ii) a SBOLHub for exchange and analysis of constructs and iii) Wizard and Setup tools to guide the design of constructs using stored and user-specific parts.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.20.508659v1?rss=1",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 1550,
+          "title": "Golden Standard: A complete standard, portable, and interoperative MoClo tool for model and non-model bacterial hosts [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.19.508533v1?rss=1",
+          "author": "Wang, W. X.",
+          "description": "Structural DNA nanotechnology enables user-prescribed design of DNA nanostructures (DNs) for biological applications, but how DN design determines their bio-distribution and cellular interactions remain poorly understood. One challenge is that current methods for tracking DN fates in situ, including fluorescent-dye labeling, suffer from low sensitivity and dye-induced artifacts. Here we present origamiFISH, a label-free and universal method for single-molecule fluorescence detection of DNA origami nanostructures in cells and tissues. origamiFISH targets pan-DN scaffold sequences with hybridization chain reaction (HCR) probes to achieve thousand-fold signal amplification. We identify cell-type and shape-specific spatiotemporal uptake patterns within 1 minute of uptake and at picomolar DN concentrations, 10,000x lower than field standards. We additionally optimized compatibility with immunofluorescence and tissue clearing to visualize DN distribution within tissue cryo/vibratome-sections, slice cultures, and whole-mount organoids. Together, origamiFISH enables faithful mapping of DN interactions across subcellular and tissue barriers for guiding the development of DN-based therapeutics.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.19.508533v1?rss=1",
+          "publishedOn": "2022-09-22T00:00:00.000Z",
+          "wordCount": 1391,
+          "title": "origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.22.508994v1?rss=1",
+          "author": "yang, y.",
+          "description": "The canonical glycolysis generates two molecules of acetyl-coenzyme A (acetyl-CoA) from one glucose through eleven cascade biochemical reactions. Here, we designed and constructed a Minimal Artificial Glycolytic (MAG) pathway consisting of only three types of biochemical reactions, with phosphoketolase as the core, combined with phosphatase and isomerase as auxiliary enzymes. It could theoretically achieve a 100% carbon yield to acetyl-CoA from any monosaccharide by integrating one-carbon condensation reaction. We tested the MAG pathway in vitro and in vivo, demonstrating the catabolism of typical C1-C6 carbohydrates to acetyl-CoA with yields from 82% to 95%. This novel glycolytic pathway provides a promising route for biomanufacturing with stoichiometric productivity from multiple carbon sources in the future.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.22.508994v1?rss=1",
+          "publishedOn": "2022-09-22T00:00:00.000Z",
+          "wordCount": 1349,
+          "title": "Designing a Minimal Artificial Glycolytic Pathway [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
           "id": "http://biorxiv.org/cgi/content/short/2022.09.19.508533v2?rss=1",
           "author": "Wang, W. X.",
           "description": "Structural DNA nanotechnology enables user-prescribed design of DNA nanostructures (DNs) for biological applications, but how DN design determines their bio-distribution and cellular interactions remain poorly understood. One challenge is that current methods for tracking DN fates in situ, including fluorescent-dye labeling, suffer from low sensitivity and dye-induced artifacts. Here we present origamiFISH, a label-free and universal method for single-molecule fluorescence detection of DNA origami nanostructures in cells and tissues. origamiFISH targets pan-DN scaffold sequences with hybridization chain reaction (HCR) probes to achieve thousand-fold signal amplification. We identify cell-type and shape-specific spatiotemporal uptake patterns within 1 minute of uptake and at picomolar DN concentrations, 10,000x lower than field standards. We additionally optimized compatibility with immunofluorescence and tissue clearing to visualize DN distribution within tissue cryo/vibratome-sections, slice cultures, and whole-mount organoids. Together, origamiFISH enables faithful mapping of DN interactions across subcellular and tissue barriers for guiding the development of DN-based therapeutics.",
           "link": "http://biorxiv.org/cgi/content/short/2022.09.19.508533v2?rss=1",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 1284,
+          "wordCount": 1288,
           "title": "origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
@@ -158,7 +208,7 @@
           "description": "Cell-free systems are useful tools for prototyping metabolic pathways and optimizing the production of various bioproducts. Mechanistically-based kinetic models are uniquely suited to analyze dynamic experimental data collected from cell-free systems and provide vital qualitative insight. However, to date, dynamic kinetic models have not been applied with rigorous biological constraints or trained on adequate experimental data to the degree that they would give high confidence in predictions and broadly demonstrate the potential for widespread use of such kinetic models. In this work, we construct a large-scale dynamic model of cell-free metabolism with the goal of understanding and optimizing butanol production in a cell-free system. Using a novel combination of parameterization methods, the resultant model captures experimental metabolite measurements across two experimental conditions for nine metabolites at timepoints between 0 and 24 hours. We present analysis of the model predictions, provide recommendations for butanol optimization, and identify the aldehyde/alcohol dehydrogenase as the primary bottleneck in butanol production. Sensitivity analysis further reveals the extent to which various parameters are constrained, and our approach for probing valid parameter ranges can be applied to other modeling efforts.",
           "link": "http://biorxiv.org/cgi/content/short/2022.09.20.508127v2?rss=1",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 1232,
+          "wordCount": 1236,
           "title": "Dynamic Kinetic Models Capture Cell-Free Metabolism for Improved Butanol Production [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
@@ -181,46 +231,6 @@
           "wordCount": 1336,
           "title": "Towards genome-engineering in complex cyanobacterial communities: RNA-guided transposition in Anabaena [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.21.508913v1?rss=1",
-          "author": "Love, A. M.",
-          "description": "As biotechnology research progresses from simply overexpressing proteins to creating intricate metabolic pathways, gene circuits, and complex phenotypes, harmonizing gene fitness in the context of a host organism has become essential. A significant amount of recent work has focused on decoupling gene expression from host resources to improve the outcome of synthetic biology and metabolic engineering efforts. While insightful, few of these studies have investigated the mechanistic underpinnings of resource allocation during translation elongation. There is a degeneracy in codons - but they are not equivalent. While there is an understanding that codon use is unequal in native genes, there is less knowledge of how this usage bias modulates the supply and demand of protein translation resources. Here we investigate how the partitioning of microbial translational resources, specifically through allocation of tRNA by incorporating dissimilar codon usage bias, can drastically alter expression of proteins and reduce the burden on the host resources. By isolating individual codons experimentally, we find heterologous gene expression can trans-regulate fitness of the host and other heterologous genes. Interestingly, specific codons drive profitable or catastrophic phenotypic outcomes. We correlate codon usage patterns with genetic fitness and empirically derive a novel coding scheme for multi-gene expression called Codon Harmony Index (CHI, {chi}). CHI enables the design of harmonious multi-gene expression systems while avoiding catastrophic cellular burden.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.21.508913v1?rss=1",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 1065,
-          "title": "Specific Codons Control Cellular Resources and Fitness [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.21.508766v1?rss=1",
-          "author": "Nucifora, D. P.",
-          "description": "Assembling synthetic bacterial genomes in yeast and genome transplantation has enabled an unmatched level of bacterial strain engineering, giving rise to cells with minimal and chemically synthetic genomes. However, this technology is currently limited to members of the Spiroplasma phylogenetic group, mostly Mycoplasmas, within the Mollicute class. Here, we propose the development of these technologies for Acholeplasma laidlawii, which is phylogenetically distant from Mycoplasmas and, unlike most Mollicutes, uses a standard genetic code. Towards this goal, we first investigated a donor-recipient relationship between two A. laidlawii strains through whole-genome sequencing. We then created a multi-host shuttle plasmid and used it to optimize an electroporation protocol. For genome transplantation, we selected A. laidlawii 8195 as the recipient strain and we created a PG-8A donor strain by inserting a Tn5 transposon carrying a tetracycline resistance gene. Our optimized genetic tools will accelerate the creation of Acholeplasma strains driven by synthetic genomes.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.21.508766v1?rss=1",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 1096,
-          "title": "Towards the creation of Acholeplasma laidlawii driven by synthetic genomes [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.16.508262v1?rss=1",
-          "author": "Guiziou, S.",
-          "description": "There are many open questions about the mechanisms that coordinate the dynamic, multicellular behaviors required for organogenesis. Synthetic circuits that can record in vivo signaling networks have been critical in elucidating animal development. Here, we report on the transfer of this technology to plants using orthogonal serine integrases to mediate site-specific and irreversible DNA recombination visualized by switching between fluorescent reporters. When combined with promoters expressed during lateral root initiation, integrases amplified reporter signal and permanently marked all descendants. In addition, we have developed a suite of methods to tune the threshold for integrase switching, including: RNA/protein degradation tags, a nuclear localization signal, and a split-intein system. These tools improved the robustness of integrase-mediated switching with different promoters and the stability of switching behavior over multiple generations. This integrase toolbox can be used to build history-dependent circuits to decode the order of expression during organogenesis in many contexts.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.16.508262v1?rss=1",
-          "publishedOn": "2022-09-20T00:00:00.000Z",
-          "wordCount": 1098,
-          "title": "An integrase toolbox to record gene-expression during plant development [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.20.508659v1?rss=1",
-          "author": "Blazquez, B.",
-          "description": "Modular cloning assembly has become a benchmark technology in synthetic biology. However, there is a mismatch between its impressive development and the standardization required to promote interoperability between the different systems available. The full development of the field is thus hampered by a surge of oftentimes incompatible organism-specific systems. To overcome these issues, we present Golden Standard (GS), a Type IIS assembly method underpinned by the Standard European Vector Architecture (SEVA). GS unlocks modular cloning applications for most bacteria, and delivers consistent combinatorial multi-part assembly of standardized genetic elements to create genetic circuits of up to twenty transcription units. Reliance on the Modular Cloning (MoClo) syntax renders GS fully compatible with many existing tools and it sets the path towards efficient reusability of available part libraries and assembled TUs. GS was fully validated in terms of DNA assembly performance, portability and phenotype engineering in model and non-model bacteria. In order to facilitate the widespread adoption and future community-driven development of GS, we provide a web-portal featuring: i) a repository of parts and vectors, ii) Wizard and Setup tools to guide the design of constructs using stored and user-specific parts.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.20.508659v1?rss=1",
-          "publishedOn": "2022-09-20T00:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Golden Standard: A complete standard, portable, and interoperative MoClo tool for model and non-model bacterial hosts. [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         }
       ]
     },
@@ -229,6 +239,126 @@
       "feedUrl": "http://www.nature.com/subjects/computational-biology-and-bioinformatics.rss",
       "siteUrl": "https://www.nature.com/subjects/computational-biology-and-bioinformatics",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41587-022-01441-9",
+          "author": null,
+          "description": "Accurate identification and effective removal of unwanted variation is essential to derive meaningful biological results from large and complex RNA-seq studies. Technical replicates together with negative and positive control genes are key tools for carrying out this task. We show how to proceed when technical replicates are unavailable.",
+          "link": "https://www.nature.com/articles/s41587-022-01441-9",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 2460,
+          "title": "Normalizing cancer RNA-seq data for library size, tumor purity and batch effects",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01441-9/MediaObjects/41587_2022_1441_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s44161-022-00146-1",
+          "author": null,
+          "description": "Nature Cardiovascular Research - Publisher Correction: Age-dependent sex differences in cardiometabolic risk factors",
+          "link": "https://www.nature.com/articles/s44161-022-00146-1",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 2601,
+          "title": "Publisher Correction: Age-dependent sex differences in cardiometabolic risk factors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20111-z",
+          "author": null,
+          "description": "Scientific Reports - Data mining-based discriminant analysis as a tool for the study of egg quality in native hen breeds",
+          "link": "https://www.nature.com/articles/s41598-022-20111-z",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 11509,
+          "title": "Data mining-based discriminant analysis as a tool for the study of egg quality in native hen breeds",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20111-z/MediaObjects/41598_2022_20111_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-19646-y",
+          "author": null,
+          "description": "Scientific Reports - Identification and expression of functionally conserved circadian clock genes in lichen-forming fungi",
+          "link": "https://www.nature.com/articles/s41598-022-19646-y",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 8180,
+          "title": "Identification and expression of functionally conserved circadian clock genes in lichen-forming fungi",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19646-y/MediaObjects/41598_2022_19646_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20343-z",
+          "author": null,
+          "description": "Scientific Reports - ADGRL3 genomic variation implicated in neurogenesis and ADHD links functional effects to the incretin polypeptide GIP",
+          "link": "https://www.nature.com/articles/s41598-022-20343-z",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 11680,
+          "title": "ADGRL3 genomic variation implicated in neurogenesis and ADHD links functional effects to the incretin polypeptide GIP",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20343-z/MediaObjects/41598_2022_20343_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-19047-1",
+          "author": null,
+          "description": "Scientific Reports - A 3D image-based modelling approach for understanding spatiotemporal processes in phosphorus fertiliser dissolution, soil buffering and uptake by plant roots",
+          "link": "https://www.nature.com/articles/s41598-022-19047-1",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 11375,
+          "title": "A 3D image-based modelling approach for understanding spatiotemporal processes in phosphorus fertiliser dissolution, soil buffering and uptake by plant roots",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19047-1/MediaObjects/41598_2022_19047_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41591-022-01992-z",
+          "author": null,
+          "description": "Early identification of at-risk people is critical in disease prevention, but current screening approaches are resource intensive and are often restricted to one disease at a time. We show how nuclear magnetic resonance (NMR) spectroscopy–derived metabolomics profiles can be used to predict multi-disease risk for the onset of 24 common conditions.",
+          "link": "https://www.nature.com/articles/s41591-022-01992-z",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 2448,
+          "title": "Simultaneous prediction of risk for multiple common diseases using metabolomics",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-022-01992-z/MediaObjects/41591_2022_1992_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-19892-0",
+          "author": null,
+          "description": "Scientific Reports - STAR sleep recording export software for automatic export and anonymization of sleep studies",
+          "link": "https://www.nature.com/articles/s41598-022-19892-0",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 5498,
+          "title": "STAR sleep recording export software for automatic export and anonymization of sleep studies",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19892-0/MediaObjects/41598_2022_19892_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-32812-0",
+          "author": null,
+          "description": "SARS-CoV-2 genome sequencing data can be used to infer epidemiological parameters, but the impact of the strategy used to select samples on these estimates is rarely considered. Here, the authors produce estimates using different sampling strategies and compare results to those based on case reporting data.",
+          "link": "https://www.nature.com/articles/s41467-022-32812-0",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 11498,
+          "title": "Using multiple sampling strategies to estimate SARS-CoV-2 epidemiological parameters from genomic sequencing data",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32812-0/MediaObjects/41467_2022_32812_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20214-7",
+          "author": null,
+          "description": "Scientific Reports - A distinct symptom pattern emerges for COVID-19 long-haul: a nationwide study",
+          "link": "https://www.nature.com/articles/s41598-022-20214-7",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 6999,
+          "title": "A distinct symptom pattern emerges for COVID-19 long-haul: a nationwide study",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20214-7/MediaObjects/41598_2022_20214_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-18208-6",
+          "author": null,
+          "description": "Scientific Reports - Recursive state and parameter estimation of COVID-19 circulating variants dynamics",
+          "link": "https://www.nature.com/articles/s41598-022-18208-6",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 12371,
+          "title": "Recursive state and parameter estimation of COVID-19 circulating variants dynamics",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-18208-6/MediaObjects/41598_2022_18208_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-33393-8",
+          "author": null,
+          "description": "Designing efficient bio-inspired vision systems remains a challenge. Here, the authors report a bio-inspired striate visual cortex with binocular and orientation selective receptive field based on self-powered memristor to enable machine vision with brisk edge and corner detection in the future applications.",
+          "link": "https://www.nature.com/articles/s41467-022-33393-8",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 11527,
+          "title": "Synaptic plasticity in self-powered artificial striate cortex for binocular orientation selectivity",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33393-8/MediaObjects/41467_2022_33393_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41746-022-00694-7",
           "author": null,
@@ -245,7 +375,7 @@
           "description": "TracX shows that fast proofreading of track assignments leads to improved cell tracking performance.",
           "link": "https://www.nature.com/articles/s41592-022-01525-z",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 2527,
+          "wordCount": 2531,
           "title": "Improved tracking via cell region fingerprints",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01525-z/MediaObjects/41592_2022_1525_Fig1_HTML.png"
         },
@@ -255,7 +385,7 @@
           "description": "Scientific Reports - A machine learning-based SNP-set analysis approach for identifying disease-associated susceptibility loci",
           "link": "https://www.nature.com/articles/s41598-022-19708-1",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 9267,
+          "wordCount": 9264,
           "title": "A machine learning-based SNP-set analysis approach for identifying disease-associated susceptibility loci",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19708-1/MediaObjects/41598_2022_19708_Fig1_HTML.png"
         },
@@ -285,7 +415,7 @@
           "description": "Scientific Reports - Massive annotation of bacterial l-asparaginases reveals their puzzling distribution and frequent gene transfer events",
           "link": "https://www.nature.com/articles/s41598-022-19689-1",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 10093,
+          "wordCount": 10090,
           "title": "Massive annotation of bacterial l-asparaginases reveals their puzzling distribution and frequent gene transfer events",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19689-1/MediaObjects/41598_2022_19689_Fig1_HTML.png"
         },
@@ -295,7 +425,7 @@
           "description": "Scientific Reports - Analyzing integrated network of methylation and gene expression profiles in lung squamous cell carcinoma",
           "link": "https://www.nature.com/articles/s41598-022-20232-5",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 9213,
+          "wordCount": 9210,
           "title": "Analyzing integrated network of methylation and gene expression profiles in lung squamous cell carcinoma",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20232-5/MediaObjects/41598_2022_20232_Fig1_HTML.png"
         },
@@ -305,7 +435,7 @@
           "description": "Integrating social mixing data into epidemic models can help policy makers better understand epidemic spread. However, empirical mixing data might not be immediately available in most populations. In a recent work, a network model methodology is proposed to construct micro-level social mixing structure when empirical data are not available.",
           "link": "https://www.nature.com/articles/s43588-022-00312-2",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 3287,
+          "wordCount": 3289,
           "title": "Mixing patterns and the spread of pandemics",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-022-00312-2/MediaObjects/43588_2022_312_Fig1_HTML.png"
         },
@@ -315,7 +445,7 @@
           "description": "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards.",
           "link": "https://www.nature.com/articles/d41586-022-02999-9",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 3134,
+          "wordCount": 3118,
           "title": "AlphaFold developers win US$3-million Breakthrough Prize",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-02999-9/d41586-022-02999-9_23522066.jpg"
         },
@@ -335,7 +465,7 @@
           "description": "SAIGE-GENE+ performs set-based rare variant association tests with improved type 1 error control and computational efficiency by collapsing ultra-rare variants and conducting multiple tests corresponding to different minor allele frequency cutoffs and annotations.",
           "link": "https://www.nature.com/articles/s41588-022-01178-w",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 7154,
+          "wordCount": 7152,
           "title": "SAIGE-GENE+ improves the efficiency and accuracy of set-based rare variant association tests",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-022-01178-w/MediaObjects/41588_2022_1178_Fig1_HTML.png"
         },
@@ -345,7 +475,7 @@
           "description": "In this study, the authors develop a method for estimation of SARS-CoV-2 community transmission rates based on a sentinel population of people seeking outpatient testing with recent symptom onset. This method has fewer operational delays than methods based on hospital data, and may be subject to fewer biases.",
           "link": "https://www.nature.com/articles/s41467-022-33317-6",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 10162,
+          "wordCount": 10134,
           "title": "Tracking changes in SARS-CoV-2 transmission with a novel outpatient sentinel surveillance system in Chicago, USA",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33317-6/MediaObjects/41467_2022_33317_Fig1_HTML.png"
         },
@@ -355,7 +485,7 @@
           "description": "A dynamic network model using data from ten European countries indicates that differences in micro-level social interactions can explain a substantial part of variations in the success of national pandemic policies.",
           "link": "https://www.nature.com/articles/s43588-022-00314-0",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 13025,
+          "wordCount": 13027,
           "title": "Micro-level social structures and the success of COVID-19 national policies",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-022-00314-0/MediaObjects/43588_2022_314_Fig1_HTML.png"
         },
@@ -365,7 +495,7 @@
           "description": "Zhang and colleagues analyze single-cell data from patients treated with immunotherapy in five cancer types and find that CXCL13-expressing subsets are implicated in response to treatment in the CD8+ and CD4+ T cell compartments.",
           "link": "https://www.nature.com/articles/s43018-022-00433-7",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 5954,
+          "wordCount": 5906,
           "title": "Single-cell meta-analyses reveal responses of tumor-reactive CXCL13+ T cells to immune-checkpoint blockade",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43018-022-00433-7/MediaObjects/43018_2022_433_Fig1_HTML.png"
         },
@@ -375,7 +505,7 @@
           "description": "This Perspective outlines ten challenges facing translation of psychiatric genetic findings into clinical practice.",
           "link": "https://www.nature.com/articles/s41588-022-01174-0",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 5694,
+          "wordCount": 5696,
           "title": "Ten challenges for clinical translation in psychiatric genetics",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-022-01174-0/MediaObjects/41588_2022_1174_Fig1_HTML.png"
         },
@@ -385,7 +515,7 @@
           "description": "Schmatko et al. review the application of artificial intelligence to digitized histopathology for cancer diagnosis, prognosis and classification and discuss its potential utility in the clinic and broader implications for cancer research and care.",
           "link": "https://www.nature.com/articles/s43018-022-00436-4",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 6745,
+          "wordCount": 6747,
           "title": "Artificial intelligence in histopathology: enhancing cancer research and clinical oncology",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43018-022-00436-4/MediaObjects/43018_2022_436_Fig1_HTML.png"
         },
@@ -395,7 +525,7 @@
           "description": "Multiple alternative splicing events in CD19 mRNA have been associated with resistance/relapse to CD19 CAR-T therapy in patients with B cell malignancies. Here, by combining patient data and a high-throughput mutagenesis screen, the authors identify single point mutations and RNA-binding proteins that can control CD19 splicing and be associated with CD19 CAR-T therapy resistance.",
           "link": "https://www.nature.com/articles/s41467-022-31818-y",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 19759,
+          "wordCount": 19757,
           "title": "High-throughput mutagenesis identifies mutations and RNA-binding proteins controlling CD19 splicing and CART-19 therapy resistance",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-31818-y/MediaObjects/41467_2022_31818_Fig1_HTML.png"
         },
@@ -405,129 +535,9 @@
           "description": "In a study involving more than 100,000 individuals in the UK Biobank, a neural network model trained on metabolomic data can predict disease risk for over 20 conditions and adds predictive information over clinical variables for eight common diseases.",
           "link": "https://www.nature.com/articles/s41591-022-01980-3",
           "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 15973,
+          "wordCount": 15971,
           "title": "Metabolomic profiles predict individual multidisease outcomes",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-022-01980-3/MediaObjects/41591_2022_1980_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41592-022-01603-2",
-          "author": null,
-          "description": "TracX improves the accuracy of single-cell tracking by using a fingerprinting approach to measure the similarity between cells in two consecutive images. The approach is applicable across modalities and can enables biological discovery.",
-          "link": "https://www.nature.com/articles/s41592-022-01603-2",
-          "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 5838,
-          "title": "Cell region fingerprints enable highly precise single-cell tracking and lineage reconstruction",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01603-2/MediaObjects/41592_2022_1603_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-15391-4",
-          "author": null,
-          "description": "Scientific Reports - Development of early prediction model for pregnancy-associated hypertension with graph-based semi-supervised learning",
-          "link": "https://www.nature.com/articles/s41598-022-15391-4",
-          "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 10715,
-          "title": "Development of early prediction model for pregnancy-associated hypertension with graph-based semi-supervised learning",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-15391-4/MediaObjects/41598_2022_15391_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41597-022-01677-9",
-          "author": null,
-          "description": "Measurement(s) Blood Oxygen Level-Dependent Functional MRI • brain • Emotion Technology Type(s) functional magnetic resonance imaging • Magnetic Resonance Imaging • Emotion regulation task Factor Type(s) valence • emotion regulation condition Sample Characteristic - Organism Homo sapiens Sample Characteristic - Environment laboratory environment Sample Characteristic - Location Mexico",
-          "link": "https://www.nature.com/articles/s41597-022-01677-9",
-          "publishedOn": "2022-09-22T00:00:00.000Z",
-          "wordCount": 8666,
-          "title": "A behavioral and brain imaging dataset with focus on emotion regulation of women with fibromyalgia",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-022-01677-9/MediaObjects/41597_2022_1677_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41589-022-01131-2",
-          "author": null,
-          "description": "Artificial intelligence (AI) is poised to transform therapeutic science. Therapeutics Data Commons is an initiative to access and evaluate AI capability across therapeutic modalities and stages of discovery, establishing a foundation for understanding which AI methods are most suitable and why.",
-          "link": "https://www.nature.com/articles/s41589-022-01131-2",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 3443,
-          "title": "Artificial intelligence foundation for therapeutic science",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41589-022-01131-2/MediaObjects/41589_2022_1131_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41597-022-01683-x",
-          "author": null,
-          "description": "Scientific Data - Crosswalks among stewardship maturity assessment approaches promoting trustworthy FAIR data and repositories",
-          "link": "https://www.nature.com/articles/s41597-022-01683-x",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 6472,
-          "title": "Crosswalks among stewardship maturity assessment approaches promoting trustworthy FAIR data and repositories",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-022-01683-x/MediaObjects/41597_2022_1683_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-33140-z",
-          "author": null,
-          "description": "Studies of cell heterogeneity in white matter in primates have been limited to date. Here the authors describe a marmoset brain cell atlas that bridges rodent and human data, revealing strong gray-white matter glial segregation.",
-          "link": "https://www.nature.com/articles/s41467-022-33140-z",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 19370,
-          "title": "Transcriptomic architecture of nuclei in the marmoset CNS",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33140-z/MediaObjects/41467_2022_33140_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41540-022-00246-5",
-          "author": null,
-          "description": "npj Systems Biology and Applications - Executable models of immune signaling pathways in HIV-associated atherosclerosis",
-          "link": "https://www.nature.com/articles/s41540-022-00246-5",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 15428,
-          "title": "Executable models of immune signaling pathways in HIV-associated atherosclerosis",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41540-022-00246-5/MediaObjects/41540_2022_246_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41569-022-00763-0",
-          "author": null,
-          "description": "Advances in machine learning technology in the past decade have accelerated the discovery of genetic loci associated with aortic disease. In this Review, Lindsay and colleagues discuss how emerging insights into the genetic architecture of aortic disease can improve the accuracy of disease prediction and facilitate the discovery of new therapeutic targets.",
-          "link": "https://www.nature.com/articles/s41569-022-00763-0",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 6866,
-          "title": "Genetics and mechanisms of thoracic aortic disease",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-022-00763-0/MediaObjects/41569_2022_763_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-33194-z",
-          "author": null,
-          "description": "Genome-wide profiling of chromatin accessibility by DNase-seq or ATAC-seq has been widely used to identify regulatory DNA elements and transcription factor binding sites. Here the authors develop a computational model, SELMA, to estimate and correct enzymatic cleavage biases in chromatin accessibility profiling data.",
-          "link": "https://www.nature.com/articles/s41467-022-33194-z",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 15251,
-          "title": "Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33194-z/MediaObjects/41467_2022_33194_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41586-022-05208-9",
-          "author": null,
-          "description": "Multi-omic mapping shows that group 3 and group 4 medulloblastomas have a common, human-specific developmental origin in the cerebellar rhombic lip, providing a basis for their ambiguous molecular features and overlapping anatomical location, and for the difficulty of modelling these tumours in mice.",
-          "link": "https://www.nature.com/articles/s41586-022-05208-9",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 7595,
-          "title": "Unified rhombic lip origins of group 3 and group 4 medulloblastoma",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05208-9/MediaObjects/41586_2022_5208_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20007-y",
-          "author": null,
-          "description": "Scientific Reports - Development and verification of an immune-related gene prognostic index for gastric cancer",
-          "link": "https://www.nature.com/articles/s41598-022-20007-y",
-          "publishedOn": "2022-09-20T00:00:00.000Z",
-          "wordCount": 7434,
-          "title": "Development and verification of an immune-related gene prognostic index for gastric cancer",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20007-y/MediaObjects/41598_2022_20007_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20000-5",
-          "author": null,
-          "description": "Scientific Reports - Tracking mutational semantics of SARS-CoV-2 genomes",
-          "link": "https://www.nature.com/articles/s41598-022-20000-5",
-          "publishedOn": "2022-09-20T00:00:00.000Z",
-          "wordCount": 11845,
-          "title": "Tracking mutational semantics of SARS-CoV-2 genomes",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20000-5/MediaObjects/41598_2022_20000_Fig1_HTML.png"
         }
       ]
     },
@@ -542,7 +552,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0507?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-20T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "virDTL: Viral Recombination Analysis Through Phylogenetic Reconciliation and Its Application to Sarbecoviruses and SARS-CoV-2",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -552,7 +562,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0292?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-16T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Novel Network Method Major Minor Variation Clustering Enables Identification of Poliovirus Clusters with High-Resolution Linkages",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -562,7 +572,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0658?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-13T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "BDEtools: A MATLAB Package for Boolean Delay Equation Modeling",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -572,7 +582,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0254?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-13T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "RESISTOR: A New OSPREY Module to Predict Resistance Mutations",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -582,7 +592,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0275?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-12T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Differentiable Learning of Sequence-Specific Minimizer Schemes with DeepMinimizer",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -592,7 +602,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 943-960, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0447?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Machine-Learning Prospects for Detecting Selection Signatures Using Population Genomics Data",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -602,7 +612,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 961-973, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0399?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "An Integer Linear Programming Approach for Scaffolding Based on Exemplar Breakpoint Distance",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -612,7 +622,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 974-986, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0417?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Optimal Design of Synthetic DNA Sequences Without Unwanted Binding Sites",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -622,7 +632,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 987-1000, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0269?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "RDscan: A New Method for Improving Germline and Somatic Variant Calling Based on Read Depth Distribution",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -632,7 +642,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 1001-1021, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0536?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "kmer2vec: A Novel Method for Comparing DNA Sequences by word2vec Embedding",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -642,7 +652,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 1022-1030, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0549?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Sharing Rewards Undermines Coordinated Hunting",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -652,7 +662,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 1031-1044, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0349?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Cross-Organ Transcriptomic Comparison Reveals Universal Factors During Maturation",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -662,7 +672,7 @@
           "description": "Journal of Computational Biology, Volume 29, Issue 9, Page 1045-1058, September 2022.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0464?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-05T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Harnessing Fuzzy Rule Based System for Screening Major Histocompatibility Complex Class I Peptide Epitopes from the Whole Proteome: An Implementation on the Proteome of Leishmania donovani",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -672,7 +682,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0212?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-01T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Quartet Based Gene Tree Imputation Using Deep Learning Improves Phylogenomic Analyses Despite Missing Data",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -682,7 +692,7 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0265?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-09-01T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Inconsistency of Triplet-Based and Quartet-Based Species Tree Estimation under Intralocus Recombination",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         },
@@ -692,18 +702,8 @@
           "description": "Journal of Computational Biology, Ahead of Print.",
           "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0121?ai=su&mi=cjwv&af=R",
           "publishedOn": "2022-08-26T07:00:00.000Z",
-          "wordCount": 1272,
+          "wordCount": 1274,
           "title": "Stochastic Modeling of Gene Expression Evolution Uncovers Tissue- and Sex-Specific Properties of Expression Evolution in the Drosophila Genus",
-          "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
-        },
-        {
-          "id": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0251?ai=su&mi=cjwv&af=R",
-          "author": "Dongshunyi Li",
-          "description": "Journal of Computational Biology, Ahead of Print.",
-          "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0251?ai=su&mi=cjwv&af=R",
-          "publishedOn": "2022-08-25T07:00:00.000Z",
-          "wordCount": 1272,
-          "title": "UNIFAN: A Tool for Unsupervised Single-Cell Clustering and Annotation",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         }
       ]
@@ -719,7 +719,7 @@
           "description": "MIT researchers demonstrate an intracellular antenna that's compatible with 3D biological systems and can operate wirelessly inside a living cell.",
           "link": "https://news.mit.edu/2022/cell-rover-exploring-augmenting-inner-world-cell-0922",
           "publishedOn": "2022-09-22T15:50:00.000Z",
-          "wordCount": 1850,
+          "wordCount": 1847,
           "title": "Cell Rover: Exploring and augmenting the inner world of the cell",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/cell-antenna.png"
         },
@@ -729,7 +729,7 @@
           "description": "By providing researchers with financial and strategic support from the early stages, the Innovation Center hopes to bring new and disruptive technologies to market.",
           "link": "https://news.mit.edu/2022/smart-innovation-center-awarded-nrf-grant-0913",
           "publishedOn": "2022-09-13T15:20:00.000Z",
-          "wordCount": 1934,
+          "wordCount": 1739,
           "title": "SMART Innovation Center awarded five-year NRF grant for new deep tech ventures",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/IC%20stock%20image%202.jpeg"
         },
@@ -739,7 +739,7 @@
           "description": "Study finds computer models that predict molecular interactions need improvement before they can help identify drug mechanisms of action.",
           "link": "https://news.mit.edu/2022/alphafold-potential-protein-drug-0906",
           "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 2245,
+          "wordCount": 2238,
           "title": "Analyzing the potential of AlphaFold in drug discovery",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/MIT-Better-Predictions-01-press.jpg"
         },
@@ -749,7 +749,7 @@
           "description": "Separating densely packed molecules before imaging allows them to become visible for the first time.",
           "link": "https://news.mit.edu/2022/expansion-revealing-microscopy-cells-0829",
           "publishedOn": "2022-08-29T15:00:00.000Z",
-          "wordCount": 2260,
+          "wordCount": 2251,
           "title": "Microscopy technique reveals hidden nanostructures in cells and tissues",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202208/MIT-Invisible-Molecules-01-press.jpg"
         },
@@ -759,7 +759,7 @@
           "description": "Developed by the Singapore-MIT Alliance for Research and Technology, the assay can provide new details about the type of SARS-CoV-2 circulating in a community.",
           "link": "https://news.mit.edu/2022/assay-determines-percentage-variants-covid-wastewater-0825",
           "publishedOn": "2022-08-25T19:50:00.000Z",
-          "wordCount": 2421,
+          "wordCount": 2412,
           "title": "Assay determines the percentage of Omicron, other variants in Covid wastewater",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202208/smart-wastewater-surveillance-mit-00.png"
         }
@@ -771,12 +771,22 @@
       "siteUrl": "https://www.nature.com/subjects/synthetic-biology",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41467-022-33181-4",
+          "author": null,
+          "description": "Stably silenced genes with methylated CpG at the promoter are refractory to current CRISPR activation systems. Here the authors create a more robust activation system, TETact that recruits DNA-demethylating TET1 with transcriptional activators.",
+          "link": "https://www.nature.com/articles/s41467-022-33181-4",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 8847,
+          "title": "Activation of stably silenced genes by recruitment of a synthetic de-methylating module",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33181-4/MediaObjects/41467_2022_33181_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41467-022-33191-2",
           "author": null,
           "description": "Engineered living materials (ELMs) embed living cells in a biopolymer matrix to create novel materials with tailored functions. In this work, the authors engineered bacteria to grow novel macroscopic materials that can be reshaped, functionalized, and used to filter contaminated water while also showing that the stiffness of these materials can be tuned through genetic changes.",
           "link": "https://www.nature.com/articles/s41467-022-33191-2",
           "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 12484,
+          "wordCount": 12486,
           "title": "A de novo matrix for macroscopic living materials from bacteria",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33191-2/MediaObjects/41467_2022_33191_Fig1_HTML.png"
         },
@@ -816,7 +826,7 @@
           "description": "A synthetic system that reproduces several attributes of living cells.",
           "link": "https://www.nature.com/articles/d41586-022-02231-8",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 2786,
+          "wordCount": 2770,
           "title": "Life brought to artificial cells",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-02231-8/d41586-022-02231-8_23476970.png"
         },
@@ -836,7 +846,7 @@
           "description": "A bacteriogenic strategy for constructing membrane-bounded, molecularly crowded, and compositionally, structurally and morphologically complex synthetic cells provides opportunities for the fabrication of new synthetic cell modules and augmented living/synthetic cell constructs.",
           "link": "https://www.nature.com/articles/s41586-022-05223-w",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 7861,
+          "wordCount": 7859,
           "title": "Living material assembly of bacteriogenic protocells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05223-w/MediaObjects/41586_2022_5223_Fig1_HTML.png"
         },
@@ -856,7 +866,7 @@
           "description": "Unlike eukaryotic system, bacterial hosts lack membranous system, which is one of the limitations for efficient metabolic engineering. Here, the authors report a kinetic compartmentalization strategy to increase substrate availability from competitive reactions for the efficient production of itaconate in E. coli.",
           "link": "https://www.nature.com/articles/s41467-022-33033-1",
           "publishedOn": "2022-09-12T00:00:00.000Z",
-          "wordCount": 10387,
+          "wordCount": 10379,
           "title": "Kinetic compartmentalization by unnatural reaction for itaconate production",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33033-1/MediaObjects/41467_2022_33033_Fig1_HTML.png"
         },
@@ -926,7 +936,7 @@
           "description": "Establishing methods to access the chemical space that lies beyond canonical terpenoid biosynthesis will increase the applications of isoprenoids. Here, the authors reconstruct the modular structure of terpene biosynthesis on 16-carbon backbones by engineered yeast and synthesize 28 different unique terpenes.",
           "link": "https://www.nature.com/articles/s41467-022-32921-w",
           "publishedOn": "2022-09-03T00:00:00.000Z",
-          "wordCount": 15896,
+          "wordCount": 15898,
           "title": "Expanding the terpene biosynthetic code with non-canonical 16 carbon atom building blocks",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32921-w/MediaObjects/41467_2022_32921_Fig1_HTML.png"
         },
@@ -999,16 +1009,6 @@
           "wordCount": 12998,
           "title": "The automated Galaxy-SynBioCAD pipeline for synthetic biology design and engineering",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32661-x/MediaObjects/41467_2022_32661_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-32603-7",
-          "author": null,
-          "description": "CRISPR gene activation and inhibition has become a powerful synthetic tool for influencing the expression of native genes for foundational studies, cellular reprograming, and metabolic engineering. Here the authors demonstrate near leak-free, inducible expression of a polycistronic array containing up to 24 gRNAs from two orthogonal CRISPR/Cas systems.",
-          "link": "https://www.nature.com/articles/s41467-022-32603-7",
-          "publishedOn": "2022-08-25T00:00:00.000Z",
-          "wordCount": 10768,
-          "title": "Inducible expression of large gRNA arrays for multiplexed CRISPRai applications",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32603-7/MediaObjects/41467_2022_32603_Fig1_HTML.png"
         }
       ]
     },
@@ -1074,6 +1074,46 @@
       "feedUrl": "https://aip.scitation.org/feed/cha/most-recent",
       "siteUrl": "https://aip.scitation.org/loi/cha?af=R&feed=most-recent",
       "articles": [
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0093842?af=R&feed=most-recent",
+          "author": "Eddie Nijholt",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nWe consider the general model for dynamical systems defined on a simplicial complex. We describe the conjugacy classes of these systems and show how symmetries in a given simplicial complex manifest in the dynamics defined thereon, especially with regard to invariant subspaces in the dynamics.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0093842?af=R&feed=most-recent",
+          "publishedOn": "2022-09-22T02:59:47.000Z",
+          "wordCount": 862,
+          "title": "Dynamical systems defined on simplicial complexes: Symmetries, conjugacies, and invariant subspaces",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0107583?af=R&feed=most-recent",
+          "author": "Yong-Shang Long",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nSymmetries, due to their fundamental importance to dynamical processes on networks, have attracted a great deal of current research. Finding all symmetric nodes in large complex networks typically relies on automorphism groups from algebraic-group theory, which are solvable in quasipolynomial time. We articulate a conceptually appealing and computationally extremely efficient approach to finding and characterizing all symmetric nodes by introducing a structural position vector (SPV) for each node in networks. We establish the mathematical result that symmetric nodes must have the same SPV value and demonstrate, using six representative complex networks from the real world, that all symmetric nodes in these networks can be found in linear time. Furthermore, the SPVs not only characterize the similarity of nodes but also quantify the nodal influences in propagation dynamics. A caveat is that the proved mathematical result relating the SPV values to nodal symmetries is not sufficient; i.e., nodes having the same SPV values may not be symmetric, which arises in regular networks or networks with a dominant regular component. We point out with an analysis that this caveat is, in fact, shared by the known existing approaches to finding symmetric nodes in the literature. We further argue, with the aid of a mathematical analysis, that our SPV method is generally effective for finding the symmetric nodes in real-world networks that typically do not have a dominant regular component. Our SPV-based framework, therefore, provides a physically intuitive and computationally efficient way to uncover, understand, and exploit symmetric structures in complex networks arising from real-world applications.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0107583?af=R&feed=most-recent",
+          "publishedOn": "2022-09-22T02:59:45.000Z",
+          "wordCount": 862,
+          "title": "Structural position vectors and symmetries in complex networks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0108672?af=R&feed=most-recent",
+          "author": "Guilhermo L. Buzanello",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nThe Kuramoto model describes the synchronization of coupled oscillators that have different natural frequencies. Among the many generalizations of the original model, Kuramoto and Sakaguchi (KS) proposed a frustrated version that resulted in dynamic behavior of the order parameter, even when the average natural frequency of the oscillators is zero. Here, we consider a generalization of the frustrated KS model that exhibits new transitions to synchronization. The model is identical in form to the original Kuramoto model but written in terms of unit vectors and with the coupling constant replaced by a coupling matrix. The matrix breaks the rotational symmetry and forces the order parameter to point in the direction of the eigenvector with the highest eigenvalue, when the eigenvalues are real. For complex eigenvalues, the module of order parameter oscillates while it rotates around the unit circle, creating active states. We derive the complete phase diagram for the Lorentzian distribution of frequencies using the Ott–Antonsen ansatz. We also show that changing the average value of the natural frequencies leads to further phase transitions where the module of the order parameter goes from oscillatory to static.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0108672?af=R&feed=most-recent",
+          "publishedOn": "2022-09-22T02:59:43.000Z",
+          "wordCount": 862,
+          "title": "Matrix coupling and generalized frustration in Kuramoto oscillators",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0107504?af=R&feed=most-recent",
+          "author": "Lili Chang",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nThe Turing pattern is an important dynamic behavior characteristic of activator–inhibitor systems. Differentiating from traditional assumption of activator–inhibitor interactions in a spatially continuous domain, a Turing pattern in networked reaction-diffusion systems has received much attention during the past few decades. In spite of its great progress, it still fails to evaluate the precise influences of network topology on pattern formation. To this end, we try to promote the research on this important and interesting issue from the point of view of average degree—a critical topological feature of networks. We first qualitatively analyze the influence of average degree on pattern formation. Then, a quantitative relationship between pattern formation and average degree, the exponential decay of pattern formation, is proposed via nonlinear regression. The finding holds true for several activator–inhibitor systems including biology model, ecology model, and chemistry model. The significance of this study lies that the exponential decay not only quantitatively depicts the influence of average degree on pattern formation, but also provides the possibility for predicting and controlling pattern formation.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0107504?af=R&feed=most-recent",
+          "publishedOn": "2022-09-22T02:59:42.000Z",
+          "wordCount": 862,
+          "title": "The qualitative and quantitative relationships between pattern formation and average degree in networked reaction-diffusion systems",
+          "imageUrl": null
+        },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0096689?af=R&feed=most-recent",
           "author": "Yifan Liu",
@@ -1310,9 +1350,9 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nAn efficient emotion recognition model is an important research branch in electroencephalogram (EEG)-based brain–computer interfaces. However, the input of the emotion recognition model is often a whole set of EEG channels obtained by electrodes placed on subjects. The unnecessary information produced by redundant channels affects the recognition rate and depletes computing resources, thereby hindering the practical applications of emotion recognition. In this work, we aim to optimize the input of EEG channels using a visibility graph (VG) and genetic algorithm-based convolutional neural network (GA-CNN). First, we design an experiment to evoke three types of emotion states using movies and collect the multi-channel EEG signals of each subject under different emotion states. Then, we construct VGs for each EEG channel and derive nonlinear features representing each EEG channel. We employ the genetic algorithm (GA) to find the optimal subset of EEG channels for emotion recognition and use the recognition results of the CNN as fitness values. The experimental results show that the recognition performance of the proposed method using a subset of EEG channels is superior to that of the CNN using all channels for each subject. Last, based on the subset of EEG channels searched by the GA-CNN, we perform cross-subject emotion recognition tasks employing leave-one-subject-out cross-validation. These results demonstrate the effectiveness of the proposed method in recognizing emotion states using fewer EEG channels and further enrich the methods of EEG classification using nonlinear features.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0098454?af=R&feed=most-recent",
           "publishedOn": "2022-09-08T04:47:26.000Z",
-          "wordCount": 8282,
+          "wordCount": 862,
           "title": "Cross-subject emotion recognition using visibility graph and genetic algorithm-based convolution neural network",
-          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0098454&id=images/medium/5.0098454.figures.online.highlight_f1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0091738?af=R&feed=most-recent",
@@ -1370,9 +1410,9 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nEffective strategies of vaccine prioritization are essential to mitigate the impacts of severe infectious diseases. We investigate the role of infection fatality ratio (IFR) and social contact matrices on vaccination prioritization using a compartmental epidemic model fueled by real-world data of different diseases and countries. Our study confirms that massive and early vaccination is extremely effective to reduce the disease fatality if the contagion is mitigated, but the effectiveness is increasingly reduced as vaccination beginning delays in an uncontrolled epidemiological scenario. The optimal and least effective prioritization strategies depend non-linearly on epidemiological variables. Regions of the epidemiological parameter space, in which prioritizing the most vulnerable population is more effective than the most contagious individuals, depend strongly on the IFR age profile being, for example, substantially broader for COVID-19 in comparison with seasonal influenza. Demographics and social contact matrices deform the phase diagrams but do not alter their qualitative shapes.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0096532?af=R&feed=most-recent",
           "publishedOn": "2022-09-02T09:53:00.000Z",
-          "wordCount": 862,
+          "wordCount": 5319,
           "title": "Effects of infection fatality ratio and social contact matrices on vaccine prioritization strategies",
-          "imageUrl": null
+          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0096532&id=images/medium/5.0096532.figures.online.highlight_f1.jpg"
         }
       ]
     },
