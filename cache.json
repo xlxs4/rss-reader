@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00156",
+          "author": "Mario Escobar, Jing Li, Aditi Patel, Shizhe Liu, Qi Xu, and Isaac B. Hilton",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00156",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00156",
+          "publishedOn": "2022-09-26T04:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] Quantification of Genome Editing and Transcriptional Control Capabilities Reveals Hierarchies among Diverse CRISPR/Cas Systems in Human Cells",
+          "imageUrl": null
+        },
+        {
           "id": "http://dx.doi.org/10.1021/acssynbio.2c00216",
           "author": "Cho-Heun Lee, Jun-Hyoung Lee, Ju Young Lee, Chang-Hao Cui, Byung-Kwan Cho, and Sun-Chang Kim",
           "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00216",
@@ -163,6 +173,46 @@
       "siteUrl": "http://biorxiv.org",
       "articles": [
         {
+          "id": "http://biorxiv.org/cgi/content/short/2021.12.08.471839v2?rss=1",
+          "author": "Reid, W. R.",
+          "description": "The yellow fever mosquito Aedes aegypti is a major vector of arthropod-borne viruses, including dengue, chikungunya, and Zika. A novel approach to mitigate arboviral infections is to generate mosquitoes refractory to infection by overexpressing antiviral effector molecules. Such an approach requires a mechanism to spread these antiviral effectors through a population, for example, by using CRISPR/Cas9-based gene drive (GD) systems. Critical to the design of a single-locus autonomous GD is that the selected genomic locus be amenable to both GD and appropriate expression of the antiviral effector. In our study, we used reverse engineering to target two intergenic genomic loci, which had previously shown to be highly permissive for antiviral effector gene expression, and we further investigated the use of three promoters (nanos, {beta}2-tubulin, or zpg) for Cas9 expression. We then quantified the accrual of insertions or deletions (indels) after single generation crossings, measured maternal effects, and assessed fitness costs associated with the various transgenic lines to model the rate of GD fixation. Overall, MGDrivE modeling suggested that when an autonomous GD is placed into an intergenic locus, the GD system will eventually be blocked by the accrual of GD blocking resistance alleles and ultimately be lost in the population. Moreover, while genomic locus and promoter selection were critically important for the initial establishment of the autonomous GD, it was the fitness of the GD line that most strongly influenced the persistence of the GD in the simulated population. As such, we propose that when autonomous CRISPR/Cas9 based GD systems are anchored in an intergenic locus, they temporarily result in a strong population replacement effect, but as GD-blocking indels accrue, the GD becomes exhausted due to the fixation of CRISPR resistance alleles.",
+          "link": "http://biorxiv.org/cgi/content/short/2021.12.08.471839v2?rss=1",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 1389,
+          "title": "Assessing single-component gene drive systems in the mosquito Aedes aegypti via single generation crosses and modeling [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.25.509419v1?rss=1",
+          "author": "Lutz, I. D.",
+          "description": "The multisubunit protein assemblies that play critical roles in biology are the result of evolutionary selection for function of the entire assembly, and hence the subunits in structures such as icosahedral viral capsids often fit together with remarkable shape complementarity1,2. In contrast, the large multisubunit assemblies that have been created by de novo protein design, notably the icosahedral nanocages used in a new generation of potent vaccines3-7, have been built by first designing symmetric oligomers with cyclic symmetry and then assembling these into nanocages while keeping the internal structure fixed8-14, which results in more porous structures with less extensive shape matching between the components. Such hierarchical \"bottom-up\" design approaches have the advantage that one…",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.25.509419v1?rss=1",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 1719,
+          "title": "Top-down design of protein nanomaterials with reinforcement learning [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.23.509237v1?rss=1",
+          "author": "Zong, D. M.",
+          "description": "A major challenge in synthetic biology is the manipulation of engineered gene circuits toward a specified behavior. This challenge becomes more difficult as synthetic systems become more complex by incorporating additional genes or strains. Here we demonstrate that circuit dynamics can be tuned in synthetic consortia through the manipulation of strain fractions within the community. To do this, we constructed a microbial consortium comprised of three strains of engineered Escherichia coli that, when co-cultured, use homoserine lactone (HSL) mediated intercellular signaling to create a multi-strain incoherent type-1 feedforward loop (I1-FFL). Like naturally occurring I1-FFL motifs in gene networks, this engineered microbial consortium acts as a pulse generator of gene expression. We demonstrated that the amplitude of the pulse can be easily tuned by adjusting the relative population fractions of the strains. We created a mathematical model for the temporal dynamics of the microbial consortium and, using this model, identified population fractions that produced desired pulse characteristics. Our work demonstrates that intercellular gene circuits can be effectively tuned simply by adjusting the starting fractions of each strain type.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.23.509237v1?rss=1",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 1331,
+          "title": "Tunable dynamics in a multi-strain transcriptional pulse generator [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.16.508262v2?rss=1",
+          "author": "Guiziou, S.",
+          "description": "There are many open questions about the mechanisms that coordinate the dynamic, multicellular behaviors required for organogenesis. Synthetic circuits that can record in vivo signaling networks have been critical in elucidating animal development. Here, we report on the transfer of this technology to plants using orthogonal serine integrases to mediate site-specific and irreversible DNA recombination visualized by switching between fluorescent reporters. When combined with promoters expressed during lateral root initiation, integrases amplified reporter signal and permanently marked all descendants. In addition, we have developed a suite of methods to tune the threshold for integrase switching, including: RNA/protein degradation tags, a nuclear localization signal, and a split-intein system. These tools improved the robustness of integrase-mediated switching with different promoters and the stability of switching behavior over multiple generations. This integrase toolbox can be used to build history-dependent circuits to decode the order of expression during organogenesis in many contexts.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.16.508262v2?rss=1",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 1105,
+          "title": "An integrase toolbox to record gene-expression during plant development. [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
           "id": "http://biorxiv.org/cgi/content/short/2022.09.24.509315v1?rss=1",
           "author": "Halablab, M.",
           "description": "Streptomyces phage OC31 encodes a serine integrase which recombines the host (attB) and phage (attP) attachment sites to form new attL and attR sites. For attL and attR to be recombined by the integrase, the presence of its cognate recombination directionality factor (RDF) is required. It is hypothesized that the RDF binds the coiled-coil domain of the integrase to accomplish this switch in recombination directionality. Yet, nothing is known about the site of interaction between the RDF and integrase. Here, we tried to identify the region on the coiled-coil domain of OC31 integrase to which its cognate RDF (gp3) might bind. Mutant integrases fused to their cognate RDF (gp3) were created and selected for inactivity in attL x attR recombination. It was not possible to characterize the mutants and identify the Int-RDF binding region, due to unforeseen errors that occurred during the construction of the mutant library, but we demonstrated that simple experimental approaches could be used to identify this region. Despite this, an integrase mutant (P398L D595N) fused to gp3 was characterized. This mutant was catalyzing a more unidirectional attL x attR recombination reaction with reduced attP x attB recombination compared to the wild-type integrase. This mutant was selected since it could be used within the field of molecular biology to construct inversion switches which are a key element by which cells can be computerized.",
@@ -193,16 +243,6 @@
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
         {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.25.509419v1?rss=1",
-          "author": "Lutz, I. D.",
-          "description": "The multisubunit protein assemblies that play critical roles in biology are the result of evolutionary selection for function of the entire assembly, and hence the subunits in structures such as icosahedral viral capsids often fit together with remarkable shape complementarity1,2. In contrast, the large multisubunit assemblies that have been created by de novo protein design, notably the icosahedral nanocages used in a new generation of potent vaccines3-7, have been built by first designing symmetric oligomers with cyclic symmetry and then assembling these into nanocages while keeping the internal structure fixed8-14, which results in more porous structures with less extensive shape matching between the components. Such hierarchical \"bottom-up\" design approaches have the advantage that one…",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.25.509419v1?rss=1",
-          "publishedOn": "2022-09-25T00:00:00.000Z",
-          "wordCount": 1495,
-          "title": "Top-down design of protein nanomaterials with reinforcement learning [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
           "id": "http://biorxiv.org/cgi/content/short/2022.09.22.508994v1?rss=1",
           "author": "Yang, Y.",
           "description": "The canonical glycolysis generates two molecules of acetyl-coenzyme A (acetyl-CoA) from one glucose through eleven cascade biochemical reactions. Here, we designed and constructed a Minimal Artificial Glycolytic (MAG) pathway consisting of only three types of biochemical reactions, with phosphoketolase as the core, combined with phosphatase and isomerase as auxiliary enzymes. It could theoretically achieve a 100% carbon yield to acetyl-CoA from any monosaccharide by integrating one-carbon condensation reaction. We tested the MAG pathway in vitro and in vivo, demonstrating the catabolism of typical C1-C6 carbohydrates to acetyl-CoA with yields from 82% to 95%. This novel glycolytic pathway provides a promising route for biomanufacturing with stoichiometric productivity from multiple carbon sources in the future.",
@@ -210,16 +250,6 @@
           "publishedOn": "2022-09-25T00:00:00.000Z",
           "wordCount": 1532,
           "title": "Designing a Minimal Artificial Glycolytic Pathway [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.23.509237v1?rss=1",
-          "author": "Zong, D. M.",
-          "description": "A major challenge in synthetic biology is the manipulation of engineered gene circuits toward a specified behavior. This challenge becomes more difficult as synthetic systems become more complex by incorporating additional genes or strains. Here we demonstrate that circuit dynamics can be tuned in synthetic consortia through the manipulation of strain fractions within the community. To do this, we constructed a microbial consortium comprised of three strains of engineered Escherichia coli that, when co-cultured, use homoserine lactone (HSL) mediated intercellular signaling to create a multi-strain incoherent type-1 feedforward loop (I1-FFL). Like naturally occurring I1-FFL motifs in gene networks, this engineered microbial consortium acts as a pulse generator of gene expression. We demonstrated that the amplitude of the pulse can be easily tuned by adjusting the relative population fractions of the strains. We created a mathematical model for the temporal dynamics of the microbial consortium and, using this model, identified population fractions that produced desired pulse characteristics. Our work demonstrates that intercellular gene circuits can be effectively tuned simply by adjusting the starting fractions of each strain type.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.23.509237v1?rss=1",
-          "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 1282,
-          "title": "Tunable dynamics in a multi-straintranscriptional pulse generator [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
         {
@@ -241,26 +271,6 @@
           "wordCount": 1409,
           "title": "origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.21.508766v1?rss=1",
-          "author": "Nucifora, D. P.",
-          "description": "Assembling synthetic bacterial genomes in yeast and genome transplantation has enabled an unmatched level of bacterial strain engineering, giving rise to cells with minimal and chemically synthetic genomes. However, this technology is currently limited to members of the Spiroplasma phylogenetic group, mostly Mycoplasmas, within the Mollicute class. Here, we propose the development of these technologies for Acholeplasma laidlawii, which is phylogenetically distant from Mycoplasmas and, unlike most Mollicutes, uses a standard genetic code. Towards this goal, we first investigated a donor-recipient relationship between two A. laidlawii strains through whole-genome sequencing. We then created a multi-host shuttle plasmid and used it to optimize an electroporation protocol. For genome transplantation, we selected A. laidlawii 8195 as the recipient strain and we created a PG-8A donor strain by inserting a Tn5 transposon carrying a tetracycline resistance gene. Our optimized genetic tools will accelerate the creation of Acholeplasma strains driven by synthetic genomes.\n\nGraphical Abstract\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=98 SRC=\"FIGDIR/small/508766v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (34K):\norg.highwire.dtl.DTLVardef@1cc45c8org.highwire.dtl.DTLVardef@1f959acorg.highwire.dtl.DTLVardef@16e5e7borg.highwire.dtl.DTLVardef@fce10c_HPS_FORMAT_FIGEXP  M_FIG C_FIG",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.21.508766v1?rss=1",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 1159,
-          "title": "Towards the creation of Acholeplasma laidlawii driven by synthetic genomes [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.21.508913v1?rss=1",
-          "author": "Love, A. M.",
-          "description": "As biotechnology research progresses from simply overexpressing proteins to creating intricate metabolic pathways, gene circuits, and complex phenotypes, harmonizing gene fitness in the context of a host organism has become essential. A significant amount of recent work has focused on decoupling gene expression from host resources to improve the outcome of synthetic biology and metabolic engineering efforts. While insightful, few of these studies have investigated the mechanistic underpinnings of resource allocation during translation elongation. There is a degeneracy in codons - but they are not equivalent. While there is an understanding that codon use is unequal in native genes, there is less knowledge of how this usage bias modulates the supply and demand of protein translation resources. Here we investigate how the partitioning of microbial translational resources, specifically through allocation of tRNA by incorporating dissimilar codon usage bias, can drastically alter expression of proteins and reduce the burden on the host resources. By isolating individual codons experimentally, we find heterologous gene expression can trans-regulate fitness of the host and other heterologous genes. Interestingly, specific codons drive profitable or catastrophic phenotypic outcomes. We correlate codon usage patterns with genetic fitness and empirically derive a novel coding scheme for multi-gene expression called Codon Harmony Index (CHI, {chi}). CHI enables the design of harmonious multi-gene expression systems while avoiding catastrophic cellular burden.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.21.508913v1?rss=1",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 1170,
-          "title": "Specific Codons Control Cellular Resources and Fitness [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         }
       ]
     },
@@ -270,12 +280,102 @@
       "siteUrl": "https://www.nature.com/subjects/computational-biology-and-bioinformatics",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41598-022-20615-8",
+          "author": null,
+          "description": "Scientific Reports - Identification and verification of CCNB1 as a potential prognostic biomarker by comprehensive analysis",
+          "link": "https://www.nature.com/articles/s41598-022-20615-8",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 6681,
+          "title": "Identification and verification of CCNB1 as a potential prognostic biomarker by comprehensive analysis",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20615-8/MediaObjects/41598_2022_20615_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20275-8",
+          "author": null,
+          "description": "Scientific Reports - An open-source computational tool for measuring bacterial biofilm morphology and growth kinetics upon one-sided exposure to an antimicrobial source",
+          "link": "https://www.nature.com/articles/s41598-022-20275-8",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 7893,
+          "title": "An open-source computational tool for measuring bacterial biofilm morphology and growth kinetics upon one-sided exposure to an antimicrobial source",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20275-8/MediaObjects/41598_2022_20275_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-33291-z",
+          "author": null,
+          "description": "Predicting treatment response in cancer remains a highly complex task. Here, the authors develop Precily, a deep neural network framework to predict treatment response in cancer by considering gene expression, pathway activity estimates and drug features, and test this method in multiple datasets and preclinical models.",
+          "link": "https://www.nature.com/articles/s41467-022-33291-z",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 15369,
+          "title": "Gene expression based inference of cancer drug sensitivity",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33291-z/MediaObjects/41467_2022_33291_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-18284-8",
+          "author": null,
+          "description": "Scientific Reports - Predicting and preventing COVID-19 outbreaks in indoor environments: an agent-based modeling study",
+          "link": "https://www.nature.com/articles/s41598-022-18284-8",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 9700,
+          "title": "Predicting and preventing COVID-19 outbreaks in indoor environments: an agent-based modeling study",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-18284-8/MediaObjects/41598_2022_18284_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s43587-022-00294-w",
+          "author": null,
+          "description": "The aging research field has largely focused on reversing aging-related changes in the body. However, emerging evidence about the gut microbiome indicates that it may not be optimal to just turn back the clock. Here, we advocate for a more tailored and function-focused approach promoting health across the lifespan.",
+          "link": "https://www.nature.com/articles/s43587-022-00294-w",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 3012,
+          "title": "Healthy aging and the human gut microbiome: why we cannot just turn back the clock",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43587-022-00294-w/MediaObjects/43587_2022_294_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20278-5",
+          "author": null,
+          "description": "Scientific Reports - Targeting and ultrabroad insight into molecular basis of Resistance-nodulation-cell division efflux pumps",
+          "link": "https://www.nature.com/articles/s41598-022-20278-5",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 10998,
+          "title": "Targeting and ultrabroad insight into molecular basis of Resistance-nodulation-cell division efflux pumps",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20278-5/MediaObjects/41598_2022_20278_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41597-022-01692-w",
+          "author": null,
+          "description": "Measurement(s) canine cutaneous tissue Technology Type(s) bright-field microscopy • H&E slide staining • whole slide scanning Sample Characteristic - Organism Canis",
+          "link": "https://www.nature.com/articles/s41597-022-01692-w",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 9885,
+          "title": "Pan-tumor CAnine cuTaneous Cancer Histology (CATCH) dataset",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-022-01692-w/MediaObjects/41597_2022_1692_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20041-w",
+          "author": null,
+          "description": "Scientific Reports - Signals of local bioclimate-driven ecomorphological changes in wild birds",
+          "link": "https://www.nature.com/articles/s41598-022-20041-w",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 9093,
+          "title": "Signals of local bioclimate-driven ecomorphological changes in wild birds",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20041-w/MediaObjects/41598_2022_20041_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-19666-8",
+          "author": null,
+          "description": "Scientific Reports - Genomic epidemiology of Mycobacterium abscessus in a Canadian cystic fibrosis centre",
+          "link": "https://www.nature.com/articles/s41598-022-19666-8",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 9220,
+          "title": "Genomic epidemiology of Mycobacterium abscessus in a Canadian cystic fibrosis centre",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19666-8/MediaObjects/41598_2022_19666_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41598-022-19608-4",
           "author": null,
           "description": "Scientific Reports - ProteinGLUE multi-task benchmark suite for self-supervised protein modeling",
           "link": "https://www.nature.com/articles/s41598-022-19608-4",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 12881,
+          "wordCount": 12910,
           "title": "ProteinGLUE multi-task benchmark suite for self-supervised protein modeling",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19608-4/MediaObjects/41598_2022_19608_Fig1_HTML.png"
         },
@@ -285,7 +385,7 @@
           "description": "A recent study proposes a metric to quantify how much information different types of epidemiological surveillance data, such as case counts and death counts, convey about the real-time transmission of an epidemic.",
           "link": "https://www.nature.com/articles/s43588-022-00319-9",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 3323,
+          "wordCount": 3347,
           "title": "Getting the most out of noisy surveillance data",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-022-00319-9/MediaObjects/43588_2022_319_Fig1_HTML.png"
         },
@@ -295,7 +395,7 @@
           "description": "The space of possible proteins is vast, and optimizing proteins for specific target properties computationally is an ongoing challenge, even with large amounts of data. Castro and colleagues combine a transformer-based model with regularized prediction heads to form a smooth and pseudoconvex latent space that allows for easier navigation and more efficient optimization of proteins.",
           "link": "https://www.nature.com/articles/s42256-022-00532-1",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 12112,
+          "wordCount": 12138,
           "title": "Transformer-based protein generation with regularized latent space optimization",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00532-1/MediaObjects/42256_2022_532_Fig1_HTML.png"
         },
@@ -305,7 +405,7 @@
           "description": "Scientific Reports - Actomyosin contractility as a mechanical checkpoint for cell state transitions",
           "link": "https://www.nature.com/articles/s41598-022-20089-8",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 10787,
+          "wordCount": 10815,
           "title": "Actomyosin contractility as a mechanical checkpoint for cell state transitions",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20089-8/MediaObjects/41598_2022_20089_Fig1_HTML.png"
         },
@@ -315,7 +415,7 @@
           "description": "CRISPR has revolutionized biomedical and bioengineering research as a programmable genome engineering technology. Computational tools have been integral throughout the discovery of CRISPR biology and the development of CRISPR-based technologies that hold promise to solve many challenges ahead.",
           "link": "https://www.nature.com/articles/s43588-022-00321-1",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 2836,
+          "wordCount": 2860,
           "title": "Computation empowers CRISPR discovery and technology",
           "imageUrl": null
         },
@@ -325,7 +425,7 @@
           "description": "We explored age-dependent patterns in sex differences for a wide range of cardiometabolic disease risk factors and observed widespread and divergent patterns for different risk-factor groups. These findings highlight the importance of taking both age and sex into account when assessing a person’s risk of developing cardiometabolic disease.",
           "link": "https://www.nature.com/articles/s44161-022-00136-3",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 2376,
+          "wordCount": 2402,
           "title": "Interactions between aging and sex differences for cardiometabolic risk factors",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44161-022-00136-3/MediaObjects/44161_2022_136_Fig1_HTML.png"
         },
@@ -335,7 +435,7 @@
           "description": "A computational analysis of biosynthetic gene clusters with unique structural features unveils new natural product scaffolds, leading to the discovery of an antibiotic targeting BamA with activity against Gram-negative pathogens.",
           "link": "https://www.nature.com/articles/s41564-022-01234-5",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 2490,
+          "wordCount": 2518,
           "title": "Computational discovery of dynobactin antibiotics",
           "imageUrl": null
         },
@@ -345,7 +445,7 @@
           "description": "Cell type annotation is a core task for single cell RNA-sequencing, but current bioinformatic tools struggle with some of the underlying challenges, including high dimensionality, data sparsity, batch effects and a lack of labels. In a self-supervised approach, a transformer model called scBERT is pretrained on millions of unlabelled public single cell RNA-seq data and then fine-tuned with a small number of labelled samples for cell annotation tasks.",
           "link": "https://www.nature.com/articles/s42256-022-00534-z",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 13996,
+          "wordCount": 14024,
           "title": "scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00534-z/MediaObjects/42256_2022_534_Fig1_HTML.png"
         },
@@ -355,7 +455,7 @@
           "description": "Scientific Reports - Identification of the effects of COVID-19 on patients with pulmonary fibrosis and lung cancer: a bioinformatics analysis and literature review",
           "link": "https://www.nature.com/articles/s41598-022-20040-x",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 12912,
+          "wordCount": 12943,
           "title": "Identification of the effects of COVID-19 on patients with pulmonary fibrosis and lung cancer: a bioinformatics analysis and literature review",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20040-x/MediaObjects/41598_2022_20040_Fig1_HTML.png"
         },
@@ -365,7 +465,7 @@
           "description": "Identifying structural variants (SVs) under positive selection in cancer is challenging. Here, the authors develop CSVDriver, a method that computes SV breakpoint proximity and the contribution of elements such as topologically associating domains, and identifies loci that show signs of positive selection and contain known and putative drivers.",
           "link": "https://www.nature.com/articles/s41467-022-32945-2",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 13805,
+          "wordCount": 13821,
           "title": "Modeling tissue-specific breakpoint proximity of structural variations from whole-genomes to identify cancer drivers",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32945-2/MediaObjects/41467_2022_32945_Fig1_HTML.png"
         },
@@ -375,7 +475,7 @@
           "description": "DeepCAD-RT denoises fluorescence time-lapse images in real time.",
           "link": "https://www.nature.com/articles/s41587-022-01450-8",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 16436,
+          "wordCount": 16452,
           "title": "Real-time denoising enables high-sensitivity fluorescence time-lapse imaging beyond the shot-noise limit",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01450-8/MediaObjects/41587_2022_1450_Fig1_HTML.png"
         },
@@ -385,7 +485,7 @@
           "description": "Computational search identifies dynobactin A which is a systemically active, natural-product peptide antibiotic that kills Gram-negative bacteria.",
           "link": "https://www.nature.com/articles/s41564-022-01227-4",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 6796,
+          "wordCount": 6824,
           "title": "Computational identification of a systemic antibiotic for gram-negative bacteria",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-022-01227-4/MediaObjects/41564_2022_1227_Fig1_HTML.png"
         },
@@ -395,7 +495,7 @@
           "description": "Mutations in RAS oncogenes and related pathways are frequent in lung cancers. Here, the authors derive a RAS gene expression signature and a machine learning classifier to predict drug response and clinical outcomes in lung adenocarcinoma and other solid tumours, with improved performance over KRAS mutations alone.",
           "link": "https://www.nature.com/articles/s41467-022-33290-0",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 17504,
+          "wordCount": 17520,
           "title": "RAS oncogenic activity predicts response to chemotherapy and outcome in lung adenocarcinoma",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33290-0/MediaObjects/41467_2022_33290_Fig1_HTML.png"
         },
@@ -405,7 +505,7 @@
           "description": "A framework for measuring how noise in different outbreak data limits the reliability of estimates of epidemic spread is developed and used to show that death time series are rarely better than case data for inferring COVID-19 transmissibility.",
           "link": "https://www.nature.com/articles/s43588-022-00313-1",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 14422,
+          "wordCount": 14448,
           "title": "Quantifying the information in noisy epidemic curves",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-022-00313-1/MediaObjects/43588_2022_313_Fig1_HTML.png"
         },
@@ -415,7 +515,7 @@
           "description": "Numbat integrates expression, allele and haplotype information to detect copy number variations in scRNA-seq.",
           "link": "https://www.nature.com/articles/s41587-022-01468-y",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 5413,
+          "wordCount": 5439,
           "title": "Haplotype-aware analysis of somatic copy number variations from single -cell transcriptomes",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01468-y/MediaObjects/41587_2022_1468_Fig1_HTML.png"
         },
@@ -425,7 +525,7 @@
           "description": "Scientific Reports - ADRB2 expression predicts the clinical outcomes and is associated with immune cells infiltration in lung adenocarcinoma",
           "link": "https://www.nature.com/articles/s41598-022-19991-y",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 8448,
+          "wordCount": 8464,
           "title": "ADRB2 expression predicts the clinical outcomes and is associated with immune cells infiltration in lung adenocarcinoma",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19991-y/MediaObjects/41598_2022_19991_Fig1_HTML.png"
         },
@@ -435,7 +535,7 @@
           "description": "Single-cell DNA sequencing data are generated from human neurons using primary template-directed amplification and analyzed using SCAN2, an improved genotyping tool. Indels are enriched in neuronal regulatory elements and may be deleterious.",
           "link": "https://www.nature.com/articles/s41588-022-01180-2",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 6717,
+          "wordCount": 6743,
           "title": "Single-cell genome sequencing of human neurons identifies somatic point mutation and indel enrichment in regulatory elements",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-022-01180-2/MediaObjects/41588_2022_1180_Fig1_HTML.png"
         },
@@ -445,7 +545,7 @@
           "description": "Scientific Reports - Novel multi epitope-based vaccine against monkeypox virus: vaccinomic approach",
           "link": "https://www.nature.com/articles/s41598-022-20397-z",
           "publishedOn": "2022-09-25T00:00:00.000Z",
-          "wordCount": 9045,
+          "wordCount": 9108,
           "title": "Novel multi epitope-based vaccine against monkeypox virus: vaccinomic approach",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20397-z/MediaObjects/41598_2022_20397_Fig1_HTML.png"
         },
@@ -455,7 +555,7 @@
           "description": "Scientific Reports - Confrontation of AlphaFold models with experimental structures enlightens conformational dynamics supporting CYP102A1 functions",
           "link": "https://www.nature.com/articles/s41598-022-20390-6",
           "publishedOn": "2022-09-25T00:00:00.000Z",
-          "wordCount": 10049,
+          "wordCount": 10065,
           "title": "Confrontation of AlphaFold models with experimental structures enlightens conformational dynamics supporting CYP102A1 functions",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20390-6/MediaObjects/41598_2022_20390_Fig1_HTML.png"
         },
@@ -465,7 +565,7 @@
           "description": "Scientific Reports - State space methods for phase amplitude coupling analysis",
           "link": "https://www.nature.com/articles/s41598-022-18475-3",
           "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 13091,
+          "wordCount": 13115,
           "title": "State space methods for phase amplitude coupling analysis",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-18475-3/MediaObjects/41598_2022_18475_Fig1_HTML.png"
         },
@@ -475,99 +575,9 @@
           "description": "Scientific Reports - Identification of potential modulators of IFITM3 by in-silico modeling and virtual screening",
           "link": "https://www.nature.com/articles/s41598-022-20259-8",
           "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 9068,
+          "wordCount": 9080,
           "title": "Identification of potential modulators of IFITM3 by in-silico modeling and virtual screening",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20259-8/MediaObjects/41598_2022_20259_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s43856-022-00186-5",
-          "author": null,
-          "description": "Pocock, Graham et al. present TIAToolbox, a Python toolbox for computational pathology. The extendable library can be used for data loading, pre-processing, model inference, post-processing, and visualization.",
-          "link": "https://www.nature.com/articles/s43856-022-00186-5",
-          "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 13727,
-          "title": "TIAToolbox as an end-to-end library for advanced tissue image analytics",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-022-00186-5/MediaObjects/43856_2022_186_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20436-9",
-          "author": null,
-          "description": "Scientific Reports - The effects of microclimatic winter conditions in urban areas on the risk of establishment for Aedes albopictus",
-          "link": "https://www.nature.com/articles/s41598-022-20436-9",
-          "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 12496,
-          "title": "The effects of microclimatic winter conditions in urban areas on the risk of establishment for Aedes albopictus",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20436-9/MediaObjects/41598_2022_20436_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20305-5",
-          "author": null,
-          "description": "Scientific Reports - Lead-exposure associated miRNAs in humans and Alzheimer’s disease as potential biomarkers of the disease and disease processes",
-          "link": "https://www.nature.com/articles/s41598-022-20305-5",
-          "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 11796,
-          "title": "Lead-exposure associated miRNAs in humans and Alzheimer’s disease as potential biomarkers of the disease and disease processes",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20305-5/MediaObjects/41598_2022_20305_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20065-2",
-          "author": null,
-          "description": "Scientific Reports - Bell-Evans model and steered molecular dynamics in uncovering the dissociation kinetics of ligands targeting G-protein-coupled receptors",
-          "link": "https://www.nature.com/articles/s41598-022-20065-2",
-          "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 12566,
-          "title": "Bell-Evans model and steered molecular dynamics in uncovering the dissociation kinetics of ligands targeting G-protein-coupled receptors",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20065-2/MediaObjects/41598_2022_20065_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41587-022-01441-9",
-          "author": null,
-          "description": "Accurate identification and effective removal of unwanted variation is essential to derive meaningful biological results from large and complex RNA-seq studies. Technical replicates together with negative and positive control genes are key tools for carrying out this task. We show how to proceed when technical replicates are unavailable.",
-          "link": "https://www.nature.com/articles/s41587-022-01441-9",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 2448,
-          "title": "Normalizing cancer RNA-seq data for library size, tumor purity and batch effects",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01441-9/MediaObjects/41587_2022_1441_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s44161-022-00146-1",
-          "author": null,
-          "description": "Nature Cardiovascular Research - Publisher Correction: Age-dependent sex differences in cardiometabolic risk factors",
-          "link": "https://www.nature.com/articles/s44161-022-00146-1",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 2591,
-          "title": "Publisher Correction: Age-dependent sex differences in cardiometabolic risk factors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20111-z",
-          "author": null,
-          "description": "Scientific Reports - Data mining-based discriminant analysis as a tool for the study of egg quality in native hen breeds",
-          "link": "https://www.nature.com/articles/s41598-022-20111-z",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 11499,
-          "title": "Data mining-based discriminant analysis as a tool for the study of egg quality in native hen breeds",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20111-z/MediaObjects/41598_2022_20111_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-19646-y",
-          "author": null,
-          "description": "Scientific Reports - Identification and expression of functionally conserved circadian clock genes in lichen-forming fungi",
-          "link": "https://www.nature.com/articles/s41598-022-19646-y",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 8175,
-          "title": "Identification and expression of functionally conserved circadian clock genes in lichen-forming fungi",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19646-y/MediaObjects/41598_2022_19646_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20343-z",
-          "author": null,
-          "description": "Scientific Reports - ADGRL3 genomic variation implicated in neurogenesis and ADHD links functional effects to the incretin polypeptide GIP",
-          "link": "https://www.nature.com/articles/s41598-022-20343-z",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 11682,
-          "title": "ADGRL3 genomic variation implicated in neurogenesis and ADHD links functional effects to the incretin polypeptide GIP",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20343-z/MediaObjects/41598_2022_20343_Fig1_HTML.png"
         }
       ]
     },
@@ -734,12 +744,22 @@
       "siteUrl": "https://news.mit.edu/rss/topic/biological-engineering-and-biotechnology",
       "articles": [
         {
+          "id": "https://news.mit.edu/2022/neurodegenerative-disease-can-progress-newly-identified-patterns-0927",
+          "author": "Lauren Hinkel | MIT-IBM Watson AI Lab",
+          "description": "A machine-learning method finds patterns of health decline in ALS, informing future clinical trial designs and mechanism discovery. The technique also extends to Alzheimer’s and Parkinson’s.",
+          "link": "https://news.mit.edu/2022/neurodegenerative-disease-can-progress-newly-identified-patterns-0927",
+          "publishedOn": "2022-09-27T19:50:00.000Z",
+          "wordCount": 2270,
+          "title": "Neurodegenerative disease can progress in newly identified patterns",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/neuron-cell.jpg"
+        },
+        {
           "id": "https://news.mit.edu/2022/cell-rover-exploring-augmenting-inner-world-cell-0922",
           "author": "Michaela Jarvis | MIT Media Lab",
           "description": "MIT researchers demonstrate an intracellular antenna that's compatible with 3D biological systems and can operate wirelessly inside a living cell.",
           "link": "https://news.mit.edu/2022/cell-rover-exploring-augmenting-inner-world-cell-0922",
           "publishedOn": "2022-09-22T15:50:00.000Z",
-          "wordCount": 1841,
+          "wordCount": 1842,
           "title": "Cell Rover: Exploring and augmenting the inner world of the cell",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/cell-antenna.png"
         },
@@ -749,7 +769,7 @@
           "description": "By providing researchers with financial and strategic support from the early stages, the Innovation Center hopes to bring new and disruptive technologies to market.",
           "link": "https://news.mit.edu/2022/smart-innovation-center-awarded-nrf-grant-0913",
           "publishedOn": "2022-09-13T15:20:00.000Z",
-          "wordCount": 1919,
+          "wordCount": 1920,
           "title": "SMART Innovation Center awarded five-year NRF grant for new deep tech ventures",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/IC%20stock%20image%202.jpeg"
         },
@@ -759,7 +779,7 @@
           "description": "Study finds computer models that predict molecular interactions need improvement before they can help identify drug mechanisms of action.",
           "link": "https://news.mit.edu/2022/alphafold-potential-protein-drug-0906",
           "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 2230,
+          "wordCount": 2231,
           "title": "Analyzing the potential of AlphaFold in drug discovery",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/MIT-Better-Predictions-01-press.jpg"
         },
@@ -769,7 +789,7 @@
           "description": "Separating densely packed molecules before imaging allows them to become visible for the first time.",
           "link": "https://news.mit.edu/2022/expansion-revealing-microscopy-cells-0829",
           "publishedOn": "2022-08-29T15:00:00.000Z",
-          "wordCount": 2245,
+          "wordCount": 2058,
           "title": "Microscopy technique reveals hidden nanostructures in cells and tissues",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202208/MIT-Invisible-Molecules-01-press.jpg"
         }
@@ -781,12 +801,22 @@
       "siteUrl": "https://www.nature.com/subjects/synthetic-biology",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s42003-022-03999-1",
+          "author": null,
+          "description": "A giant vesicle system combines fatty acid synthesis pathways, CoA recycling, and cell-free acyltransferase gene expression to perform phospholipid synthesis inside.",
+          "link": "https://www.nature.com/articles/s42003-022-03999-1",
+          "publishedOn": "2022-09-27T00:00:00.000Z",
+          "wordCount": 13748,
+          "title": "Phospholipid synthesis inside phospholipid membrane vesicles",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-03999-1/MediaObjects/42003_2022_3999_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41589-022-01136-x",
           "author": null,
           "description": "An INSPIRE platform for therapeutic regulators and sensors, based on split human domains binding physiological or clinically approved compounds, has been developed and demonstrated on several human proteins in a relevant ligand concentration range.",
           "link": "https://www.nature.com/articles/s41589-022-01136-x",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 6297,
+          "wordCount": 6323,
           "title": "Chemically inducible split protein regulators for mammalian cells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41589-022-01136-x/MediaObjects/41589_2022_1136_Figa_HTML.png"
         },
@@ -796,7 +826,7 @@
           "description": "“Intracellular phase separation is emerging as a universal principle for organizing biochemical reactions in time and space. Here the authors show that PopZ condensate dynamics support cell division and using PopZ modular architecture, the tunable PopTag platform was developed to enable designer condensates.”",
           "link": "https://www.nature.com/articles/s41467-022-33221-z",
           "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 14973,
+          "wordCount": 14999,
           "title": "The material properties of a bacterial-derived biomolecular condensate tune biological function in natural and synthetic systems",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33221-z/MediaObjects/41467_2022_33221_Fig1_HTML.png"
         },
@@ -806,7 +836,7 @@
           "description": "Computational properties of neuronal networks have been applied to computing systems using simplified models comprising repeated connected nodes. Here the authors create layered assemblies of genetically encoded devices that perform non-binary logic computation and signal processing using combinatorial promoters and feedback regulation.",
           "link": "https://www.nature.com/articles/s41467-022-33288-8",
           "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 15271,
+          "wordCount": 15283,
           "title": "Synthetic neuromorphic computing in living cells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33288-8/MediaObjects/41467_2022_33288_Fig1_HTML.png"
         },
@@ -816,7 +846,7 @@
           "description": "Engineered RNA endonuclease XNAzymes can specifically target individual disease-associated non-coding RNAs (ncRNAs) in vitro with potential as platform technology for precision detection or knockdown of individual microRNAs or longer ncRNAs.",
           "link": "https://www.nature.com/articles/s42003-022-03987-5",
           "publishedOn": "2022-09-24T00:00:00.000Z",
-          "wordCount": 10796,
+          "wordCount": 10808,
           "title": "Targeting non-coding RNA family members with artificial endonuclease XNAzymes",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-03987-5/MediaObjects/42003_2022_3987_Fig1_HTML.png"
         },
@@ -826,7 +856,7 @@
           "description": "Stably silenced genes with methylated CpG at the promoter are refractory to current CRISPR activation systems. Here the authors create a more robust activation system, TETact that recruits DNA-demethylating TET1 with transcriptional activators.",
           "link": "https://www.nature.com/articles/s41467-022-33181-4",
           "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 8839,
+          "wordCount": 8863,
           "title": "Activation of stably silenced genes by recruitment of a synthetic de-methylating module",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33181-4/MediaObjects/41467_2022_33181_Fig1_HTML.png"
         },
@@ -836,7 +866,7 @@
           "description": "Engineered living materials (ELMs) embed living cells in a biopolymer matrix to create novel materials with tailored functions. In this work, the authors engineered bacteria to grow novel macroscopic materials that can be reshaped, functionalized, and used to filter contaminated water while also showing that the stiffness of these materials can be tuned through genetic changes.",
           "link": "https://www.nature.com/articles/s41467-022-33191-2",
           "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 12474,
+          "wordCount": 12498,
           "title": "A de novo matrix for macroscopic living materials from bacteria",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33191-2/MediaObjects/41467_2022_33191_Fig1_HTML.png"
         },
@@ -846,7 +876,7 @@
           "description": "Microbial production of cannabinoids promises a cheaper and more sustainable route to these important therapeutic molecules, but strain improvement and screening is challenging. Here, the authors develop a yeast-based Δ9-tetrahydrocannabinol (THC) biosensor for screening microbial mutant libraries.",
           "link": "https://www.nature.com/articles/s41467-022-33207-x",
           "publishedOn": "2022-09-20T00:00:00.000Z",
-          "wordCount": 10536,
+          "wordCount": 10548,
           "title": "Screening microbially produced Δ9-tetrahydrocannabinol using a yeast biosensor workflow",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33207-x/MediaObjects/41467_2022_33207_Fig1_HTML.png"
         },
@@ -856,7 +886,7 @@
           "description": "Biosynthetic pathway of dencichine, a plant derived nature product that has found various pharmacological applications, is still elusive. Here, the authors design artificial pathways through retro-biosynthesis approaches and achieve its efficient production in E. coli by systematic metabolic and enzymatic engineering.",
           "link": "https://www.nature.com/articles/s41467-022-33255-3",
           "publishedOn": "2022-09-19T00:00:00.000Z",
-          "wordCount": 8942,
+          "wordCount": 8966,
           "title": "Biosynthesis of plant hemostatic dencichine in Escherichia coli",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33255-3/MediaObjects/41467_2022_33255_Fig1_HTML.png"
         },
@@ -866,7 +896,7 @@
           "description": "Incorporation of noncanonical amino acids into proteins holds great promise for altering structure and function of these proteins. Here the authors generate metabolically modified prokaryotic and eukaryotic cells that can biosynthesize sTyr and incorporate it into proteins in a site-specific manner.",
           "link": "https://www.nature.com/articles/s41467-022-33111-4",
           "publishedOn": "2022-09-16T00:00:00.000Z",
-          "wordCount": 11390,
+          "wordCount": 11414,
           "title": "Unleashing the potential of noncanonical amino acid biosynthesis to create cells with precision tyrosine sulfation",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33111-4/MediaObjects/41467_2022_33111_Fig1_HTML.png"
         },
@@ -876,7 +906,7 @@
           "description": "A synthetic system that reproduces several attributes of living cells.",
           "link": "https://www.nature.com/articles/d41586-022-02231-8",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 2758,
+          "wordCount": 3109,
           "title": "Life brought to artificial cells",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-02231-8/d41586-022-02231-8_23476970.png"
         },
@@ -886,7 +916,7 @@
           "description": "Layered feedback is an optimization strategy in feedback control designs widely used in engineering. Here, combining simulation and experimentation, the authors apply layered control - a powerful optimization strategy in engineering - to synthetic biomolecular networks in living bacteria to show layered control overcomes performance trade-offs in biology.",
           "link": "https://www.nature.com/articles/s41467-022-33058-6",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 12531,
+          "wordCount": 12555,
           "title": "Layered feedback control overcomes performance trade-off in synthetic biomolecular networks",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33058-6/MediaObjects/41467_2022_33058_Fig1_HTML.png"
         },
@@ -896,7 +926,7 @@
           "description": "A bacteriogenic strategy for constructing membrane-bounded, molecularly crowded, and compositionally, structurally and morphologically complex synthetic cells provides opportunities for the fabrication of new synthetic cell modules and augmented living/synthetic cell constructs.",
           "link": "https://www.nature.com/articles/s41586-022-05223-w",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 7847,
+          "wordCount": 7873,
           "title": "Living material assembly of bacteriogenic protocells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05223-w/MediaObjects/41586_2022_5223_Fig1_HTML.png"
         },
@@ -906,7 +936,7 @@
           "description": "DNA data storage is a rapidly developing technology with great potential due to its high density, long-term durability, and low maintenance cost. Here the authors present a strand assembly algorithm (DBGPS) using de Bruijn graph and greedy path search.",
           "link": "https://www.nature.com/articles/s41467-022-33046-w",
           "publishedOn": "2022-09-12T00:00:00.000Z",
-          "wordCount": 9419,
+          "wordCount": 9443,
           "title": "Robust data storage in DNA by de Bruijn graph-based de novo strand assembly",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33046-w/MediaObjects/41467_2022_33046_Fig1_HTML.png"
         },
@@ -916,7 +946,7 @@
           "description": "Unlike eukaryotic system, bacterial hosts lack membranous system, which is one of the limitations for efficient metabolic engineering. Here, the authors report a kinetic compartmentalization strategy to increase substrate availability from competitive reactions for the efficient production of itaconate in E. coli.",
           "link": "https://www.nature.com/articles/s41467-022-33033-1",
           "publishedOn": "2022-09-12T00:00:00.000Z",
-          "wordCount": 10387,
+          "wordCount": 10399,
           "title": "Kinetic compartmentalization by unnatural reaction for itaconate production",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33033-1/MediaObjects/41467_2022_33033_Fig1_HTML.png"
         },
@@ -926,7 +956,7 @@
           "description": "Nature Chemistry - Publisher Correction: Standardized excitable elements for scalable engineering of far-from-equilibrium chemical networks",
           "link": "https://www.nature.com/articles/s41557-022-01058-0",
           "publishedOn": "2022-09-08T00:00:00.000Z",
-          "wordCount": 2118,
+          "wordCount": 2142,
           "title": "Publisher Correction: Standardized excitable elements for scalable engineering of far-from-equilibrium chemical networks",
           "imageUrl": null
         },
@@ -936,7 +966,7 @@
           "description": "Researchers describe Retro-Cascorder, a tool that employs prokaryotic retrons and CRISPR integrases to write transcriptional events into the genome of Escherichia coli.",
           "link": "https://www.nature.com/articles/s41592-022-01610-3",
           "publishedOn": "2022-09-06T00:00:00.000Z",
-          "wordCount": 2244,
+          "wordCount": 2268,
           "title": "Tracking the order of transcriptional events in living cells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01610-3/MediaObjects/41592_2022_1610_Figa_HTML.png"
         },
@@ -946,7 +976,7 @@
           "description": "Using one carbon compounds as feedstock is a promising approach in abating climate change. Here, the authors report the conversion of E. coli into a synthetic methylotroph that assimilates methanol via the ribulose monophosphate cycle and a set of distinctive mutations.",
           "link": "https://www.nature.com/articles/s41467-022-32744-9",
           "publishedOn": "2022-09-06T00:00:00.000Z",
-          "wordCount": 14075,
+          "wordCount": 14099,
           "title": "Generation of an Escherichia coli strain growing on methanol via the ribulose monophosphate cycle",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32744-9/MediaObjects/41467_2022_32744_Fig1_HTML.png"
         },
@@ -956,7 +986,7 @@
           "description": "Arising through multiple binding elements, multivalency can specify the avidity, duration, cooperativity, and selectivity of biomolecular interactions, but quantitative prediction and design of these properties has remained challenging. Here the authors enable facile analysis and engineering of multivalent binding by developing MVsim, a simulator that incorporates biochemical and biophysical parameters of interacting molecules and is accessible through a graphical user interface.",
           "link": "https://www.nature.com/articles/s41467-022-32496-6",
           "publishedOn": "2022-09-06T00:00:00.000Z",
-          "wordCount": 11618,
+          "wordCount": 11642,
           "title": "MVsim is a toolset for quantifying and designing multivalent interactions",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32496-6/MediaObjects/41467_2022_32496_Fig1_HTML.png"
         },
@@ -966,7 +996,7 @@
           "description": "A challenge for synthetic biology is the design and construction of prototissue. Here, the authors spatially segregate layers of enzyme-decorated coacervate protocells as a model prototissue capable of chemical signal processing and modulating outputs of nitric oxide to inhibit blood clot formation.",
           "link": "https://www.nature.com/articles/s41467-022-32941-6",
           "publishedOn": "2022-09-06T00:00:00.000Z",
-          "wordCount": 12496,
+          "wordCount": 12508,
           "title": "Signal processing and generation of bioactive nitric oxide in a model prototissue",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32941-6/MediaObjects/41467_2022_32941_Fig1_HTML.png"
         },
@@ -976,7 +1006,7 @@
           "description": "Oligonucleotide catalysts such as ribozymes and DNAzymes can cleave RNA efficiently and specifically but are typically dependent on high concentrations of divalent cations, limiting their biological applications. A modular XNAzyme catalyst composed of 2′-deoxy-2′-fluoro-β-d-arabino nucleic acid (FANA) has now been developed that can cleave long (>5 kb), highly structured mRNAs under physiological conditions and enables allele-specific catalytic RNA knockdown inside cells.",
           "link": "https://www.nature.com/articles/s41557-022-01021-z",
           "publishedOn": "2022-09-05T00:00:00.000Z",
-          "wordCount": 6469,
+          "wordCount": 6493,
           "title": "A modular XNAzyme cleaves long, structured RNAs under physiological conditions and enables allele-specific gene silencing",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-022-01021-z/MediaObjects/41557_2022_1021_Figa_HTML.png"
         },
@@ -986,7 +1016,7 @@
           "description": "Establishing methods to access the chemical space that lies beyond canonical terpenoid biosynthesis will increase the applications of isoprenoids. Here, the authors reconstruct the modular structure of terpene biosynthesis on 16-carbon backbones by engineered yeast and synthesize 28 different unique terpenes.",
           "link": "https://www.nature.com/articles/s41467-022-32921-w",
           "publishedOn": "2022-09-03T00:00:00.000Z",
-          "wordCount": 15886,
+          "wordCount": 15910,
           "title": "Expanding the terpene biosynthetic code with non-canonical 16 carbon atom building blocks",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32921-w/MediaObjects/41467_2022_32921_Fig1_HTML.png"
         },
@@ -996,7 +1026,7 @@
           "description": "A quorum sensing based visualization reporter system is presented for the characterization of promoters in Gram-positive bacteria, utilizing violacein production, especially for use in the identification of secondary metabolites.",
           "link": "https://www.nature.com/articles/s42003-022-03832-9",
           "publishedOn": "2022-09-02T00:00:00.000Z",
-          "wordCount": 11183,
+          "wordCount": 11207,
           "title": "A visualization reporter system for characterizing antibiotic biosynthetic gene clusters expression with high-sensitivity",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-03832-9/MediaObjects/42003_2022_3832_Fig1_HTML.png"
         },
@@ -1006,7 +1036,7 @@
           "description": "Transcription rates are regulated by the interactions between RNA polymerase, sigma factor, and promoter DNA sequences in bacteria. Here the authors combine massively parallel experiments & machine learning to develop a predictive biophysical model of transcription, validated across 22132 bacterial promoters, and apply it to the design and debugging of genetic circuits.",
           "link": "https://www.nature.com/articles/s41467-022-32829-5",
           "publishedOn": "2022-09-02T00:00:00.000Z",
-          "wordCount": 15356,
+          "wordCount": 15380,
           "title": "Automated model-predictive design of synthetic promoters to control transcriptional profiles in bacteria",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32829-5/MediaObjects/41467_2022_32829_Fig1_HTML.png"
         },
@@ -1016,7 +1046,7 @@
           "description": "Researchers have been trying to mimick the cellular spatiotemporal control in normal cells with different approaches. Here, the authors present semi-permeable polymersomes comprising of amphiphilic triblock copolymers to achieve external signal-driven complex coacervation and biophysical reconstitution of cytoskeleton.",
           "link": "https://www.nature.com/articles/s41467-022-32889-7",
           "publishedOn": "2022-09-02T00:00:00.000Z",
-          "wordCount": 12434,
+          "wordCount": 12446,
           "title": "Spatiotemporal control of signal-driven enzymatic reaction in artificial cell-like polymersomes",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32889-7/MediaObjects/41467_2022_32889_Fig1_HTML.png"
         },
@@ -1026,7 +1056,7 @@
           "description": "Dynamic redundancy by horizontal gene transfer stabilizes gene abundances amidst compositional fluctuations in microbial communities, which suggests a means to program gene stability of complex microbiota.",
           "link": "https://www.nature.com/articles/s41589-022-01114-3",
           "publishedOn": "2022-09-01T00:00:00.000Z",
-          "wordCount": 6479,
+          "wordCount": 6503,
           "title": "Horizontal gene transfer enables programmable gene stability in synthetic microbiota",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41589-022-01114-3/MediaObjects/41589_2022_1114_Figa_HTML.png"
         },
@@ -1036,7 +1066,7 @@
           "description": "Membrane-anchored PD-L1 homodimerizes in cells. N-glycosylation of PD-L1 regulates its homodimerization. The formation of PD-L1 homodimers further regulates their glycan processing, localization to the plasma membrane, and binding to PD-1.",
           "link": "https://www.nature.com/articles/s42003-022-03845-4",
           "publishedOn": "2022-08-30T00:00:00.000Z",
-          "wordCount": 10649,
+          "wordCount": 10673,
           "title": "Homodimerized cytoplasmic domain of PD-L1 regulates its complex glycosylation in living cells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-03845-4/MediaObjects/42003_2022_3845_Fig1_HTML.png"
         },
@@ -1046,19 +1076,9 @@
           "description": "Design of de novo synthetic regulatory DNA is a promising avenue to control gene expression in biotechnology and medicine. Here the authors present EspressionGAN, a generative adversarial network that uses genomic and transcriptomic data to generate regulatory sequences.",
           "link": "https://www.nature.com/articles/s41467-022-32818-8",
           "publishedOn": "2022-08-30T00:00:00.000Z",
-          "wordCount": 18919,
+          "wordCount": 18943,
           "title": "Controlling gene expression with deep generative design of regulatory DNA",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32818-8/MediaObjects/41467_2022_32818_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-32661-x",
-          "author": null,
-          "description": "Automated design and build processes can rapidly accelerate work in synthetic biology and metabolic engineering. Here the authors present Galaxy-SynBioCAD, a toolshed for synthetic biology, metabolic engineering, and industrial biotechnology that they use to build and execute Galaxy scientific workflows from pathway design to strain engineering through the automated generation of scripts driving robotic workstations.",
-          "link": "https://www.nature.com/articles/s41467-022-32661-x",
-          "publishedOn": "2022-08-29T00:00:00.000Z",
-          "wordCount": 12998,
-          "title": "The automated Galaxy-SynBioCAD pipeline for synthetic biology design and engineering",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-32661-x/MediaObjects/41467_2022_32661_Fig1_HTML.png"
         }
       ]
     },
@@ -1067,6 +1087,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=119076",
+          "author": "Patrick Honner",
+          "description": "Of all the endless questions children and mathematicians have asked about infinity, one of the most fascinating has to do with its size.            \nThe post How Big Is Infinity? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-big-is-infinity-20220927/",
+          "publishedOn": "2022-09-27T15:48:51.000Z",
+          "wordCount": 8269,
+          "title": "How Big Is Infinity?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Infinity_academy_1200_Social.webp"
+        },
         {
           "id": "https://www.quantamagazine.org/?p=119061",
           "author": "Charlie Wood",
@@ -1083,7 +1113,7 @@
           "description": "A comprehensive mathematical framework treats wrinkling patterns as elegant solutions to geometric problems.            \nThe post The New Math of Wrinkling first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/",
           "publishedOn": "2022-09-22T15:05:09.000Z",
-          "wordCount": 6342,
+          "wordCount": 6343,
           "title": "The New Math of Wrinkling",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/How-to-Wrinkle_1200_Social.jpg"
         },
@@ -1106,16 +1136,6 @@
           "wordCount": 8703,
           "title": "How Do Fireflies Flash in Sync? Studies Suggest a New Answer.",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Firefly-Synchrony_1200_Social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=118880",
-          "author": "Jordana Cepelewicz",
-          "description": "A simple geometric idea has been used to power advances in information theory, cryptography and even blockchain technology.            \nThe post How Mathematical Curves Enable Advanced Communication first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/how-mathematical-curves-power-cryptography-20220919/",
-          "publishedOn": "2022-09-19T14:44:33.000Z",
-          "wordCount": 5276,
-          "title": "How Mathematical Curves Enable Advanced Communication",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/09/Interpolation-Applications_1200_Social.jpg"
         }
       ]
     },
@@ -1124,6 +1144,106 @@
       "feedUrl": "https://aip.scitation.org/feed/cha/most-recent",
       "siteUrl": "https://aip.scitation.org/loi/cha?af=R&feed=most-recent",
       "articles": [
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0087627?af=R&feed=most-recent",
+          "author": "Bukyoung Jhun",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nAn insufficient supply of an effective SARS-CoV-2 vaccine in most countries demands an effective vaccination strategy to minimize the damage caused by the disease. Currently, many countries vaccinate their population in descending order of age (i.e., descending order of fatality rate) to minimize the deaths caused by the disease; however, the effectiveness of this strategy needs to be quantitatively assessed. We employ the susceptible–infected–recovered–dead model to investigate various vaccination strategies. We constructed a metapopulation model with heterogeneous contact and fatality rates and investigated the effectiveness of vaccination strategies to reduce epidemic mortality. We found that the fatality-based strategy, which is currently employed in many countries, is more effective when the contagion rate is high and vaccine supply is low, but the contact-based method outperforms the fatality-based strategy when there is a sufficiently high supply of the vaccine. We identified a discontinuous transition of the optimal vaccination strategy and path-dependency analogous to hysteresis. This transition and path-dependency imply that combining the fatality-based and contact-based strategies is ineffective in reducing the number of deaths. Furthermore, we demonstrate that such phenomena occur in real-world epidemic diseases, such as tuberculosis and COVID-19. We also show that the conclusions of this research are valid even when the complex epidemic stages, efficacy of the vaccine, and reinfection are considered.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0087627?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:07:39.000Z",
+          "wordCount": 862,
+          "title": "Abrupt transition of the efficient vaccination strategy in a population with heterogeneous fatality rates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0121186?af=R&feed=most-recent",
+          "author": "Min Dai",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0121186?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:07:37.000Z",
+          "wordCount": 862,
+          "title": "Erratum: “Variational inference of the drift function for stochastic differential equations driven by Lévy processes” [Chaos 32, 061103 (2022)]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0102904?af=R&feed=most-recent",
+          "author": "George Choueiri",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nTheoretical foundations of chaos have been predominantly laid out for finite-dimensional dynamical systems, such as the three-body problem in classical mechanics and the Lorenz model in dissipative systems. In contrast, many real-world chaotic phenomena, e.g., weather, arise in systems with many (formally infinite) degrees of freedom, which limits direct quantitative analysis of such systems using chaos theory. In the present work, we demonstrate that the hydrodynamic pilot-wave systems offer a bridge between low- and high-dimensional chaotic phenomena by allowing for a systematic study of how the former connects to the latter. Specifically, we present experimental results, which show the formation of low-dimensional chaotic attractors upon destabilization of regular dynamics and a final transition to high-dimensional chaos via the merging of distinct chaotic regions through a crisis bifurcation. Moreover, we show that the post-crisis dynamics of the system can be rationalized as consecutive scatterings from the nonattracting chaotic sets with lifetimes following exponential distributions.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0102904?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:07:35.000Z",
+          "wordCount": 862,
+          "title": "Crises and chaotic scattering in hydrodynamic pilot-wave experiments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0107866?af=R&feed=most-recent",
+          "author": "Ya Wang",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nPinning control of cluster synchronization in a globally connected network of chaotic oscillators is studied. It is found in simulations that when the pinning strength exceeds a critical value, the oscillators are synchronized into two different clusters, one formed by the pinned oscillators and the other one formed by the unpinned oscillators. The numerical results are analyzed by the generalized method of master stability function (MSF), in which it is shown that whereas the method is able to predict the synchronization behaviors of the pinned oscillators, it fails to predict the synchronization behaviors of the unpinned oscillators. By checking the trajectories of the oscillators in the phase space, it is found that the failure is attributed to the deformed synchronization manifold of the unpinned oscillators, which is clearly deviated from that of isolated oscillator under strong pinnings. A similar phenomenon is also observed in the pinning control of cluster synchronization in a complex network of symmetric structures and in the self-organized cluster synchronization of networked neural oscillators. The findings are important complements to the generalized MSF method and provide an alternative approach to the manipulation of synchronization behaviors in complex network systems.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0107866?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:07:34.000Z",
+          "wordCount": 862,
+          "title": "Cluster synchronization induced by manifold deformation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0100698?af=R&feed=most-recent",
+          "author": "Vladimir V. Klinshov",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nWe study the dynamics of an oscillatory system with pulse delayed feedback and noise of two types: (i) phase noise acting on the oscillator and (ii) stochastic fluctuations of the feedback delay. Using an event-based approach, we reduce the system dynamics to a stochastic discrete map. For weak noise, we find that the oscillator fluctuates around a deterministic state, and we derive an autoregressive model describing the system dynamics. For stronger noise, the oscillator demonstrates noise-induced switching between various deterministic states; our theory provides a good estimate of the switching statistics in the linear limit. We show that the robustness of the system toward this switching is strikingly different depending on the type of noise. We compare the analytical results for linear coupling to numerical simulations of nonlinear coupling and find that the linear model also provides a qualitative explanation for the differences in robustness to both types of noise. Moreover, phase noise drives the system toward higher frequencies, while stochastic delays do not, and we relate this effect to our theoretical results.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0100698?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:07:33.000Z",
+          "wordCount": 862,
+          "title": "Noise-induced switching in an oscillator with pulse delayed feedback: A discrete stochastic modeling approach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0110865?af=R&feed=most-recent",
+          "author": "Jean-Pierre Eckmann",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nWe study the formation of images in a reflective sphere in three configurations using caustics on the field of light rays. The optical wavefront emerging from a source point reaching a subject following passage through the optical system is, in general, a Gaussian surface with partial focus along the two principal directions of the Gaussian surface; i.e., there are two images of the source point, each with partial focus. As the source point moves, the images move on two surfaces, referred to as viewable surfaces. In our systems, one viewable surface consists of points with radial focus and the other consists of points with azimuthal focus. The problems we study are (1) imaging of a parallel beam of light, (2) imaging of the infinite viewed from a location outside the sphere, and (3) imaging of a planar object viewed through the point of its intersection with the radial line normal to the plane. We verify the existence of two images experimentally and show that the distance between them agrees with the computations.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0110865?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:00:58.000Z",
+          "wordCount": 862,
+          "title": "Imaging in reflecting spheres",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0100315?af=R&feed=most-recent",
+          "author": "Wenjie Li",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nHigher-order interactions have significant implications for the dynamics of competing epidemic spreads. In this paper, a competing spread model for two simplicial irreversible epidemics (i.e., susceptible–infected–removed epidemics) on higher-order networks is proposed. The simplicial complexes are based on synthetic (including homogeneous and heterogeneous) and real-world networks. The spread process of two epidemics is theoretically analyzed by extending the microscopic Markov chain approach. When the two epidemics have the same 2-simplex infection rate and the 1-simplex infection rate of epidemic [math] ([math]) is fixed at zero, an increase in the 1-simplex infection rate of epidemic [math] ([math]) causes a transition from continuous growth to sharp growth in the spread of epidemic [math] with [math]. When [math], the growth of epidemic [math] is always continuous. With the increase of [math], the outbreak threshold of epidemic [math] is delayed. When the difference in 1-simplex infection rates between the two epidemics reaches approximately three times, the stronger side obviously dominates. Otherwise, the coexistence of the two epidemics is always observed. When the 1-simplex infection rates are symmetrical, the increase in competition will accelerate the spread process and expand the spread area of both epidemics; when the 1-simplex infection rates are asymmetrical, the spread area of one epidemic increases with an increase in the 1-simplex infection rate from this epidemic while the other decreases. Finally, the influence of 2-simplex infection rates on the competing spread is discussed. An increase in 2-simplex infection rates leads to sharp growth in one of the epidemics.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0100315?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:00:56.000Z",
+          "wordCount": 862,
+          "title": "Two competing simplicial irreversible epidemics on simplicial complex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0098707?af=R&feed=most-recent",
+          "author": "Wendson A. S. Barbosa",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nForecasting the behavior of high-dimensional dynamical systems using machine learning requires efficient methods to learn the underlying physical model. We demonstrate spatiotemporal chaos prediction using a machine learning architecture that, when combined with a next-generation reservoir computer, displays state-of-the-art performance with a computational time [math]–[math] times faster for training process and training data set [math] times smaller than other machine learning algorithms. We also take advantage of the translational symmetry of the model to further reduce the computational cost and training data, each by a factor of [math]10.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0098707?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:00:54.000Z",
+          "wordCount": 862,
+          "title": "Learning spatiotemporal chaos using next-generation reservoir computing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0095737?af=R&feed=most-recent",
+          "author": "Yaning Tang",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nIn this paper, we focus on the fourth-order nonlinear Schrödinger equation, which can describe the optical system and the Heisenberg spin system. We consider a continuous wave perturbed by the one-dimensional random rough surface as the initial condition. First, we numerically resolve the eigenvalues under different control parameters utilizing the Fourier collocation method. Then, we simulate the evolution of this equation under the above initial conditions via the symmetrical split-step Fourier method. Moreover, we investigate the “steady” chaotic state by evolving a large number of initial conditions for the same control parameters. We find that the control parameters of the initial condition affect the number and intensity of rogue waves (RWs) in integrable turbulence. In particular, we locate the inflection point where the control parameter affects the velocities of solitons and the inconsistency within the parameter of the contribution to the generation of RWs. We further verify that the collision between breathers, solitons, and breathers and solitons can generate RWs. These results will enable us to understand the turbulent state and the formation mechanism of RWs.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0095737?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:00:53.000Z",
+          "wordCount": 862,
+          "title": "Dynamics study of integrable turbulence with fourth-order nonlinear Schrödinger equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aip.scitation.org/doi/10.1063/5.0088880?af=R&feed=most-recent",
+          "author": "Thierry Njougouo",
+          "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nThis paper presents the optimal control and synchronization problem of a multilevel network of Rössler chaotic oscillators. Using the Hamilton–Jacobi–Bellman technique, the optimal control law with a three-state variable feedback is designed such that the trajectories of all the Rössler oscillators in the network are optimally synchronized at each level. Furthermore, we provide numerical simulations to demonstrate the effectiveness of the proposed approach for the cases of one and three networks. A perfect correlation between the MATLAB and PSpice results was obtained, thus allowing the experimental validation of our designed controller and shows the effectiveness of the theoretical results.",
+          "link": "https://aip.scitation.org/doi/10.1063/5.0088880?af=R&feed=most-recent",
+          "publishedOn": "2022-09-26T02:00:52.000Z",
+          "wordCount": 862,
+          "title": "Synchronization in a multilevel network using the Hamilton–Jacobi–Bellman (HJB) technique",
+          "imageUrl": null
+        },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0093842?af=R&feed=most-recent",
           "author": "Eddie Nijholt",
@@ -1380,9 +1500,9 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nWe study chaotic dynamics in a system of four differential equations describing the interaction of five identical phase oscillators coupled via biharmonic function. We show that this system exhibits strange spiral attractors (Shilnikov attractors) with two zero (indistinguishable from zero in numerics) Lyapunov exponents in a wide region of the parameter space. We explain this phenomenon by means of bifurcation analysis of a three-dimensional Poincaré map for the system under consideration. We show that chaotic dynamics develop here near a codimension three bifurcation, when a periodic orbit (fixed point of the Poincaré map) has the triplet of multipliers [math]. As it is known, the flow normal form for such bifurcation is the well-known three-dimensional Arneodó–Coullet–Spiegel–Tresser (ACST) system, which exhibits spiral attractors. According to this, we conclude that the additional zero Lyapunov exponent for orbits in the observed attractors appears due to the fact that the corresponding three-dimensional Poincaré map is very close to the time-shift map of the ACST-system.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0098163?af=R&feed=most-recent",
           "publishedOn": "2022-09-08T04:47:29.000Z",
-          "wordCount": 862,
+          "wordCount": 3712,
           "title": "On the origin of chaotic attractors with two zero Lyapunov exponents in a system of five biharmonically coupled phase oscillators",
-          "imageUrl": null
+          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0098163&id=images/medium/5.0098163.figures.online.highlight_f1.jpg"
         },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0102421?af=R&feed=most-recent",
@@ -1420,9 +1540,9 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 9, September 2022. \nThe cubic nonlinear Helmholtz equation with third and fourth order dispersion and non-Kerr nonlinearity, such as the self steepening and the self frequency shift, is considered. This model describes nonparaxial ultrashort pulse propagation in an optical medium in the presence of spatial dispersion originating from the failure of slowly varying envelope approximation. We show that this system admits periodic (elliptic) solitary waves with a dipole structure within a period and also a transition from a dipole to quadrupole structure within a period depending on the value of the modulus parameter of a Jacobi elliptic function. The parametric conditions to be satisfied for the existence of these solutions are given. The effect of the nonparaxial parameter on physical quantities, such as amplitude, pulse width, and speed of the solitary waves, is examined. It is found that by adjusting the nonparaxial parameter, the speed of solitary waves can be decelerated. The stability and robustness of the solitary waves are discussed numerically.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0096099?af=R&feed=most-recent",
           "publishedOn": "2022-09-08T04:47:25.000Z",
-          "wordCount": 3338,
+          "wordCount": 862,
           "title": "Dipole and quadrupole nonparaxial solitary waves",
-          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0096099&id=images/medium/5.0096099.figures.online.highlight_f1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0100772?af=R&feed=most-recent",
@@ -1477,7 +1597,7 @@
           "description": "Kinetic models of metabolism capture time-dependent behaviour of cellular states and provide valuable insights into cellular physiology, but, due to the lack of experimental data, traditional kinetic modelling can be unreliable and computationally inefficient. A generative framework based on deep learning called REKINDLE can efficiently parameterize large-scale kinetic models, enabling new opportunities to study cellular metabolic behaviour.",
           "link": "https://www.nature.com/articles/s42256-022-00519-y",
           "publishedOn": "2022-08-30T00:00:00.000Z",
-          "wordCount": 10595,
+          "wordCount": 10619,
           "title": "Reconstructing Kinetic Models for Dynamical Studies of Metabolism using Generative Adversarial Networks",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00519-y/MediaObjects/42256_2022_519_Fig1_HTML.png"
         }
