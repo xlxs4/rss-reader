@@ -6,6 +6,36 @@
       "siteUrl": "https://pubs.acs.org",
       "articles": [
         {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00226",
+          "author": "Chun-Li Liu, Hong-Gang Dong, Kai Xue, Li Sun, Yankun Yang, Xiuxia Liu, Ye Li, Zhonghu Bai, and Tian-Wei Tan",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00226",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00226",
+          "publishedOn": "2022-10-05T04:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] Metabolic Engineering Mevalonate Pathway Mediated by RNA Scaffolds for Mevalonate and Isoprene Production in <named-content content-type=\"genus-species\" xlink:type=\"simple\">Escherichia coli</named-content>",
+          "imageUrl": null
+        },
+        {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00443",
+          "author": "Li Wan, Roulin Chen, Yingying Zhu, Wenli Zhang, and Wanmeng Mu",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00443",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00443",
+          "publishedOn": "2022-10-05T04:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] Interaction between the Anchoring Domain of A‑Kinase Anchoring Proteins and the Dimerization and Docking Domain of Protein Kinase A: A Potent Tool for Synthetic Biology",
+          "imageUrl": null
+        },
+        {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00413",
+          "author": "Akari Miwa and Koki Kamiya",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00413",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00413",
+          "publishedOn": "2022-10-05T04:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] Control of Enzyme Reaction Initiation inside Giant Unilamellar Vesicles by the Cell-Penetrating Peptide-Mediated Translocation of Cargo Proteins",
+          "imageUrl": null
+        },
+        {
           "id": "http://dx.doi.org/10.1021/acssynbio.2c00404",
           "author": "Simona Notova, Nathan Cannac, Luca Rabagliati, Maeva Touzard, Josselin Mante, Yotam Navon, Liliane Coche-Guérente, Olivier Lerouxel, Laurent Heux, and Anne Imberty",
           "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00404",
@@ -293,13 +323,13 @@
       "siteUrl": "http://biorxiv.org",
       "articles": [
         {
-          "id": "http://biorxiv.org/cgi/content/short/2021.09.10.459858v4?rss=1",
-          "author": "Cooper, R. M.",
-          "description": "Advances in bacterial engineering have catalysed the development of living cell diagnostics and therapeutics, including microbes that respond to gut inflammation, intestinal bleeding, pathogens and hypoxic tumors. Bacteria can access the entire gastrointestinal tract to produce outputs measured in stool or urine. Cellular memory, such as bistable switches or genomic rearrangements11, allows bacteria to store information over time. However, living biosensors have not yet been engineered to detect specific DNA sequences or mutations from outside the cell. Here, we engineer naturally competent Acinetobacter baylyi to detect donor DNA from the genomes of colorectal cancer (CRC) cells, organoids and tumors. We characterize the functionality of the biosensors in vitro with co-culture assays and then validate in vivo with sensor bacteria delivered to mice harboring colorectal tumors. We observe horizontal gene transfer from the tumor to the sensor bacteria in our mouse model of CRC. The sensor bacteria achieved 100% discrimination between mice with and without CRC. This Cellular Assay of Targeted, CRISPR-discriminated Horizontal gene transfer (CATCH), establishes a framework for biosensing of mutations or organisms within environments that are difficult to sample, among many other potential applications. Furthermore, the platform could be readily expanded to include production and delivery of antibiotic or antineoplastic therapeutic payloads at the detection site.",
-          "link": "http://biorxiv.org/cgi/content/short/2021.09.10.459858v4?rss=1",
-          "publishedOn": "2022-10-04T00:00:00.000Z",
-          "wordCount": 1558,
-          "title": "Engineered bacteria detect tumor DNA [NEW RESULTS]",
+          "id": "http://biorxiv.org/cgi/content/short/2022.08.27.505510v2?rss=1",
+          "author": "Vu, T. V.",
+          "description": "Highly efficient precision gene editing is ultimately a desirable technology, but implementation remains challenging, especially in plants. Here, we tested a novel CRISPR-Cas-based tool for precision gene replacement in plants employing a microhomology-mediated end joining (MMEJ) mechanism. The MMEJ-mediated precise gene replacement employing 20-bp microhomology MMEJ donors (~100 bp lengths) and a cNHEJ inhibitor, NU7441, produced high targeted editing efficiencies, up to 1.60 {+/-} 0.14, 4.47 {+/-} 1.98, and 8.98 {+/-} 4.73 % in tomato, lettuce, and cabbage, respectively. Our data also revealed the critical impacts of the microhomology length and NU7441 concentration on MMEJ-based precision gene editing in plants.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.08.27.505510v2?rss=1",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 1695,
+          "title": "CRISPR/Cas-based precision gene replacement in plants via microhomology-mediated end joining [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
         {
@@ -307,19 +337,69 @@
           "author": "Ba, F.",
           "description": "Erythritol, one of the natural sugar alcohols, is widely used as a sugar substitute sweetener in food industries. Humans and their native gut microbiota lack erythritol catabolic microorganisms to utilize erythritol as carbon source, which inspires us to engineer a model chassis that can respond and utilize erythritol for establishing wide applications in synthetic biology fields. Here, we successfully engineered Escherichia coli to respond and utilize erythritol as sole carbon source. First, a heterologous erythritol catabolic gene cluster from Ochrobactrum spp. enables E. coli to catabolize erythritol into erythrose-4-phosphate and flow into pentose-phosphate pathway. Second, we characterized an erythritol binding transcriptional repressor and its DNA binding site. Then, mRNA transcriptional analysis guided us to build up further metabolic engineering strategies for improving erythritol catabolism. Finally, such engineered E. coli strains were applied for in vitro simulated intestinal fluid experiments and performed as an erythritol detector to distinguish soda drinks. We anticipate erythritol catabolic E. coli strains will expand synthetic biology fields and accelerate applications in biomedical engineering and living therapeutics.",
           "link": "http://biorxiv.org/cgi/content/short/2022.10.03.510612v1?rss=1",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 1178,
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 1173,
           "title": "Engineering Escherichia coli to utilize erythritol as sole carbon source [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.09.24.509315v2?rss=1",
+          "author": "Halablab, M.",
+          "description": "Streptomyces phage OC31 encodes a serine integrase which recombines the host (attB) and phage (attP) attachment sites to form new attL and attR sites. For attL and attR to be recombined by the integrase, the presence of its cognate recombination directionality factor (RDF) is required. It is hypothesized that the RDF binds the coiled-coil domain of the integrase to accomplish this switch in recombination directionality. Yet, nothing is known about the site of interaction between the RDF and integrase. Here, we tried to identify the region on the coiled-coil domain of OC31 integrase to which its cognate RDF (gp3) might bind. Mutant integrases fused to their cognate RDF (gp3) were created and selected for inactivity in attL x attR recombination. It was not possible to characterize the mutant…",
+          "link": "http://biorxiv.org/cgi/content/short/2022.09.24.509315v2?rss=1",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 1336,
+          "title": "An approach towards identifying the site of interaction between the Streptomyces phage OC31 protein Gp3 and the coiled-coil domain of its serine integrase [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
         {
           "id": "http://biorxiv.org/cgi/content/short/2022.10.03.510608v1?rss=1",
           "author": "Schindler, D.",
-          "description": "Here we report the design, construction and characterization of a tRNA neochromosome, a designer chromosome that functions as an additional, de novo counterpart to the native complement of Saccharomyces cerevisiae. Intending to address one of the central design principles of the Sc2.0 project, the ~190 kb tRNA neochromosome houses all 275 relocated nuclear tRNA genes. To maximize stability, the design incorporated orthogonal genetic elements from non-S. cerevisiae yeast species. Furthermore, the presence of 283 rox recombination sites enable an orthogonal SCRaMbLE system capable of adjusting tRNA abundance. Following construction, we obtained evidence of a potent selective force once the neochromosome was introduced into yeast cells, manifesting as a spontaneous doubling in cell ploidy. Furthermore, tRNA sequencing, transcriptomics, proteomics, nucleosome mapping, replication profiling, FISH and Hi-C were undertaken to investigate questions of tRNA neochromosome behavior and function. Its construction demonstrates the remarkable tractability of the yeast model and opens up new opportunities to directly test hypotheses surrounding these essential non-coding RNAs.",
+          "description": "Here we report the design, construction and characterization of a tRNA neochromosome, a designer chromosome that functions as an additional, de novo counterpart to the native complement of Saccharomyces cerevisiae. Intending to address one of the central design principles of the Sc2.0 project, the [~]190 kb tRNA neochromosome houses all 275 relocated nuclear tRNA genes. To maximize stability, the design incorporated orthogonal genetic elements from non-S. cerevisiae yeast species. Furthermore, the presence of 283 rox recombination sites enable an orthogonal SCRaMbLE system capable of adjusting tRNA abundance. Following construction, we obtained evidence of a potent selective force once the neochromosome was introduced into yeast cells, manifesting as a spontaneous doubling in cell ploidy. Furthermore, tRNA sequencing, transcriptomics, proteomics, nucleosome mapping, replication profiling, FISH and Hi-C were undertaken to investigate questions of tRNA neochromosome behavior and function. Its construction demonstrates the remarkable tractability of the yeast model and opens up new opportunities to directly test hypotheses surrounding these essential non-coding RNAs.\n\nHighlightsO_LIDe novo design, construction and functional characterization of a neochromosome containing all 275 nuclear tRNA genes of Saccharomyces cerevisiae.\nC_LIO_LIIncreasing the copy number of the 275 highly expressed tRNA genes causes cellular burden, which the host cell likely buffers either by selecting for partial tRNA neochromosome deletions or by increasing its ploidy.\nC_LIO_LIThe tRNA neochromosome can be chemically extracted and transformed into new strain backgrounds, enabling its transplantation into multi-synthetic chromosome strains to finalize the Sc2.0 strain.\nC_LIO_LIComprehensive functional characterization does not pinpoint a singular cause for the cellular burden caused by the tRNA neochromosome, but does reveal novel insights into its tRNA and structural chromosome biology.\nC_LI",
           "link": "http://biorxiv.org/cgi/content/short/2022.10.03.510608v1?rss=1",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 2428,
+          "publishedOn": "2022-10-05T00:00:00.000Z",
+          "wordCount": 2475,
           "title": "Design, Construction, and Functional Characterization of a tRNA Neochromosome in Yeast [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.10.04.510903v1?rss=1",
+          "author": "Seki, K.",
+          "description": "A wide variety of non-canonical amino acids (ncAAs) can be incorporated into proteins through the coordinated action of a stop codon suppressing tRNA and aminoacyl-tRNA synthetase. However, methods to discover and characterize suppressor tRNAs are generally lacking. In this work, we show that cell-free systems can express functional suppressor tRNAs using endogenous machinery and characterize their activity. This method is compatible with widely used orthogonal tRNAs, such as the Methanocaldococus jannaschii tyrosyl tRNA, the Methanosarcina barkeri pyrrolysyl tRNA, the Methanomethylophilus Alvus pyrrolysyl tRNA, and an engineered Int pyrroysyl tRNA. Modifying the workflow to evaluate TAA suppression revealed that the M. jannaschii and M. alvus are highly functional TAA suppressors in cell-free systems. Finally, we show that we can express two distinct tRNAs simultaneously, enabling the incorporation of multiple, distinct ncAAs. In total, our work shows that cell-free systems are useful platforms to express and characterize tRNAs.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.10.04.510903v1?rss=1",
+          "publishedOn": "2022-10-05T00:00:00.000Z",
+          "wordCount": 1018,
+          "title": "Orthogonal tRNA Expression using Endogenous Machinery in Cell-Free Systems [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.10.04.510900v1?rss=1",
+          "author": "Santorelli, M.",
+          "description": "A major goal in synthetic development is to design and construct gene regulatory circuits that con- trol the patterning and morphogenesis of synthetic multicellular structures. In natural development, an interplay between mechanical and chemical communication shapes the dynamics of gene reg- ulatory circuits that underlie patterning and morphogenesis. However, for synthetic gene circuits, how the non-genetic properties of the growth environment impact circuit behavior remains poorly understood. Here, we describe an occurrence of mechano-chemical coupling in synthetic contact- dependent synNotch patterning circuits demonstrating that cell density modulates the transduction of signal between a sender and receiver cell. By exploiting density-dependent signaling, we con- struct multicellular signal propagation circuits with synNotch and control the patterning outcome both temporally and spatially via cell density gradients established in vitro via plating or small- molecule mediated modulation of proliferation. Our work demonstrates that synthetic gene circuits can be critically impacted by their context, providing an alternate means for programming multi- cellular circuit patterning outcomes.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.10.04.510900v1?rss=1",
+          "publishedOn": "2022-10-05T00:00:00.000Z",
+          "wordCount": 1204,
+          "title": "Control of spatio-temporal patterning via cell density in a multicellular synthetic gene circuit [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.10.04.509869v1?rss=1",
+          "author": "Jiang, S.",
+          "description": "The genome of an organism is inherited from its ancestor and keeps evolving over time, however, how much the current version could be altered remains unknown. Here, we use the left arm of chromosome XII (chrXIIL) as an example to probe the genome plasticity in Saccharomyces cerevisiae. A neochromosome was designed to harbor originally dispersed genes. The essentiality of sequences in chrXIIL was dissected by targeted DNA removal, chromosome truncation and random deletion. Notably, 12 genes were sufficient for survival, while 25 genes are required to retain robust fitness. Next, we demonstrated these genes could be reconstructed using synthetic regulatory sequences and recoded open-reading frames with \"one-amino-acid-one-codon\" strategy. Finally, we built a neochromsome, which could substitute for chrXIIL for cell viability, with these reconstructed genes. Our work not only highlights the high plasticity of yeast genome, but also illustrates the possibility of making functional chromosomes with completely artificial sequences.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.10.04.509869v1?rss=1",
+          "publishedOn": "2022-10-05T00:00:00.000Z",
+          "wordCount": 1770,
+          "title": "Reconstruct a eukaryotic chromosome arm by de novo design and synthesis [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2021.09.10.459858v4?rss=1",
+          "author": "Cooper, R. M.",
+          "description": "Advances in bacterial engineering have catalysed the development of living cell diagnostics and therapeutics, including microbes that respond to gut inflammation, intestinal bleeding, pathogens and hypoxic tumors. Bacteria can access the entire gastrointestinal tract to produce outputs measured in stool or urine. Cellular memory, such as bistable switches or genomic rearrangements11, allows bacteria to store information over time. However, living biosensors have not yet been engineered to detect specific DNA sequences or mutations from outside the cell. Here, we engineer naturally competent Acinetobacter baylyi to detect donor DNA from the genomes of colorectal cancer (CRC) cells, organoids and tumors. We characterize the functionality of the biosensors in vitro with co-culture assays and then validate in vivo with sensor bacteria delivered to mice harboring colorectal tumors. We observe horizontal gene transfer from the tumor to the sensor bacteria in our mouse model of CRC. The sensor bacteria achieved 100% discrimination between mice with and without CRC. This Cellular Assay of Targeted, CRISPR-discriminated Horizontal gene transfer (CATCH), establishes a framework for biosensing of mutations or organisms within environments that are difficult to sample, among many other potential applications. Furthermore, the platform could be readily expanded to include production and delivery of antibiotic or antineoplastic therapeutic payloads at the detection site.",
+          "link": "http://biorxiv.org/cgi/content/short/2021.09.10.459858v4?rss=1",
+          "publishedOn": "2022-10-04T00:00:00.000Z",
+          "wordCount": 1558,
+          "title": "Engineered bacteria detect tumor DNA [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
         {
@@ -333,16 +413,6 @@
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         },
         {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.24.509315v2?rss=1",
-          "author": "Halablab, M.-L.-K.",
-          "description": "Streptomyces phage PhiC31 encodes a serine integrase which recombines the host (attB) and phage (attP) attachment sites to form new attL and attR sites. For attL and attR to be recombined by the integrase, the presence of its cognate recombination directionality factor (RDF) is required. It is hypothesized that the RDF binds the coiled-coil domain of the integrase to accomplish this switch in recombination directionality. Yet, nothing is known about the site of interaction between the RDF and integrase. Here, we tried to identify the region on the coiled-coil domain of PhiC31 integrase to which its cognate RDF (gp3) might bind. Mutant integrases fused to their cognate RDF (gp3) were created and selected for inactivity in attL x attR recombination. It was not possible to characterize the mu…",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.24.509315v2?rss=1",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 1283,
-          "title": "An approach towards identifying the site of interaction between the Streptomyces phage PhiC31 protein Gp3 and the coiled-coil domain of its serine integrase [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
           "id": "http://biorxiv.org/cgi/content/short/2022.09.28.509966v1?rss=1",
           "author": "Chen, G.",
           "description": "Cucurbitacin IIa is a triterpene isolated exclusively from Hemsleya plants, which is non-steroidal anti-inflammatory drug that function as the main ingredient of Hemslecin capsules and Supplemental Tablets in China. In this study, the biosynthetic pathway of cucurbitacin IIa was elucidated by characterization of squalene epoxidases (HcSE1, HcSE2), cucurbitenol synthases (HcOSC6) and acyltransferases (HcAT1) in Hemsleya chinensis. Meanwhile, cycloartenol synthases (HcOSC1), isomultiflorenol synthases (HcOSC5) and {beta}-amyrin synthase (HcOSC2-4) involved in sterol and triterpenes biosynthesis were functionally illustrated. The high-level production of yeast the key cucurbitacin precursor, cucurbitadienol, was constructed to produce 296.37 mg/L cucurbitadienol and 722.99 mg/L total triterpenoid which is the highest yield cucurbitadienol from known engineered microbes. Moreover, production of cucurbitenol in transient expression of tobacco was employed to achieve 94.8 mg/g dry weight (dw) cucurbitenol from leaves. In this study, the key genes involved in cucurbitacin IIa biosynthesis were identified to facilitate its medical applications via biosynthetic strategy. Meanwhile, the high-level production of cucurbitadienol chassis yeast and tobacco transient expression offered a robust and sSupplemental Table substrate for pharmaceutical cucurbitacin production and screening platform for candidate genes involved in cucurbitacin biosynthesis.",
@@ -350,46 +420,6 @@
           "publishedOn": "2022-10-03T00:00:00.000Z",
           "wordCount": 2083,
           "title": "Pathway elucidation of pharmaceutical cucurbitacin IIa in Hemsleya chinensis and high-level production of precursor cucurbitadienol in engineered Saccharomyces cerevisiae and Nicotiana benthamiana [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.30.509847v1?rss=1",
-          "author": "Bro&#x0308;del, A. K.",
-          "description": "Microbiome research is revealing a growing number of bacterial genes that impact our health. While CRISPR-derived tools have shown great success in editing disease-driving genes in human cells, we currently lack the tools to achieve comparable success for bacterial targets. Here we engineer a phage-derived particle to deliver a base editor and modify E. coli colonizing the mouse gut. This was achieved using a non-replicative DNA payload, preventing maintenance and dissemination of the payload, while allowing for an editing efficiency of up to 99.7% of the target bacterial population. The editing of a {beta}-lactamase gene resulted in the stable maintenance of edited bacteria in the mouse gut at least 42 days after treatment. By enabling the in situ modification of bacteria directly in the gut, our approach offers a novel avenue to investigate the function of bacterial genes and provides an opportunity to develop novel microbiome-targeted therapies.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.30.509847v1?rss=1",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 1354,
-          "title": "In situ targeted mutagenesis of gut bacteria [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.29.510219v1?rss=1",
-          "author": "Bryant, J. A.",
-          "description": "As one of the newest fields of engineering, synthetic biology relies upon a trial-and-error Design-Build-Test-Learn approach to simultaneously learn how function is encoded in biology and attempt to engineer it. Many software and hardware platforms have been developed to automate, optimize, and algorithmically perform each step of the Design-Build-Test-Learn cycle. However, there are many fewer options for automating the Build step. Build typically involves DNA assembly, which remains manual, low throughput, and unreliable in most cases, limiting our ability to advance the science and engineering of biology. Here, we present AssemblyTron: an open-source python package to integrate j5 DNA assembly design software outputs with build implementation in Opentrons liquid handling robotics with minimal human intervention. We demonstrate the versatility of AssemblyTron through several scarless, multipart DNA assemblies beginning from fragment amplification. We show that AssemblyTron can perform PCRs across a range of fragment lengths and annealing temperatures by using an optimal annealing temperature gradient calculation algorithm. We then demonstrate that AssemblyTron can perform Golden Gate and homology-dependent in vivo assemblies with comparable fidelity to manual assemblies by simultaneously building four four-fragment assemblies of chromoprotein reporter expression plasmids. Finally, we used AssemblyTron to perform site-directed mutagenesis reactions via homology-dependent in vivo assembly also achieving comparable fidelity to manual assemblies as assessed by sequencing. AssemblyTron can reduce the time, training, costs, and wastes associated with synthetic biology, which along with open-source and affordable automation, will further foster the accessibility of synthetic biology and accelerate biological research and engineering.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.29.510219v1?rss=1",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 1262,
-          "title": "AssemblyTron: Flexible automation of DNA assembly with Opentrons OT-2 lab robots [CONFIRMATORY RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.27.509702v1?rss=1",
-          "author": "Mohler, K.",
-          "description": "Interactions between proteins from intracellular pathogens and host proteins in an infected cell are often mediated by post-translational modifications encoded in the host proteome. Identifying protein modifications, such as phosphorylation, that dictate these interactions remains a defining challenge in unraveling the molecular mechanisms of pathogenesis. We have developed a platform in engineered bacteria that displays over 110,000 phosphorylated human proteins coupled to a fluorescent reporter system capable of identifying the host-pathogen interactome of phosphoproteins (H-PIP). This resource broadly enables cell-type independent interrogation and discovery of proteins from intracellular pathogens capable of binding phosphorylated human proteins. As an example of the H-PIP platform, we generated a unique, high-resolution SARS-CoV-2 interaction network which expanded our knowledge of viral protein function and identified understudied areas of host pathology.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.27.509702v1?rss=1",
-          "publishedOn": "2022-10-01T00:00:00.000Z",
-          "wordCount": 1124,
-          "title": "Cell type-independent profiling of interactions between intracellular pathogens and the human phosphoproteome [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.09.28.509898v1?rss=1",
-          "author": "Wenk, S.",
-          "description": "Atmospheric CO2 poses a major threat to life on Earth by causing global warming and climate change. On the other hand, it is the only carbon source that is scalable enough to establish a circular carbon economy. Accordingly, technologies to capture and convert CO2 to reduced one-carbon (C1) molecules (e.g. formate) using renewable energy are improving fast. Driven by the idea of creating sustainable bioproduction platforms, natural and synthetic C1-utilization pathways are engineered into industrially relevant microbes. The realization of synthetic C1-assimilation cycles in living organisms is a promising but challenging endeavour. Here, we engineer the autocatalytic serine threonine cycle, a synthetic C1-assimilation route in Escherichia coli. Our stepwise engineering approach in tailored selection strains combined with adaptive laboratory evolution experiments enabled the organism to grow on formate. The synthetic strain uses formate as the sole carbon and energy source and is capable of growing at ambient CO2 concentrations, demonstrating the feasibility of establishing synthetic C1-assimilation cycles over laboratory timescales.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.09.28.509898v1?rss=1",
-          "publishedOn": "2022-10-01T00:00:00.000Z",
-          "wordCount": 1285,
-          "title": "Synthetic carbon fixation via the autocatalytic serine threonine cycle [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         }
       ]
@@ -399,6 +429,166 @@
       "feedUrl": "http://www.nature.com/subjects/computational-biology-and-bioinformatics.rss",
       "siteUrl": "https://www.nature.com/subjects/computational-biology-and-bioinformatics",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20268-7",
+          "author": null,
+          "description": "Scientific Reports - An interpretable semi-supervised framework for patch-based classification of breast cancer",
+          "link": "https://www.nature.com/articles/s41598-022-20268-7",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 11797,
+          "title": "An interpretable semi-supervised framework for patch-based classification of breast cancer",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20268-7/MediaObjects/41598_2022_20268_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-21149-9",
+          "author": null,
+          "description": "Scientific Reports - Research on visual question answering based on dynamic memory network model of multiple attention mechanisms",
+          "link": "https://www.nature.com/articles/s41598-022-21149-9",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 7732,
+          "title": "Research on visual question answering based on dynamic memory network model of multiple attention mechanisms",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-21149-9/MediaObjects/41598_2022_21149_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20651-4",
+          "author": null,
+          "description": "Scientific Reports - Evaluation of two semi-supervised learning methods and their combination for automatic classification of bone marrow cells",
+          "link": "https://www.nature.com/articles/s41598-022-20651-4",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 9178,
+          "title": "Evaluation of two semi-supervised learning methods and their combination for automatic classification of bone marrow cells",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20651-4/MediaObjects/41598_2022_20651_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-19994-9",
+          "author": null,
+          "description": "Scientific Reports - Structure-function clustering in weighted brain networks",
+          "link": "https://www.nature.com/articles/s41598-022-19994-9",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 9344,
+          "title": "Structure-function clustering in weighted brain networks",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19994-9/MediaObjects/41598_2022_19994_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42003-022-04020-5",
+          "author": null,
+          "description": "SoloTE includes the genome location of transposable elements (TE) in scRNA-Seq data to determine how TE activity regulates neighboring gene expression.",
+          "link": "https://www.nature.com/articles/s42003-022-04020-5",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 10586,
+          "title": "SoloTE for improved analysis of transposable elements in single-cell RNA-Seq data using locus-specific expression",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-04020-5/MediaObjects/42003_2022_4020_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41592-022-01625-w",
+          "author": null,
+          "description": "neuromaps is a toolbox for accessing, transforming and comparing human neuroimaging data.",
+          "link": "https://www.nature.com/articles/s41592-022-01625-w",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 11941,
+          "title": "neuromaps: structural and functional interpretation of brain maps",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01625-w/MediaObjects/41592_2022_1625_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41592-022-01623-y",
+          "author": null,
+          "description": "This Review summarizes recent methodological advances in experimental and computational tools developed in studying RNA structures, which provides a bridge for communication between both experimentalists and computational experts.",
+          "link": "https://www.nature.com/articles/s41592-022-01623-y",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 12864,
+          "title": "Advances and opportunities in RNA structure experimental determination and computational modeling",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01623-y/MediaObjects/41592_2022_1623_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s44161-022-00133-6",
+          "author": null,
+          "description": "In a combined computational and multi-center clinical study to investigate the effects of adipose fat tissue infiltration on ventricular arrhythmias, Sung et al. show that infiltrating adipose tissue, as opposed to scar, is the main cause of infarcted-related ventricular arrhythmias by slowing cardiac conduction in critical sites.",
+          "link": "https://www.nature.com/articles/s44161-022-00133-6",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 13284,
+          "title": "Fat infiltration in the infarcted heart as a paradigm for ventricular arrhythmias",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44161-022-00133-6/MediaObjects/44161_2022_133_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-21150-2",
+          "author": null,
+          "description": "Scientific Reports - Prediction of chemical warfare agents based on cholinergic array type meta-predictors",
+          "link": "https://www.nature.com/articles/s41598-022-21150-2",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 7850,
+          "title": "Prediction of chemical warfare agents based on cholinergic array type meta-predictors",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-21150-2/MediaObjects/41598_2022_21150_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-21207-2",
+          "author": null,
+          "description": "Scientific Reports - A novel vaccine based on SARS-CoV-2 CD4+ and CD8+ T cell conserved epitopes from variants Alpha to Omicron",
+          "link": "https://www.nature.com/articles/s41598-022-21207-2",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 17838,
+          "title": "A novel vaccine based on SARS-CoV-2 CD4+ and CD8+ T cell conserved epitopes from variants Alpha to Omicron",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-21207-2/MediaObjects/41598_2022_21207_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41587-022-01464-2",
+          "author": null,
+          "description": "A computational pipeline identifies tumor antigen post-translational modifications guiding immune responses.",
+          "link": "https://www.nature.com/articles/s41587-022-01464-2",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 7567,
+          "title": "Post-translational modifications reshape the antigenic landscape of the MHC I immunopeptidome in tumors",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01464-2/MediaObjects/41587_2022_1464_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-33562-9",
+          "author": null,
+          "description": "Deep learning-based methods have been proposed to substitute CT-based PET attenuation and scatter correction to achieve CT-free PET imaging. Here, the authors present a simple way to integrate domain knowledge in deep learning for CT-free PET imaging.",
+          "link": "https://www.nature.com/articles/s41467-022-33562-9",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 9011,
+          "title": "Using domain knowledge for robust and generalizable deep learning-based CT-free PET attenuation and scatter correction",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33562-9/MediaObjects/41467_2022_33562_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20224-5",
+          "author": null,
+          "description": "Scientific Reports - Detecting and mitigating simultaneous waves of COVID-19 infections",
+          "link": "https://www.nature.com/articles/s41598-022-20224-5",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 11279,
+          "title": "Detecting and mitigating simultaneous waves of COVID-19 infections",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20224-5/MediaObjects/41598_2022_20224_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-33575-4",
+          "author": null,
+          "description": "The formation of ternary degrader-protein complexes is a key step in the targeted degradation of proteins of interest. Here, the authors explore the structure and dynamics of such complexes applying high-performance computer simulations augmented with experimental data.",
+          "link": "https://www.nature.com/articles/s41467-022-33575-4",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 23630,
+          "title": "Predicting the structural basis of targeted protein degradation by integrating molecular dynamics simulations with structural mass spectrometry",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33575-4/MediaObjects/41467_2022_33575_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-33530-3",
+          "author": null,
+          "description": "Accurate analysis of mitochondrial DNA is important for mitochondrial disease clinical research and diagnostics. Here, authors present a method using Cas9 cleavage, nanopore sequencing and a custom pipeline to identify pathogenic variants, deletions and accurately quantify heteroplasmy to below 1%.",
+          "link": "https://www.nature.com/articles/s41467-022-33530-3",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 13094,
+          "title": "A method for multiplexed full-length single-molecule sequencing of the human mitochondrial genome",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33530-3/MediaObjects/41467_2022_33530_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20703-9",
+          "author": null,
+          "description": "Scientific Reports - Robustness of radiomics to variations in segmentation methods in multimodal brain MRI",
+          "link": "https://www.nature.com/articles/s41598-022-20703-9",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 9922,
+          "title": "Robustness of radiomics to variations in segmentation methods in multimodal brain MRI",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20703-9/MediaObjects/41598_2022_20703_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41598-022-21129-z",
           "author": null,
@@ -425,7 +615,7 @@
           "description": "Reinforcement-learning technique identifies more efficient ways to perform a fundamental computing operation.",
           "link": "https://www.nature.com/articles/d41586-022-03023-w",
           "publishedOn": "2022-10-05T00:00:00.000Z",
-          "wordCount": 2780,
+          "wordCount": 2781,
           "title": "Artificial intelligence finds faster algorithms for multiplying matrices",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03023-w/d41586-022-03023-w_23557214.png"
         },
@@ -445,7 +635,7 @@
           "description": "Machine-learning technique improves computing efficiency and could have far-reaching applications.",
           "link": "https://www.nature.com/articles/d41586-022-03166-w",
           "publishedOn": "2022-10-05T00:00:00.000Z",
-          "wordCount": 3479,
+          "wordCount": 3480,
           "title": "DeepMind AI invents faster algorithms to solve tough maths puzzles",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
         },
@@ -485,7 +675,7 @@
           "description": "Scientific Reports - Analysis of the correlation between Zeste enhancer homolog 2 (EZH2) mRNA expression and the prognosis of mesothelioma patients and immune infiltration",
           "link": "https://www.nature.com/articles/s41598-022-21005-w",
           "publishedOn": "2022-10-04T00:00:00.000Z",
-          "wordCount": 7465,
+          "wordCount": 7469,
           "title": "Analysis of the correlation between Zeste enhancer homolog 2 (EZH2) mRNA expression and the prognosis of mesothelioma patients and immune infiltration",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-21005-w/MediaObjects/41598_2022_21005_Fig1_HTML.png"
         },
@@ -495,7 +685,7 @@
           "description": "European Journal of Clinical Nutrition - Modelling health and economic impact of nutrition interventions: a systematic review",
           "link": "https://www.nature.com/articles/s41430-022-01199-y",
           "publishedOn": "2022-10-04T00:00:00.000Z",
-          "wordCount": 14601,
+          "wordCount": 14605,
           "title": "Modelling health and economic impact of nutrition interventions: a systematic review",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41430-022-01199-y/MediaObjects/41430_2022_1199_Fig1_HTML.png"
         },
@@ -515,7 +705,7 @@
           "description": "Scientific Reports - Different skeletal protein toolkits achieve similar structure and performance in the tropical coral Stylophora pistillata and the temperate Oculina patagonica",
           "link": "https://www.nature.com/articles/s41598-022-20744-0",
           "publishedOn": "2022-10-04T00:00:00.000Z",
-          "wordCount": 9673,
+          "wordCount": 9677,
           "title": "Different skeletal protein toolkits achieve similar structure and performance in the tropical coral Stylophora pistillata and the temperate Oculina patagonica",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20744-0/MediaObjects/41598_2022_20744_Fig1_HTML.png"
         },
@@ -525,7 +715,7 @@
           "description": "BIONIC (Biological Network Integration using Convolutions) is a scalable deep learning network integration approach that learns and combines diverse data representations across a range of biological network types to consolidate knowledge of gene function. BIONIC outperforms existing integration approaches by capturing biological information more comprehensively and with greater accuracy than previously possible.",
           "link": "https://www.nature.com/articles/s41592-022-01617-w",
           "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2428,
           "title": "BIONIC: discovering new biology through deep learning-based network integration",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01617-w/MediaObjects/41592_2022_1617_Fig1_HTML.png"
         },
@@ -535,169 +725,9 @@
           "description": "BIONIC uses a deep learning framework for accurate and scalable integration of biological networks.",
           "link": "https://www.nature.com/articles/s41592-022-01616-x",
           "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 7162,
+          "wordCount": 7160,
           "title": "BIONIC: biological network integration using convolutions",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01616-x/MediaObjects/41592_2022_1616_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-33004-6",
-          "author": null,
-          "description": "The immunoglobulin domain framework of antibodies has been a long standing design challenge. Here, the authors describe design rules for tailoring these domains and show they can be accurately designed, de novo, with high stability and the ability to scaffold functional loops.",
-          "link": "https://www.nature.com/articles/s41467-022-33004-6",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 14726,
-          "title": "De novo design of immunoglobulin-like domains",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33004-6/MediaObjects/41467_2022_33004_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41576-022-00532-2",
-          "author": null,
-          "description": "In this Review, the authors describe advances in deep learning approaches in genomics, whereby researchers are moving beyond the typical ‘black box’ nature of models to obtain biological insights through explainable artificial intelligence (xAI).",
-          "link": "https://www.nature.com/articles/s41576-022-00532-2",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 13318,
-          "title": "Obtaining genetics insights from deep learning via explainable artificial intelligence",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-022-00532-2/MediaObjects/41576_2022_532_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41587-022-01432-w",
-          "author": null,
-          "description": "RGN2 predicts a protein’s structure from its sequence without a multiple sequence alignment.",
-          "link": "https://www.nature.com/articles/s41587-022-01432-w",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 4770,
-          "title": "Single-sequence protein structure prediction using a language model and deep learning",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01432-w/MediaObjects/41587_2022_1432_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41592-022-01607-y",
-          "author": null,
-          "description": "RNA molecules designed by citizen scientists and probed in high-throughput experiments highlighted discrepancies among RNA folding algorithms in their ability to predict RNA structure ensembles. These datasets were used to train a new algorithm that demonstrated improved performance in a collection of independent datasets, including viral genomic RNAs and mRNAs probed in cells.",
-          "link": "https://www.nature.com/articles/s41592-022-01607-y",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 3119,
-          "title": "Learning RNA structure prediction from crowd-designed RNAs",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01607-y/MediaObjects/41592_2022_1607_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41592-022-01622-z",
-          "author": null,
-          "description": "Jumping across silos is a tough sport. But practitioners find joy in leaving comfort zones.",
-          "link": "https://www.nature.com/articles/s41592-022-01622-z",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 2256,
-          "title": "Cross-disciplinary ways to connect and blend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nature.com/articles/s43588-022-00320-2",
-          "author": null,
-          "description": "In a recent study a phenomenological model was used to study the effects of activity-dependent myelination (ADM) on network activity and information transmission in the brain. The model explores how the conduction velocity of an axon — and thus the overall transmission delay — varies as a function of neural activity.",
-          "link": "https://www.nature.com/articles/s43588-022-00320-2",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 2596,
-          "title": "The role of ADM in brain function",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-022-00320-2/MediaObjects/43588_2022_320_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-022-01884-y",
-          "author": null,
-          "description": "Using individual transcriptomes of two ant species, the authors show that caste differentiation is canalized from early development and identify key regulatory genes for the development of ant caste phenotypes.",
-          "link": "https://www.nature.com/articles/s41559-022-01884-y",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 15737,
-          "title": "Canalized gene expression during development mediates caste differentiation in ants",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-022-01884-y/MediaObjects/41559_2022_1884_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41592-022-01605-0",
-          "author": null,
-          "description": "The EternaBench dataset of synthetic RNA constructs was used to directly compare RNA secondary structure prediction software packages on ensemble-oriented prediction tasks and used to train the EternaFold model for improved performance.",
-          "link": "https://www.nature.com/articles/s41592-022-01605-0",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 14909,
-          "title": "RNA secondary structure packages evaluated and improved by high-throughput experiments",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-022-01605-0/MediaObjects/41592_2022_1605_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-19005-x",
-          "author": null,
-          "description": "Scientific Reports - Knowledge of the perturbation design is essential for accurate gene regulatory network inference",
-          "link": "https://www.nature.com/articles/s41598-022-19005-x",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 9837,
-          "title": "Knowledge of the perturbation design is essential for accurate gene regulatory network inference",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-19005-x/MediaObjects/41598_2022_19005_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-21045-2",
-          "author": null,
-          "description": "Scientific Reports - The comprehensive detection of miRNA and circRNA in the regulation of intramuscular and subcutaneous adipose tissue of Laiwu pig",
-          "link": "https://www.nature.com/articles/s41598-022-21045-2",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 10334,
-          "title": "The comprehensive detection of miRNA and circRNA in the regulation of intramuscular and subcutaneous adipose tissue of Laiwu pig",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-21045-2/MediaObjects/41598_2022_21045_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-33189-w",
-          "author": null,
-          "description": "HOXA9 plays an important role in acute myeloid leukaemia (AML), but its relevance for other blood malignancies is unclear. Here, the authors show that HOXA9 has a binary switch function that can clinically stratify AML patients, and model how the interactions with JAK2, TET2 and NOTCH impact myeloproliferative neoplasms.",
-          "link": "https://www.nature.com/articles/s41467-022-33189-w",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 10447,
-          "title": "HOXA9 has the hallmarks of a biological switch with implications in blood cancers",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33189-w/MediaObjects/41467_2022_33189_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s43588-022-00315-z",
-          "author": null,
-          "description": "Conduction of neural impulses along axons in the brain is sped up by a substance called myelin, which changes during development and learning. This study reveals that myelin remodelling coordinates and optimizes neuronal communication.",
-          "link": "https://www.nature.com/articles/s43588-022-00315-z",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 4358,
-          "title": "Homeostatic coordination and up-regulation of neural activity by activity-dependent myelination",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-022-00315-z/MediaObjects/43588_2022_315_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20979-x",
-          "author": null,
-          "description": "Scientific Reports - Modelling brain dynamics by Boolean networks",
-          "link": "https://www.nature.com/articles/s41598-022-20979-x",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 15344,
-          "title": "Modelling brain dynamics by Boolean networks",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20979-x/MediaObjects/41598_2022_20979_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41540-022-00247-4",
-          "author": null,
-          "description": "npj Systems Biology and Applications - Computational systems biology in disease modeling and control, review and perspectives",
-          "link": "https://www.nature.com/articles/s41540-022-00247-4",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 15397,
-          "title": "Computational systems biology in disease modeling and control, review and perspectives",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41540-022-00247-4/MediaObjects/41540_2022_247_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s43856-022-00180-x",
-          "author": null,
-          "description": "Qui et al. present a new approach, IMPACT, that uses explainable artificial intelligence to analyze all-cause mortality. IMPACT provides insights into the individualized mortality risk scores, while maintaining high model accuracy and the expressive power to capture complex, non-linear relationships between mortality and individuals’ features.",
-          "link": "https://www.nature.com/articles/s43856-022-00180-x",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 13287,
-          "title": "Interpretable machine learning prediction of all-cause mortality",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-022-00180-x/MediaObjects/43856_2022_180_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41597-022-01716-5",
-          "author": null,
-          "description": "Scientific Data - Niche deconvolution of the glioblastoma proteome reveals a distinct infiltrative phenotype within the proneural transcriptomic subgroup",
-          "link": "https://www.nature.com/articles/s41597-022-01716-5",
-          "publishedOn": "2022-10-01T00:00:00.000Z",
-          "wordCount": 6908,
-          "title": "Niche deconvolution of the glioblastoma proteome reveals a distinct infiltrative phenotype within the proneural transcriptomic subgroup",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-022-01716-5/MediaObjects/41597_2022_1716_Fig1_HTML.png"
         }
       ]
     },
@@ -779,7 +809,7 @@
           "description": "“AI for endometriosis? If only there were data!”",
           "link": "https://news.mit.edu/2022/events-illuminate-critical-need-menstruation-science-1003",
           "publishedOn": "2022-10-03T20:00:00.000Z",
-          "wordCount": 2034,
+          "wordCount": 2061,
           "title": "MIT events illuminate critical need for menstruation science",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/MIT-Below-The-Belt-Outside.jpg"
         },
@@ -789,7 +819,7 @@
           "description": "Test that measures a person’s antibodies requires a drop of blood and takes just 10 minutes to show results.",
           "link": "https://news.mit.edu/2022/smart-researchers-develop-quick-test-determine-immunity-against-covid-19-0930",
           "publishedOn": "2022-09-30T19:30:00.000Z",
-          "wordCount": 2650,
+          "wordCount": 2677,
           "title": "SMART researchers develop quick test to determine immunity against Covid-19",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/SMART-and-NTU-scientists-with-the-rapid-test-kit-that-detects-levels-of-COVID19-antibodies-cover.jpg"
         },
@@ -799,7 +829,7 @@
           "description": "MIT spinoff Takachar converts agricultural waste into clean-burning fuel, and wins Earthshot Prize.",
           "link": "https://news.mit.edu/2022/processing-waste-biomass-reduce-airborne-emissions-0929",
           "publishedOn": "2022-09-29T18:00:00.000Z",
-          "wordCount": 2454,
+          "wordCount": 2481,
           "title": "Processing waste biomass to reduce airborne emissions",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/Takachar-hay-field-MITEI.jpg"
         },
@@ -809,7 +839,7 @@
           "description": "A machine-learning method finds patterns of health decline in ALS, informing future clinical trial designs and mechanism discovery. The technique also extends to Alzheimer’s and Parkinson’s.",
           "link": "https://news.mit.edu/2022/neurodegenerative-disease-can-progress-newly-identified-patterns-0927",
           "publishedOn": "2022-09-27T19:50:00.000Z",
-          "wordCount": 2266,
+          "wordCount": 2293,
           "title": "Neurodegenerative disease can progress in newly identified patterns",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/neuron-cell.jpg"
         },
@@ -819,7 +849,7 @@
           "description": "MIT researchers demonstrate an intracellular antenna that's compatible with 3D biological systems and can operate wirelessly inside a living cell.",
           "link": "https://news.mit.edu/2022/cell-rover-exploring-augmenting-inner-world-cell-0922",
           "publishedOn": "2022-09-22T15:50:00.000Z",
-          "wordCount": 1826,
+          "wordCount": 1853,
           "title": "Cell Rover: Exploring and augmenting the inner world of the cell",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/cell-antenna.png"
         },
@@ -829,7 +859,7 @@
           "description": "By providing researchers with financial and strategic support from the early stages, the Innovation Center hopes to bring new and disruptive technologies to market.",
           "link": "https://news.mit.edu/2022/smart-innovation-center-awarded-nrf-grant-0913",
           "publishedOn": "2022-09-13T15:20:00.000Z",
-          "wordCount": 1904,
+          "wordCount": 1931,
           "title": "SMART Innovation Center awarded five-year NRF grant for new deep tech ventures",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/IC%20stock%20image%202.jpeg"
         }
@@ -841,12 +871,32 @@
       "siteUrl": "https://www.nature.com/subjects/synthetic-biology",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41467-022-33524-1",
+          "author": null,
+          "description": "Nature Communications - Author Correction: Engineering the stambomycin modular polyketide synthase yields 37-membered mini-stambomycins",
+          "link": "https://www.nature.com/articles/s41467-022-33524-1",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 2431,
+          "title": "Author Correction: Engineering the stambomycin modular polyketide synthase yields 37-membered mini-stambomycins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41557-022-01038-4",
+          "author": null,
+          "description": "Protein–RNA interactions regulate RNA fate and function, and are generally non-covalent and reversible. Genetically introducing a latent bioreactive amino acid into a protein is now shown to enable the protein to covalently crosslink a bound RNA molecule in vivo. This method offers innovative avenues for developing protein–RNA research and applications.",
+          "link": "https://www.nature.com/articles/s41557-022-01038-4",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 5336,
+          "title": "Genetically encoded chemical crosslinking of RNA in vivo",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-022-01038-4/MediaObjects/41557_2022_1038_Figa_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41587-022-01493-x",
           "author": null,
           "description": "Specific RNAs are detected in live cells by harnessing endogenous ADAR enzymes.",
           "link": "https://www.nature.com/articles/s41587-022-01493-x",
           "publishedOn": "2022-10-05T00:00:00.000Z",
-          "wordCount": 4009,
+          "wordCount": 4011,
           "title": "Modular, programmable RNA sensing using ADAR editing in living cells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01493-x/MediaObjects/41587_2022_1493_Fig1_HTML.png"
         },
@@ -956,7 +1006,7 @@
           "description": "Biosynthetic pathway of dencichine, a plant derived nature product that has found various pharmacological applications, is still elusive. Here, the authors design artificial pathways through retro-biosynthesis approaches and achieve its efficient production in E. coli by systematic metabolic and enzymatic engineering.",
           "link": "https://www.nature.com/articles/s41467-022-33255-3",
           "publishedOn": "2022-09-19T00:00:00.000Z",
-          "wordCount": 8974,
+          "wordCount": 8976,
           "title": "Biosynthesis of plant hemostatic dencichine in Escherichia coli",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33255-3/MediaObjects/41467_2022_33255_Fig1_HTML.png"
         },
@@ -976,7 +1026,7 @@
           "description": "A synthetic system that reproduces several attributes of living cells.",
           "link": "https://www.nature.com/articles/d41586-022-02231-8",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 3102,
+          "wordCount": 3103,
           "title": "Life brought to artificial cells",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-02231-8/d41586-022-02231-8_23476970.png"
         },
@@ -996,7 +1046,7 @@
           "description": "A bacteriogenic strategy for constructing membrane-bounded, molecularly crowded, and compositionally, structurally and morphologically complex synthetic cells provides opportunities for the fabrication of new synthetic cell modules and augmented living/synthetic cell constructs.",
           "link": "https://www.nature.com/articles/s41586-022-05223-w",
           "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 7883,
+          "wordCount": 7881,
           "title": "Living material assembly of bacteriogenic protocells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05223-w/MediaObjects/41586_2022_5223_Fig1_HTML.png"
         },
@@ -1038,12 +1088,22 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=119509",
+          "author": "Erica Klarreich",
+          "description": "The decades-old Sullivan’s conjecture, about the best way to minimize the surface area of a bubble cluster, was thought to be out of reach for three bubbles and up — until a new breakthrough result.            \nThe post ‘Monumental’ Math Proof Solves Triple Bubble Problem and More first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/",
+          "publishedOn": "2022-10-06T16:54:27.000Z",
+          "wordCount": 7753,
+          "title": "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Multi-Bubble-Conjecture_520x292.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=119285",
           "author": "Yasemin Saplakoglu",
           "description": "The chemists Carolyn Bertozzi, Morten Meldal and K. Barry Sharpless were recognized for their development of click chemistry and bioorthogonal chemistry.            \nThe post Molecule-Building Innovators Win Nobel Prize in Chemistry first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/molecule-building-innovators-win-2022-chemistry-nobel-prize-20221005/",
           "publishedOn": "2022-10-05T10:00:42.000Z",
-          "wordCount": 5530,
+          "wordCount": 5534,
           "title": "Molecule-Building Innovators Win Nobel Prize in Chemistry",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Chemistry_Nobel_1200_Social2.webp"
         },
@@ -1053,7 +1113,7 @@
           "description": "Alain Aspect, John Clauser and Anton Zeilinger have won the 2022 Nobel Prize in Physics for groundbreaking experiments with entangled particles.            \nThe post Pioneering Quantum Physicists Win Nobel Prize in Physics first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/pioneering-quantum-physicists-win-nobel-prize-in-physics-20221004/",
           "publishedOn": "2022-10-04T09:58:09.000Z",
-          "wordCount": 7494,
+          "wordCount": 7504,
           "title": "Pioneering Quantum Physicists Win Nobel Prize in Physics",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/1200-social-card-physics-nobel.webp"
         },
@@ -1063,7 +1123,7 @@
           "description": "Svante Pääbo has been awarded the 2022 Nobel Prize in Physiology or Medicine for studying our extinct ancestors’ DNA.            \nThe post Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/",
           "publishedOn": "2022-10-03T09:45:32.000Z",
-          "wordCount": 5820,
+          "wordCount": 5824,
           "title": "Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Nobel_Medicine_Paabo_1200_Social.webp"
         },
@@ -1073,19 +1133,9 @@
           "description": "Readers rescued a Star Trek crew from a probabilistic predicament armed only with the power of mathematical reasoning.            \nThe post How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/",
           "publishedOn": "2022-09-30T13:26:28.000Z",
-          "wordCount": 6695,
+          "wordCount": 6699,
           "title": "How Star Trek’s Lieutenant Uhura Overcame Astronomical Odds",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Uhura_1200_social.jpg"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119250",
-          "author": "Tara C. Smith",
-          "description": "Even though we’ve learned a lot about this relative of smallpox, some mysteries remain due to a lack of political will.            \nThe post What We Know About Monkeypox first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/epidemiologist-what-we-know-about-monkeypox-20220929/",
-          "publishedOn": "2022-09-29T14:15:50.000Z",
-          "wordCount": 5498,
-          "title": "What We Know About Monkeypox",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/MonkeyPox_1200_Social.webp"
         }
       ]
     },
@@ -1110,7 +1160,7 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 10, October 2022. \nWith the outbreak of COVID-19, great loss and damage were brought to human society, making the study of epidemic spreading become a significant topic nowadays. To analyze the spread of infectious diseases among different areas, e.g., communities, cities, or countries, we construct a network, based on the epidemic model and the network coupling, whose nodes denote areas, and edges represent population migrations between two areas. Each node follows its dynamic, which describes an epidemic spreading among individuals in an area, and the node also interacts with other nodes, which indicates the spreading among different areas. By giving mathematical proof, we deduce that our model has a stable solution despite the network structure. We propose the peak infected ratio (PIR) as a property of infectious diseases in a certain area, which is not independent of the network structure. We find that increasing the population mobility or the disease infectiousness both cause higher peak infected population all over different by simulation. Furthermore, we apply our model to real-world data on COVID-19 and after properly adjusting the parameters of our model, the distribution of the peak infection ratio in different areas can be well fitted.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0102390?af=R&feed=most-recent",
           "publishedOn": "2022-10-04T05:25:44.000Z",
-          "wordCount": 12490,
+          "wordCount": 12475,
           "title": "Network spreading among areas: A dynamical complex network modeling approach",
           "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0102390&id=images/medium/5.0102390.figures.online.highlight_f1.jpg"
         },
@@ -1142,10 +1192,20 @@
           "author": null,
           "description": "",
           "link": "http://link.springer.com/285",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
           "wordCount": null,
           "title": "Journal of Mathematical Biology",
           "imageUrl": null
+        },
+        {
+          "id": "10.1007/s00285-022-01796-2",
+          "author": null,
+          "description": "Abstract\nDiscrete dynamical systems in which model components take on categorical values have been successfully applied to biological networks to study their global dynamic behavior. Boolean models in particular have been used extensively. However, multi-state models have also emerged as effective computational tools for the analysis of complex mechanisms underlying biological networks. Models in which variables assume more than two discrete states provide greater resolution, but this scheme introduces discontinuities. In particular, variables can increase or decrease by more than one unit in one time step. This can be corrected, without changing fixed points of the system, by applying an additional rule to each local activation function. On the other hand, if one is interested in cyclic attractors of their system, then this rule can potentially introduce new cyclic attractors that were not observed previously. This article makes some advancements in understanding the state space dynamics of multi-state network models with synchronous, sequential, or block-sequential update schedules and establishes conditions under which no new cyclic attractors are added to networks when the additional rule is applied. Our analytical results have the potential to be incorporated into modeling software and aid researchers in their analyses of biological multi-state networks.",
+          "link": "http://link.springer.com/10.1007/s00285-022-01796-2",
+          "publishedOn": "2022-10-06T00:00:00.000Z",
+          "wordCount": 4629,
+          "title": "Cyclic attractors of nonexpanding q-ary networks",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
         },
         {
           "id": "10.1007/s00285-022-01812-5",
@@ -1326,16 +1386,6 @@
           "wordCount": 5496,
           "title": "Average abundancy of cooperation in multi-player games with random payoffs",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
-        },
-        {
-          "id": "10.1007/s00285-022-01798-0",
-          "author": null,
-          "description": "Abstract\nAutocatalysis underlies the ability of chemical and biochemical systems to replicate. Recently, Blokhuis et al. (PNAS 117(41):25230–25236, 2020) gave a stoechiometric definition of autocatalysis for reaction networks, stating the existence of a combination of reactions such that the balance for all autocatalytic species is strictly positive, and investigated minimal autocatalytic networks, called autocatalytic cores. By contrast, spontaneous autocatalysis—namely, exponential amplification of all species internal to a reaction network, starting from a diluted regime, i.e. low concentrations—is a dynamical property. We introduce here a topological condition (Top) for autocatalysis, namely: restricting the reaction network description to highly diluted species, we assume existence of a strongly connected component possessing at least one reaction with multiple products (including multiple copies of a single species). We find this condition to be necessary and sufficient for stoechiometric autocatalysis. When degradation reactions have small enough rates, the topological condition further ensures dynamical autocatalysis, characterized by a strictly positive Lyapunov exponent giving the instantaneous exponential growth rate of the system. The proof is generally based on the study of auxiliary Markov chains. We provide as examples general autocatalytic cores of Type I and Type III in the typology of Blokhuis et al. (PNAS 117(41):25230–25236, 2020) . In a companion article (Unterberger in Dynamical autocatalysis for autocatalytic cores, 2021), Lyapunov exponents and the behavior in the growth regime are studied quantitatively beyond the present diluted regime .",
-          "link": "http://link.springer.com/10.1007/s00285-022-01798-0",
-          "publishedOn": "2022-09-07T00:00:00.000Z",
-          "wordCount": 3378,
-          "title": "Stoechiometric and dynamical autocatalysis for diluted chemical reaction networks",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
         }
       ]
     },
@@ -1345,364 +1395,364 @@
       "siteUrl": "https://www.sciencedirect.com/journal/journal-of-differential-equations",
       "articles": [
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005149",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005162",
           "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Bin Guo, Jingjing Zhang, Wenjie Gao, Menglan Liao",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005149?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.527Z",
-          "wordCount": 1378,
-          "title": "Classification of blow-up and global existence of solutions to an initial Neumann problem",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200506X",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Yu Su, Zhaosheng Feng",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200506X?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.429Z",
-          "wordCount": 1281,
-          "title": "Fractional Sobolev embedding with radial potential",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005289",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Xiaoling Hu, Xiaojing Xu, Difan Yuan",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005289?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.350Z",
-          "wordCount": 1334,
-          "title": "Well-posedness of the surface wave problem for two dimensional micropolar fluids",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005137",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Hao Yang, Fuke Wu, Peter E. Kloeden",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005137?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.328Z",
-          "wordCount": 1514,
-          "title": "Stationary distribution of stochastic population dynamics with infinite delay",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005356",
-          "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Ahcene Ghandriche, Mourad Sini",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005356?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.306Z",
-          "wordCount": 1560,
-          "title": "Photo-acoustic inversion using plasmonic contrast agents: The full Maxwell model",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005198",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Fabian Gabel, Patrick Tolksdorf",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005198?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.275Z",
-          "wordCount": 1240,
-          "title": "The Stokes operator in two-dimensional bounded Lipschitz domains",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Miao Du, Siyu Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005162?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.493Z",
+          "wordCount": 1569,
+          "title": "On the existence and limit behavior of ground states for two coupled Hartree equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005113",
           "author": null,
           "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Jiashan Zheng, Jianing Xie",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005113?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.268Z",
+          "publishedOn": "2022-10-07T01:06:10.472Z",
           "wordCount": 1364,
           "title": "Global classical solutions to a higher-dimensional doubly haptotactic cross-diffusion system modeling oncolytic virotherapy",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622004922",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): The Anh Bui, The Quan Bui, Xuan Thinh Duong",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622004922?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.258Z",
-          "wordCount": 1315,
-          "title": "Decay estimates on Besov and Triebel-Lizorkin spaces of the Stokes flows and the incompressible Navier-Stokes flows in half-spaces",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005277",
           "author": null,
           "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Kyeong-Hun Kim, Kijung Lee, Jinsol Seo",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005277?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.250Z",
+          "publishedOn": "2022-10-07T01:06:10.462Z",
           "wordCount": 1524,
           "title": "Sobolev space theory and Hölder estimates for the stochastic partial differential equations on conic and polygonal domains",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005162",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Miao Du, Siyu Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005162?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.196Z",
-          "wordCount": 1569,
-          "title": "On the existence and limit behavior of ground states for two coupled Hartree equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005526",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Jorge Hounie, Giuliano Zugliani",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005526?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.167Z",
-          "wordCount": 1593,
-          "title": "Global solvability and global hypoellipticity of complex vector fields on surfaces",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005150",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Zdzisław Brzeźniak, Nimit Rana",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005150?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.158Z",
-          "wordCount": 1228,
-          "title": "Local solution to an energy critical 2-D stochastic wave equation with exponential nonlinearity in a bounded domain",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005447",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Agnieszka Bartłomiejczyk, Henryk Leszczyński, Milena Matusik",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005447?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.143Z",
-          "wordCount": 1340,
-          "title": "Straightened characteristics of McKendrick-von Foerster equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005265",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Farman Mamedov",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005265?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.117Z",
-          "wordCount": 1300,
-          "title": "On Harnack inequality and Hölder continuity to the degenerate parabolic equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005186",
-          "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Alexey Cheskidov, Landon Kavlie",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005186?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.091Z",
-          "wordCount": 1446,
-          "title": "Gaining two derivatives on a singular force in the 2D Navier-Stokes equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005290",
           "author": null,
           "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Hongyong Wang, Chaohong Pan, Chunhua Ou",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005290?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.082Z",
+          "publishedOn": "2022-10-07T01:06:10.452Z",
           "wordCount": 1611,
           "title": "Propagation dynamics of forced pulsating waves of a time periodic Lotka-Volterra competition system in a shifting habitat",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005344",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005198",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Giovanni Covi, María Ángeles García-Ferrero, Angkana Rüland",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005344?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.074Z",
-          "wordCount": 1556,
-          "title": "On the Calderón problem for nonlocal Schrödinger equations with homogeneous, directionally antilocal principal symbols",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Fabian Gabel, Patrick Tolksdorf",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005198?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.430Z",
+          "wordCount": 1240,
+          "title": "The Stokes operator in two-dimensional bounded Lipschitz domains",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005423",
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200506X",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Ryan McConnell",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005423?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.026Z",
-          "wordCount": 1188,
-          "title": "Nonlinear smoothing for the periodic generalized nonlinear Schrödinger equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Yu Su, Zhaosheng Feng",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200506X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.365Z",
+          "wordCount": 1281,
+          "title": "Fractional Sobolev embedding with radial potential",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005332",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622004922",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Yinbin Deng, Shuangjie Peng, Xinyue Zhang, Yang Zhou",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005332?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:57.017Z",
-          "wordCount": 1385,
-          "title": "A class of supercritical Sobolev type inequalities with logarithm and related elliptic equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): The Anh Bui, The Quan Bui, Xuan Thinh Duong",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622004922?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.349Z",
+          "wordCount": 1315,
+          "title": "Decay estimates on Besov and Triebel-Lizorkin spaces of the Stokes flows and the incompressible Navier-Stokes flows in half-spaces",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200540X",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005265",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Gabriel E. Bittencourt Moraes, Handan Borluk, Guilherme de Loreno, Gulcin M. Muslu, Fábio Natali",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200540X?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.988Z",
-          "wordCount": 1490,
-          "title": "Orbital stability of periodic standing waves for the cubic fractional nonlinear Schrödinger equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Farman Mamedov",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005265?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.341Z",
+          "wordCount": 1300,
+          "title": "On Harnack inequality and Hölder continuity to the degenerate parabolic equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005484",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005149",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Julien Bernis, Piernicola Bettiol, Richard B. Vinter",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005484?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.979Z",
-          "wordCount": 1681,
-          "title": "Solutions to the Hamilton-Jacobi equation for state constrained Bolza problems with discontinuous time dependence",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Bin Guo, Jingjing Zhang, Wenjie Gao, Menglan Liao",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005149?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.330Z",
+          "wordCount": 1378,
+          "title": "Classification of blow-up and global existence of solutions to an initial Neumann problem",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005320",
           "author": null,
           "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Hongjie Dong, Seick Kim, Sungjin Lee",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005320?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.906Z",
+          "publishedOn": "2022-10-07T01:06:10.281Z",
           "wordCount": 1415,
           "title": "Estimates for fundamental solutions of parabolic equations in non-divergence form",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005332",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Yinbin Deng, Shuangjie Peng, Xinyue Zhang, Yang Zhou",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005332?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.273Z",
+          "wordCount": 1385,
+          "title": "A class of supercritical Sobolev type inequalities with logarithm and related elliptic equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005526",
+          "author": null,
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Jorge Hounie, Giuliano Zugliani",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005526?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.262Z",
+          "wordCount": 1593,
+          "title": "Global solvability and global hypoellipticity of complex vector fields on surfaces",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005137",
+          "author": null,
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Hao Yang, Fuke Wu, Peter E. Kloeden",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005137?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.239Z",
+          "wordCount": 1514,
+          "title": "Stationary distribution of stochastic population dynamics with infinite delay",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005186",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Alexey Cheskidov, Landon Kavlie",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005186?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.231Z",
+          "wordCount": 1446,
+          "title": "Gaining two derivatives on a singular force in the 2D Navier-Stokes equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005435",
           "author": null,
           "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Enhui Shi, Hui Xu, Xiangdong Ye",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005435?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.892Z",
+          "publishedOn": "2022-10-07T01:06:10.207Z",
           "wordCount": 1314,
           "title": "An alternative for minimal group actions on totally regular curves",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005368",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005344",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Igor Kukavica, Quinn Le",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005368?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.865Z",
-          "wordCount": 1116,
-          "title": "On quantitative uniqueness for parabolic equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Giovanni Covi, María Ángeles García-Ferrero, Angkana Rüland",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005344?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.192Z",
+          "wordCount": 1556,
+          "title": "On the Calderón problem for nonlocal Schrödinger equations with homogeneous, directionally antilocal principal symbols",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005289",
+          "author": null,
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Xiaoling Hu, Xiaojing Xu, Difan Yuan",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005289?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.160Z",
+          "wordCount": 1334,
+          "title": "Well-posedness of the surface wave problem for two dimensional micropolar fluids",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005150",
+          "author": null,
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Zdzisław Brzeźniak, Nimit Rana",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005150?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.132Z",
+          "wordCount": 1228,
+          "title": "Local solution to an energy critical 2-D stochastic wave equation with exponential nonlinearity in a bounded domain",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005447",
+          "author": null,
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Agnieszka Bartłomiejczyk, Henryk Leszczyński, Milena Matusik",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005447?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.111Z",
+          "wordCount": 1340,
+          "title": "Straightened characteristics of McKendrick-von Foerster equation",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200540X",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Gabriel E. Bittencourt Moraes, Handan Borluk, Guilherme de Loreno, Gulcin M. Muslu, Fábio Natali",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200540X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.085Z",
+          "wordCount": 1490,
+          "title": "Orbital stability of periodic standing waves for the cubic fractional nonlinear Schrödinger equation",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005393",
           "author": null,
           "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Craig Cowan, Abbas Moameni",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005393?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.855Z",
+          "publishedOn": "2022-10-07T01:06:10.077Z",
           "wordCount": 1399,
           "title": "Supercritical elliptic problems on nonradial domains via a nonsmooth variational approach",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005459",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005356",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Andreas Herán",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005459?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.824Z",
-          "wordCount": 1166,
-          "title": "Hölder continuity of parabolic quasi-minimizers on metric measure spaces",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200537X",
-          "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Luís Salvino, Jean Silva",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200537X?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.815Z",
-          "wordCount": 1122,
-          "title": "Decay of entropy solutions of a scalar conservation law beyond a stationary ergodic setting",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Ahcene Ghandriche, Mourad Sini",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005356?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.054Z",
+          "wordCount": 1560,
+          "title": "Photo-acoustic inversion using plasmonic contrast agents: The full Maxwell model",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005381",
           "author": null,
           "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Shiliang Zhao, Quan Zheng",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005381?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.806Z",
+          "publishedOn": "2022-10-07T01:06:10.041Z",
           "wordCount": 1268,
           "title": "Continuity of the integral kernel of Schrödinger propagator",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005460",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005368",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Hua Chen, Hong-Ge Chen, Xin-Rui Yuan",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005460?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.784Z",
-          "wordCount": 1351,
-          "title": "Existence and multiplicity of solutions to Dirichlet problem for semilinear subelliptic equation with a free perturbation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Igor Kukavica, Quinn Le",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005368?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.032Z",
+          "wordCount": 1116,
+          "title": "On quantitative uniqueness for parabolic equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005496",
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200537X",
           "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Francesca Anceschi, Annalaura Rebucci",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005496?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.775Z",
-          "wordCount": 1372,
-          "title": "A note on the weak regularity theory for degenerate Kolmogorov equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005514",
-          "author": null,
-          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Hongjing Pan, Shiyi Ye",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005514?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.753Z",
-          "wordCount": 1214,
-          "title": "An inequality of Bessel functions and applications to transcritical bifurcation problems of nonlinear elliptic equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Luís Salvino, Jean Silva",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200537X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:10.000Z",
+          "wordCount": 1122,
+          "title": "Decay of entropy solutions of a scalar conservation law beyond a stationary ergodic setting",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005411",
           "author": null,
           "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Dmitry E. Pelinovsky, Szymon Sobieszek",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005411?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.743Z",
+          "publishedOn": "2022-10-07T01:06:09.991Z",
           "wordCount": 1316,
           "title": "Morse index for the ground state in the energy supercritical Gross–Pitaevskii equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005459",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Andreas Herán",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005459?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:09.897Z",
+          "wordCount": 1166,
+          "title": "Hölder continuity of parabolic quasi-minimizers on metric measure spaces",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005496",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Francesca Anceschi, Annalaura Rebucci",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005496?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:09.877Z",
+          "wordCount": 1372,
+          "title": "A note on the weak regularity theory for degenerate Kolmogorov equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005423",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Ryan McConnell",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005423?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:09.845Z",
+          "wordCount": 1188,
+          "title": "Nonlinear smoothing for the periodic generalized nonlinear Schrödinger equation",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005460",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Hua Chen, Hong-Ge Chen, Xin-Rui Yuan",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005460?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:09.726Z",
+          "wordCount": 1351,
+          "title": "Existence and multiplicity of solutions to Dirichlet problem for semilinear subelliptic equation with a free perturbation",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005514",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Hongjing Pan, Shiyi Ye",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005514?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:09.702Z",
+          "wordCount": 1214,
+          "title": "An inequality of Bessel functions and applications to transcritical bifurcation problems of nonlinear elliptic equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005484",
+          "author": null,
+          "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Julien Bernis, Piernicola Bettiol, Richard B. Vinter",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005484?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:09.673Z",
+          "wordCount": 1681,
+          "title": "Solutions to the Hamilton-Jacobi equation for state constrained Bolza problems with discontinuous time dependence",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005502",
           "author": null,
           "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Christoph Walker, Josef Zehetbauer",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005502?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:56.729Z",
+          "publishedOn": "2022-10-07T01:06:09.653Z",
           "wordCount": 1150,
           "title": "The principle of linearized stability in age-structured diffusive populations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005174",
-          "author": null,
-          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Tomasz Grzywny, Kamil Kaleta, Paweł Sztonyk",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005174?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:55.452Z",
-          "wordCount": 1422,
-          "title": "Heat kernels of non-local Schrödinger operators with Kato potentials",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005125",
           "author": null,
           "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Erlend Grong, Torstein Nilssen, Alexander Schmeding",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005125?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:55.441Z",
+          "publishedOn": "2022-10-07T01:06:09.146Z",
           "wordCount": 1348,
           "title": "Geometric rough paths on infinite dimensional spaces",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005174",
+          "author": null,
+          "description": "Publication date: 15 December 2022\nSource: Journal of Differential Equations, Volume 340\nAuthor(s): Tomasz Grzywny, Kamil Kaleta, Paweł Sztonyk",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005174?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-07T01:06:08.602Z",
+          "wordCount": 1422,
+          "title": "Heat kernels of non-local Schrödinger operators with Kato potentials",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005319",
           "author": null,
           "description": "Publication date: 25 December 2022\nSource: Journal of Differential Equations, Volume 341\nAuthor(s): Motofumi Aoki, Tsukasa Iwabuchi",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005319?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-06T00:54:54.901Z",
+          "publishedOn": "2022-10-07T01:06:07.715Z",
           "wordCount": 1128,
           "title": "Energy conservation law for weak solutions of the full compressible Navier-Stokes equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039618X00151-cov150h.gif"
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         }
       ]
     },
@@ -1727,7 +1777,7 @@
           "description": "Abstract\nIn this paper, we apply the immersed interface method (IIM) and the hierarchical derivative matching (HDM) method, respectively, to restore the accuracy of the high-order alternating direction implicit finite-difference time-domain (ADI-FDTD) scheme of the 2D Maxwell’s equations with material interfaces. For the case of discontinuous permittivity \n                      \n                      \\(\\varepsilon \\)\n                      \n                     and continuous permeability \n                      \n                      \\(\\mu \\)\n                      \n                    , we propose four high-order schemes. Two of them are of second order in time and fourth order in space (ADI-IIM-FDTD(2,4) scheme and ADI-HDM-FDTD(2,4) scheme). Others are of fourth order both in time and space (ADI-IIM-FDTD(4,4) scheme and ADI-HDM-FDTD(4,4) scheme). For the case of discontinuous permittivity \n                      \n                      \\(\\varepsilon \\)\n                      \n                     and permeability \n                      \n                      \\(\\mu \\)\n                      \n                    , the (2,4) scheme and the (4,4) scheme are constructed as well (ADI-HDM-FDTD-X(2,4) scheme and ADI-HDM-FDTD-X(4,4) scheme). The proposed six schemes maintain the advantages of ADI-FDTD method such as unconditional stability and computational efficiency. Numerical examples are given to verify the performance of the proposed schemes.",
           "link": "http://link.springer.com/10.1007/s10915-022-02011-6",
           "publishedOn": "2022-10-05T00:00:00.000Z",
-          "wordCount": 3510,
+          "wordCount": 3512,
           "title": "High-Order ADI-FDTD Schemes for Maxwell’s Equations with Material Interfaces in Two Dimensions",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
