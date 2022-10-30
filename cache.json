@@ -193,6 +193,16 @@
       "siteUrl": "http://biorxiv.org",
       "articles": [
         {
+          "id": "http://biorxiv.org/cgi/content/short/2022.10.28.514161v1?rss=1",
+          "author": "Larsen, B.",
+          "description": "Optogenetic actuators have revolutionized the resolution at which we can assert control over biological processes in living systems. In plants, deployment of optogenetics is challenging due to the need for these light-responsive systems to maintain a single activation state in conventional horticultural environments with light-dark cycling. Furthermore, many available optogenetic actuators are based on plant photoreceptors that might crosstalk with endogenous signaling processes, while others depend on exogenously supplied cofactors. To overcome such challenges, we have developed Highlighter; a synthetic, light-gated gene expression system tailored for in planta function. Highlighter is based on the photoswitchable CcaS-CcaR system from cyanobacteria and is repurposed for plants as a fully genetically encoded system, engineered to photoswitch with the endogenous plant chromophore, phytochromobilin. We deployed Highlighter in transiently transformed Nicotiana benthamiana for optogenetic control of fluorescent protein expression and innate immune responses. Using light to guide differential fluorescent protein expression in nuclei of neighboring cells, we demonstrate unprecedented spatiotemporal control of target gene expression. We furthermore regulate activation of plant immunity by modulating the spectral composition of white light, demonstrating optogenetic control of a biological process in horticultural light environments. Highlighter is a step forward for optogenetics in plants and a technology for high-resolution gene induction that will advance fundamental plant biology and provide new opportunities for crop improvement.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.10.28.514161v1?rss=1",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 1265,
+          "title": "Highlighter: an optogenetic actuator for light-mediated, high resolution gene expression control in plants [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
           "id": "http://biorxiv.org/cgi/content/short/2022.10.25.513667v1?rss=1",
           "author": "Vay, K. L.",
           "description": "Condensed coacervate phases are now understood to be important features of modern cell biology, as well as valuable protocellular models in origin of life studies and synthetic biology. In each of these fields, the development of model systems with varied and tuneable material properties is of great importance for replicating properties of life. Here, we develop a ligase ribozyme system capable of concatenating short RNA fragments into extremely long chains. Our results show that formation of coacervate microdroplets with the ligase ribozyme and poly(L-lysine) enhances ribozyme rate and yield, which in turn increases the length of the anionic polymer component of the system and imparts specific physical properties to the droplets. Droplets containing active ribozyme sequences resist growth, do not wet or spread on unpassivated surfaces, and exhibit reduced transfer of RNA between droplets when compared to controls containing inactive sequences. These altered behaviours, which stem from RNA sequence and catalytic activity, constitute a specific phenotype and potential fitness advantage, opening the door to selection and evolution experiments based on a genotype - phenotype linkage.",
@@ -275,21 +285,11 @@
         {
           "id": "http://biorxiv.org/cgi/content/short/2022.10.15.512367v1?rss=1",
           "author": "Brumwell, S. L.",
-          "description": "Methods for creating seamless genome modifications are an essential part of the microbial genetic toolkit that allows for strain engineering through the recycling of selectable markers. Here, we report the development of a method, termed SLICER, which can be used to create seamless genome modifications in D. radiodurans. We used SLICER to sequentially target four putative restriction-modification (R-M) system genes, recycling the same selective and screening markers for each subsequent deletion. A fifth R-M gene was replaced by a selectable marker to create a final D. radiodurans strain with 5 of the 6 putative R-M systems deleted. While we observed no significant increase in transformation efficiency, SLICER is a promising method to obtain a fully restriction-minus strain and expand the synthetic biology applications of D. radiodurans including as an in vivo DNA assembly platform.\n\nGRAPHICAL ABSTRACT\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=142 SRC=\"FIGDIR/small/512367v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (57K):\norg.highwire.dtl.DTLVardef@6a68c7org.highwire.dtl.DTLVardef@501dborg.highwire.dtl.DTLVardef@bcd600org.highwire.dtl.DTLVardef@185c262_HPS_FORMAT_FIGEXP  M_FIG C_FIG",
+          "description": "Methods for creating seamless genome modifications are an essential part of the microbial genetic toolkit that allows for strain engineering through the recycling of selectable markers. Here, we report the development of a method, termed SLICER, which can be used to create seamless genome modifications in D. radiodurans. We used SLICER to sequentially target four putative restriction-modification (R-M) system genes, recycling the same selective and screening markers for each subsequent deletion. A fifth R-M gene was replaced by a selectable marker to create a final D. radiodurans strain with 5 of the 6 putative R-M systems deleted. While we observed no significant increase in transformation efficiency, SLICER is a promising method to obtain a fully restriction-minus strain and expand the synthetic biology applications of D. radiodurans including as an in vivo DNA assembly platform.\n\nGRAPHICAL ABSTRACT\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=142 SRC=\"FIGDIR/small/512367v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (57K):\norg.highwire.dtl.DTLVardef@19a54deorg.highwire.dtl.DTLVardef@139ece1org.highwire.dtl.DTLVardef@1eed691org.highwire.dtl.DTLVardef@148e647_HPS_FORMAT_FIGEXP  M_FIG C_FIG",
           "link": "http://biorxiv.org/cgi/content/short/2022.10.15.512367v1?rss=1",
           "publishedOn": "2022-10-17T00:00:00.000Z",
           "wordCount": 1145,
           "title": "SLICER: Seamless Loss of Integrated Cassettes Using Endonuclease Cleavage and Recombination in Deinococcus radiodurans [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.10.13.512145v1?rss=1",
-          "author": "Ghataora, J. S.",
-          "description": "Whole-cell biosensors are emerging as promising tools for monitoring environmental pollutants such as heavy metals. These sensors constitute a genetic circuit comprising a sensing module and an output module, such that a detectable signal is produced in the presence of the desired analyte. The MerR family of metal-responsive regulators offers great potential for the construction of metal sensing circuits, due to their high sensitivity, tight transcription control and large diversity in metal-specificity. However, the sensing diversity is broadest in Gram-negative systems, while chassis organisms are often selected from Gram-positive species, particularly sporulating bacilli. This can be problematic, because Gram-negative biological parts, such as promoters, are frequently observed to be non-functional in Gram-positive hosts. Herein, we combined construction of synthetic genetic circuits and chimeric MerR regulators, supported by structure-guided design, to generate metal-sensitive biosensor modules that are functional in the biotechnological work-horse species Bacillus subtilis. These chimeras consist of a constant Gram-positive derived DNA-binding domain fused to variable metal binding domains of Gram-negative origins. To improve the specificity of the whole-cell biosensor, we developed a modular  AND gate logic system based on the B. subtilis natively split {sigma}-factor, SigO-RsoA, designed to maximise future use for synthetic biology applications in B. subtilis. This work provides insights into the use of modular regulators, such as the MerR family, in the design of synthetic circuits for the detection of heavy metals, with potential wider applicability of the approach to other systems and genetic backgrounds.",
-          "link": "http://biorxiv.org/cgi/content/short/2022.10.13.512145v1?rss=1",
-          "publishedOn": "2022-10-16T00:00:00.000Z",
-          "wordCount": 1223,
-          "title": "Chimeric MerR-Family Regulators and Logic Elements for the Design of Metal Sensitive Genetic Circuits in Bacillus subtilis [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         }
       ]
@@ -299,6 +299,66 @@
       "feedUrl": "http://www.nature.com/subjects/computational-biology-and-bioinformatics.rss",
       "siteUrl": "https://www.nature.com/subjects/computational-biology-and-bioinformatics",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41598-022-21803-2",
+          "author": null,
+          "description": "Scientific Reports - A robust COVID-19 mortality prediction calculator based on Lymphocyte count, Urea, C-Reactive Protein, Age and Sex (LUCAS) with chest X-rays",
+          "link": "https://www.nature.com/articles/s41598-022-21803-2",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 9386,
+          "title": "A robust COVID-19 mortality prediction calculator based on Lymphocyte count, Urea, C-Reactive Protein, Age and Sex (LUCAS) with chest X-rays",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-21803-2/MediaObjects/41598_2022_21803_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-23181-1",
+          "author": null,
+          "description": "Scientific Reports - Small bowel cleanliness in capsule endoscopy: a case–control study using validated artificial intelligence algorithm",
+          "link": "https://www.nature.com/articles/s41598-022-23181-1",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 6369,
+          "title": "Small bowel cleanliness in capsule endoscopy: a case–control study using validated artificial intelligence algorithm",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-23181-1/MediaObjects/41598_2022_23181_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-34213-9",
+          "author": null,
+          "description": "Cas9 proteins require a target-adjacent sequence, the PAM, in order to cleave DNA. Here the authors develop a pipeline to accurately predict PAM sequences in order to facilitate the identification of Cas9s targeting specific sequences, including mutations.",
+          "link": "https://www.nature.com/articles/s41467-022-34213-9",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 9019,
+          "title": "Automated identification of sequence-tailored Cas9 proteins using massive metagenomic data",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-34213-9/MediaObjects/41467_2022_34213_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-34249-x",
+          "author": null,
+          "description": "The molecular heterogeneity of primary liver cancer remains to be characterised. Here, the authors perform multi-omics analysis of 259 primary liver cancer tissues and identify three distinct molecular subtypes.",
+          "link": "https://www.nature.com/articles/s41467-022-34249-x",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 10998,
+          "title": "Proteo-genomic characterization of virus-associated liver cancers reveals potential subtypes and therapeutic targets",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-34249-x/MediaObjects/41467_2022_34249_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-34053-7",
+          "author": null,
+          "description": "Here the authors characterize structural variations (SVs) in a cohort of individuals with complex genomic rearrangements, identifying breakpoints by employing short- and long-read genome sequencing and investigate their impact on gene expression and the three-dimensional chromatin architecture. They find breakpoints are enriched in inactive regions and can result in chromatin domain fusions.",
+          "link": "https://www.nature.com/articles/s41467-022-34053-7",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 16728,
+          "title": "Integration of Hi-C with short and long-read genome sequencing reveals the structure of germline rearranged genomes",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-34053-7/MediaObjects/41467_2022_34053_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-022-33957-8",
+          "author": null,
+          "description": "Cryogenic electron tomography suffers from anisotropic resolution due to the missing-wedge problem. Here, the authors present IsoNet, a neural network that learn the feature representation from similar structures in the tomogram and recover the missing information for isotropic tomogram reconstruction.",
+          "link": "https://www.nature.com/articles/s41467-022-33957-8",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 14394,
+          "title": "Isotropic reconstruction for electron tomography with deep learning",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33957-8/MediaObjects/41467_2022_33957_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s42003-022-04093-2",
           "author": null,
@@ -325,7 +385,7 @@
           "description": "Scientific Reports - The development of an automated machine learning pipeline for the detection of Alzheimer’s Disease",
           "link": "https://www.nature.com/articles/s41598-022-22979-3",
           "publishedOn": "2022-10-28T00:00:00.000Z",
-          "wordCount": 6728,
+          "wordCount": 6726,
           "title": "The development of an automated machine learning pipeline for the detection of Alzheimer’s Disease",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-22979-3/MediaObjects/41598_2022_22979_Fig1_HTML.png"
         },
@@ -365,7 +425,7 @@
           "description": "Scientific Reports - DeepLPI: a novel deep learning-based model for protein–ligand interaction prediction for drug repurposing",
           "link": "https://www.nature.com/articles/s41598-022-23014-1",
           "publishedOn": "2022-10-28T00:00:00.000Z",
-          "wordCount": 8105,
+          "wordCount": 8103,
           "title": "DeepLPI: a novel deep learning-based model for protein–ligand interaction prediction for drug repurposing",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-23014-1/MediaObjects/41598_2022_23014_Fig1_HTML.png"
         },
@@ -375,7 +435,7 @@
           "description": "Scientific Reports - Skin lesion classification of dermoscopic images using machine learning and convolutional neural network",
           "link": "https://www.nature.com/articles/s41598-022-22644-9",
           "publishedOn": "2022-10-28T00:00:00.000Z",
-          "wordCount": 7691,
+          "wordCount": 7689,
           "title": "Skin lesion classification of dermoscopic images using machine learning and convolutional neural network",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-22644-9/MediaObjects/41598_2022_22644_Fig1_HTML.png"
         },
@@ -405,7 +465,7 @@
           "description": "The membrane-proximal external region of HIV-1 spike protein is a broadly neutralizing antibody target. Here, cryo-electron microscopy and molecular dynamics reveal spontaneous ectodomain tilting, a vulnerability exploitable for vaccine design.",
           "link": "https://www.nature.com/articles/s41467-022-34008-y",
           "publishedOn": "2022-10-27T00:00:00.000Z",
-          "wordCount": 13394,
+          "wordCount": 13396,
           "title": "Dynamic HIV-1 spike motion creates vulnerability for its membrane-bound tripod to antibody attack",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-34008-y/MediaObjects/41467_2022_34008_Fig1_HTML.png"
         },
@@ -435,7 +495,7 @@
           "description": "Scientific Reports - An in silico comparative transcriptome analysis identifying hub lncRNAs and mRNAs in brain metastatic small cell lung cancer (SCLC)",
           "link": "https://www.nature.com/articles/s41598-022-22252-7",
           "publishedOn": "2022-10-27T00:00:00.000Z",
-          "wordCount": 9591,
+          "wordCount": 9593,
           "title": "An in silico comparative transcriptome analysis identifying hub lncRNAs and mRNAs in brain metastatic small cell lung cancer (SCLC)",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-22252-7/MediaObjects/41598_2022_22252_Fig1_HTML.png"
         },
@@ -485,7 +545,7 @@
           "description": "Machine learning could help to identify the viruses most likely to spill over from animals to people and cause future pandemics.",
           "link": "https://www.nature.com/articles/d41586-022-03358-4",
           "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 5150,
+          "wordCount": 5130,
           "title": "Could an algorithm predict the next pandemic?",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03358-4/d41586-022-03358-4_23623714.jpg"
         },
@@ -525,7 +585,7 @@
           "description": "A study maps genetic and epigenetic heterogeneity of primary colorectal adenomas and cancers at single-clone resolution through spatial multi-omic profiling of individual glands and adjacent normal tissue.",
           "link": "https://www.nature.com/articles/s41586-022-05202-1",
           "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 19579,
+          "wordCount": 19576,
           "title": "The co-evolution of the genome and epigenome in colorectal cancer",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05202-1/MediaObjects/41586_2022_5202_Fig1_HTML.png"
         },
@@ -538,66 +598,6 @@
           "wordCount": 8623,
           "title": "Database of SARS-CoV-2 and coronaviruses kinetics relevant for assessing persistence in food processing plants",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-022-01763-y/MediaObjects/41597_2022_1763_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-23011-4",
-          "author": null,
-          "description": "Scientific Reports - Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data",
-          "link": "https://www.nature.com/articles/s41598-022-23011-4",
-          "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 8484,
-          "title": "Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-23011-4/MediaObjects/41598_2022_23011_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-22514-4",
-          "author": null,
-          "description": "Scientific Reports - Artificial intelligence-based methods for fusion of electronic health records and imaging data",
-          "link": "https://www.nature.com/articles/s41598-022-22514-4",
-          "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 12223,
-          "title": "Artificial intelligence-based methods for fusion of electronic health records and imaging data",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-22514-4/MediaObjects/41598_2022_22514_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41586-022-05311-x",
-          "author": null,
-          "description": "Intratumour genetic ancestry only infrequently affects gene expression traits and subclonal evolution in colorectal cancer, with most genetic intratumour variation having no detected phenotypic consequence and transcriptional plasticity being widespread within a tumour.",
-          "link": "https://www.nature.com/articles/s41586-022-05311-x",
-          "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 18337,
-          "title": "Phenotypic plasticity and genetic control in colorectal cancer evolution",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05311-x/MediaObjects/41586_2022_5311_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-20416-z",
-          "author": null,
-          "description": "Scientific Reports - A divide-and-conquer approach for genomic prediction in rubber tree using machine learning",
-          "link": "https://www.nature.com/articles/s41598-022-20416-z",
-          "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 14464,
-          "title": "A divide-and-conquer approach for genomic prediction in rubber tree using machine learning",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20416-z/MediaObjects/41598_2022_20416_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-23017-y",
-          "author": null,
-          "description": "Scientific Reports - Sex chromosomes in the tribe Cyprichromini (Teleostei: Cichlidae) of Lake Tanganyika",
-          "link": "https://www.nature.com/articles/s41598-022-23017-y",
-          "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 10088,
-          "title": "Sex chromosomes in the tribe Cyprichromini (Teleostei: Cichlidae) of Lake Tanganyika",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-23017-y/MediaObjects/41598_2022_23017_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-33946-x",
-          "author": null,
-          "description": "Autophagy has been typically associated with resistance to cancer therapy, and autophagy inhibitors have been explored in cancer. Here, the authors investigate autophagy signatures and their association with drug response in cancer, and find that autophagy induction can actually sensitise cancer cells to therapy.",
-          "link": "https://www.nature.com/articles/s41467-022-33946-x",
-          "publishedOn": "2022-10-26T00:00:00.000Z",
-          "wordCount": 14597,
-          "title": "Multi-omics characterization of autophagy-related molecular features for therapeutic targeting of autophagy",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33946-x/MediaObjects/41467_2022_33946_Fig1_HTML.png"
         }
       ]
     },
@@ -745,16 +745,6 @@
           "wordCount": 1274,
           "title": "Determining Significant Correlation Between Pairs of Extant Characters in a Small Parsimony Framework",
           "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
-        },
-        {
-          "id": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0280?ai=su&mi=cjwv&af=R",
-          "author": "Haohan Wang",
-          "description": "Journal of Computational Biology, Ahead of Print.",
-          "link": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0280?ai=su&mi=cjwv&af=R",
-          "publishedOn": "2022-09-30T07:00:00.000Z",
-          "wordCount": 1274,
-          "title": "Kernel Mixed Model for Transcriptome Association Study",
-          "imageUrl": "https://www.liebertpub.com/action/showCoverImage?journalCode="
         }
       ]
     },
@@ -789,7 +779,7 @@
           "description": "The Kendall Square Association’s annual meeting highlights local efforts to develop and shift toward clean energy solutions.",
           "link": "https://news.mit.edu/2022/kendall-square-association-sustainability-1024",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 2469,
+          "wordCount": 2463,
           "title": "Doubling down on sustainability innovation in Kendall Square",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202210/MIT_KSA-01a-PRESS_0.jpg"
         },
@@ -809,7 +799,7 @@
           "description": "“AI for endometriosis? If only there were data!”",
           "link": "https://news.mit.edu/2022/events-illuminate-critical-need-menstruation-science-1003",
           "publishedOn": "2022-10-03T20:00:00.000Z",
-          "wordCount": 2057,
+          "wordCount": 2063,
           "title": "MIT events illuminate critical need for menstruation science",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/MIT-Below-The-Belt-Outside.jpg"
         },
@@ -819,19 +809,9 @@
           "description": "Test that measures a person’s antibodies requires a drop of blood and takes just 10 minutes to show results.",
           "link": "https://news.mit.edu/2022/smart-researchers-develop-quick-test-determine-immunity-against-covid-19-0930",
           "publishedOn": "2022-09-30T19:30:00.000Z",
-          "wordCount": 2673,
+          "wordCount": 2679,
           "title": "SMART researchers develop quick test to determine immunity against Covid-19",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/SMART-and-NTU-scientists-with-the-rapid-test-kit-that-detects-levels-of-COVID19-antibodies-cover.jpg"
-        },
-        {
-          "id": "https://news.mit.edu/2022/processing-waste-biomass-reduce-airborne-emissions-0929",
-          "author": "Kathryn M. O'Neill | MIT Energy Initiative",
-          "description": "MIT spinoff Takachar converts agricultural waste into clean-burning fuel, and wins Earthshot Prize.",
-          "link": "https://news.mit.edu/2022/processing-waste-biomass-reduce-airborne-emissions-0929",
-          "publishedOn": "2022-09-29T18:00:00.000Z",
-          "wordCount": 2494,
-          "title": "Processing waste biomass to reduce airborne emissions",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202209/Takachar-hay-field-MITEI.jpg"
         }
       ]
     },
@@ -846,7 +826,7 @@
           "description": "Scientific Reports - A growth-based platform for detecting domain–peptide interactions in the cytoplasm of mammalian cells",
           "link": "https://www.nature.com/articles/s41598-022-22770-4",
           "publishedOn": "2022-10-27T00:00:00.000Z",
-          "wordCount": 7437,
+          "wordCount": 7439,
           "title": "A growth-based platform for detecting domain–peptide interactions in the cytoplasm of mammalian cells",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-22770-4/MediaObjects/41598_2022_22770_Fig1_HTML.png"
         },
@@ -1220,9 +1200,9 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 10, October 2022. \nA three-layer prey–predator model with two time-delays and one delay-dependent parameter is established in this paper. To begin, the paper calculates the conditions for each population in the model to maintain the quantity stable and Hopf bifurcation when [math], [math], [math] is in the stable interval, and [math]. The crossing curves, their type, and the direction of the crossing curves are then obtained using the crossing curve method, which is composed of the threshold values of the dynamic behavior change on the two time-delays plane when [math]. The real data from the forage grass–Ochotona curzoniae–Buteo hemilasius food chain is used to conduct an empirical study of the model. When [math], the feasible region of the crossing curves is open-ended, and the model's crossing curves on the [math] plane are truncated. This indicates that the model's threshold distribution of dynamic behavior change is a regular curve made of several curves. The simulation using the time-delay value on the crossing curves shows that the model produces different dynamic behaviors such as stability, bifurcation, and chaos depending on the time-delay value on both sides of the curves. The critical values of dynamic behavior change are time-delay values on the crossing curves. The empirical study shows that increasing Ochotona curzoniae’s environmental capacity can easily cause Hopf bifurcation of the system. At this time, the number of each population in the Plateau ecosystem constantly fluctuates, and Ochotona curzoniae is vulnerable to extinction.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0095794?af=R&feed=most-recent",
           "publishedOn": "2022-10-20T02:22:49.000Z",
-          "wordCount": 860,
+          "wordCount": 14343,
           "title": "Hopf bifurcation of the model with terms of two time-delays and delay-dependent parameter based on the theory of crossing curves",
-          "imageUrl": null
+          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0095794&id=images/medium/5.0095794.figures.online.highlight_f1.jpg"
         },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0119963?af=R&feed=most-recent",
@@ -1240,9 +1220,9 @@
           "description": "Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 10, October 2022. \nIn this paper, we investigate the averaging principle for Caputo-type fractional stochastic differential equations driven by Brownian motion. Different from the approach of integration by parts or decomposing integral interval to deal with the estimation of integral involving singular kernel in the existing literature, we show the desired averaging principle in the sense of mean square by using Hölder inequality via growth conditions on the nonlinear stochastic term. Finally, a simulation example is given to verify the theoretical results.",
           "link": "https://aip.scitation.org/doi/10.1063/5.0108050?af=R&feed=most-recent",
           "publishedOn": "2022-10-20T02:22:47.000Z",
-          "wordCount": 5606,
+          "wordCount": 860,
           "title": "On the averaging principle for stochastic differential equations involving Caputo fractional derivative",
-          "imageUrl": "https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0108050&id=images/medium/5.0108050.figures.online.highlight_f1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://aip.scitation.org/doi/10.1063/5.0101668?af=R&feed=most-recent",
@@ -1463,10 +1443,30 @@
           "author": null,
           "description": "",
           "link": "http://link.springer.com/285",
-          "publishedOn": "2022-10-25T00:00:00.000Z",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
           "wordCount": null,
           "title": "Journal of Mathematical Biology",
           "imageUrl": null
+        },
+        {
+          "id": "10.1007/s00285-022-01818-z",
+          "author": null,
+          "description": "Abstract\nIn this paper, the dynamics of a single population model with a general growth function is investigated in an advective environment. We show the existence of a nonconstant positive steady state, and give sufficient conditions for the occurrence of a Hopf bifurcation at the positive steady state. Moreover, the theoretical results are applied to the diffusive Nicholson’s blowflies and Mackey–Glass’s models with advection and delay, respectively. We numerically show that the population density decreases as the increase of advection rate or death rate, and a delay-induced Hopf bifurcation is more likely to occur with small advection or low mortality rate.",
+          "link": "http://link.springer.com/10.1007/s00285-022-01818-z",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
+          "wordCount": 9409,
+          "title": "Bifurcation analysis for a single population model with advection",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
+        },
+        {
+          "id": "10.1007/s00285-022-01810-7",
+          "author": null,
+          "description": "Abstract\nBy generating transient encounters between individuals beyond their immediate social environment, transport can have a profound impact on the spreading of an epidemic. In this work, we consider epidemic dynamics in the presence of the transport process that gives rise to a multiplex network model. In addition to a static layer, the (multiplex) epidemic network consists of a second dynamic layer in which any two individuals are connected for the time they occupy the same site during a random walk they perform on a separate transport network. We develop a mean-field description of the stochastic network model and study the influence the transport process has on the epidemic threshold. We show that any transport process generally lowers the epidemic threshold because of the additional connections it generates. In contrast, considering also random walks of fractional order that in some sense are a more realistic model of human mobility, we find that these non-local transport dynamics raise the epidemic threshold in comparison to a classical local random walk. We also test our model on a realistic transport network (the Munich U-Bahn network), and carefully compare mean-field solutions with stochastic trajectories in a range of scenarios.",
+          "link": "http://link.springer.com/10.1007/s00285-022-01810-7",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
+          "wordCount": 22010,
+          "title": "The influence of a transport process on the epidemic threshold",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
         },
         {
           "id": "10.1007/s00285-022-01790-8",
@@ -1646,43 +1646,13 @@
       "siteUrl": "https://www.sciencedirect.com/journal/journal-of-differential-equations",
       "articles": [
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005964",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005903",
           "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Ming Mei, Tianyuan Xu, Jingxue Yin",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005964?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:24.355Z",
-          "wordCount": 1333,
-          "title": "Monotone reducing mechanism in delayed population model with degenerate diffusion",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005836",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Jin-Cai Kang, Xiao-Qi Liu, Chun-Lei Tang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005836?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.933Z",
-          "wordCount": 1278,
-          "title": "Chern-Simons limit of ground state solutions for the Schrödinger equations coupled with a neutral scalar field",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200568X",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Dorota Bors, Robert Stańczy",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200568X?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.622Z",
-          "wordCount": 1153,
-          "title": "Dynamical system describing cloud of particles",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005927",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Shuai Li, Wendong Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005927?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.604Z",
-          "wordCount": 1253,
-          "title": "Interior and boundary regularity criteria for the 6D steady Navier-Stokes equations",
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Wei Shuai",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005903?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.987Z",
+          "wordCount": 1352,
+          "title": "Two sequences of solutions for the semilinear elliptic equations with logarithmic nonlinearities",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
@@ -1690,179 +1660,9 @@
           "author": null,
           "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Jincheng Gao, Minling Li, Zheng-an Yao",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005629?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.590Z",
+          "publishedOn": "2022-10-30T00:55:25.956Z",
           "wordCount": 1315,
           "title": "Optimal decay of compressible Navier-Stokes equations with or without potential force",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005472",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Vladimir Kozlov, Evgeniy Lokharu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005472?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.583Z",
-          "wordCount": 1079,
-          "title": "On negative eigenvalues of the spectral problem for water waves of highest amplitude",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005848",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Yongjian Liu, Zhenhai Liu, Nikolaos S. Papageorgiou",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005848?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.576Z",
-          "wordCount": 1542,
-          "title": "Sensitivity analysis of optimal control problems driven by dynamic history-dependent variational-hemivariational inequalities",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005745",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Hideo Kozono, Erika Ushikoshi, Fumitaka Wakabayashi",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005745?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.551Z",
-          "wordCount": 1287,
-          "title": "Removable time-dependent singularities of solutions to the Stokes equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006131",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Guodong Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006131?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.514Z",
-          "wordCount": 1255,
-          "title": "Stability of 2D steady Euler flows related to least energy solutions of the Lane-Emden equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005654",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Ru-Yu Lai, Ting Zhou",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005654?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.492Z",
-          "wordCount": 1195,
-          "title": "An inverse problem for the non-linear fractional magnetic Schrödinger equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005733",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Xin-Jian Xu, Chuan-Fu Yang, Natalia Bondarenko",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005733?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.486Z",
-          "wordCount": 1461,
-          "title": "Inverse spectral problems for radial Schrödinger operators and closed systems",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005903",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Wei Shuai",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005903?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.461Z",
-          "wordCount": 1352,
-          "title": "Two sequences of solutions for the semilinear elliptic equations with logarithmic nonlinearities",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005630",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Antonella Nastasi, Cintia Pacchiano Camacho",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005630?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.453Z",
-          "wordCount": 1180,
-          "title": "Higher integrability and stability of (<em>p</em>,<em>q</em>)-quasiminimizers",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005666",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Benedetta Ferrario",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005666?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.443Z",
-          "wordCount": 1265,
-          "title": "On 2D Eulerian limits à la Kuksin",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005952",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Dandan Cheng, Zhiming Li",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005952?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.421Z",
-          "wordCount": 1115,
-          "title": "Scaled pressure of dynamical systems",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005708",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Helge Glöckner, Joachim Hilgert",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005708?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.414Z",
-          "wordCount": 1199,
-          "title": "Aspects of control theory on infinite-dimensional Lie groups and <em>G</em>-manifolds",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006167",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Taiki Takeuchi",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006167?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.395Z",
-          "wordCount": 1285,
-          "title": "Various regularity estimates for the Keller-Segel-Navier-Stokes system in Besov spaces",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005885",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Kai Wang, Hao Wang, Hongyong Zhao",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005885?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.384Z",
-          "wordCount": 1551,
-          "title": "Aggregation and classification of spatial dynamics of vector-borne disease in advective heterogeneous environment",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005976",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Youshan Tao, Michael Winkler",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005976?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.371Z",
-          "wordCount": 1331,
-          "title": "Global solutions to a Keller-Segel-consumption system involving singularly signal-dependent motilities in domains of arbitrary dimension",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005988",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Venkateswaran P. Krishnan, Rakesh, Soumen Senapati",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005988?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.352Z",
-          "wordCount": 1207,
-          "title": "Point sources and stability for an inverse problem for a hyperbolic PDE with space and time dependent coefficients",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005617",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Yunfei Su, Guochun Wu, Lei Yao, Yinghui Zhang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005617?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.344Z",
-          "wordCount": 1425,
-          "title": "Hydrodynamic limit for the inhomogeneous incompressible Navier-Stokes-Vlasov equations",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005940",
-          "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Yongkai Liao, Huijiang Zhao",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005940?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.325Z",
-          "wordCount": 1875,
-          "title": "Asymptotic behavior of solutions of initial-boundary value problems for 1D viscous and heat-conducting ionized gas",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
@@ -1870,69 +1670,99 @@
           "author": null,
           "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Yamin Xiao, Boling Guo, Zhong Wang",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005915?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.315Z",
+          "publishedOn": "2022-10-30T00:55:25.933Z",
           "wordCount": 1473,
           "title": "Nonlinear stability of multi-solitons for the Hirota equation",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005897",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005952",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Shoujun Xu, Hao Wu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005897?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.292Z",
-          "wordCount": 1178,
-          "title": "The Gevrey normalization for quasi-periodic systems under Siegel type small divisor conditions",
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Dandan Cheng, Zhiming Li",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005952?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.922Z",
+          "wordCount": 1115,
+          "title": "Scaled pressure of dynamical systems",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005757",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005940",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): M. Gahn, I.S. Pop",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005757?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.283Z",
-          "wordCount": 1601,
-          "title": "Homogenization of a mineral dissolution and precipitation model involving free boundaries at the micro scale",
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Yongkai Liao, Huijiang Zhao",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005940?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.913Z",
+          "wordCount": 1875,
+          "title": "Asymptotic behavior of solutions of initial-boundary value problems for 1D viscous and heat-conducting ionized gas",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006003",
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200568X",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Xin Liu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006003?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.268Z",
-          "wordCount": 1297,
-          "title": "On the resolvability of the dynamics of one fluid flow via a testing fluid in a two-fluids flow model",
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Dorota Bors, Robert Stańczy",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200568X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.862Z",
+          "wordCount": 1153,
+          "title": "Dynamical system describing cloud of particles",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200571X",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005472",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Nicolás Carreño, Maurício C. Santos",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200571X?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.246Z",
-          "wordCount": 1336,
-          "title": "Stackelberg-Nash exact controllability for the Kuramoto-Sivashinsky equation with boundary and distributed controls",
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Vladimir Kozlov, Evgeniy Lokharu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005472?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.847Z",
+          "wordCount": 1079,
+          "title": "On negative eigenvalues of the spectral problem for water waves of highest amplitude",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005939",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005964",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Chuang Xiang, Jicai Huang, Hao Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005939?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.212Z",
-          "wordCount": 1518,
-          "title": "Bifurcations in Holling-Tanner model with generalist predator and prey refuge",
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Ming Mei, Tianyuan Xu, Jingxue Yin",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005964?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.821Z",
+          "wordCount": 1333,
+          "title": "Monotone reducing mechanism in delayed population model with degenerate diffusion",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006155",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005708",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Qing Guo, Jing Yang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006155?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.193Z",
-          "wordCount": 1388,
-          "title": "Excited states for two-component Bose-Einstein condensates in dimension two",
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Helge Glöckner, Joachim Hilgert",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005708?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.811Z",
+          "wordCount": 1199,
+          "title": "Aspects of control theory on infinite-dimensional Lie groups and <em>G</em>-manifolds",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005666",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Benedetta Ferrario",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005666?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.790Z",
+          "wordCount": 1265,
+          "title": "On 2D Eulerian limits à la Kuksin",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005654",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Ru-Yu Lai, Ting Zhou",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005654?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.781Z",
+          "wordCount": 1195,
+          "title": "An inverse problem for the non-linear fractional magnetic Schrödinger equation",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006131",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Guodong Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006131?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.768Z",
+          "wordCount": 1255,
+          "title": "Stability of 2D steady Euler flows related to least energy solutions of the Lane-Emden equation",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
@@ -1940,39 +1770,199 @@
           "author": null,
           "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Elisabetta Rocca, Giulio Schimperna, Andrea Signori",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006076?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:22.183Z",
+          "publishedOn": "2022-10-30T00:55:25.756Z",
           "wordCount": 1603,
           "title": "On a Cahn–Hilliard–Keller–Segel model with generalized logistic source describing tumor growth",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005642",
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200609X",
           "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Carmina Fjellström, Kaj Nyström, Yuqiong Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005642?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:20.178Z",
-          "wordCount": 1194,
-          "title": "Asymptotic mean value formulas, nonlocal space-time parabolic operators and anomalous tug-of-war games",
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Guiqiong Gong, Jiawei Zhou, Boran Zhu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200609X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.720Z",
+          "wordCount": 1443,
+          "title": "Global existence and optimal decay rate of the classical solution to 3-D radiative hydrodynamics model with or without heat conductivity",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005605",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006155",
           "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): R. Huzak, K. Uldall Kristiansen",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005605?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:20.145Z",
-          "wordCount": 1325,
-          "title": "The number of limit cycles for regularized piecewise polynomial systems is unbounded",
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Qing Guo, Jing Yang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006155?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.692Z",
+          "wordCount": 1388,
+          "title": "Excited states for two-component Bose-Einstein condensates in dimension two",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200585X",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005885",
           "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Carmina Fjellström, Kaj Nyström, Matias Vestberg",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200585X?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:19.928Z",
-          "wordCount": 1286,
-          "title": "Tug-of-war with Kolmogorov",
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Kai Wang, Hao Wang, Hongyong Zhao",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005885?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.680Z",
+          "wordCount": 1551,
+          "title": "Aggregation and classification of spatial dynamics of vector-borne disease in advective heterogeneous environment",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005745",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Hideo Kozono, Erika Ushikoshi, Fumitaka Wakabayashi",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005745?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.671Z",
+          "wordCount": 1287,
+          "title": "Removable time-dependent singularities of solutions to the Stokes equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005848",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Yongjian Liu, Zhenhai Liu, Nikolaos S. Papageorgiou",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005848?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.644Z",
+          "wordCount": 1542,
+          "title": "Sensitivity analysis of optimal control problems driven by dynamic history-dependent variational-hemivariational inequalities",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005836",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Jin-Cai Kang, Xiao-Qi Liu, Chun-Lei Tang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005836?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.616Z",
+          "wordCount": 1278,
+          "title": "Chern-Simons limit of ground state solutions for the Schrödinger equations coupled with a neutral scalar field",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005988",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Venkateswaran P. Krishnan, Rakesh, Soumen Senapati",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005988?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.604Z",
+          "wordCount": 1207,
+          "title": "Point sources and stability for an inverse problem for a hyperbolic PDE with space and time dependent coefficients",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200571X",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Nicolás Carreño, Maurício C. Santos",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200571X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.593Z",
+          "wordCount": 1336,
+          "title": "Stackelberg-Nash exact controllability for the Kuramoto-Sivashinsky equation with boundary and distributed controls",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005757",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): M. Gahn, I.S. Pop",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005757?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.583Z",
+          "wordCount": 1601,
+          "title": "Homogenization of a mineral dissolution and precipitation model involving free boundaries at the micro scale",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005927",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Shuai Li, Wendong Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005927?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.573Z",
+          "wordCount": 1253,
+          "title": "Interior and boundary regularity criteria for the 6D steady Navier-Stokes equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006088",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Elisa Francini, Sergio Vessella, Jenn-Nan Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006088?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.503Z",
+          "wordCount": 1203,
+          "title": "Propagation of smallness and size estimate in the second order elliptic equation with discontinuous complex Lipschitz conductivity",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005897",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Shoujun Xu, Hao Wu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005897?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.493Z",
+          "wordCount": 1178,
+          "title": "The Gevrey normalization for quasi-periodic systems under Siegel type small divisor conditions",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005976",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Youshan Tao, Michael Winkler",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005976?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.484Z",
+          "wordCount": 1331,
+          "title": "Global solutions to a Keller-Segel-consumption system involving singularly signal-dependent motilities in domains of arbitrary dimension",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005733",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Xin-Jian Xu, Chuan-Fu Yang, Natalia Bondarenko",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005733?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.454Z",
+          "wordCount": 1461,
+          "title": "Inverse spectral problems for radial Schrödinger operators and closed systems",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005630",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Antonella Nastasi, Cintia Pacchiano Camacho",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005630?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.444Z",
+          "wordCount": 1180,
+          "title": "Higher integrability and stability of (<em>p</em>,<em>q</em>)-quasiminimizers",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005939",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Chuang Xiang, Jicai Huang, Hao Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005939?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.417Z",
+          "wordCount": 1518,
+          "title": "Bifurcations in Holling-Tanner model with generalist predator and prey refuge",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005617",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Yunfei Su, Guochun Wu, Lei Yao, Yinghui Zhang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005617?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.403Z",
+          "wordCount": 1425,
+          "title": "Hydrodynamic limit for the inhomogeneous incompressible Navier-Stokes-Vlasov equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006167",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Taiki Takeuchi",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006167?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.309Z",
+          "wordCount": 1285,
+          "title": "Various regularity estimates for the Keller-Segel-Navier-Stokes system in Besov spaces",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622006003",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Xin Liu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622006003?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:25.294Z",
+          "wordCount": 1297,
+          "title": "On the resolvability of the dynamics of one fluid flow via a testing fluid in a two-fluids flow model",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
@@ -1980,19 +1970,9 @@
           "author": null,
           "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Sergio Albeverio, Carlo Marinelli, Elisa Mastrogiacomo",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005691?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:19.832Z",
+          "publishedOn": "2022-10-30T00:55:23.238Z",
           "wordCount": 1332,
           "title": "Singular perturbations and asymptotic expansions for SPDEs with an application to term structure models",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005721",
-          "author": null,
-          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Amir Moradifam, Alexander Rowell",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005721?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:19.816Z",
-          "wordCount": 1219,
-          "title": "Existence and structure of P-area minimizing surfaces in the Heisenberg group",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
@@ -2000,19 +1980,49 @@
           "author": null,
           "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): A. Constantin",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005678?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:19.775Z",
+          "publishedOn": "2022-10-30T00:55:23.207Z",
           "wordCount": 1096,
           "title": "A uniqueness criterion for ordinary differential equations",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005769",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005605",
           "author": null,
-          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Yushi Hamaguchi",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005769?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:19.719Z",
-          "wordCount": 1302,
-          "title": "Variation of constants formulae for forward and backward stochastic Volterra integral equations",
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): R. Huzak, K. Uldall Kristiansen",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005605?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:23.187Z",
+          "wordCount": 1325,
+          "title": "The number of limit cycles for regularized piecewise polynomial systems is unbounded",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005721",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Amir Moradifam, Alexander Rowell",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005721?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:23.155Z",
+          "wordCount": 1219,
+          "title": "Existence and structure of P-area minimizing surfaces in the Heisenberg group",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005642",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Carmina Fjellström, Kaj Nyström, Yuqiong Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005642?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:23.140Z",
+          "wordCount": 1194,
+          "title": "Asymptotic mean value formulas, nonlocal space-time parabolic operators and anomalous tug-of-war games",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200585X",
+          "author": null,
+          "description": "Publication date: 5 January 2023\nSource: Journal of Differential Equations, Volume 342\nAuthor(s): Carmina Fjellström, Kaj Nyström, Matias Vestberg",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200585X?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:23.097Z",
+          "wordCount": 1286,
+          "title": "Tug-of-war with Kolmogorov",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         },
         {
@@ -2020,9 +2030,19 @@
           "author": null,
           "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Giovanni Di Fratta, Ansgar Jüngel, Dirk Praetorius, Valeriy Slastikov",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005873?dgcid=rss_sd_all",
-          "publishedOn": "2022-10-29T00:41:19.670Z",
+          "publishedOn": "2022-10-30T00:55:23.068Z",
           "wordCount": 1378,
           "title": "Spin-diffusion model for micromagnetics in the limit of long times",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622005769",
+          "author": null,
+          "description": "Publication date: 15 January 2023\nSource: Journal of Differential Equations, Volume 343\nAuthor(s): Yushi Hamaguchi",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622005769?dgcid=rss_sd_all",
+          "publishedOn": "2022-10-30T00:55:22.963Z",
+          "wordCount": 1302,
+          "title": "Variation of constants formulae for forward and backward stochastic Volterra integral equations",
           "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022039622X00302-cov150h.gif"
         }
       ]
@@ -2037,10 +2057,50 @@
           "author": null,
           "description": "",
           "link": "http://link.springer.com/10915",
-          "publishedOn": "2022-10-25T00:00:00.000Z",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
           "wordCount": null,
           "title": "Journal of Scientific Computing",
           "imageUrl": null
+        },
+        {
+          "id": "10.1007/s10915-022-02036-x",
+          "author": null,
+          "description": "Journal of Scientific Computing -",
+          "link": "http://link.springer.com/10.1007/s10915-022-02036-x",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 1482,
+          "title": "Retraction Note to: Model Order Reduction Method Based on Machine Learning for Parameterized Time-Dependent Partial Differential Equations",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
+        },
+        {
+          "id": "10.1007/s10915-022-02034-z",
+          "author": null,
+          "description": "Abstract\nIn this paper, a fifth-order finite difference mapped weighted essentially non-oscillatory scheme with unequal-size stencils, termed as MUS-WENO, is designed for hyperbolic conservation laws. The new mapping function and nonlinear weights are proposed to reduce the difference between the linear weights and nonlinear weights. It could get smaller numerical errors and obtain fifth-order accuracy, give optimal fifth-order convergence with a tiny \n                      \n                      \\(\\varepsilon \\)\n                      \n                     even near critical points in smooth regions, and simultaneously suppress spurious oscillations near strong discontinuities. Comparing with the classical fifth-order finite difference WENO schemes and fifth-order finite difference mapped WENO (MWENO) schemes, this mapped WENO scheme uses three unequal-size stencils and the linear weights which can be any positive numbers on condition that their summation is one. Another advantage is that we can reconstruct polynomial over the whole big stencil, while many classical high-order WENO reconstructions only reconstruct the values at the boundary points or discrete quadrature points. Extensive examples including some steady-state problems and some low density, low pressure, or low energy extreme problems are used to testify the good representations of this new MUS-WENO scheme.",
+          "link": "http://link.springer.com/10.1007/s10915-022-02034-z",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 4371,
+          "title": "A Finite Difference Mapped WENO Scheme with Unequal-Size Stencils for Hyperbolic Conservation Laws",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
+        },
+        {
+          "id": "10.1007/s10915-022-02033-0",
+          "author": null,
+          "description": "Abstract\nRecently, a golden ratio primal-dual algorithm (GRPDA) was proposed by Chang and Yang for solving structured convex optimization problems. It is a new adaptation of the classical Arrow-Hurwicz method by using a convex combination step, instead of the widely adopted extrapolation technique. The convex combination step is determined by a parameter \n                      \n                      \\(\\psi \\)\n                      \n                    , which, to guarantee global convergence, is restricted to \n                      \n                      \\((1, (1+\\sqrt{5})/2]\\)\n                      \n                    . In this paper, by carrying out a refined analysis, we expand this region to \n                      \n                      \\((1, 1+\\sqrt{3})\\)\n                      \n                    . Moreover, we establish ergodic sublinear convergence rate results based on function value residual and constraint violation of an equivalently reformulated constrained optimization problem, rather than the previously adopted so-called primal-dual gap function that could vanish at nonstationary points. For linear equality constrained and regularized least-squares problems, we further show that GRPDA and Chambolle-Pock’s primal-dual algorithm are equivalent provided that some parameters are chosen properly. Finally, experimental results on the LASSO and the basis pursuit problems are presented to demonstrate the performance of GRPDA with \n                      \n                      \\(\\psi \\)\n                      \n                     being chosen in the expanded region.",
+          "link": "http://link.springer.com/10.1007/s10915-022-02033-0",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
+          "wordCount": 3395,
+          "title": "GRPDA Revisited: Relaxed Condition and Connection to Chambolle-Pock’s Primal-Dual Algorithm",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
+        },
+        {
+          "id": "10.1007/s10915-022-02027-y",
+          "author": null,
+          "description": "Abstract\nFor the lowest order triangular edge element, function and curl recovery methods are proposed to recover the finite element approximation and its curl onto the space of piecewise continuous functions by least-squares fitting. A superconvergence analysis is carried out on the uniform triangular mesh. Numerical experiments are provided to illustrate the superconvergence of the recovery methods and the performance of the corresponding recovery based a posteriori error estimators in adaptive computation.",
+          "link": "http://link.springer.com/10.1007/s10915-022-02027-y",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
+          "wordCount": 3693,
+          "title": "Function and Curl Recovery for the Lowest Order Triangular Edge Element",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
         {
           "id": "10.1007/s10915-022-02004-5",
@@ -2078,7 +2138,7 @@
           "description": "Abstract\nIn this paper, we consider the numerical approximation of a biharmonic eigenvalue problem by introducing a new family of the mixed method. This method is based on a formulation where the fourth-order eigenproblem is recast as a system of four first-order equations. The optimal convergence rates with \n                      \n                      \\(2k+2\\)\n                      \n                     (\n                      \n                      \\(k\\ge 0\\)\n                      \n                     is the degree of the polynomials) of eigenvalue approximation are theoretically derived and numerically verified. The optimal or sub-optimal convergences of the other unknowns are theoretically proved. The new numerical schemes based on the deduced problems can be of lower complicacy, and the framework is fit for various fourth-order eigenvalue problems.",
           "link": "http://link.springer.com/10.1007/s10915-022-02024-1",
           "publishedOn": "2022-10-25T00:00:00.000Z",
-          "wordCount": 4405,
+          "wordCount": 4442,
           "title": "A New Family of Mixed Method for the Biharmonic Eigenvalue Problem Based on the First Order Equations of Hellan–Herrmann–Johnson Type",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -2191,46 +2251,6 @@
           "wordCount": 4385,
           "title": "Verifiability of the Data-Driven Variational Multiscale Reduced Order Model",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-022-02016-1",
-          "author": null,
-          "description": "Abstract\nWe propose a novel stochastic Nesterov’s smoothing accelerated method for general nonsmooth, constrained, stochastic composite convex optimization, the nonsmooth component of which may be not easy to compute its proximal operator. The proposed method combines Nesterov’s smoothing accelerated method (Nesterov in Math Program 103(1):127–152, 2005) for deterministic problems and stochastic approximation for stochastic problems, which allows three variants: single sample and two different mini-batch sizes per iteration, respectively. We prove that all the three variants achieve the best-known complexity bounds in terms of stochastic oracle. Numerical results on a robust linear regression problem, as well as a support vector machine problem show that the proposed method compares favorably with other state-of-the-art first-order methods, and the variants with mini-batch sizes outperform the variant with single sample.",
-          "link": "http://link.springer.com/10.1007/s10915-022-02016-1",
-          "publishedOn": "2022-10-07T00:00:00.000Z",
-          "wordCount": 3805,
-          "title": "A Stochastic Nesterov’s Smoothing Accelerated Method for General Nonsmooth Constrained Stochastic Composite Convex Optimization",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-022-02008-1",
-          "author": null,
-          "description": "Abstract\nThis paper aims at developing a dissipation-preserving, linearized, and time-stepping-varying spectral method for strongly damped nonlinear wave system in multidimensional unbounded domains \n                      \n                      \\({\\mathbb {R}}^d\\)\n                      \n                     (d=1, 2, and 3), where the nonlocal nature is described by the mixed fractional Laplacians. Because the underlying solutions of the problem involving mixed fractional Laplacians decay slowly with certain power law at infinity, we employ the rational spectral-Galerkin method using rational basis (or mapped Gegenbauer functions) for the spatial approximation. To capture the intrinsic dissipative properties of the model equations, we combine the Crank-Nicolson scheme with exponential scalar auxiliary variable approach for the temporal discretization. Based on the rate of nonlocal energy dissipation, we design a novel time-stepping-varying strategy to enhance the efficiency of the scheme. We present the detailed implementation of the scheme, where the main building block of the stiffness matrices is based on the Laguerre-Gauss quadrature rule for the modified Bessel functions of the second kind. The existence, uniqueness, and nonlocal energy dissipation law of the fully discrete scheme are rigourously established. Numerical examples in 3D case are carried out to demonstrate the accuracy and efficiency of the scheme. Finally, we simulate the nonlinear behaviors of 2D/3D dissipative vector solitary waves for damped sine-Gordon system I, for damped sine-Gordon system II, and for damped Klein–Gordon system to provide a deeper understanding of nonlocal physics.",
-          "link": "http://link.springer.com/10.1007/s10915-022-02008-1",
-          "publishedOn": "2022-10-07T00:00:00.000Z",
-          "wordCount": 4045,
-          "title": "Dissipation-Preserving Rational Spectral-Galerkin Method for Strongly Damped Nonlinear Wave System Involving Mixed Fractional Laplacians in Unbounded Domains",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-022-02011-6",
-          "author": null,
-          "description": "Abstract\nIn this paper, we apply the immersed interface method (IIM) and the hierarchical derivative matching (HDM) method, respectively, to restore the accuracy of the high-order alternating direction implicit finite-difference time-domain (ADI-FDTD) scheme of the 2D Maxwell’s equations with material interfaces. For the case of discontinuous permittivity \n                      \n                      \\(\\varepsilon \\)\n                      \n                     and continuous permeability \n                      \n                      \\(\\mu \\)\n                      \n                    , we propose four high-order schemes. Two of them are of second order in time and fourth order in space (ADI-IIM-FDTD(2,4) scheme and ADI-HDM-FDTD(2,4) scheme). Others are of fourth order both in time and space (ADI-IIM-FDTD(4,4) scheme and ADI-HDM-FDTD(4,4) scheme). For the case of discontinuous permittivity \n                      \n                      \\(\\varepsilon \\)\n                      \n                     and permeability \n                      \n                      \\(\\mu \\)\n                      \n                    , the (2,4) scheme and the (4,4) scheme are constructed as well (ADI-HDM-FDTD-X(2,4) scheme and ADI-HDM-FDTD-X(4,4) scheme). The proposed six schemes maintain the advantages of ADI-FDTD method such as unconditional stability and computational efficiency. Numerical examples are given to verify the performance of the proposed schemes.",
-          "link": "http://link.springer.com/10.1007/s10915-022-02011-6",
-          "publishedOn": "2022-10-05T00:00:00.000Z",
-          "wordCount": 3623,
-          "title": "High-Order ADI-FDTD Schemes for Maxwell’s Equations with Material Interfaces in Two Dimensions",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-022-02010-7",
-          "author": null,
-          "description": "Abstract\nIn this paper we consider a partially augmented fully-mixed variational formulation that has been recently proposed for the coupling of the stationary Brinkman–Forchheimer and double-diffusion equations, and develop an a posteriori error analysis for the 2D and 3D versions of the associated mixed finite element scheme. Indeed, we derive two reliable and efficient residual-based a posteriori error estimators for this problem on arbitrary (convex or non-convex) polygonal and polyhedral regions. The reliability of the proposed estimators draws mainly upon the uniform ellipticity and inf-sup condition of the forms involved, a suitable assumption on the data, stable Helmholtz decompositions in Hilbert and Banach frameworks, and the local approximation properties of the Clément and Raviart–Thomas operators. In turn, inverse inequalities, the localization technique based on bubble functions, and known results from previous works, are the main tools yielding the efficiency estimate. Finally, several numerical examples confirming the theoretical properties of the estimators and illustrating the performance of the associated adaptive algorithms, are reported. In particular, the case of flow through a 3D porous media with channel networks is considered.",
-          "link": "http://link.springer.com/10.1007/s10915-022-02010-7",
-          "publishedOn": "2022-09-30T00:00:00.000Z",
-          "wordCount": 3913,
-          "title": "A Posteriori Error Analysis of a Mixed Finite Element Method for the Coupled Brinkman–Forchheimer and Double-Diffusion Equations",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         }
       ]
     },
@@ -2245,7 +2265,7 @@
           "description": "Multiscale Modeling & Simulation, Volume 20, Issue 4, Page 1228-1250, December 2022. \n Abstract. We show the possibility of achieving nonreciprocal wave propagation in space-time modulated media and give an asymptotic analysis of the nonreciprocity property in terms of the amplitude of the time modulation. Such modulation causes a folding of the band structure of the material, which may induce degenerate points. By breaking time-reversal symmetry, we show that these degeneracies may open into nonsymmetric, unidirectional band gaps. Finally, we illustrate our results by several numerical simulations.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/21M1449427?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-28T07:00:00.000Z",
-          "wordCount": 1,
+          "wordCount": null,
           "title": "NonReciprocal Wave Propagation in Space-Time Modulated Media",
           "imageUrl": null
         },
@@ -2255,7 +2275,7 @@
           "description": "Multiscale Modeling & Simulation, Volume 20, Issue 4, Page 1191-1227, December 2022. \n Abstract. We introduce an end-to-end deep learning architecture called the wide-band butterfly network (WideBNet) for approximating the inverse scattering map from wide-band scattering data. This architecture incorporates tools from computational harmonic analysis, such as the butterfly factorization, and traditional multi-scale methods, such as the Cooley–Tukey FFT algorithm, to drastically reduce the number of trainable parameters to match the inherent complexity of the problem. As a result, WideBNet is efficient: it requires fewer training points than off-the-shelf architectures and has stable training dynamics which are compatible with standard weight initialization strategies. The architecture automatically adapts to the dimensions of the data with only a few hyper-parameters that the user must specify. WideBNet is able to produce images that are competitive with optimization-based approaches, but at a fraction of the cost, and we also demonstrate numerically that it learns to super-resolve scatterers with a full aperture configuration.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/20M1383276?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-26T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "Wide-Band Butterfly Network: Stable and Efficient Inversion Via Multi-Frequency Neural Networks",
           "imageUrl": null
         },
@@ -2267,36 +2287,6 @@
           "publishedOn": "2022-10-26T07:00:00.000Z",
           "wordCount": 1,
           "title": "Numerical Upscaling for Wave Equations with Time-Dependent Multiscale Coefficients",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/21M1459782?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Rodrigo M. Pereira",
-          "description": "Multiscale Modeling & Simulation, Volume 20, Issue 3, Page 1147-1166, September 2022. \n Abstract. Adaptive Galerkin methods for time-dependent partial differential equations are studied and shown to be dissipative. The adaptation implies that the subset of the selected basis function changes over time according to the evolution of the solution. The corresponding projection operator is thus time-dependent and nondifferentiable. We therefore propose to use an integral formulation in time. We analyze the existence and uniqueness of this weak form of the dynamical Galerkin scheme, and we then prove that the nonsmooth projection operator introduces energy dissipation, which is a crucial result for adaptive Galerkin methods, e.g., adaptive wavelet methods. Numerical examples for the inviscid Burgers equation in one dimension and the incompressible Euler equations in two and three spatial dimensions show that the selection of basis functions, for instance by filtering out weak wavelet coefficients from the solution, introduces energy dissipation. Moreover, for the Burgers case we can show that adaptive wavelet regularization yields convergence of the truncated Galerkin solution to the physically relevant entropy solution. These results motivate adaptive wavelet-based Galerkin schemes for nonlinear hyperbolic conservation laws.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/21M1459782?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2022-09-30T07:00:00.000Z",
-          "wordCount": 1,
-          "title": "Adaptive Solution of Initial Value Problems by a Dynamical Galerkin Scheme",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/21M1467791?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Shibin Dai",
-          "description": "Multiscale Modeling & Simulation, Volume 20, Issue 3, Page 1127-1146, September 2022. \n Abstract. Using a multiscale analysis, we derive a sharp interface limit for the dynamics of bilayer structures of the functionalized Cahn–Hilliard equation with a cutoff diffusion mobility [math] that is degenerate for [math] and a continuously differentiable double-well potential [math]. We show that the bilayer interface does not move in the [math] time scale. The interface motion occurs in the [math] time scale and is determined by porous medium diffusion processes in both phases with no jumps on the interface. In the longer [math] time scale, the interface motion is a complex combination of porous medium diffusion processes in both phases and the property of mass conservation.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/21M1467791?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2022-09-30T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Geometric Evolution of Bilayers under the Degenerate Functionalized Cahn–Hilliard Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/22M1493707?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Dane Taylor",
-          "description": "Multiscale Modeling & Simulation, Volume 20, Issue 3, Page 1167-1167, September 2022. \n Abstract. This erratum corrects several typos in [D. Taylor, M. A. Porter, and P. J. Mucha, Multiscale Model. Simul., 19 (2021), pp. 113–147].",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/22M1493707?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2022-09-30T07:00:00.000Z",
-          "wordCount": 1,
-          "title": "Erratum: Tunable Eigenvector-Based Centralities for Multiplex and Temporal Networks",
           "imageUrl": null
         }
       ]
@@ -2318,7 +2308,7 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1808-1828, December 2022. \n Abstract. We study the solution landscape and bifurcation diagrams of nematic liquid crystals confined on a rectangle, using a reduced two-dimensional Landau–de Gennes framework in terms of two geometry-dependent variables: half short edge length [math] and aspect ratio [math]. First, we analytically prove that, for any [math] with a small enough [math] or for a large enough [math] with a fixed domain size, there is a unique stable solution that has two line defects on the opposite short edges. Second, we numerically construct solution landscapes by varying [math] and [math], and report a novel X state, which emerges from saddle-node bifurcation and serves as the parent state in such a solution landscape. Various new classes are then found among these solution landscapes, including the X class, the S class, and the L class. By tracking the Morse indices of individual solutions, we present bifurcation diagrams for nematic equilibria, thus illustrating the emergence mechanism of critical points and several effects of geometrical anisotropy on confined defect patterns.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/21M1447404?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-18T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "Nematic Liquid Crystals in a Rectangular Confinement: Solution Landscape, and Bifurcation",
           "imageUrl": null
         },
@@ -2328,9 +2318,9 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1733-1763, December 2022. \n Abstract. We deal with bistable reaction-diffusion equations in a domain of a metric graph with two vertices, that is, a domain of multiple half-lines with two junctions connected by a line segment. We prove that there exist two types of standing waves: standing front waves and unimodal waves, if the line segment is long enough. We also numerically show the exact number of standing wave solutions for a cubic nonlinearity and for a piecewise linear case. The stability and instability of the standing wave solutions are also investigated. Standing waves play a role in blocking the front propagation.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/21M1454572?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-18T07:00:00.000Z",
-          "wordCount": 1216,
+          "wordCount": null,
           "title": "Standing Waves of Reaction-Diffusion Equations on an Unbounded Graph with Two Vertices",
-          "imageUrl": "https://epubs.siam.org/na101/home/literatum/publisher/siam/journals/covergifs/smjmap/cover.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://epubs.siam.org/doi/abs/10.1137/22M1472127?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
@@ -2338,7 +2328,7 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1764-1790, December 2022. \n Abstract. Pattern formation arising from the reaction-diffusion epidemic model is a space-time depiction of the distribution and transmission of infectious diseases. Disease control can be achieved by controlling the associated pattern formations. For an SIR reaction-diffusion epidemic model, we review its Turing pattern formations with different transmission rates under the case of a constant recovery rate. To control pattern formations of the SIR epidemic model, we introduce a regulator as a control function of the recovery rate. For a perfect control strategy, it not only leads to a desired pattern formation, but also has a small support in space-time domains. In order to obtain such a control strategy, we propose a sparse optimal control problem governed by the SIR epidemic model. We study the existence of optimal solutions, derive the first order necessary optimality system, obtain the sparsity structure of the control function, and numerically solve the control problem. Numerical results demonstrate the feasibility and effectivity of our method.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/22M1472127?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-18T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "Sparse Optimal Control of Pattern Formations for an SIR Reaction-Diffusion Epidemic Model",
           "imageUrl": null
         },
@@ -2348,7 +2338,7 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1791-1807, December 2022. \n Abstract. In mathematical modeling, it is common to have an equation [math], where the exact form of [math] is not known. This article shows that there are large classes of [math] where almost all [math] share the same properties. The classes we investigate are vector spaces [math] of [math] functions [math] that satisfy the following condition: [math] has “almost constant rank\" (ACR) if there is a constant integer [math] such that rank[math] for “almost every\" [math] and almost every [math]. If the vector space [math] is finite dimensional, then “almost every\" is with respect to the Lebesgue measure on [math], and otherwise, it means almost every in the sense of prevalence, as described herein. Most function spaces commonly used for modeling purposes are ACR. In particular, we show that if all of the functions in [math] are linear or polynomial or real analytic, or if [math] is the set of all functions in a “structured system\", then [math] is ACR. For each [math] and [math], the solution set of [math] is SolSet[math]. A solution set of [math] is called robust if it persists despite small changes in [math] and [math]. The following two global results are proved for almost every [math] in an ACR vector space [math]: (1) Either the solution set SolSet[math] is robust for almost every [math], or none of the solution sets are robust. (2) The solution set SolSet[math] is a [math]-manifold of dimension [math]. In particular, [math] is the same for almost every [math].",
           "link": "https://epubs.siam.org/doi/abs/10.1137/22M1483529?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-18T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "Robustness of Solutions of Almost Every System of Equations",
           "imageUrl": null
         },
@@ -2358,7 +2348,7 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1710-1732, December 2022. \n Abstract. A matrix basis formulation is introduced to represent the [math] frequency domain dyadic Green’s functions of Maxwell’s equations in 3-dimensional layered media. The formulation can be used to decompose the Maxwell’s Green’s functions into independent TE and TM components, each satisfying a scalar Helmholtz equation. Moreover, the interface transmission conditions for the electromagnetic fields can be reduced to decoupled conditions for the matrix basis coefficients at interfaces. Numerical results for the electric and magnetic dyadic Green’s functions for a 10-layer medium show the capability of the proposed formulation.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/21M1429102?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-14T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "A Matrix Basis Formulation for the Dyadic Green’s Functions of Maxwell’s Equations in Layered Media",
           "imageUrl": null
         },
@@ -2368,7 +2358,7 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1680-1709, December 2022. \n Abstract. In this paper, we formulate susceptible-infected-susceptible reaction-diffusion epidemic models with cognition and show the impact of movement strategies on disease outbreak and mitigation under a spatially heterogeneous environment. The cognitive diffusion either takes a Fokker–Planck type diffusion obtained by Chapman’s diffusion law (called random diffusion) or follows Fick’s diffusion law (called symmetric diffusion). We derive a variational expression of the basic reproduction number [math] for both models and prove that the disease-free equilibrium is unique and globally asymptotically stable if [math]. Furthermore, if [math], the model following Fick’s diffusion law admits at least one endemic equilibrium and the model following Chapman’s diffusion law has a unique endemic equilibrium. The theoretical results are illustrated by numerical simulations, which additionally show the segregation phenomenon between susceptible and infected populations regulated by different movement strategies. Spatial segregation here is natural, not caused by an isolation policy, and thus is the most important indicator for an infectious disease to spread or wane in the absence of intervention. The first example shows that a heterogeneous random diffusion segregates infected and susceptible populations further than an ODE model and thus reduces the infection size. However, symmetric diffusion never does that. The second example shows that a heterogeneous random diffusion detriments segregation but still reduces the infection severity by moving infected individuals to a disease-free region. In a certain situation, a heterogeneous random diffusion may increase the infection severity as shown in the last example.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/22M1485814?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-14T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "Spatial Segregation in Reaction-Diffusion Epidemic Models",
           "imageUrl": null
         },
@@ -2378,7 +2368,7 @@
           "description": "SIAM Journal on Applied Mathematics, Volume 82, Issue 5, Page 1661-1679, December 2022. \n Abstract. We investigate the transfer function emanating from the linearization of a car-following model for human drivers when taking into account their reaction time, which is known to be a cause of the stop-and-go traffic phenomenon. This leads to a nonrational transfer function, implying nontrivial stability conditions which are explicitly given. They are in particular satisfied whenever string stability holds. We also show how this reaction time can introduce a partial string stability, where the transfer function modulus remains smaller than 1 up to some critical frequency. We explore conditions in the parameter space discriminating between 3 different regimes (stability, string stability, and partial string stability).",
           "link": "https://epubs.siam.org/doi/abs/10.1137/21M1443650?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-12T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1,
           "title": "Stability and String Stability of Car-Following Models with Reaction-Time Delay",
           "imageUrl": null
         }
@@ -2415,7 +2405,7 @@
           "description": "SIAM Journal on Computing, Volume 51, Issue 5, Page 1451-1505, October 2022. \n Abstract. We study the following problem: Given a continuous domain [math] along with its convex hull [math], a point [math], and a measure [math] on [math], find the probability density over [math] whose marginal is [math] and that minimizes the KL divergence to the uniform density with respect to [math]. Several distributions in mathematics, physics, statistics, and theoretical computer science arise by different settings of the parameters of this problem. We give a polynomial bound on the norm of the optimizer of the dual problem that holds in a very general setting and relies on a “balance” property of the measure [math] on [math], and exact algorithms for evaluating the dual and its gradient for several interesting settings of [math] and [math]. Together, along with the ellipsoid method, these results imply polynomial-time algorithms to compute such KL divergence minimizing distributions in several cases. Applications of our results include (1) an optimization characterization of the Goemans–Williamson measure [M. X. Goemans and D. P. Williamson, J ACM, 42 (1995), pp. 1115–1145] that is used to round a positive semidefinite matrix to a vector; (2) the computability of the entropic barrier for convex bodies, given a strong integration oracle, studied by [S. Bubeck and R. Eldan, Proc. Mach. Learn. Res. (PMLR), 40 (2015), p. 279], and (3) a polynomial-time algorithm to compute the barycentric quantum entropy of a density matrix that was proposed as an alternative to von Neumann entropy [W. Band and J. L. Park, Found. Phys., 6 (1976), pp. 249–262; J. L. Park and W. Band, Found. Phys., 7 (1977), pp. 233–244; P. B. Slater, Phys. Lett. A, 159 (1991), pp. 411–414]; this corresponds to the case when [math] is the set of rank-one projection matrices and [math] is derived from the Haar measure on the unit sphere.",
           "link": "https://epubs.siam.org/doi/abs/10.1137/21M1440864?mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "publishedOn": "2022-10-28T07:00:00.000Z",
-          "wordCount": 1,
+          "wordCount": null,
           "title": "On the Computability of Continuous Maximum Entropy Distributions with Applications",
           "imageUrl": null
         },
