@@ -1,39 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T00:42:14.033Z</id>
+    <id>urn:2022-11-18T00:47:30.282Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T00:42:14.033Z</updated>
+    <updated>2022-11-18T00:47:30.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Two sequences of solutions for the semilinear elliptic equations with logarithmic nonlinearities]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005903</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005903?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.145Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Wei Shuai]]></summary>
+        <title type="html"><![CDATA[Trapping of Planar Brownian Motion: Full First Passage Time Distributions by Kinetic Monte Carlo, Asymptotic, and Boundary Integral Methods]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M146380X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M146380X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 20, Issue 4, Page 1284-1314, December 2022. 
+ Abstract. We consider the problem of determining the arrival statistics of unbiased planar random walkers to complex target configurations. In contrast to problems posed in finite domains, simple moments of the first passage time distribution, such as its mean and variance, are not defined. Therefore, it is necessary to obtain the full arrival statistics. We describe several methods to obtain these distributions and other associated quantities such as splitting probabilities. One approach combines a Laplace transform of the underlying parabolic equation with matched asymptotic analysis followed by numerical transform inversion. The second approach is similar but uses a boundary integral equation method to solve for the transformed variable. To validate the results of this theory, and to obtain the arrival time statistics in very general configurations of absorbers, we introduce an efficient kinetic Monte Carlo (KMC) method that describes trajectories as a combination of large but exactly solvable projection steps. The effectiveness of these methodologies is demonstrated on a variety of challenging examples highlighting the applicability of these methods to a variety of practical scenarios, such as source inference. A particularly useful finding arising from these results is that homogenization theories, in which complex configurations are replaced by equivalent simple ones, are remarkably effective at describing arrival time statistics.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Jake Cherry</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the resolvability of the dynamics of one fluid flow via a testing fluid in a two-fluids flow model]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006003</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006003?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.117Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Xin Liu]]></summary>
+        <title type="html"><![CDATA[Modeling Spatial Waves of Wolbachia Invasion for Controlling Mosquito-Borne Diseases]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1440384?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1440384?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Mathematics, Volume 82, Issue 6, Page 1903-1929, December 2022. 
+ Abstract. Wolbachia is a natural bacterium that can infect mosquitoes and reduce their ability to transmit mosquito-borne diseases, such as dengue fever, Zika, and chikungunya. Field trials and modeling studies have shown that the fraction of infection among the mosquitoes must exceed a threshold level for the infection to persist. To capture this threshold, it is critical to consider the spatial heterogeneity in the distributions of the infected and uninfected mosquitoes created by a local release of the infected mosquitoes. We develop and analyze PDE models to study the invasion dynamics of Wolbachia infection among mosquitoes in the field. Our reaction-diffusion-type models account for the complex vertical transmission and the spatial mosquito dispersion. We characterize the threshold for a successful invasion with a bubble-shaped distribution, called the “critical bubble.” The critical bubble is optimal in its release size compared to other spatial profiles in a one-dimensional landscape. The fraction of infection near the release center is higher than the threshold level for the corresponding homogeneously mixing ODE models. We show that the proposed spatial models give rise to the traveling waves of Wolbachia infection when above the threshold. We quantify how the threshold condition and traveling-wave velocity depend on the diffusion coefficients and other model parameters. Numerical studies for different scenarios are presented to inform the design of release strategies.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Zhuolin Qu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Dynamics of a Filippov SIQR Model with Delayed Relay Control]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1462830?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1462830?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Mathematics, Volume 82, Issue 6, Page 1879-1902, December 2022. 
+ Abstract. Global dynamics of a Filippov susceptible, infectious, quarantine, and recovered model subject to delayed relay control are investigated in this work. The global stability of equilibria is obtained by means of the generalized Lyapunov method. In addition, combining the Poincaré maps, the displacement function, and a Melnikov-like method, we derive some sufficient conditions to ensure the existence, uniqueness, and global stability of a slowly oscillating periodic solution. Numerical simulations are performed to explore the effectiveness of the quarantine control measure and the effects of the delay.]]></summary>
+        <author>
+            <name>Jiafu Wang</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chern-Simons limit of ground state solutions for the Schrödinger equations coupled with a neutral scalar field]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622005836</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005836?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.107Z</updated>
+        <updated>2022-11-18T00:47:10.962Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 January 2023
 Source: Journal of Differential Equations, Volume 343
 Author(s): Jin-Cai Kang, Xiao-Qi Liu, Chun-Lei Tang]]></summary>
@@ -45,7 +54,7 @@ Author(s): Jin-Cai Kang, Xiao-Qi Liu, Chun-Lei Tang]]></summary>
         <title type="html"><![CDATA[Aggregation and classification of spatial dynamics of vector-borne disease in advective heterogeneous environment]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622005885</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005885?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.087Z</updated>
+        <updated>2022-11-18T00:47:10.949Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 January 2023
 Source: Journal of Differential Equations, Volume 343
 Author(s): Kai Wang, Hao Wang, Hongyong Zhao]]></summary>
@@ -54,262 +63,10 @@ Author(s): Kai Wang, Hao Wang, Hongyong Zhao]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Global solutions to a Keller-Segel-consumption system involving singularly signal-dependent motilities in domains of arbitrary dimension]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005976</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005976?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.078Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Youshan Tao, Michael Winkler]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stackelberg-Nash exact controllability for the Kuramoto-Sivashinsky equation with boundary and distributed controls]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962200571X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200571X?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.059Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Nicolás Carreño, Maurício C. Santos]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aspects of control theory on infinite-dimensional Lie groups and <em>G</em>-manifolds]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005708</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005708?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.050Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Helge Glöckner, Joachim Hilgert]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Various regularity estimates for the Keller-Segel-Navier-Stokes system in Besov spaces]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006167</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006167?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.032Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Taiki Takeuchi]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Besov regularity theory for stationary electrorheological fluids]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006192</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006192?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.023Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Lingwei Ma, Zhenqiu Zhang, Qi Xiong]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin-diffusion model for micromagnetics in the limit of long times]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005873</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005873?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:58.006Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Giovanni Di Fratta, Ansgar Jüngel, Dirk Praetorius, Valeriy Slastikov]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An inverse problem for the non-linear fractional magnetic Schrödinger equation]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005654</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005654?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.996Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Ru-Yu Lai, Ting Zhou]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global well-posedness, regularity and blow-up for the <em>β</em>-CCF model]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006143</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006143?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.979Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Lucas C.F. Ferreira, Valter V.C. Moitinho]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excited states for two-component Bose-Einstein condensates in dimension two]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006155</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006155?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.969Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Qing Guo, Jing Yang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bifurcations in Holling-Tanner model with generalist predator and prey refuge]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005939</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005939?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.928Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Chuang Xiang, Jicai Huang, Hao Wang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global existence and optimal decay rate of the classical solution to 3-D radiative hydrodynamics model with or without heat conductivity]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962200609X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200609X?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.915Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Guiqiong Gong, Jiawei Zhou, Boran Zhu]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On a Cahn–Hilliard–Keller–Segel model with generalized logistic source describing tumor growth]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006076</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006076?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.898Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Elisabetta Rocca, Giulio Schimperna, Andrea Signori]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The quasi-reversibility method for an inverse source problem for time-space fractional parabolic equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006106</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006106?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.848Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Nguyen Van Duc, Nguyen Van Thang, Nguyen Trung Thành]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogenization of a mineral dissolution and precipitation model involving free boundaries at the micro scale]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005757</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005757?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.815Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): M. Gahn, I.S. Pop]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gevrey normalization for quasi-periodic systems under Siegel type small divisor conditions]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005897</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005897?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.794Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Shoujun Xu, Hao Wu]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master equation for Cournot mean field games of control with absorption]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962200612X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200612X?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.782Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): P. Jameson Graber, Ronnie Sircar]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Propagation of smallness and size estimate in the second order elliptic equation with discontinuous complex Lipschitz conductivity]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006088</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006088?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.761Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Elisa Francini, Sergio Vessella, Jenn-Nan Wang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asymptotic behavior of solutions of initial-boundary value problems for 1D viscous and heat-conducting ionized gas]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005940</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005940?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.751Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 January 2023
-Source: Journal of Differential Equations, Volume 343
-Author(s): Yongkai Liao, Huijiang Zhao]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contracting differential equations in weighted Banach spaces]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006210</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006210?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.712Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Anand Srinivasan, Jean-Jacques Slotine]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Existence of concentrating solutions of the Hartree type Brezis-Nirenberg problem]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006295</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006295?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.701Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Minbo Yang, Weiwei Ye, Shunneng Zhao]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linearization of ultra-differentiable circle flows beyond Brjuno condition]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006179</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006179?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.661Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Hongyu Cheng]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hopf bifurcation in a Lotka-Volterra competition-diffusion-advection model with time delay]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006180</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006180?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.418Z</updated>
+        <updated>2022-11-18T00:47:10.920Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 January 2023
 Source: Journal of Differential Equations, Volume 344
 Author(s): Shuling Yan, Zengji Du]]></summary>
@@ -318,25 +75,13 @@ Author(s): Shuling Yan, Zengji Du]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limit cycles in piecewise polynomial Hamiltonian systems allowing nonlinear switching boundaries]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006362</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006362?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.389Z</updated>
+        <title type="html"><![CDATA[Global well-posedness, regularity and blow-up for the <em>β</em>-CCF model]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006143</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006143?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.907Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 January 2023
 Source: Journal of Differential Equations, Volume 344
-Author(s): Tao Li, Jaume Llibre]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal convergence rate of modified Milstein scheme for SDEs with rough fractional diffusions]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006283</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006283?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.368Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Chuying Huang]]></summary>
+Author(s): Lucas C.F. Ferreira, Valter V.C. Moitinho]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -345,7 +90,7 @@ Author(s): Chuying Huang]]></summary>
         <title type="html"><![CDATA[Nonlinear structural stability and linear dynamic instability of transonic steady-states to hydrodynamic model for semiconductors]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006209</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006209?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.343Z</updated>
+        <updated>2022-11-18T00:47:10.881Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 January 2023
 Source: Journal of Differential Equations, Volume 344
 Author(s): Yue-Hong Feng, Ming Mei, Guojing Zhang]]></summary>
@@ -354,25 +99,157 @@ Author(s): Yue-Hong Feng, Ming Mei, Guojing Zhang]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006118</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006118?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.278Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 January 2023
-Source: Journal of Differential Equations, Volume 344
-Author(s): Yongming Li, Jonas Lührmann]]></summary>
+        <title type="html"><![CDATA[Global existence and optimal decay rate of the classical solution to 3-D radiative hydrodynamics model with or without heat conductivity]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962200609X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200609X?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.867Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Guiqiong Gong, Jiawei Zhou, Boran Zhu]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Construction of a two-phase flow with singular energy by gradient flow methods]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006453</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006453?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.260Z</updated>
+        <title type="html"><![CDATA[An inverse problem for the non-linear fractional magnetic Schrödinger equation]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005654</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005654?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.853Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Ru-Yu Lai, Ting Zhou]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two sequences of solutions for the semilinear elliptic equations with logarithmic nonlinearities]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005903</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005903?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.827Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Wei Shuai]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aspects of control theory on infinite-dimensional Lie groups and <em>G</em>-manifolds]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005708</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005708?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.813Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Helge Glöckner, Joachim Hilgert]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin-diffusion model for micromagnetics in the limit of long times]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005873</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005873?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.786Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Giovanni Di Fratta, Ansgar Jüngel, Dirk Praetorius, Valeriy Slastikov]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propagation of smallness and size estimate in the second order elliptic equation with discontinuous complex Lipschitz conductivity]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006088</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006088?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.773Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Elisa Francini, Sergio Vessella, Jenn-Nan Wang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global solutions to a Keller-Segel-consumption system involving singularly signal-dependent motilities in domains of arbitrary dimension]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005976</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005976?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.745Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Youshan Tao, Michael Winkler]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master equation for Cournot mean field games of control with absorption]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962200612X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200612X?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.727Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): P. Jameson Graber, Ronnie Sircar]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homogenization of a mineral dissolution and precipitation model involving free boundaries at the micro scale]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005757</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005757?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.702Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): M. Gahn, I.S. Pop]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On a Cahn–Hilliard–Keller–Segel model with generalized logistic source describing tumor growth]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006076</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006076?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.687Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Elisabetta Rocca, Giulio Schimperna, Andrea Signori]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the resolvability of the dynamics of one fluid flow via a testing fluid in a two-fluids flow model]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006003</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006003?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.662Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Xin Liu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The quasi-reversibility method for an inverse source problem for time-space fractional parabolic equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006106</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006106?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.649Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 January 2023
 Source: Journal of Differential Equations, Volume 344
-Author(s): Clément Cancès, Daniel Matthes]]></summary>
+Author(s): Nguyen Van Duc, Nguyen Van Thang, Nguyen Trung Thành]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linearization of ultra-differentiable circle flows beyond Brjuno condition]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006179</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006179?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.623Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Hongyu Cheng]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -381,7 +258,7 @@ Author(s): Clément Cancès, Daniel Matthes]]></summary>
         <title type="html"><![CDATA[Critical Schrödinger equations with Stein-Weiss convolution parts in <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><msup><mrow><mi mathvariant="double-struck">R</mi></mrow><mrow><mn>2</mn></mrow></msup></math>]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006349</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006349?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:57.245Z</updated>
+        <updated>2022-11-18T00:47:10.610Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 January 2023
 Source: Journal of Differential Equations, Volume 344
 Author(s): Claudianor Oliveira Alves, Liejun Shen]]></summary>
@@ -390,10 +267,166 @@ Author(s): Claudianor Oliveira Alves, Liejun Shen]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Existence of concentrating solutions of the Hartree type Brezis-Nirenberg problem]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006295</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006295?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.584Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Minbo Yang, Weiwei Ye, Shunneng Zhao]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excited states for two-component Bose-Einstein condensates in dimension two]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006155</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006155?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.570Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Qing Guo, Jing Yang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal convergence rate of modified Milstein scheme for SDEs with rough fractional diffusions]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006283</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006283?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.541Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Chuying Huang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Various regularity estimates for the Keller-Segel-Navier-Stokes system in Besov spaces]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006167</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006167?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.529Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Taiki Takeuchi]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limit cycles in piecewise polynomial Hamiltonian systems allowing nonlinear switching boundaries]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006362</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006362?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.504Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Tao Li, Jaume Llibre]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymptotic behavior of solutions of initial-boundary value problems for 1D viscous and heat-conducting ionized gas]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005940</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005940?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.492Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Yongkai Liao, Huijiang Zhao]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stackelberg-Nash exact controllability for the Kuramoto-Sivashinsky equation with boundary and distributed controls]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962200571X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200571X?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.467Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Nicolás Carreño, Maurício C. Santos]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bifurcations in Holling-Tanner model with generalist predator and prey refuge]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005939</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005939?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.454Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Chuang Xiang, Jicai Huang, Hao Wang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Besov regularity theory for stationary electrorheological fluids]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006192</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006192?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.441Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Lingwei Ma, Zhenqiu Zhang, Qi Xiong]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soliton dynamics for the 1D quadratic Klein-Gordon equation with symmetry]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006118</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006118?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.328Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Yongming Li, Jonas Lührmann]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contracting differential equations in weighted Banach spaces]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006210</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006210?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.292Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Anand Srinivasan, Jean-Jacques Slotine]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gevrey normalization for quasi-periodic systems under Siegel type small divisor conditions]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005897</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005897?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.262Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 January 2023
+Source: Journal of Differential Equations, Volume 343
+Author(s): Shoujun Xu, Hao Wu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Construction of a two-phase flow with singular energy by gradient flow methods]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006453</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006453?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:10.217Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): Clément Cancès, Daniel Matthes]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Variation of constants formulae for forward and backward stochastic Volterra integral equations]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622005769</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005769?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:56.081Z</updated>
+        <updated>2022-11-18T00:47:08.118Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 January 2023
 Source: Journal of Differential Equations, Volume 343
 Author(s): Yushi Hamaguchi]]></summary>
@@ -402,10 +435,22 @@ Author(s): Yushi Hamaguchi]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Representation formulae for higher order curvature flows]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005861</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005861?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:08.081Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 January 2023
+Source: Journal of Differential Equations, Volume 344
+Author(s): James A. McCoy, Phil Schrader, Glen Wheeler]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Periodic Hölder waves in a class of negative-order dispersive equations]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S002203962200599X</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S002203962200599X?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:55.812Z</updated>
+        <updated>2022-11-18T00:47:07.925Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 January 2023
 Source: Journal of Differential Equations, Volume 343
 Author(s): Fredrik Hildrum, Jun Xue]]></summary>
@@ -414,15 +459,216 @@ Author(s): Fredrik Hildrum, Jun Xue]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Representation formulae for higher order curvature flows]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622005861</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622005861?dgcid=rss_sd_all"/>
-        <updated>2022-11-17T00:41:55.631Z</updated>
+        <title type="html"><![CDATA[Classification of a class of systems of cubic ordinary differential equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006301</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006301?dgcid=rss_sd_all"/>
+        <updated>2022-11-18T00:47:07.565Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 January 2023
 Source: Journal of Differential Equations, Volume 344
-Author(s): James A. McCoy, Phil Schrader, Glen Wheeler]]></summary>
+Author(s): Satoshi Masaki]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why This Universe? A New Calculation Suggests Our Cosmos Is Typical.]]></title>
+        <id>https://www.quantamagazine.org/?p=120649</id>
+        <link href="https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/"/>
+        <updated>2022-11-17T15:22:14.000Z</updated>
+        <summary type="html"><![CDATA[Two physicists have calculated that the universe has a higher entropy — and is therefore more likely — than alternative possible universes.            
+The post Why This Universe? A New Calculation Suggests Our Cosmos Is Typical. first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning perturbation-inducible cell states of novel compounds from observability analysis of transcriptome dynamics [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.05.27.493781v2?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.05.27.493781v2?rss=1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A major challenge in biotechnology and biomanufacturing is the identification of a set of biomarkers for perturbations and metabolites of interest. Here, we develop a data-driven, transcriptome-wide approach to rank perturbation-inducible genes from time-series RNA sequencing data for the discovery of analyte-responsive promoters. This provides a set of biomarkers that act as a proxy for the transcriptional state referred to as cell state. We construct low-dimensional models of gene expression dynamics and rank genes by their ability to capture the perturbation-specific cell state using a novel observability analysis. Using this ranking, we extract 15 analyte-responsive promoters for the organophosphate malathion in the underutilized host organism Pseudomonas fluorescens SBW25. We develop synthetic genetic reporters from each analyte-responsive promoter and characterize their response to malathion. Furthermore, we enhance malathion reporting through the aggregation of the response of individual reporters with a synthetic consortium approach, and we exemplify the library's ability to be useful outside the lab by detecting malathion in the environment. The library of living malathion sensors can be optimized for use in environmental diagnostics while the developed machine learning tool can be applied to discover perturbation-inducible gene expression systems in the compendium of host organisms.]]></summary>
+        <author>
+            <name>Hasnain, A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming inert cycloalkanes into {alpha},{omega}-diamines through designed enzymatic cascade catalysis [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.11.15.516597v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.11.15.516597v1?rss=1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aliphatic ,{omega}-diamines (DAs) are important monomer precursors in polyamide plastic manufacturing. However, the dominant industrial process for DA synthesis involves energy-intensive, multistage chemical reactions that are harmful to the environment. For instance, 1,6-hexanediamine (HMD), one of most prominent monomers in nylon-66 synthesis, is mainly synthesized with currently high technological control by butadiene hydrocyanation, which suffers from the use of highly toxic hydrogen cyanide, unsatisfactory selectivity and a complex separation process. Thus, the development of sustainable green DA synthetic routes is highly desired. Herein, we report an efficient one-pot in vivo biocatalytic cascade for the transformation of cycloalkanes into DAs with the aid of advanced techniques, including the RetroBioCat tool for biocatalytic route design, enzyme mining for finding appropriate enzymes and microbial consortia construction for efficient pathway assembly. As a result, DAs are successfully produced by the developed microbial consortia-based biocatalytic system, especially HMD, and product concentrations as high as 16.5 mM and 7.6 mM are achieved when using cyclohexanol (CHOL) or cyclohexane (CH) as substrates, respectively. This also represents the highest HMD biosynthesis productivity to date. Other cycloalkanes also serve as substrates, indicating the generality of our approach.]]></summary>
+        <author>
+            <name>Zhang, Z.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal amplification-enhanced gene expression for cell-free directed evolution [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.11.17.516858v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.11.17.516858v1?rss=1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In cell-free gene expression, low input DNA concentration severely limits the phenotypic output, which may impair in vitro protein evolution efforts. We address this challenge by developing CADGE, a strategy that is based on clonal isothermal amplification of a linear gene-encoding dsDNA template by the minimal {varphi}29 replication machinery and in situ transcription-translation. We demonstrate the utility of CADGE in bulk and in clonal liposome microcompartments to boost up the phenotypic output of soluble and membrane-associated proteins, as well as to facilitate the recovery of encapsulated DNA. Moreover, we report that CADGE enables the enrichment of a DNA variant from a mock gene library either via a positive feedback loop-based selection or high-throughput screening. This new biological tool can be implemented for cell-free protein engineering and the construction of a synthetic cell.]]></summary>
+        <author>
+            <name>Danelon, C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A programmable reaction-diffusion system for spatiotemporal cell signaling circuit design [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.11.15.516470v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.11.15.516470v1?rss=1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cells self-organize molecules in space and time to generate complex behaviors, but we lack synthetic strategies for engineering spatiotemporal signaling. We present a programmable reaction-diffusion platform for designing protein oscillations, patterns, and circuits in mammalian cells using two bacterial proteins, MinD and MinE (MinDE). MinDE circuits act like "single-cell radios", emitting frequency-barcoded fluorescence signals that can be spectrally isolated and analyzed using digital signal processing tools. We define how to genetically program these signals and modulate their dynamics using engineerable protein-protein interactions. By connecting MinDE to endogenous cellular pathways, we built circuits that broadcast frequency-barcoded single-cell kinase activity or that synthetically pattern actin polymerization. Our work establishes a new paradigm for probing and engineering cellular activities at length and timescales critical for biological function.]]></summary>
+        <author>
+            <name>Rajasekaran, R.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live-cell super-resolution imaging of actin using LifeAct-14 with a PAINT-based approach [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.11.15.516635v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.11.15.516635v1?rss=1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We present direct-LIVE-PAINT, an easy-to-implement approach for the nanoscopic imaging of protein structures in live cells using labeled binding peptides. We demonstrate the feasibility of direct-LIVE-PAINT with an actin-binding peptide fused to EGFP, the location of which can be accurately determined as it transiently binds to actin filaments. We show that direct-LIVE-PAINT can be used to image actin structures below the diffraction-limit of light and have used it to observe the dynamic nature of actin in live cells. We envisage a similar approach could be applied to imaging other proteins within live mammalian cells.]]></summary>
+        <author>
+            <name>Bhaskar, H.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing the performance of Magnets photosensors through directed evolution [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.11.14.516313v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.11.14.516313v1?rss=1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photosensory protein domains are the basis of optogenetic protein engineering. These domains originate from natural sources where they fulfill specific functions ranging from the protection against photooxidative damage to circadian rhythms. When used in synthetic biology, the features of these photosensory domains can be specifically tailored towards the application of interest, enabling their full exploitation for optogenetic regulation in basic research and applied bioengineering. In this work, we develop and apply a simple, yet powerful, directed evolution and high-throughput screening strategy that allows us to alter the most fundamental property of the widely used nMag/pMag photodimerization system: its light sensitivity. We identify a set of mutations located within the photosensory domains, which either increase or decrease the light sensitivity at sub-saturating light intensities, while also improving the dark-to-light fold change in certain variants. For some of these variants, photosensitivity and expression levels could be changed independently, showing that the shape of the light-activity dose-response curve can be tuned and adjusted. We functionally characterize the variants in vivo in bacteria on the single-cell and the population levels. We further show that a subset of these variants can be transferred into the mOptoT7 for gene expression regulation in mammalian cells. We demonstrate increased gene expression levels for low light intensities, resulting in reduced potential phototoxicity in long-term experiments. Our findings expand the applicability of the widely used Magnets photosensors by enabling a tuning towards the needs of specific optogenetic regulation strategies. More generally, our approach will aid optogenetic approaches by making the adaptation of photosensor properties possible to better suit specific experimental or bioprocess needs.]]></summary>
+        <author>
+            <name>Baumschlager, A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Individualized interactomes for network-based precision medicine in hypertrophic cardiomyopathy with implications for other clinical pathophenotypes]]></title>
+        <id>https://www.nature.com/articles/s41467-022-34834-0</id>
+        <link href="https://www.nature.com/articles/s41467-022-34834-0"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Individualized interactomes for network-based precision medicine in hypertrophic cardiomyopathy with implications for other clinical pathophenotypes]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model-based exploration of hypokalemia in dairy cows]]></title>
+        <id>https://www.nature.com/articles/s41598-022-22596-0</id>
+        <link href="https://www.nature.com/articles/s41598-022-22596-0"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Model-based exploration of hypokalemia in dairy cows]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification of rice leaf blast severity using hyperspectral imaging]]></title>
+        <id>https://www.nature.com/articles/s41598-022-22074-7</id>
+        <link href="https://www.nature.com/articles/s41598-022-22074-7"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Classification of rice leaf blast severity using hyperspectral imaging]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activation and signaling mechanism revealed by GPR119-Gs complex structures]]></title>
+        <id>https://www.nature.com/articles/s41467-022-34696-6</id>
+        <link href="https://www.nature.com/articles/s41467-022-34696-6"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agonists selectively targeting GPR119 hold promise for treating metabolic disorders. Here, authors reveal that GPR119 adopts a non-canonical consensus structural scaffold with an extended ligand-binding pocket for chemically different agonists.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis]]></title>
+        <id>https://www.nature.com/articles/s41467-022-33944-z</id>
+        <link href="https://www.nature.com/articles/s41467-022-33944-z"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Development of multiple myeloma is preceded by precursor conditions. Here, the authors use single cell RNA-sequencing of plasma cells from patients across disease stages to identify genomic signatures present even at the earliest stages of disease.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somatic mutation distribution across tumour cohorts provides a signal for positive selection in cancer]]></title>
+        <id>https://www.nature.com/articles/s41467-022-34746-z</id>
+        <link href="https://www.nature.com/articles/s41467-022-34746-z"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Evolutionary principles could help distinguish driver from passenger mutations in cancer. Here, the authors develop SEISMIC, a method to identify cancer driver genes based on their deviation from expected mutation status patterns across a cohort under neutral evolution, and find potential drivers in melanoma and other cancer types.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RS-FISH: precise, interactive, fast, and scalable FISH spot detection]]></title>
+        <id>https://www.nature.com/articles/s41592-022-01669-y</id>
+        <link href="https://www.nature.com/articles/s41592-022-01669-y"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RS-FISH is a user-friendly software for accurate spot detection that is applicable to smFISH experiments, spatial transcriptomics, and spatial genomics. The approach enables fast spot detection in even very large volumetric datasets.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parkin deficiency exacerbates fasting-induced skeletal muscle wasting in mice]]></title>
+        <id>https://www.nature.com/articles/s41531-022-00419-3</id>
+        <link href="https://www.nature.com/articles/s41531-022-00419-3"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[npj Parkinson's Disease - Parkin deficiency exacerbates fasting-induced skeletal muscle wasting in mice]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toward an improved definition of a healthy microbiome for healthy aging]]></title>
+        <id>https://www.nature.com/articles/s43587-022-00306-9</id>
+        <link href="https://www.nature.com/articles/s43587-022-00306-9"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The authors analyze microbiome profiles from several public repositories to identify the higher-level indices that best reflect the abundance and ranking of disease-associated and health-associated gut microbes and that may help identify targets for therapeutic modulation.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The role of individual variability on the predictive performance of machine learning applied to large bio-logging datasets]]></title>
+        <id>https://www.nature.com/articles/s41598-022-22258-1</id>
+        <link href="https://www.nature.com/articles/s41598-022-22258-1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - The role of individual variability on the predictive performance of machine learning applied to large bio-logging datasets]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future behaviours decision-making regarding travel avoidance during COVID-19 outbreaks]]></title>
+        <id>https://www.nature.com/articles/s41598-022-24323-1</id>
+        <link href="https://www.nature.com/articles/s41598-022-24323-1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Future behaviours decision-making regarding travel avoidance during COVID-19 outbreaks]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feedforward growth rate control mitigates gene activation burden]]></title>
+        <id>https://www.nature.com/articles/s41467-022-34647-1</id>
+        <link href="https://www.nature.com/articles/s41467-022-34647-1"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Heterologous gene activation causes non-physiological burden on cellular resources that cells are unable to adjust to. Here the authors present a tunable, modular, and portable feedforward controller that allows dynamic modulation of a genes expression to possibly high-levels without substantially affecting growth rate.]]></summary>
+        <author>
+            <name>Synthetic biology : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identification of purine biosynthesis as an NADH-sensing pathway to mediate energy stress]]></title>
+        <id>https://www.nature.com/articles/s41467-022-34850-0</id>
+        <link href="https://www.nature.com/articles/s41467-022-34850-0"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reductive stress, reflected by the elevated intracellular NADH/NAD+ ratio, is associated with multiple human diseases. Here, the authors develop a genetic tool to manipulate the ratios of cellular NADH/NAD+ and NADPH/NADP+, and identify purine biosynthesis as an NADH-sensing pathway to mediate reductive stress.]]></summary>
+        <author>
+            <name>Synthetic biology : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -455,6 +701,48 @@ The post Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations first appea
  Abstract. This paper presents a rigorous analysis of circumstances under which wave dynamics can be fully reconstructed from sensor networks. We prove that, in many cases, wave dynamics can be fully reconstructed from a single sensor, but that such reconstructions can be sensitive to small perturbations in sensor placement. In general, multiple sensors are necessary, and we outline a procedure for reconstructing the dynamics from them. We also show that if a network of [math] sensors suffers from Gaussian noise, then the reconstruction error decreases as [math]. We illustrate and verify these results numerically by simulating wave dynamics and then reconstructing from sensor data the initial state of the system and time series of the system at randomly chosen locations.]]></summary>
         <author>
             <name>Bryce M. Barclay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ASAP] A Logically Reversible Double Feynman Gate with Molecular Engineered Bacteria Arranged in an Artificial Neural Network-Type Architecture]]></title>
+        <id>http://dx.doi.org/10.1021/acssynbio.2c00520</id>
+        <link href="http://dx.doi.org/10.1021/acssynbio.2c00520"/>
+        <updated>2022-11-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ACS Synthetic Biology
+DOI: 10.1021/acssynbio.2c00520]]></summary>
+        <author>
+            <name>Rajkamal Srivastava and Sangram Bagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The impact of inner-coupling and time delay on synchronization: From single-layer network to hypernetwork]]></title>
+        <id>https://aip.scitation.org/doi/10.1063/5.0091626?af=R&amp;feed=most-recent</id>
+        <link href="https://aip.scitation.org/doi/10.1063/5.0091626?af=R&amp;feed=most-recent"/>
+        <updated>2022-11-16T02:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 11, November 2022. 
+Though synchronization of complex dynamical systems has been widely studied in the past few decades, few studies pay attention to the impact of network parameters on synchronization in hypernetworks. In this paper, we focus on a specific hypernetwork model consisting of coupled Rössler oscillators and investigate the impact of inner-coupling and time delay on the synchronized region (SR). For the sake of simplicity, the inner-coupling matrix is chosen from three typical forms, which result in classical bounded, unbounded, and empty SR in a single-layer network, respectively. The impact of inner-couplings or time delays on unbounded SR is the most interesting one among the three types of SR. Once the SR of one subnetwork is unbounded, the SR of the whole hypernetwork is also unbounded with a different inner-coupling matrix. In a hypernetwork with unbounded SR, the time delays change not only the size but also the type of SR. In a hypernetwork with bounded or empty SR, the time delays have almost no effect on the type of SR.]]></summary>
+        <author>
+            <name>Heng Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitchell Feigenbaum: His life and legacy]]></title>
+        <id>https://aip.scitation.org/doi/10.1063/5.0131962?af=R&amp;feed=most-recent</id>
+        <link href="https://aip.scitation.org/doi/10.1063/5.0131962?af=R&amp;feed=most-recent"/>
+        <updated>2022-11-16T02:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Chaos: An Interdisciplinary Journal of Nonlinear Science, Volume 32, Issue 11, November 2022.]]></summary>
+        <author>
+            <name>David K. Campbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escherichia coli cells are primed for survival before lethal antibiotic stress [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.11.11.516214v2?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.11.11.516214v2?rss=1"/>
+        <updated>2022-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Non-genetic factors can cause significant fluctuations in gene expression levels. Regardless of growing in a stable environment, this fluctuation leads to cell-to-cell variability in an isogenic population. This phenotypic heterogeneity allows a tiny subset of bacterial cells in a population, referred to as persister cells, to tolerate long-term lethal antibiotic effects by entering into a non-dividing, metabolically altered state. One fundamental question is whether this heterogeneous persister population is due to a pre-existing genetic mutation or a result of a transiently-primed reversible cell state. To explore this, we tested clonal populations starting from a single cell using a modified Luria-Delbruck fluctuation test. Through we kept the conditions the same, the diversity in persistence level among clones was relatively consistent: varying from ~60-100 and ~40-70 fold for ampicillin (Amp) and apramycin (Apr), respectively. Then we divided and diluted each clone to observe whether the same clone had comparable persister levels for more than one generation. Replicates had similar persister levels even when clones were divided, diluted by 1:20, and allowed to grow for ~5 generations. This result explicitly shows a cellular memory passed on for generations and eventually lost when cells are diluted to 1:100 and regrown (>7 generations). Our result demonstrates 1) the existence of a small population prepared for stress ("primed cells") resulting in higher persister numbers, 2) the primed memory state is reproducible and transient, passed down for generations but eventually lost, and 3) a heterogeneous persister population is a result of a transiently-primed reversible cell state and not due to a pre-existing genetic mutation.]]></summary>
+        <author>
+            <name>Hossain, T.</name>
         </author>
     </entry>
     <entry>
@@ -548,6 +836,26 @@ The post Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations first appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Journal of Mathematical Biology]]></title>
+        <id>285</id>
+        <link href="http://link.springer.com/285"/>
+        <updated>2022-11-16T00:00:00.000Z</updated>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homeostasis and injectivity: a reaction network perspective]]></title>
+        <id>10.1007/s00285-022-01795-3</id>
+        <link href="http://link.springer.com/10.1007/s00285-022-01795-3"/>
+        <updated>2022-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Homeostasis represents the idea that a feature may remain invariant despite changes in some external parameters. We establish a connection between homeostasis and injectivity for reaction network models. In particular, we show that a reaction network cannot exhibit homeostasis if a modified version of the network (which we call homeostasis-associated network) is injective. We provide examples of reaction networks which can or cannot exhibit homeostasis by analyzing the injectivity of their homeostasis-associated networks.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Gut Microbiome Helps Social Skills Develop in the Brain]]></title>
         <id>https://www.quantamagazine.org/?p=120578</id>
         <link href="https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/"/>
@@ -625,36 +933,6 @@ Systems consisting of confined, interacting particles doing overdamped motion ad
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A programmable reaction-diffusion system for spatiotemporal cell signaling circuit design [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.15.516470v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.15.516470v1?rss=1"/>
-        <updated>2022-11-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cells self-organize molecules in space and time to generate complex behaviors, but we lack synthetic strategies for engineering spatiotemporal signaling. We present a programmable reaction-diffusion platform for designing protein oscillations, patterns, and circuits in mammalian cells using two bacterial proteins, MinD and MinE (MinDE). MinDE circuits act like "single-cell radios", emitting frequency-barcoded fluorescence signals that can be spectrally isolated and analyzed using digital signal processing tools. We define how to genetically program these signals and modulate their dynamics using engineerable protein-protein interactions. By connecting MinDE to endogenous cellular pathways, we built circuits that broadcast frequency-barcoded single-cell kinase activity or that synthetically pattern actin polymerization. Our work establishes a new paradigm for probing and engineering cellular activities at length and timescales critical for biological function.]]></summary>
-        <author>
-            <name>Rajasekaran, R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live-cell super-resolution imaging of actin using LifeAct-14 with a PAINT-based approach [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.15.516635v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.15.516635v1?rss=1"/>
-        <updated>2022-11-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We present direct-LIVE-PAINT, an easy-to-implement approach for the nanoscopic imaging of protein structures in live cells using labeled binding peptides. We demonstrate the feasibility of direct-LIVE-PAINT with an actin-binding peptide fused to EGFP, the location of which can be accurately determined as it transiently binds to actin filaments. We show that direct-LIVE-PAINT can be used to image actin structures below the diffraction-limit of light and have used it to observe the dynamic nature of actin in live cells. We envisage a similar approach could be applied to imaging other proteins within live mammalian cells.]]></summary>
-        <author>
-            <name>Bhaskar, H.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming inert cycloalkanes into alpha-omega-diamines through designed enzymatic cascade catalysis [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.15.516597v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.15.516597v1?rss=1"/>
-        <updated>2022-11-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aliphatic alpha-omega-diamines (DAs) are important monomer precursors in polyamide plastic manufacturing. However, the dominant industrial process for DA synthesis involves energy-intensive, multistage chemical reactions that are harmful to the environment. For instance, 1,6-hexanediamine (HMD), one of most prominent monomers in nylon-66 synthesis, is mainly synthesized with currently high technological control by butadiene hydrocyanation, which suffers from the use of highly toxic hydrogen cyanide, unsatisfactory selectivity and a complex separation process. Thus, the development of sustainable green DA synthetic routes is highly desired. Herein, we report an efficient one-pot in vivo biocatalytic cascade for the transformation of cycloalkanes into DAs with the aid of advanced techniques, including the RetroBioCat tool for biocatalytic route design, enzyme mining for finding appropriate enzymes and microbial consortia construction for efficient pathway assembly. As a result, DAs are successfully produced by the developed microbial consortia-based biocatalytic system, especially HMD, and product concentrations as high as 16.5 mM and 7.6 mM are achieved when using cyclohexanol (CHOL) or cyclohexane (CH) as substrates, respectively. This also represents the highest HMD biosynthesis productivity to date. Other cycloalkanes also serve as substrates, indicating the generality of our approach.]]></summary>
-        <author>
-            <name>Zhang, Z.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Precision engineering of biological function with large-scale measurements and machine learning [NEW RESULTS]]]></title>
         <id>http://biorxiv.org/cgi/content/short/2022.08.04.502789v3?rss=1</id>
         <link href="http://biorxiv.org/cgi/content/short/2022.08.04.502789v3?rss=1"/>
@@ -662,16 +940,6 @@ Systems consisting of confined, interacting particles doing overdamped motion ad
         <summary type="html"><![CDATA[As synthetic biology expands and accelerates into real-world applications, methods for quantitatively and precisely engineering biological function become increasingly relevant. This is particularly true for applications that require programmed sensing to dynamically regulate gene expression in response to stimuli. However, few methods have been described that can engineer biological sensing with any level of quantitative precision. Here, we present two complementary methods for precision engineering of genetic sensors: in silico selection and machine-learning-enabled forward engineering. Both methods use a large-scale genotype-phenotype dataset to identify DNA sequences that encode sensors with quantitatively specified dose response. First, we show that in silico selection can be used to engineer sensors with a wide range of dose-response curves. To demonstrate in silico selection for precise, multi-objective engineering, we simultaneously tune a genetic sensors sensitivity (EC50) and saturating output to meet quantitative specifications. In addition, we engineer sensors with inverted dose-response and specified EC50. Second, we demonstrate a machine-learning-enabled approach to predictively engineer genetic sensors with mutation combinations that are not present in the large-scale dataset. We show that the interpretable machine learning results can be combined with a biophysical model to engineer sensors with improved inverted dose-response curves.]]></summary>
         <author>
             <name>Tack, D. S.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing the performance of Magnets photosensors through directed evolution [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.14.516313v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.14.516313v1?rss=1"/>
-        <updated>2022-11-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photosensory protein domains are the basis of optogenetic protein engineering. These domains originate from natural sources where they fulfill specific functions ranging from the protection against photooxidative damage to circadian rhythms. When used in synthetic biology, the features of these photosensory domains can be specifically tailored towards the application of interest, enabling their full exploitation for optogenetic regulation in basic research and applied bioengineering. In this work, we develop and apply a simple, yet powerful, directed evolution and high-throughput screening strategy that allows us to alter the most fundamental property of the widely used nMag/pMag photodimerization system: its light sensitivity. We identify a set of mutations located within the photosensory domains, which either increase or decrease the light sensitivity at sub-saturating light intensities, while also improving the dark-to-light fold change in certain variants. For some of these variants, photosensitivity and expression levels could be changed independently, showing that the shape of the light-activity dose-response curve can be tuned and adjusted. We functionally characterize the variants in vivo in bacteria on the single-cell and the population levels. We further show that a subset of these variants can be transferred into the mOptoT7 for gene expression regulation in mammalian cells. We demonstrate increased gene expression levels for low light intensities, resulting in reduced potential phototoxicity in long-term experiments. Our findings expand the applicability of the widely used Magnets photosensors by enabling a tuning towards the needs of specific optogenetic regulation strategies. More generally, our approach will aid optogenetic approaches by making the adaptation of photosensor properties possible to better suit specific experimental or bioprocess needs.]]></summary>
-        <author>
-            <name>Baumschlager, A.</name>
         </author>
     </entry>
     <entry>
@@ -858,125 +1126,6 @@ Coupled Boussinesq equations are used to describe long weakly nonlinear longitud
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Identification of potentially common loci between childhood obesity and coronary artery disease using pleiotropic approaches]]></title>
-        <id>https://www.nature.com/articles/s41598-022-24009-8</id>
-        <link href="https://www.nature.com/articles/s41598-022-24009-8"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Identification of potentially common loci between childhood obesity and coronary artery disease using pleiotropic approaches]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Region-specific denoising identifies spatial co-expression patterns and intra-tissue heterogeneity in spatially resolved transcriptomics data]]></title>
-        <id>https://www.nature.com/articles/s41467-022-34567-0</id>
-        <link href="https://www.nature.com/articles/s41467-022-34567-0"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spatially resolved transcriptomics is a relatively new technique that maps transcriptional information within a tissue. Here the authors present MIST, which detects molecular regions from spatially resolved transcriptomics and denoises the missing gene expression values by region-specific imputation.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results from Canton Grisons of Switzerland suggest repetitive testing reduces SARS-CoV-2 incidence (February–March 2021)]]></title>
-        <id>https://www.nature.com/articles/s41598-022-23986-0</id>
-        <link href="https://www.nature.com/articles/s41598-022-23986-0"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Results from Canton Grisons of Switzerland suggest repetitive testing reduces SARS-CoV-2 incidence (February–March 2021)]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncovering structural ensembles from single-particle cryo-EM data using cryoDRGN]]></title>
-        <id>https://www.nature.com/articles/s41596-022-00763-x</id>
-        <link href="https://www.nature.com/articles/s41596-022-00763-x"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cryogenic electron microscopy is well suited to uncovering structural heterogeneity in protein complexes, but analyses of such heterogeneous datasets are challenging. CryoDRGN is a machine learning approach to reconstructing heterogeneous ensembles of cryogenic electron microscopy density maps.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metagenome-assembled genome extraction and analysis from microbiomes using KBase]]></title>
-        <id>https://www.nature.com/articles/s41596-022-00747-x</id>
-        <link href="https://www.nature.com/articles/s41596-022-00747-x"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This protocol provides analysis steps for the extraction of high-quality metagenome-assembled genomes from microbiomes and their subsequent analysis using the U.S. Department of Energy Systems Biology Knowledgebase (KBase) platform ( http://www.kbase.us/ ).]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced survival prediction using explainable artificial intelligence in heart transplantation]]></title>
-        <id>https://www.nature.com/articles/s41598-022-23817-2</id>
-        <link href="https://www.nature.com/articles/s41598-022-23817-2"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Enhanced survival prediction using explainable artificial intelligence in heart transplantation]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal deep learning reveals the comparative effectiveness of antihyperglycemic treatments in poorly controlled diabetes]]></title>
-        <id>https://www.nature.com/articles/s41467-022-33732-9</id>
-        <link href="https://www.nature.com/articles/s41467-022-33732-9"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Current treatment guidelines for Type-2 diabetes endorse a massive number of potential anti-hyper-glycemic treatment options in various permutations and combinations. Here, the authors present a causal deep learning approach for more personalized recommendations of treatment selection.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model simulations unveil the structure-function-dynamics relationship of the cerebellar cortical microcircuit]]></title>
-        <id>https://www.nature.com/articles/s42003-022-04213-y</id>
-        <link href="https://www.nature.com/articles/s42003-022-04213-y"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A computational modelling framework is developed, and used to reconstruct and simulate the entire cerebellar cortex, showing how mossy fibers entrain the neuronal microcircuit. This sheds light on local computation and neural correlates of behaviors]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recognizing intertwined patterns using a network of spiking pattern recognition platforms]]></title>
-        <id>https://www.nature.com/articles/s41598-022-23320-8</id>
-        <link href="https://www.nature.com/articles/s41598-022-23320-8"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Recognizing intertwined patterns using a network of spiking pattern recognition platforms]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical analysis of phototransduction reaction parameters in rods and cones]]></title>
-        <id>https://www.nature.com/articles/s41598-022-23069-0</id>
-        <link href="https://www.nature.com/articles/s41598-022-23069-0"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Mathematical analysis of phototransduction reaction parameters in rods and cones]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peripheral arterial elasticity changes derived by volume-oscillometry in reaction to hyperemia as a possible assessment of flow-mediated vasodilatation]]></title>
-        <id>https://www.nature.com/articles/s41598-022-22050-1</id>
-        <link href="https://www.nature.com/articles/s41598-022-22050-1"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Peripheral arterial elasticity changes derived by volume-oscillometry in reaction to hyperemia as a possible assessment of flow-mediated vasodilatation]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journal of Mathematical Biology]]></title>
-        <id>285</id>
-        <link href="http://link.springer.com/285"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feasibility of sparse large Lotka-Volterra ecosystems]]></title>
         <id>10.1007/s00285-022-01830-3</id>
         <link href="http://link.springer.com/10.1007/s00285-022-01830-3"/>
@@ -1068,16 +1217,6 @@ DOI: 10.1021/acssynbio.2c00295]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An image cryptography method in highly error-prone DNA storage channel [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.08.515529v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.08.515529v1?rss=1"/>
-        <updated>2022-11-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rapid development in synthetic technologies has boosted DNA as a potential medium for large-scale data storage. Meanwhile, how to implement data security in DNA storage system is still an unsolved problem. In this paper, we propose an image encryption method based on the modulation-based storage architecture. The key idea is to take advantage of the unpredictable modulation signals to encrypt image in highly error-prone DNA storage channel. Numerical results demonstrate that our image encryption method is feasible and effective with excellent security against various attacks (statistical, differential, noise and data loss, etc.). Compared with other methods by DNA molecules hybridization reaction, the proposed method is more reliable and feasible for large-scale applications.]]></summary>
-        <author>
-            <name>Zan, X.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Accurate Binning of Metagenomic Contigs Using Composition, Coverage, and Assembly Graphs]]></title>
         <id>https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0262?ai=su&amp;mi=cjwv&amp;af=R</id>
         <link href="https://www.liebertpub.com/doi/abs/10.1089/cmb.2022.0262?ai=su&amp;mi=cjwv&amp;af=R"/>
@@ -1118,26 +1257,6 @@ DOI: 10.1021/acssynbio.2c00423]]></summary>
 DOI: 10.1021/acssynbio.2c00266]]></summary>
         <author>
             <name>Sarah Wehrum, Lina Siukstaite, Daniel J. Williamson, Thomas R. Branson, Taras Sych, Josef Madl, Gemma C. Wildsmith, Wenyue Dai, Erik Kempmann, James F. Ross, Maren Thomsen, Michael E. Webb, Winfried Römer, and W. Bruce Turnbull</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Translational fusion of terpene synthases enhances metabolic flux by increasing protein stability [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.08.515726v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.08.515726v1?rss=1"/>
-        <updated>2022-11-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The end-to-end fusion of enzymes that catalyse successive steps in a reaction pathway is a metabolic engineering strategy that has been successfully applied in a variety of pathways and is particularly common in terpene bioproduction. Despite its popularity, limited work has been done to interrogate the mechanism of metabolic enhancement from enzyme fusion. We observed a remarkable >110-fold improvement in nerolidol production upon translational fusion of nerolidol synthase (a sesquiterpene synthase) to farnesyl diphosphate synthase. This delivered a titre increase from 29.6 mg/L up to 4.2 g/L nerolidol in a single engineering step. Whole-cell proteomic analysis revealed that nerolidol synthase levels in the fusion strains were greatly elevated compared to the non-fusion control. Similarly, the fusion of nerolidol synthase to non-catalytic domains also produced comparable increases in titre, which coincided with improved enzyme expression. When farnesyl diphosphate synthase was fused to other terpene synthases, we observed more modest improvements in terpene titre (1.9- and 3.8-fold), which corresponds to increases of a similar magnitude in terpene synthase expression. Therefore, increased in vivo enzyme levels - resulting from improved expression and/or stability - is likely to be a major driver of catalytic enhancement from enzyme fusion.]]></summary>
-        <author>
-            <name>Cheah, L. C.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailored synthetic sRNAs dynamically tune multilayer genetic circuits [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.11.09.515794v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.11.09.515794v1?rss=1"/>
-        <updated>2022-11-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Predictable and controllable tuning of genetic circuits to regulate gene expression, including modulation of existing circuits or constructs without the need for redesign or rebuilding, is a persistent challenge in synthetic biology. Here, we propose a rational design of de novo small RNAs (sRNAs) to dynamically modulate gene expression within a broad range, from high, medium to low repression, and implemented them in Escherichia coli. We designed multiple multilayer genetic circuits, in which the variable effector element is a transcription factor (TF) controlling downstream the production of a reporter protein. Our approach harnesses the intrinsic RNA-interference pathway in E. coli to exert dynamic and modular control of the multilayer genetic circuits. The sRNAs were designed to target TFs instead of the reporter gene, which allowed for wide range of expression modulation of the reporter protein, including the most difficult to achieve dynamic switch to an OFF state. Out work provides a frame for achieving independent modulation of gene expression, by only including an independent control circuit expressing synthetic sRNAs, without altering the structure of existing genetic circuits.]]></summary>
-        <author>
-            <name>Velazquez Sanchez, A. K.</name>
         </author>
     </entry>
     <entry>
@@ -1258,17 +1377,6 @@ A new div FOSLS mixed finite element method is proposed and analyzed for the fir
                 …]]></summary>
         <author>
             <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work.]]></title>
-        <id>https://www.quantamagazine.org/?p=120459</id>
-        <link href="https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/"/>
-        <updated>2022-11-09T15:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Lattice cryptography promises to protect secrets from the attacks of far-future quantum computers.             
-The post Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Leila Sloman</name>
         </author>
     </entry>
     <entry>
@@ -2723,79 +2831,6 @@ Game theory is now routinely applied to quantitatively model the decision making
 Deriving emergent patterns from models of biological processes is a core concern of mathematical biology. In the context of partial differential equations, these emergent patterns sometimes appear as local minimisers of a corresponding energy functional. Here we give methods for determining the qualitative structure of local minimum energy states of a broad class of multi-species nonlocal advection–diffusion models, recently proposed for modelling the spatial structure of ecosystems. We show that when each pair of species respond to one another in a symmetric fashion (i.e. via mutual avoidance or mutual attraction, with equal strength), the system admits an energy functional that decreases in time and is bounded below. This suggests that the system will eventually reach a local minimum energy steady state, rather than fluctuating in perpetuity. We leverage this energy functional to develop tools, including a novel application of computational algebraic geometry, for making conjectures about the number and qualitative structure of local minimum energy solutions. These conjectures give a guide as to where to look for numerical steady state solutions, which we verify through numerical analysis. Our technique shows that even with two species, multi-stability with up to four classes of local minimum energy states can emerge. The associated dynamics include spatial sorting via aggregation and repulsion both within and between species. The emerging spatial patterns include a mixture of territory-like segregation as well as narrow spike-type solutions. Overall, our study reveals a general picture of rich multi-stability in systems of moving and interacting species.]]></summary>
         <author>
             <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ASAP] Crowding-Induced Spatial Organization of Gene Expression in Cell-Sized Vesicles]]></title>
-        <id>http://dx.doi.org/10.1021/acssynbio.2c00336</id>
-        <link href="http://dx.doi.org/10.1021/acssynbio.2c00336"/>
-        <updated>2022-10-19T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ACS Synthetic Biology
-DOI: 10.1021/acssynbio.2c00336]]></summary>
-        <author>
-            <name>Gaurav Chauhan, S. Elizabeth Norred, Rosemary M. Dabbs, Patrick M. Caveney, John K. Vincent George, C. Patrick Collier, Michael L. Simpson, and Steven M. Abel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ASAP] Bottom-Up Design: A Modular Golden Gate Assembly Platform of Yeast Plasmids for Simultaneous Secretion and Surface Display of Distinct FAP Fusion Proteins]]></title>
-        <id>http://dx.doi.org/10.1021/acssynbio.2c00283</id>
-        <link href="http://dx.doi.org/10.1021/acssynbio.2c00283"/>
-        <updated>2022-10-19T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ACS Synthetic Biology
-DOI: 10.1021/acssynbio.2c00283]]></summary>
-        <author>
-            <name>Christopher Szent-Gyorgyi, Lydia A. Perkins, Brigitte F. Schmidt, Zhen Liu, Marcel P. Bruchez, and Robert van de Weerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deciphering the transcriptional regulation of the catabolism of lignin-derived aromatics in Rhodococcus opacus PD630]]></title>
-        <id>https://www.nature.com/articles/s42003-022-04069-2</id>
-        <link href="https://www.nature.com/articles/s42003-022-04069-2"/>
-        <updated>2022-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gene knockout studies with analysis of aromatic sensors identify transcription factors involved in regulating aromatic degradation pathways in Rhodococcus opacus and substrate hierarchy in aromatic mixtures for applications in lignin valorization.]]></summary>
-        <author>
-            <name>Synthetic biology : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineered cell differentiation and sexual reproduction in probiotic and mating yeasts]]></title>
-        <id>https://www.nature.com/articles/s41467-022-33961-y</id>
-        <link href="https://www.nature.com/articles/s41467-022-33961-y"/>
-        <updated>2022-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[G protein-coupled receptors (GPCRs) enable cells to sense environmental cues and are indispensable for coordinating vital processes including quorum sensing, proliferation, and sexual reproduction. Here the authors, using heterologous GPCR expression and endogenous ligand production, enable synthetic mating in haploid yeast, and GPCR-mediated biosensing in diploid probiotic yeast.]]></summary>
-        <author>
-            <name>Synthetic biology : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing bioengineered microbes as a versatile platform for space nutrition]]></title>
-        <id>https://www.nature.com/articles/s41467-022-33974-7</id>
-        <link href="https://www.nature.com/articles/s41467-022-33974-7"/>
-        <updated>2022-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Long-duration human space travel creates challenges for maintaining healthy diets. Here the authors discuss using synthetic biology approaches to modify yeast into an optimal, and enjoyable, food production platform.]]></summary>
-        <author>
-            <name>Synthetic biology : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial ecology, optimal control and game theoretical fishing problems]]></title>
-        <id>10.1007/s00285-022-01829-w</id>
-        <link href="http://link.springer.com/10.1007/s00285-022-01829-w"/>
-        <updated>2022-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-Of paramount importance in both ecological systems and economic policies are the problems of harvesting of natural resources. A paradigmatic situation where this question is raised is that of fishing strategies. Indeed, overfishing is a well-known problem in the management of live-stocks, as being too greedy may lead to an overall dramatic depletion of the population we are harvesting. A closely related topic is that of Nash equilibria in the context of fishing policies. Namely, two players being in competition for the same pool of resources, is it possible for them to find an equilibrium situation? The goal of this paper is to provide a detailed analysis of these two queries (i.e optimal fishing strategies for single-player models and study of Nash equilibria for multiple players…]]></summary>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interdisciplinary journey through living machines]]></title>
-        <id>https://news.mit.edu/2022/interdisciplinary-journey-through-living-machines-sherry-nyeo-1018</id>
-        <link href="https://news.mit.edu/2022/interdisciplinary-journey-through-living-machines-sherry-nyeo-1018"/>
-        <updated>2022-10-18T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[With NEET, Sherry Nyeo is discovering MIT’s undergraduate research community at the intersection of computer science and biological engineering.]]></summary>
-        <author>
-            <name>Jiyoo Jye | New Engineering Education Transformation (NEET) program</name>
         </author>
     </entry>
 </feed>
