@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T00:33:47.036Z</id>
+    <id>urn:2022-12-20T00:37:31.242Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T00:33:47.036Z</updated>
+    <updated>2022-12-20T00:37:31.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One-Way Functions and (Im)perfect Obfuscation]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/15M1048549?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/15M1048549?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-12-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1769-1795, December 2022. 
+ Abstract. A program obfuscator takes a program and outputs a “scrambled” version of it, where the goal is that the obfuscated program will not reveal much about its structure beyond what is apparent from executing it. There are several ways of formalizing this goal. Specifically, in indistinguishability obfuscation, first defined by Barak et al. [Advances in Cryptology - CRYPTO, 2001, Lect. Notes Comput. Sci. 2139, Springer, Berlin, Heidelberg, pp. 1–18], the requirement is that the results of obfuscating any two functionally equivalent programs (circuits) will be computationally indistinguishable. In 2013, a fascinating candidate construction for indistinguishability obfuscation was proposed by Garg et al. [Pr…]]></summary>
+        <author>
+            <name>Ilan Komargodski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balanced Allocation: Patience Is Not a Virtue]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/17M1155375?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/17M1155375?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-12-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1743-1768, December 2022. 
+ Abstract. Load balancing is a well-studied problem, with balls-in-bins being the primary framework. The greedy algorithm [math] of Azar et al. [SIAM J. Comput., 29 (1999), pp. 180–200] places each ball by probing [math] random bins and placing the ball in the least loaded of them. With high probability, the maximum load under [math] is exponentially lower than the result when balls are placed uniformly randomly. Vöcking [J. ACM, 50 (2003), pp. 568–589] showed that a slightly asymmetric variant, [math], provides a further significant improvement. However, this improvement comes at the additional computational cost of imposing structure on the bins. Here, we present a fully decentralized and easy-to-implement algorithm called [math] that combines the simplicity of [math] and the improved balance of [math]. The key idea in [math] is to probe until a different bin size from the first observation is located and then place the ball. Although the number of probes could be quite large for some of the balls, we show that [math] requires only at most [math] probes on average per ball (in both the standard and the heavily loaded settings). Thus the number of probes is no greater than that of either [math] or [math]. More importantly, we show that [math] closely matches the improved maximum load ensured by [math] in both the standard and heavily loaded settings. We further provide a tight lower bound on the maximum load up to [math] terms. We additionally give experimental data that [math] is indeed as good as [math], if not better, in practice.]]></summary>
+        <author>
+            <name>John Augustine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subexponential Parameterized Algorithms for Planar and Apex-Minor-Free Graphs via Low Treewidth Pattern Covering]]></title>
         <id>https://epubs.siam.org/doi/abs/10.1137/19M1262504?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
         <link href="https://epubs.siam.org/doi/abs/10.1137/19M1262504?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
-        <updated>2022-12-19T08:00:00.000Z</updated>
+        <updated>2022-12-20T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1866-1930, December 2022. 
  Abstract. We prove the following theorem. Given a planar graph [math] and an integer [math], it is possible in polynomial time to randomly sample a subset [math] of vertices of [math] with the following properties: [math] induces a subgraph of [math] of treewidth [math], and for every connected subgraph [math] of [math] on at most [math] vertices, the probability that [math] covers the whole vertex set of [math] is at least [math], where [math] is the number of vertices of [math]. Together with standard dynamic programming techniques for graphs of bounded treewidth, this result gives a versatile technique for obtaining (randomized) subexponential-time parameterized algorithms for problems on planar graphs, usually with running time bound [math]. The technique can be applied to problems expressible as searching for a small, connected pattern with a prescribed property in a large host graph; examples of such problems include Directed [math]-Path, Weighted [math]-Path, Vertex Cover Local Search, and Subgraph Isomorphism, among others. Up to this point, it was open whether these problems could be solved in subexponential parameterized time on planar graphs, because they are not amenable to the classic technique of bidimensionality. Furthermore, all our results hold in fact on any class of graphs that exclude a fixed apex graph as a minor, in particular on graphs embeddable in any fixed surface.]]></summary>
         <author>
@@ -17,22 +39,32 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bifurcations in a diffusive resource-consumer model with distributed memory]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962200691X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200691X?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:30.008Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 February 2023
-Source: Journal of Differential Equations, Volume 347
-Author(s): Hao Shen, Yongli Song, Hao Wang]]></summary>
+        <title type="html"><![CDATA[Quantum Speedup for Graph Sparsification, Cut Approximation, and Laplacian Solving]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1391018?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1391018?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-12-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1703-1742, December 2022. 
+ Abstract. Graph sparsification underlies a large number of algorithms, ranging from approximation algorithms for cut problems to solvers for linear systems in the graph Laplacian. In its strongest form, “spectral sparsification” reduces the number of edges to near-linear in the number of nodes, while approximately preserving the cut and spectral structure of the graph. In this work we demonstrate a polynomial quantum speedup for spectral sparsification and many of its applications. In particular, we give a quantum algorithm that, given a weighted graph with [math] nodes and [math] edges, outputs a classical description of an [math]-spectral sparsifier in sublinear time [math]. This contrasts with the optimal classical complexity [math]. We also prove that our quantum algorithm is optimal up to polylog-factors. The algorithm builds on a string of existing results on sparsification, graph spanners, quantum algorithms for shortest paths, and efficient constructions for [math]-wise independent random strings. Our algorithm implies a quantum speedup for solving Laplacian systems and for approximating a range of cut problems such as min cut and sparsest cut.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Simon Apers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Item Nontruthful Auctions Achieve Good Revenue]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M1471742?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1471742?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2022-12-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1796-1838, December 2022. 
+ Abstract. We present a general framework for designing approximately revenue-optimal mechanisms for multi-item additive auctions, which applies to both truthful and nontruthful auctions. Given a (not necessarily truthful) single-item auction format [math] satisfying certain technical conditions, we run simultaneous item auctions augmented with a personalized entry fee for each bidder that must be paid before the auction can be accessed. These entry fees depend only on the prior distribution of bidder types and in particular are independent of realized bids. We bound the revenue of the resulting two-part tariff mechanism using a novel geometric technique that enables revenue guarantees for many common nontruthful auctions that previously had none. Our approach adapts and extends the duality framework of Cai, Devanur, and Weinberg [SIAM J. Comput., 50 (2021), pp. STOC16-160–STOC16-200] beyond truthful auctions. Our framework can be used with many common auction formats, such as simultaneous first-price, simultaneous second-price, and simultaneous all-pay auctions. Our results for first-price and all-pay are the first revenue guarantees of nontruthful mechanisms in multidimensional environments, addressing an open question in the literature [T. Roughgarden, V. Syrgkanis, and E. Tardos, J. Artificial Intelligence Res., 59 (2017), pp. 59–101]. If all-pay auctions are used, we prove that the resulting mechanism is also credible in the sense that the auctioneer cannot benefit by deviating from the stated mechanism after observing agent bids. This is the first static credible mechanism for multi-item additive auctions that achieves a constant factor of the optimal revenue. If second-price auctions are used, we obtain a truthful [math]-approximate mechanism with fixed entry fees that are amenable to tuning via online learning techniques.]]></summary>
+        <author>
+            <name>Constantinos Daskalakis</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lack of the strict dissipativity and modification for the dissipative Bresse system]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006659</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006659?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.871Z</updated>
+        <updated>2022-12-20T00:37:14.568Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 February 2023
 Source: Journal of Differential Equations, Volume 347
 Author(s): Tomoyuki Suzuki, Yoshihiro Ueda]]></summary>
@@ -41,70 +73,10 @@ Author(s): Tomoyuki Suzuki, Yoshihiro Ueda]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Normal forms of hyperbolic logarithmic transseries]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007057</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007057?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.861Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 March 2023
-Source: Journal of Differential Equations, Volume 348
-Author(s): D. Peran, M. Resman, J.P. Rolin, T. Servi]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gevrey semigroup of the type III localized thermoelastic model]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007008</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007008?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.829Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 February 2023
-Source: Journal of Differential Equations, Volume 347
-Author(s): Gerardo Gómez Ávalos, Jaime Muñoz Rivera, Elena Ochoa Ochoa]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><msup><mrow><mi mathvariant="script">C</mi></mrow><mrow><mo>∞</mo></mrow></msup></math>-symmetries of distributions and integrability]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006982</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006982?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.645Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 March 2023
-Source: Journal of Differential Equations, Volume 348
-Author(s): A.J. Pan-Collantes, A. Ruiz, C. Muriel, J.L. Romero]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formation of singularity for the classical solutions of the rotating shallow water system]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006945</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006945?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.530Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 March 2023
-Source: Journal of Differential Equations, Volume 348
-Author(s): Yupei Huang, Chunjing Xie]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singular solutions to Yamabe-type systems with prescribed asymptotics]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006593</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006593?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.498Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 February 2023
-Source: Journal of Differential Equations, Volume 347
-Author(s): Rayssa Caju, João Marcos do Ó, Almir Silva Santos]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Local well-posedness of unsteady potential flows near a space corner of right angle]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006891</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006891?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.477Z</updated>
+        <updated>2022-12-20T00:37:14.445Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 February 2023
 Source: Journal of Differential Equations, Volume 347
 Author(s): Beixiang Fang, Wei Xiang, Feng Xiao]]></summary>
@@ -113,34 +85,10 @@ Author(s): Beixiang Fang, Wei Xiang, Feng Xiao]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Global dynamics for a chemotaxis consumption system with signal-dependent motility and logistic source]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007070</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007070?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.452Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 March 2023
-Source: Journal of Differential Equations, Volume 348
-Author(s): Liangchen Wang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commutator estimates for the Dirichlet-to-Neumann map associated to parabolic equations with complex-valued and measurable coefficients on <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><msubsup><mrow><mi mathvariant="double-struck">R</mi></mrow><mrow><mo linebreak="badbreak" linebreakstyle="after">+</mo></mrow><mrow><mi>n</mi><mo linebreak="badbreak" linebreakstyle="after">+</mo><mn>2</mn></mrow></msubsup></math>]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006957</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006957?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.434Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 March 2023
-Source: Journal of Differential Equations, Volume 348
-Author(s): Guoming Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[General study on limit cycle bifurcation near a double homoclinic loop]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006660</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006660?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.401Z</updated>
+        <updated>2022-12-20T00:37:14.420Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 February 2023
 Source: Journal of Differential Equations, Volume 347
 Author(s): Maoan Han, Junmin Yang, Jibin Li]]></summary>
@@ -149,34 +97,10 @@ Author(s): Maoan Han, Junmin Yang, Jibin Li]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nonlocal in-time telegraph equation and telegraph processes with random time]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007045</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007045?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.388Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 February 2023
-Source: Journal of Differential Equations, Volume 347
-Author(s): Francisco Alegría, Verónica Poblete, Juan C. Pozo]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution maps for delay-difference equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007021</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007021?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.358Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 March 2023
-Source: Journal of Differential Equations, Volume 348
-Author(s): Luís Barreira, Claudia Valls]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Concentrating solutions for singularly perturbed double phase problems with nonlocal reaction]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006684</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006684?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.346Z</updated>
+        <updated>2022-12-20T00:37:14.411Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 February 2023
 Source: Journal of Differential Equations, Volume 347
 Author(s): Wen Zhang, Jian Zhang, Vicenţiu D. Rădulescu]]></summary>
@@ -185,10 +109,34 @@ Author(s): Wen Zhang, Jian Zhang, Vicenţiu D. Rădulescu]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nonlocal in-time telegraph equation and telegraph processes with random time]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007045</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007045?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.387Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 February 2023
+Source: Journal of Differential Equations, Volume 347
+Author(s): Francisco Alegría, Verónica Poblete, Juan C. Pozo]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular solutions to Yamabe-type systems with prescribed asymptotics]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006593</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006593?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.348Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 February 2023
+Source: Journal of Differential Equations, Volume 347
+Author(s): Rayssa Caju, João Marcos do Ó, Almir Silva Santos]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Conditional uniqueness of solutions to the Keller–Rubinow model for Liesegang rings in the fast reaction limit]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622006738</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006738?dgcid=rss_sd_all"/>
-        <updated>2022-12-19T00:33:29.320Z</updated>
+        <updated>2022-12-20T00:37:14.324Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 February 2023
 Source: Journal of Differential Equations, Volume 347
 Author(s): Zymantas Darbenas, Rein van der Hout, Marcel Oliver]]></summary>
@@ -197,13 +145,361 @@ Author(s): Zymantas Darbenas, Rein van der Hout, Marcel Oliver]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Formation of singularity for the classical solutions of the rotating shallow water system]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006945</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006945?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.307Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 March 2023
+Source: Journal of Differential Equations, Volume 348
+Author(s): Yupei Huang, Chunjing Xie]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution maps for delay-difference equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007021</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007021?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.277Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 March 2023
+Source: Journal of Differential Equations, Volume 348
+Author(s): Luís Barreira, Claudia Valls]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commutator estimates for the Dirichlet-to-Neumann map associated to parabolic equations with complex-valued and measurable coefficients on <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><msubsup><mrow><mi mathvariant="double-struck">R</mi></mrow><mrow><mo linebreak="badbreak" linebreakstyle="after">+</mo></mrow><mrow><mi>n</mi><mo linebreak="badbreak" linebreakstyle="after">+</mo><mn>2</mn></mrow></msubsup></math>]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006957</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006957?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.262Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 March 2023
+Source: Journal of Differential Equations, Volume 348
+Author(s): Guoming Zhang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gevrey semigroup of the type III localized thermoelastic model]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007008</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007008?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.242Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 February 2023
+Source: Journal of Differential Equations, Volume 347
+Author(s): Gerardo Gómez Ávalos, Jaime Muñoz Rivera, Elena Ochoa Ochoa]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bifurcations in a diffusive resource-consumer model with distributed memory]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962200691X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200691X?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.205Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 February 2023
+Source: Journal of Differential Equations, Volume 347
+Author(s): Hao Shen, Yongli Song, Hao Wang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global dynamics for a chemotaxis consumption system with signal-dependent motility and logistic source]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007070</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007070?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.171Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 March 2023
+Source: Journal of Differential Equations, Volume 348
+Author(s): Liangchen Wang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Normal forms of hyperbolic logarithmic transseries]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007057</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007057?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.155Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 March 2023
+Source: Journal of Differential Equations, Volume 348
+Author(s): D. Peran, M. Resman, J.P. Rolin, T. Servi]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><msup><mrow><mi mathvariant="script">C</mi></mrow><mrow><mo>∞</mo></mrow></msup></math>-symmetries of distributions and integrability]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622006982</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622006982?dgcid=rss_sd_all"/>
+        <updated>2022-12-20T00:37:14.135Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 March 2023
+Source: Journal of Differential Equations, Volume 348
+Author(s): A.J. Pan-Collantes, A. Ruiz, C. Muriel, J.L. Romero]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She Finds Keys to Ecology in Cells That Steal From Others]]></title>
+        <id>https://www.quantamagazine.org/?p=121543</id>
+        <link href="https://www.quantamagazine.org/holly-moeller-finds-keys-to-ecology-in-cells-that-steal-20221219/"/>
+        <updated>2022-12-19T14:53:13.000Z</updated>
+        <summary type="html"><![CDATA[The ecologist Holly Moeller studies microorganisms that expand their range by absorbing organelles and gaining new metabolic talents from their prey.            
+The post She Finds Keys to Ecology in Cells That Steal From Others first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systematic Evaluation of Self-Assembling Membrane Peptides to Form Nanopores in the context of the Functional Nanopore Screen [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.12.16.520551v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.12.16.520551v1?rss=1"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The functional analysis of protein nanopores is typically conducted in planar lipid bilayers or liposomes exploiting high-resolution but low-throughput electrical and optical read-outs. Yet, the reconstitution of protein nanopores in vitro still constitutes an empiric and low-throughput process. Addressing these limitations, nanopores can now be analysed using the functional nanopore (FuN) screen exploiting genetically-encoded fluorescent protein sensors that resolve distinct nanopore-dependent Ca2+ in- and efflux patterns across the inner membrane of Escherichia coli. With a primary proof-of-concept established for the S2168 holin, and thereof based recombinant nanopore assemblies, the question arises to what extent alternative nanopores can be analysed with the FuN screen. Focussing on self-assembling membrane peptides, three sets of 13 different nanopores are assessed for their capacity to form nanopores in the context of the FuN screen. Nanopores tested comprise both natural and computationally-designed nanopores while a comparison with high-resolution biophysical studies provides an experimental benchmark for future studies.]]></summary>
+        <author>
+            <name>Eisenhauer, K.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enhanced assembly of bacteriophage T7 produced in cell-free reactions under simulated microgravity [NEW RESULTS]]]></title>
         <id>http://biorxiv.org/cgi/content/short/2022.12.16.520761v1?rss=1</id>
         <link href="http://biorxiv.org/cgi/content/short/2022.12.16.520761v1?rss=1"/>
-        <updated>2022-12-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On-demand biomanufacturing has the potential to improve healthcare and self-sufficiency during space missions. Cell-free transcription and translation reactions combined with DNA blueprints can produce promising therapeutics like bacteriophages and virus-like particles. However, how space conditions affect the synthesis and self-assembly of such complex multi-protein structures is unknown. Here, we characterize the cell-free production of infectious bacteriophage T7 virions under simulated microgravity. Rotation in a 2D-clinostat increased the number of infectious particles compared to static controls. Quantitative analyses by mass spectrometry, immuno-dot-blot and real-time PCR showed no significant differences in protein and DNA contents, suggesting enhanced self-assembly of T7 phages in simulated microgravity. While the effects of genuine space conditions on the cell-free synthesis and assembly of bacteriophages remain to be investigated, our findings support the vision of a cell-free synthesis-enabled >.]]></summary>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On-demand biomanufacturing has the potential to improve healthcare and self-sufficiency during space missions. Cell-free transcription and translation reactions combined with DNA blueprints can produce promising therapeutics like bacteriophages and virus-like particles. However, how space conditions affect the synthesis and self-assembly of such complex multi-protein structures is unknown. Here, we characterize the cell-free production of infectious bacteriophage T7 virions under simulated microgravity. Rotation in a 2D-clinostat increased the number of infectious particles compared to static controls. Quantitative analyses by mass spectrometry, immuno-dot-blot and real-time PCR showed no significant differences in protein and DNA contents, suggesting enhanced self-assembly of T7 phages in simulated microgravity. While the effects of genuine space conditions on the cell-free synthesis and assembly of bacteriophages remain to be investigated, our findings support the vision of a cell-free synthesis-enabled "astropharmacy".]]></summary>
         <author>
             <name>Lehr, F.-X.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light-activated assembly of connexon nanopores in synthetic cells [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.12.15.520663v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.12.15.520663v1?rss=1"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During developmental processes and wound healing, activation of living cells occurs with spatiotemporal precision and leads to rapid release of soluble molecular signals, allowing communication and coordination between neighbors. Non-living systems capable of similar responsive release hold great promise for information transfer in materials and site-specific drug delivery. One non-living system that offers a tunable platform for programming release is synthetic cells. Encased in a lipid bilayer structure, synthetic cells can be outfitted with molecular conduits that span the bilayer and lead to material exchange. While previous work expressing membrane pore proteins in synthetic cells demonstrated content exchange, user-defined control over release has remained elusive. In mammalian cells, connexon nanopore structures drive content release and have garnered significant interest since they can direct material exchange through intercellular contacts. Here, we focus on connexon nanopores and present activated release of material from synthetic cells in a light-sensitive fashion. To do this, we re-engineer connexon nanopores to assemble after post-translational processing by a protease. By encapsulating proteases in light-sensitive liposomes, we show that assembly of nanopores can be triggered by illumination, resulting in rapid release of molecules encapsulated within synthetic cells. Controlling connexin nanopore activity provides an opportunity for initiating communication with extracellular signals and for transferring molecular agents to the cytoplasm of living cells in a rapid, light-guided manner.]]></summary>
+        <author>
+            <name>Sihorwala, A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting protein structure from single sequences]]></title>
+        <id>https://www.nature.com/articles/s43588-022-00378-y</id>
+        <link href="https://www.nature.com/articles/s43588-022-00378-y"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As artificial intelligence begins to profoundly impact structural biology, one of the next challenges is to predict protein structures from individual sequences alone. A deep learning model addresses this challenge by representing single sequences with protein language models and distilling knowledge from multi-sequence structure predictors.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANIMAL-SPOT enables animal-independent signal detection and classification using deep learning]]></title>
+        <id>https://www.nature.com/articles/s41598-022-26429-y</id>
+        <link href="https://www.nature.com/articles/s41598-022-26429-y"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - ANIMAL-SPOT enables animal-independent signal detection and classification using deep learning]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACPred-BMF: bidirectional LSTM with multiple feature representations for explainable anticancer peptide prediction]]></title>
+        <id>https://www.nature.com/articles/s41598-022-24404-1</id>
+        <link href="https://www.nature.com/articles/s41598-022-24404-1"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - ACPred-BMF: bidirectional LSTM with multiple feature representations for explainable anticancer peptide prediction]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global patterns of prognostic biomarkers across disease space]]></title>
+        <id>https://www.nature.com/articles/s41598-022-25209-y</id>
+        <link href="https://www.nature.com/articles/s41598-022-25209-y"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Global patterns of prognostic biomarkers across disease space]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-sequence protein structure prediction using supervised transformer protein language models]]></title>
+        <id>https://www.nature.com/articles/s43588-022-00373-3</id>
+        <link href="https://www.nature.com/articles/s43588-022-00373-3"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this study, a supervised protein language model is proposed to predict protein structure from a single sequence. It achieves state-of-the-art accuracy on orphan proteins and is competitive with other methods on human-designed proteins.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In silico identification of multiple conserved motifs within the control region of Culicidae mitogenomes]]></title>
+        <id>https://www.nature.com/articles/s41598-022-26236-5</id>
+        <link href="https://www.nature.com/articles/s41598-022-26236-5"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - In silico identification of multiple conserved motifs within the control region of Culicidae mitogenomes]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of merged transcriptomic and genomic datasets to identify genes and pathways underlying residual feed intake in growing pigs]]></title>
+        <id>https://www.nature.com/articles/s41598-022-26496-1</id>
+        <link href="https://www.nature.com/articles/s41598-022-26496-1"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Analysis of merged transcriptomic and genomic datasets to identify genes and pathways underlying residual feed intake in growing pigs]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unconstrained generation of synthetic antibody–antigen structures to guide machine learning methodology for antibody specificity prediction]]></title>
+        <id>https://www.nature.com/articles/s43588-022-00372-4</id>
+        <link href="https://www.nature.com/articles/s43588-022-00372-4"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Absolut! framework can generate synthetic three-dimensional antibody–antigen structures to assist machine learning and dataset construction for antibody design. Most importantly, the relative machine learning performance learnt on Absolut! datasets is shown to transfer to experimental datasets.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risk-aware survival time prediction from whole slide pathological images]]></title>
+        <id>https://www.nature.com/articles/s41598-022-26096-z</id>
+        <link href="https://www.nature.com/articles/s41598-022-26096-z"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Risk-aware survival time prediction from whole slide pathological images]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI system not yet ready to help peer reviewers assess research quality]]></title>
+        <id>https://www.nature.com/articles/d41586-022-04493-8</id>
+        <link href="https://www.nature.com/articles/d41586-022-04493-8"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Machine-learning tool needs to be more accurate before it can replace or aid human assessment in the UK Research Excellence Framework.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpretability of artificial neural network models in artificial intelligence versus neuroscience]]></title>
+        <id>https://www.nature.com/articles/s42256-022-00592-3</id>
+        <link href="https://www.nature.com/articles/s42256-022-00592-3"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The notion of ‘interpretability’ of artificial neural networks (ANNs) is of growing importance in neuroscience and artificial intelligence (AI). But interpretability means different things to neuroscientists as opposed to AI researchers. In this article, we discuss the potential synergies and tensions between these two communities in interpreting ANNs.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulations that capture antigen–antibody complexity]]></title>
+        <id>https://www.nature.com/articles/s43588-022-00379-x</id>
+        <link href="https://www.nature.com/articles/s43588-022-00379-x"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Antigen–antibody prediction remains a complex computational challenge. Simulations with the new Absolut! package provide novel insights into the models and datasets tackling this problem.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint structural annotation of small molecules using liquid chromatography retention order and tandem mass spectrometry data]]></title>
+        <id>https://www.nature.com/articles/s42256-022-00577-2</id>
+        <link href="https://www.nature.com/articles/s42256-022-00577-2"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Liquid chromatography–tandem mass spectrometry (LC-MS2) provides high-throughput screening of molecules with a large number of features. But these features are difficult to associate with specific molecular structures of each sample. To improve structure prediction from these features, Bach et al. propose a machine learning model trained to also take into account stereochemistry to combine the different kinds of features provided by LC-MS2.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detection of acute thoracic aortic dissection based on plain chest radiography and a residual neural network (Resnet)]]></title>
+        <id>https://www.nature.com/articles/s41598-022-26486-3</id>
+        <link href="https://www.nature.com/articles/s41598-022-26486-3"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Detection of acute thoracic aortic dissection based on plain chest radiography and a residual neural network (Resnet)]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrafast prediction of somatic structural variations by filtering out reads matched to pan-genome k-mer sets]]></title>
+        <id>https://www.nature.com/articles/s41551-022-00980-5</id>
+        <link href="https://www.nature.com/articles/s41551-022-00980-5"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A caller of genomic variants that, by leveraging machine-learning classifiers, reduces read-mapping costs by filtering out reads matched to pan-genome k-mer sets outperforms popular variant callers in the detection of somatic structural variations.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical modeling of cancer immunotherapy for personalized clinical translation]]></title>
+        <id>https://www.nature.com/articles/s43588-022-00377-z</id>
+        <link href="https://www.nature.com/articles/s43588-022-00377-z"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Immunotherapy has begun to make a transformative impact on oncology practice, and mathematical modeling has been used to provide quantitative insights into this field. This Review discusses how models are being designed for direct clinical integration to improve the success rate of immunotherapy.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic regions of the brain]]></title>
+        <id>https://www.nature.com/articles/s43587-022-00335-4</id>
+        <link href="https://www.nature.com/articles/s43587-022-00335-4"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Single-cell transcriptomic data from a neurogenic region of the mouse brain were used to build aging clocks for specific neural cell types. These clocks showed that heterochronic parabiosis and exercise lead to distinct transcriptomic rejuvenation patterns across cell types.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternative splicing and genetic variation of mhc-e: implications for rhesus cytomegalovirus-based vaccines]]></title>
+        <id>https://www.nature.com/articles/s42003-022-04344-2</id>
+        <link href="https://www.nature.com/articles/s42003-022-04344-2"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The alternative splicing and genetic variations across the whole MHC-E locus of Rhesus Macaques (Mamu-E) are analysed, which provides a foundation for more comprehensive research of Mamu-E and informs translational research of CMV-based vaccines.]]></summary>
+        <author>
+            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Mathematical Biology]]></title>
+        <id>285</id>
+        <link href="http://link.springer.com/285"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistence in a large network of sparsely interacting neurons]]></title>
+        <id>10.1007/s00285-022-01844-x</id>
+        <link href="http://link.springer.com/10.1007/s00285-022-01844-x"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+This article presents a biological neural network model driven by inhomogeneous Poisson processes accounting for the intrinsic randomness of synapses. The main novelty is the introduction of sparse interactions: each firing neuron triggers an instantaneous increase in electric potential to a fixed number of randomly chosen neurons. We prove that, as the number of neurons approaches infinity, the finite network converges to a nonlinear mean-field process characterised by a jump-type stochastic differential equation. We show that this process displays a phase transition: the activity of a typical neuron in the infinite network either rapidly dies out, or persists forever, depending on the global parameters describing the intensity of interconnection. This provides a way to understand the emergence of persistent activity triggered by weak input signals in large neural networks.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sensitivity of the electrical response of a node of Ranvier model to alterations of the myelin sheath geometry]]></title>
+        <id>10.1007/s00285-022-01841-0</id>
+        <link href="http://link.springer.com/10.1007/s00285-022-01841-0"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Nodes of Ranvier play critical roles in the generation and transmission of action potentials. Alterations in node properties during pathology and/or development are known to affect the speed and quality of electrical transmission. From a modelling standpoint, nodes of Ranvier are often described by systems of ordinary differential equations neglecting or greatly simplifying their geometric structure. These approaches fail to accurately describe how fine scale alteration in the node geometry or in myelin thickness in the paranode region will impact action potential generation and transmission. Here, we rely on a finite element approximation to describe the three dimensional geometry of a node of Ranvier. With this, we are able to investigate how sensitive is the electrical response to alterations in the myelin sheath and paranode geometry. We could in particular investigate irregular loss of myelin, which might be more physiologically relevant than the uniform loss often described through simpler modelling approaches.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reductive Enzyme Cascades for Valorization of PET Deconstruction Products [NEW RESULTS]]]></title>
+        <id>http://biorxiv.org/cgi/content/short/2022.12.16.520786v1?rss=1</id>
+        <link href="http://biorxiv.org/cgi/content/short/2022.12.16.520786v1?rss=1"/>
+        <updated>2022-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To better incentivize the collection of plastic wastes, new chemical transformations must be developed that add value to plastic deconstruction products. Polyethylene terephthalate (PET) is a common plastic whose deconstruction through chemical or biological means has received much attention. However, a limited number of alternative products have been formed from PET deconstruction, and only a small share could serve as building blocks for alternative materials or therapeutics. Here, we demonstrate the production of useful mono-amine and diamine building blocks from known PET deconstruction products. We achieve this by designing one-pot biocatalytic transformations that are informed by the substrate specificity of an {omega}-transaminase and diverse carboxylic acid reductases (CAR) towards…]]></summary>
+        <author>
+            <name>Gopal, M. R.</name>
         </author>
     </entry>
     <entry>
@@ -217,7 +513,7 @@ TOC Graphic
 
 O_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=111 SRC="FIGDIR/small/520467v1_ufig3.gif" ALT="Figure 3">
 View larger version (50K):
-org.highwire.dtl.DTLVardef@cee5d4org.highwire.dtl.DTLVardef@152f814org.highwire.dtl.DTLVardef@1d0465org.highwire.dtl.DTLVardef@10bb11b_HPS_FORMAT_FIGEXP  M_FIG C_FIG]]></summary>
+org.highwire.dtl.DTLVardef@12be05aorg.highwire.dtl.DTLVardef@1966065org.highwire.dtl.DTLVardef@192a158org.highwire.dtl.DTLVardef@19ec44c_HPS_FORMAT_FIGEXP  M_FIG C_FIG]]></summary>
         <author>
             <name>Samineni, S. P.</name>
         </author>
@@ -283,15 +579,6 @@ org.highwire.dtl.DTLVardef@cee5d4org.highwire.dtl.DTLVardef@152f814org.highwire.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Journal of Mathematical Biology]]></title>
-        <id>285</id>
-        <link href="http://link.springer.com/285"/>
-        <updated>2022-12-17T00:00:00.000Z</updated>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Long-range seed dispersal enables almost stationary patterns in a model for dryland vegetation]]></title>
         <id>10.1007/s00285-022-01852-x</id>
         <link href="http://link.springer.com/10.1007/s00285-022-01852-x"/>
@@ -347,28 +634,6 @@ Spatiotemporal patterns of vegetation are a ubiquitous feature of semi-arid ecos
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One-Way Functions and (Im)perfect Obfuscation]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/15M1048549?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/15M1048549?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
-        <updated>2022-12-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1769-1795, December 2022. 
- Abstract. A program obfuscator takes a program and outputs a “scrambled” version of it, where the goal is that the obfuscated program will not reveal much about its structure beyond what is apparent from executing it. There are several ways of formalizing this goal. Specifically, in indistinguishability obfuscation, first defined by Barak et al. [Advances in Cryptology - CRYPTO, 2001, Lect. Notes Comput. Sci. 2139, Springer, Berlin, Heidelberg, pp. 1–18], the requirement is that the results of obfuscating any two functionally equivalent programs (circuits) will be computationally indistinguishable. In 2013, a fascinating candidate construction for indistinguishability obfuscation was proposed by Garg et al. [Pr…]]></summary>
-        <author>
-            <name>Ilan Komargodski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balanced Allocation: Patience Is Not a Virtue]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/17M1155375?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/17M1155375?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
-        <updated>2022-12-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1743-1768, December 2022. 
- Abstract. Load balancing is a well-studied problem, with balls-in-bins being the primary framework. The greedy algorithm [math] of Azar et al. [SIAM J. Comput., 29 (1999), pp. 180–200] places each ball by probing [math] random bins and placing the ball in the least loaded of them. With high probability, the maximum load under [math] is exponentially lower than the result when balls are placed uniformly randomly. Vöcking [J. ACM, 50 (2003), pp. 568–589] showed that a slightly asymmetric variant, [math], provides a further significant improvement. However, this improvement comes at the additional computational cost of imposing structure on the bins. Here, we present a fully decentralized and easy-to-implement algorithm called [math] that combines the simplicity of [math] and the improved balance of [math]. The key idea in [math] is to probe until a different bin size from the first observation is located and then place the ball. Although the number of probes could be quite large for some of the balls, we show that [math] requires only at most [math] probes on average per ball (in both the standard and the heavily loaded settings). Thus the number of probes is no greater than that of either [math] or [math]. More importantly, we show that [math] closely matches the improved maximum load ensured by [math] in both the standard and heavily loaded settings. We further provide a tight lower bound on the maximum load up to [math] terms. We additionally give experimental data that [math] is indeed as good as [math], if not better, in practice.]]></summary>
-        <author>
-            <name>John Augustine</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Relaxed Locally Correctable Codes with Nearly-Linear Block Length and Constant Query Complexity]]></title>
         <id>https://epubs.siam.org/doi/abs/10.1137/20M135515X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
         <link href="https://epubs.siam.org/doi/abs/10.1137/20M135515X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
@@ -377,28 +642,6 @@ Spatiotemporal patterns of vegetation are a ubiquitous feature of semi-arid ecos
  Abstract. Locally correctable codes (LCCs) are error correcting codes [math] which admit local algorithms that correct any individual symbol of a corrupted codeword via a minuscule number of queries. For systematic codes, this notion is stronger than that of locally decodable codes (LDCs), where the goal is to only recover individual symbols of the message. One of the central problems in algorithmic coding theory is to construct [math]-query LCCs and LDCs with minimal block length. Alas, state-of-the-art of such codes requires super-polynomial block length to admit [math]-query algorithms for local correction and decoding, despite much attention during the last two decades. The study of relaxed LCCs and LDCs, which allow the correction algorithm to abort (but not err) on a small fraction of the locations, provides a way to circumvent this barrier. This relaxation turned out to allow constant-query correcting and decoding algorithms for codes with polynomial block length. Focusing on local correction, Gur, Ramnarayan, and Rothblum [Proceedings of the 9th Innovations in Theoretical Computer Science Conference, ITCS’18, 2018, pp. 1–27] showed that there exist [math]-query relaxed LCCs that achieve nearly-quartic block length [math], for an arbitrarily small constant [math]. We construct an [math]-query relaxed LCC with nearly-linear block length [math], for an arbitrarily small constant [math]. This significantly narrows the gap between the lower bound which states that there are no [math]-query relaxed LCCs with block length [math]. In particular, our construction matches the parameters achieved by Ben-Sasson et al. [SIAM J. Comput., 36 (2006), pp. 889–974], who constructed relaxed LDCs with the same parameters. This resolves an open problem raised by Gur, Ramnarayan, and Rothblum [Proceedings of the 9th Innovations in Theoretical Computer Science Conference, ITCS’18, 2018, pp. 1–27].]]></summary>
         <author>
             <name>Alessandro Chiesa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Speedup for Graph Sparsification, Cut Approximation, and Laplacian Solving]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/21M1391018?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1391018?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
-        <updated>2022-12-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1703-1742, December 2022. 
- Abstract. Graph sparsification underlies a large number of algorithms, ranging from approximation algorithms for cut problems to solvers for linear systems in the graph Laplacian. In its strongest form, “spectral sparsification” reduces the number of edges to near-linear in the number of nodes, while approximately preserving the cut and spectral structure of the graph. In this work we demonstrate a polynomial quantum speedup for spectral sparsification and many of its applications. In particular, we give a quantum algorithm that, given a weighted graph with [math] nodes and [math] edges, outputs a classical description of an [math]-spectral sparsifier in sublinear time [math]. This contrasts with the optimal classical complexity [math]. We also prove that our quantum algorithm is optimal up to polylog-factors. The algorithm builds on a string of existing results on sparsification, graph spanners, quantum algorithms for shortest paths, and efficient constructions for [math]-wise independent random strings. Our algorithm implies a quantum speedup for solving Laplacian systems and for approximating a range of cut problems such as min cut and sparsest cut.]]></summary>
-        <author>
-            <name>Simon Apers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Item Nontruthful Auctions Achieve Good Revenue]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/22M1471742?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1471742?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
-        <updated>2022-12-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 51, Issue 6, Page 1796-1838, December 2022. 
- Abstract. We present a general framework for designing approximately revenue-optimal mechanisms for multi-item additive auctions, which applies to both truthful and nontruthful auctions. Given a (not necessarily truthful) single-item auction format [math] satisfying certain technical conditions, we run simultaneous item auctions augmented with a personalized entry fee for each bidder that must be paid before the auction can be accessed. These entry fees depend only on the prior distribution of bidder types and in particular are independent of realized bids. We bound the revenue of the resulting two-part tariff mechanism using a novel geometric technique that enables revenue guarantees for many common nontruthful auctions that previously had none. Our approach adapts and extends the duality framework of Cai, Devanur, and Weinberg [SIAM J. Comput., 50 (2021), pp. STOC16-160–STOC16-200] beyond truthful auctions. Our framework can be used with many common auction formats, such as simultaneous first-price, simultaneous second-price, and simultaneous all-pay auctions. Our results for first-price and all-pay are the first revenue guarantees of nontruthful mechanisms in multidimensional environments, addressing an open question in the literature [T. Roughgarden, V. Syrgkanis, and E. Tardos, J. Artificial Intelligence Res., 59 (2017), pp. 59–101]. If all-pay auctions are used, we prove that the resulting mechanism is also credible in the sense that the auctioneer cannot benefit by deviating from the stated mechanism after observing agent bids. This is the first static credible mechanism for multi-item additive auctions that achieves a constant factor of the optimal revenue. If second-price auctions are used, we obtain a truthful [math]-approximate mechanism with fixed entry fees that are amenable to tuning via online learning techniques.]]></summary>
-        <author>
-            <name>Constantinos Daskalakis</name>
         </author>
     </entry>
     <entry>
@@ -443,26 +686,6 @@ In neuronal network analysis on, for example, synchronization, it has been obser
 A data-driven sparse identification method is developed to discover the underlying governing equations from noisy measurement data through the minimization of Multi-Step-Accumulation (MSA) in error. The method focuses on the multi-step model, while conventional sparse regression methods, such as the Sparse Identification of Nonlinear Dynamics method (SINDy), are one-step models. We adopt sparse representation and assume that the underlying equations involve only a small number of functions among possible candidates in a library. The new development in MSA is to use a multi-step model, i.e., predictions from an approximate evolution scheme based on initial points. Accordingly, the loss function comprises the total error at all time steps between the measured series and predicted series with the same initial point. This enables MSA to capture the dynamics directly from the noisy measurements, resisting the corruption of noise. By use of several numerical examples, we demonstrate the robustness and accuracy of the proposed MSA method, including a two-dimensional chaotic map, the logistic map, a two-dimensional damped oscillator, the Lorenz system, and a reduced order model of a self-sustaining process in turbulent shear flows. We also perform further studies under challenging conditions, such as noisy measurements, missing data, and large time step sizes. Furthermore, in order to resolve the difficulty of the nonlinear optimization, we suggest an adaptive training strategy, namely, by gradually increasing the length of time series for training. Higher prediction accuracy is achieved in an illustrative example of the chaotic map by the adaptive strategy.]]></summary>
         <author>
             <name>Lei Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic Evaluation of Self-Assembling Membrane Peptides to Form Nanopores in the context of the Functional Nanopore Screen [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.12.16.520551v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.12.16.520551v1?rss=1"/>
-        <updated>2022-12-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The functional analysis of protein nanopores is typically conducted in planar lipid bilayers or liposomes exploiting high-resolution but low-throughput electrical and optical read-outs. Yet, the reconstitution of protein nanopores in vitro still constitutes an empiric and low-throughput process. Addressing these limitations, nanopores can now be analysed using the functional nanopore (FuN) screen exploiting genetically-encoded fluorescent protein sensors that resolve distinct nanopore-dependent Ca2+ in- and efflux patterns across the inner membrane of Escherichia coli. With a primary proof-of-concept established for the S2168, and thereof based recombinant nanopore assemblies, the question arises to what extent alternative nanopores can be analysed with the FuN screen. Focussing on self-assembling membrane peptides, three sets of 13 different nanopores are assessed for their capacity to form nanopores in the context of the FuN screen. Nanopores tested comprise both natural and computationally-designed nanopores while a comparison with high-resolution biophysical studies provides an experimental benchmark for future studies.]]></summary>
-        <author>
-            <name>Eisenhauer, K.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Light-Activated Assembly of Connexon Nanopores in Synthetic Cells [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.12.15.520663v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.12.15.520663v1?rss=1"/>
-        <updated>2022-12-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[During developmental processes and wound healing, activation of living cells occurs with spatiotemporal precision and leads to rapid release of soluble molecular signals, allowing communication and coordination between neighbors. Non-living systems capable of similar responsive release hold great promise for information transfer in materials and site-specific drug delivery. One non-living system that offers a tunable platform for programming release is synthetic cells. Encased in a lipid bilayer structure, synthetic cells can be outfitted with molecular conduits that span the bilayer and lead to material exchange. While previous work expressing membrane pore proteins in synthetic cells demonstrated content exchange, user-defined control over release has remained elusive. In mammalian cells, connexon nanopore structures drive content release and have garnered significant interest since they can direct material exchange through intercellular contacts. Here, we focus on connexon nanopores and present activated release of material from synthetic cells in a light-sensitive fashion. To do this, we re-engineer connexon nanopores to assemble after post-translational processing by a protease. By encapsulating proteases in light-sensitive liposomes, we show that assembly of nanopores can be triggered by illumination, resulting in rapid release of molecules encapsulated within synthetic cells. Controlling connexin nanopore activity provides an opportunity for initiating communication with extracellular signals and for transferring molecular agents to the cytoplasm of living cells in a rapid, light-guided manner.]]></summary>
-        <author>
-            <name>Sihorwala, A.</name>
         </author>
     </entry>
     <entry>
@@ -521,16 +744,6 @@ A data-driven sparse identification method is developed to discover the underlyi
         <link href="https://www.nature.com/articles/s41598-022-25935-3"/>
         <updated>2022-12-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Scientific Reports - Toward a general and interpretable umami taste predictor using a multi-objective machine learning approach]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A chromosome-level genome assembly reveals genomic characteristics of the American mink (Neogale vison)]]></title>
-        <id>https://www.nature.com/articles/s42003-022-04341-5</id>
-        <link href="https://www.nature.com/articles/s42003-022-04341-5"/>
-        <updated>2022-12-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A chromosome-level genome assembly of the American mink (Neogale vison) provides a valuable genetic resource to guide mink breeding strategies and conservation efforts.]]></summary>
         <author>
             <name>Computational biology and bioinformatics : nature.com subject feeds</name>
         </author>
@@ -643,116 +856,6 @@ A different approach to binary logic is to encode the high and low states in the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep-learning language models help to improve protein sequence alignment]]></title>
-        <id>https://www.nature.com/articles/s41592-022-01707-9</id>
-        <link href="https://www.nature.com/articles/s41592-022-01707-9"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We trained DEDAL, an algorithm based on deep-learning language models, to generate pairwise alignments of protein sequences taking into account the sequence-specific context of amino acid substitutions or gaps. DEDAL improved the alignment correctness on remote homologs by up to threefold and the discrimination of remote homologs from evolutionarily unrelated sequences.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep embedding and alignment of protein sequences]]></title>
-        <id>https://www.nature.com/articles/s41592-022-01700-2</id>
-        <link href="https://www.nature.com/articles/s41592-022-01700-2"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DEDAL is a deep learning-based protein sequence alignment method that improves the quality of predicted alignment for remote homologs and better discriminates remote homologs from evolutionarily unrelated sequences.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimating diagnostic uncertainty in artificial intelligence assisted pathology using conformal prediction]]></title>
-        <id>https://www.nature.com/articles/s41467-022-34945-8</id>
-        <link href="https://www.nature.com/articles/s41467-022-34945-8"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence prediction accuracy can be reduced with new data. Here, the authors utilise conformal prediction to reduce incorrect predictions in histopathological analysis of prostate cancer biopsies.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fast kernel independence test for cluster-correlated data]]></title>
-        <id>https://www.nature.com/articles/s41598-022-26278-9</id>
-        <link href="https://www.nature.com/articles/s41598-022-26278-9"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - A fast kernel independence test for cluster-correlated data]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The module triad: a novel network biology approach to utilize patients’ multi-omics data for target discovery in ulcerative colitis]]></title>
-        <id>https://www.nature.com/articles/s41598-022-26276-x</id>
-        <link href="https://www.nature.com/articles/s41598-022-26276-x"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - The module triad: a novel network biology approach to utilize patients’ multi-omics data for target discovery in ulcerative colitis]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert-level aspiration and penetration detection during flexible endoscopic evaluation of swallowing with artificial intelligence-assisted diagnosis]]></title>
-        <id>https://www.nature.com/articles/s41598-022-25618-z</id>
-        <link href="https://www.nature.com/articles/s41598-022-25618-z"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Expert-level aspiration and penetration detection during flexible endoscopic evaluation of swallowing with artificial intelligence-assisted diagnosis]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact of HIV infection and integrase strand transfer inhibitors-based treatment on the gut virome]]></title>
-        <id>https://www.nature.com/articles/s41598-022-25979-5</id>
-        <link href="https://www.nature.com/articles/s41598-022-25979-5"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Impact of HIV infection and integrase strand transfer inhibitors-based treatment on the gut virome]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accuracy and data efficiency in deep learning models of protein expression]]></title>
-        <id>https://www.nature.com/articles/s41467-022-34902-5</id>
-        <link href="https://www.nature.com/articles/s41467-022-34902-5"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Synthetic biology often involves engineering microbial strains to express high-value proteins. Here the authors build deep learning predictors of protein expression from sequence that deliver accurate models with fewer data than previously assumed, helping to lower costs of model-driven strain design.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De novo design of obligate ABC-type heterotrimeric proteins]]></title>
-        <id>https://www.nature.com/articles/s41594-022-00879-4</id>
-        <link href="https://www.nature.com/articles/s41594-022-00879-4"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ABC-type heterotrimeric proteins can be designed de novo using coiled coils and helical bundles as starting scaffolds, extended using helical repeat proteins and then used as building blocks for higher-order oligomeric assemblies.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lncRNA–disease association prediction method based on the nearest neighbor matrix completion model]]></title>
-        <id>https://www.nature.com/articles/s41598-022-25730-0</id>
-        <link href="https://www.nature.com/articles/s41598-022-25730-0"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - lncRNA–disease association prediction method based on the nearest neighbor matrix completion model]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A unifying Bayesian framework for merging X-ray diffraction data]]></title>
-        <id>https://www.nature.com/articles/s41467-022-35280-8</id>
-        <link href="https://www.nature.com/articles/s41467-022-35280-8"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Observation of the chemical and conformational dynamics of biomolecules by diffraction methods is impeded by several physical artifacts. The authors present an extensible framework for accurate correction of such data that can keep pace with rapid developments in diffraction methods.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De novo engineering of a bacterial lifestyle program]]></title>
         <id>https://www.nature.com/articles/s41589-022-01194-1</id>
         <link href="https://www.nature.com/articles/s41589-022-01194-1"/>
@@ -834,66 +937,6 @@ DOI: 10.1021/acssynbio.2c00434]]></summary>
 DOI: 10.1021/acssynbio.2c00539]]></summary>
         <author>
             <name>Hyun-Woo Je, Chang-Hun Ji, Jun-Yong Kim, and Hahk-Soo Kang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gigantic telescope and AI supremacy]]></title>
-        <id>https://www.nature.com/articles/d41586-022-04424-7</id>
-        <link href="https://www.nature.com/articles/d41586-022-04424-7"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest science news, in brief.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building cloud computing environments for genome analysis in Japan]]></title>
-        <id>https://www.nature.com/articles/s41439-022-00223-8</id>
-        <link href="https://www.nature.com/articles/s41439-022-00223-8"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An overview of the computational infrastructure available for genomic research in Japan highlights the importance of establishing hybrid cloud computing platforms. The enormous growth of genomic data necessitates a corresponding increase in computational infrastructure for analyses. A review by Osamu Ogasawara of Japan’s National Institute of Genetics, Shizuoka, Japan, highlights the strengths and challenges in the country’s computational infrastructure. Several powerful supercomputers are linked to universities by a high-speed network for transferring large data sets. Commercial cloud services also provide on-demand availability, easy international collaboration, and reproducible workflows. However, the cloud market is dominated by three vendors, and there are concerns about privacy and data security. Ogasawara advocates a hybrid cloud approach allowing for on-premise analyses and movement between vendors, and notes that the government is developing a multi-cloud environment for domestic institutes.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predicting multipotency of human adult stem cells derived from various donors through deep learning]]></title>
-        <id>https://www.nature.com/articles/s41598-022-25423-8</id>
-        <link href="https://www.nature.com/articles/s41598-022-25423-8"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Predicting multipotency of human adult stem cells derived from various donors through deep learning]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single cell RNA sequencing of the adult Drosophila eye reveals distinct clusters and novel marker genes for all major cell types]]></title>
-        <id>https://www.nature.com/articles/s42003-022-04337-1</id>
-        <link href="https://www.nature.com/articles/s42003-022-04337-1"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Single-cell RNA sequencing of early to mature adult Drosophila eyes reveals new cell type-specific marker genes and a full set of transcriptomic data for this tissue.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovery of synthetic lethal interactions from large-scale pan-cancer perturbation screens]]></title>
-        <id>https://www.nature.com/articles/s41467-022-35378-z</id>
-        <link href="https://www.nature.com/articles/s41467-022-35378-z"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Synthetic lethality can be used to identify potential drug targets in cancer based on simultaneous inactivation of two genes through genetic aberrations and gene silencing. Here, the authors develop a statistical framework to identify synthetic lethal pairs from large scale perturbation screens across multiple cancer types.]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazilin from Caesalpinia sappan inhibits viral infection against PRRSV via CD163ΔSRCR5 MARC-145 cells: an in silico and in vitro studies]]></title>
-        <id>https://www.nature.com/articles/s41598-022-26206-x</id>
-        <link href="https://www.nature.com/articles/s41598-022-26206-x"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Brazilin from Caesalpinia sappan inhibits viral infection against PRRSV via CD163ΔSRCR5 MARC-145 cells: an in silico and in vitro studies]]></summary>
-        <author>
-            <name>Computational biology and bioinformatics : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -1177,7 +1220,7 @@ DOI: 10.1021/acssynbio.2c00407]]></summary>
 
 O_FIG O_LINKSMALLFIG WIDTH=144 HEIGHT=200 SRC="FIGDIR/small/519681v1_ufig1.gif" ALT="Figure 1">
 View larger version (41K):
-org.highwire.dtl.DTLVardef@19d395org.highwire.dtl.DTLVardef@192054forg.highwire.dtl.DTLVardef@19a94b3org.highwire.dtl.DTLVardef@198a3c7_HPS_FORMAT_FIGEXP  M_FIG C_FIG]]></summary>
+org.highwire.dtl.DTLVardef@1fbe037org.highwire.dtl.DTLVardef@13d493borg.highwire.dtl.DTLVardef@92dbcborg.highwire.dtl.DTLVardef@19c12ac_HPS_FORMAT_FIGEXP  M_FIG C_FIG]]></summary>
         <author>
             <name>Deich, C.</name>
         </author>
@@ -1453,17 +1496,6 @@ Phylogenetic diversity indices such as the Fair Proportion (FP) index are freque
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Causes Alzheimer’s? Scientists Are Rethinking the Answer.]]></title>
-        <id>https://www.quantamagazine.org/?p=121241</id>
-        <link href="https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/"/>
-        <updated>2022-12-08T16:33:19.000Z</updated>
-        <summary type="html"><![CDATA[After decades in the shadow of the reigning model for Alzheimer’s disease, alternative explanations are finally getting the attention they deserve.            
-The post What Causes Alzheimer’s? Scientists Are Rethinking the Answer. first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An E. coli display method for characterization of peptide–sensor kinase interactions]]></title>
         <id>https://www.nature.com/articles/s41589-022-01207-z</id>
         <link href="https://www.nature.com/articles/s41589-022-01207-z"/>
@@ -1503,16 +1535,6 @@ The finite difference multi-resolution alternative weighted essentially non-osci
         <summary type="html"><![CDATA[Michael Birnbaum has been recognized as Committed to Caring for his wide-reaching support of students and his departmental leadership.]]></summary>
         <author>
             <name>Daniel Korsun | Office of Graduate Education</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synergic homology directed recombination by PRDM9 meiotic factor [NEW RESULTS]]]></title>
-        <id>http://biorxiv.org/cgi/content/short/2022.12.05.519167v1?rss=1</id>
-        <link href="http://biorxiv.org/cgi/content/short/2022.12.05.519167v1?rss=1"/>
-        <updated>2022-12-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Genome editing requires precision to broadly move on to industrial and clinical applications. For this reason, homologous directed repair (HDR) is one of the preferred methods for small edits, other than knock-outs. However, HDR has low efficiency. Current investigations to enhance HDR have mainly gone in the direction of finding non-homologous end joining (NHEJ) inhibitors. NHEJ is crucial for cellular integrity, then the inhibition of this pathway is detrimental for the correct survival of living entities. In other studies, a second opportunity is given to HDR by targeting the byproducts of NHEJ, using an extra gRNA. In this study, we propose the use of a meiotic factor, PRDM9, to directly enhance homology recombination. Through the exploration of combinatorial factors and donor design, we have established an optimized protocol for HDR. PRDM9-Cas9 fusion combined with CtIP improves HDR/NHEJ ratio. In addition, we have validated this combinatorial approach for small edits through a traffic light reporter system, as well as for longer edits with a split-GFP reporter system.]]></summary>
-        <author>
-            <name>Sanvicente-Garcia, M.</name>
         </author>
     </entry>
     <entry>
