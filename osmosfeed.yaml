@@ -23,3 +23,14 @@ sources:
   - href: https://epubs.siam.org/action/showFeed?ui=0&mi=9v4ths&type=search&feed=rss&query=%2526countTerms%253Dtrue%2526publication%253Dsmjcat%2526searchCollection%253Djb%2526sortBy%253DEarliest_desc%2526target%253Dmulti-search # SIAM Computing
   - href: https://epubs.siam.org/action/showFeed?ui=0&mi=9v4ths&type=search&feed=rss&query=%2526countTerms%253Dtrue%2526publication%253Dsjoce3%2526rangePeriod%253D1y%2526searchCollection%253Djb%2526sortBy%253Ddownloaded%2525281y%252529_desc%2526target%253Dmulti-search # SIAM Scientific Computing
   - href: https://epubs.siam.org/action/showFeed?ui=0&mi=9v4ths&type=search&feed=rss&query=%2526countTerms%253Dtrue%2526publication%253Dsjope8%2526rangePeriod%253D1y%2526searchCollection%253Djb%2526sortBy%253Ddownloaded%2525281y%252529_desc%2526target%253Dmulti-search # SIAM Optimization
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "A curated list of immersive ramblings"
+
+# `timezone`: Specify your local timezone so server can group content by weekday
+# Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+# Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
+timezone: Europe/Athens
+
+# `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
+cacheMaxDays: 15
