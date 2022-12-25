@@ -6,6 +6,26 @@
       "siteUrl": "https://pubs.acs.org",
       "articles": [
         {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00457",
+          "author": "Stephanie C. Amack, Savio S. Ferreira, and Mauricio S. Antunes",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00457",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00457",
+          "publishedOn": "2022-12-23T05:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] Tuning the Transcriptional Activity of the CaMV 35S Promoter in Plants by Single-Nucleotide Changes in the TATA Box",
+          "imageUrl": null
+        },
+        {
+          "id": "http://dx.doi.org/10.1021/acssynbio.2c00565",
+          "author": "Varada Jagadeesh, Takanobu Yoshida, Misugi Uraji, Nobuyuki Okahashi, Fumio Matsuda, Christopher J. Vavricka, Kenji Tsuge, and Akihiko Kondo",
+          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00565",
+          "link": "http://dx.doi.org/10.1021/acssynbio.2c00565",
+          "publishedOn": "2022-12-23T05:00:00.000Z",
+          "wordCount": null,
+          "title": "[ASAP] Simple and Rapid Non-ribosomal Peptide Synthetase Gene Assembly Using the SEAM–OGAB Method",
+          "imageUrl": null
+        },
+        {
           "id": "http://dx.doi.org/10.1021/acssynbio.2c00506",
           "author": "Xuekun Wang, Ximing Tian, and Mario Andrea Marchisio",
           "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00506",
@@ -154,16 +174,6 @@
           "wordCount": null,
           "title": "[ASAP] DisGUVery: A Versatile Open-Source Software for High-Throughput Image Analysis of Giant Unilamellar Vesicles",
           "imageUrl": null
-        },
-        {
-          "id": "http://dx.doi.org/10.1021/acssynbio.2c00609",
-          "author": "Alison Obinna Nwokeoji, Tachung Chou, and Eleojo Ahuva Nwokeoji",
-          "description": "ACS Synthetic Biology\nDOI: 10.1021/acssynbio.2c00609",
-          "link": "http://dx.doi.org/10.1021/acssynbio.2c00609",
-          "publishedOn": "2022-12-10T05:00:00.000Z",
-          "wordCount": null,
-          "title": "[ASAP] Low Resource Integrated Platform for Production and Analysis of Capped mRNA",
-          "imageUrl": null
         }
       ]
     },
@@ -172,6 +182,16 @@
       "feedUrl": "http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=synthetic_biology",
       "siteUrl": "http://biorxiv.org",
       "articles": [
+        {
+          "id": "http://biorxiv.org/cgi/content/short/2022.11.19.517184v2?rss=1",
+          "author": "Pandi, A.",
+          "description": "Bioactive peptides are key molecules in health and medicine. Deep learning holds a big promise for the discovery and design of bioactive peptides. Yet, suitable experimental approaches are required to validate candidates in high throughput and at low cost. Here, we established a cell-free protein synthesis (CFPS) pipeline for the rapid and inexpensive production of antimicrobial peptides (AMPs) directly from DNA templates. To validate our platform, we used deep learning to design thousands of AMPs de novo. Using computational methods, we prioritized 500 candidates that we produced and screened with our CFPS pipeline. We identified 30 functional AMPs, which we characterized further through molecular dynamics simulations, antimicrobial activity and toxicity. Notably, six de novo-AMPs feature broad-spectrum activity against multidrug-resistant pathogens and do not develop bacterial resistance. Our work demonstrates the potential of CFPS for production and testing of bioactive peptides within less than 24 hours and <10$ per screen.",
+          "link": "http://biorxiv.org/cgi/content/short/2022.11.19.517184v2?rss=1",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 1951,
+          "title": "Cell-free biosynthesis combined with deep learning accelerates de novo-development of antimicrobial peptides [NEW RESULTS]",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
         {
           "id": "http://biorxiv.org/cgi/content/short/2022.12.21.521368v1?rss=1",
           "author": "Hedin, K. A.",
@@ -235,7 +255,7 @@
         {
           "id": "http://biorxiv.org/cgi/content/short/2022.12.20.521207v1?rss=1",
           "author": "Bunzel, H. A.",
-          "description": "The global energy crisis challenges us to develop more efficient strategies for the sustainable production of energy. Given the excellent efficiency of the natural photosynthetic apparatus, biohybrid photovoltaic devices present an attractive solution for solar energy conversion. However, their composition, stability, and complexity can limit their inclusion into photovoltaic devices. Here, we combined computational design and directed evolution to overcome these limitations and create tailor-made photoenzymes. Photo-biocatalysts were designed by introducing photosensitizer binding sites into heme-containing helical bundle proteins. The designed binding sites were specific for the target photosensitizer and readily transplanted into other helical bundles. The best design was highly evolvable and reached nanomolar ligand affinity after mutagenesis and screening. The evolved enzyme generated 2.6 times higher photocurrents than the photosensitizer alone, primarily driven by increased photostability. Evolvability is a unique advantage of our protein-based approach over abiological photovoltaic and will be critical to developing efficient biohybrid systems.\n\n\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=114 SRC=\"FIGDIR/small/521207v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (31K):\norg.highwire.dtl.DTLVardef@1fc73d5org.highwire.dtl.DTLVardef@118cf00org.highwire.dtl.DTLVardef@1be13d2org.highwire.dtl.DTLVardef@74811_HPS_FORMAT_FIGEXP  M_FIG C_FIG",
+          "description": "The global energy crisis challenges us to develop more efficient strategies for the sustainable production of energy. Given the excellent efficiency of the natural photosynthetic apparatus, biohybrid photovoltaic devices present an attractive solution for solar energy conversion. However, their composition, stability, and complexity can limit their inclusion into photovoltaic devices. Here, we combined computational design and directed evolution to overcome these limitations and create tailor-made photoenzymes. Photo-biocatalysts were designed by introducing photosensitizer binding sites into heme-containing helical bundle proteins. The designed binding sites were specific for the target photosensitizer and readily transplanted into other helical bundles. The best design was highly evolvable and reached nanomolar ligand affinity after mutagenesis and screening. The evolved enzyme generated 2.6 times higher photocurrents than the photosensitizer alone, primarily driven by increased photostability. Evolvability is a unique advantage of our protein-based approach over abiological photovoltaic and will be critical to developing efficient biohybrid systems.\n\n\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=114 SRC=\"FIGDIR/small/521207v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (31K):\norg.highwire.dtl.DTLVardef@25155forg.highwire.dtl.DTLVardef@9e32ecorg.highwire.dtl.DTLVardef@21547borg.highwire.dtl.DTLVardef@318a98_HPS_FORMAT_FIGEXP  M_FIG C_FIG",
           "link": "http://biorxiv.org/cgi/content/short/2022.12.20.521207v1?rss=1",
           "publishedOn": "2022-12-22T00:00:00.000Z",
           "wordCount": 1252,
@@ -261,16 +281,6 @@
           "wordCount": 1422,
           "title": "Evolutionary-scale prediction of atomic level protein structure with a language model [NEW RESULTS]",
           "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
-          "id": "http://biorxiv.org/cgi/content/short/2022.12.16.520786v1?rss=1",
-          "author": "Gopal, M. R.",
-          "description": "To better incentivize the collection of plastic wastes, new chemical transformations must be developed that add value to plastic deconstruction products. Polyethylene terephthalate (PET) is a common plastic whose deconstruction through chemical or biological means has received much attention. However, a limited number of alternative products have been formed from PET deconstruction, and only a small share could serve as building blocks for alternative materials or therapeutics. Here, we demonstrate the production of useful mono-amine and diamine building blocks from known PET deconstruction products. We achieve this by designing one-pot biocatalytic transformations that are informed by the substrate specificity of an {omega}-transaminase and diverse carboxylic acid reductases (CAR) towards…",
-          "link": "http://biorxiv.org/cgi/content/short/2022.12.16.520786v1?rss=1",
-          "publishedOn": "2022-12-20T00:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Reductive Enzyme Cascades for Valorization of PET Deconstruction Products [NEW RESULTS]",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
         }
       ]
     },
@@ -280,12 +290,32 @@
       "siteUrl": "https://www.nature.com/subjects/computational-biology-and-bioinformatics",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41598-022-26258-z",
+          "author": null,
+          "description": "Scientific Reports - The relationship between parenting engagement and academic performance",
+          "link": "https://www.nature.com/articles/s41598-022-26258-z",
+          "publishedOn": "2022-12-24T00:00:00.000Z",
+          "wordCount": 10832,
+          "title": "The relationship between parenting engagement and academic performance",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26258-z/MediaObjects/41598_2022_26258_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-26482-7",
+          "author": null,
+          "description": "Scientific Reports - Leveraging image complexity in macro-level neural network design for medical image segmentation",
+          "link": "https://www.nature.com/articles/s41598-022-26482-7",
+          "publishedOn": "2022-12-24T00:00:00.000Z",
+          "wordCount": 9625,
+          "title": "Leveraging image complexity in macro-level neural network design for medical image segmentation",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26482-7/MediaObjects/41598_2022_26482_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41592-022-01754-2",
           "author": null,
           "description": "Nature Methods - Author Correction: scBasset: sequence-based modeling of single-cell ATAC-seq using convolutional neural networks",
           "link": "https://www.nature.com/articles/s41592-022-01754-2",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 1977,
+          "wordCount": 1979,
           "title": "Author Correction: scBasset: sequence-based modeling of single-cell ATAC-seq using convolutional neural networks",
           "imageUrl": null
         },
@@ -295,7 +325,7 @@
           "description": "Scientific Reports - Assessing and removing the effect of unwanted technical variations in microbiome data",
           "link": "https://www.nature.com/articles/s41598-022-26141-x",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 13571,
+          "wordCount": 13575,
           "title": "Assessing and removing the effect of unwanted technical variations in microbiome data",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26141-x/MediaObjects/41598_2022_26141_Fig1_HTML.png"
         },
@@ -305,7 +335,7 @@
           "description": "The Journal of Antibiotics - Correction: The occurrence of antibiotic resistance genes in the microbiota of yak, beef and dairy cattle characterized by a metagenomic approach",
           "link": "https://www.nature.com/articles/s41429-022-00590-y",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 2593,
+          "wordCount": 2597,
           "title": "Correction: The occurrence of antibiotic resistance genes in the microbiota of yak, beef and dairy cattle characterized by a metagenomic approach",
           "imageUrl": null
         },
@@ -315,7 +345,7 @@
           "description": "npj Digital Medicine - Reply to: Immortal time bias in the analysis of drug prescription trajectories",
           "link": "https://www.nature.com/articles/s41746-022-00724-4",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 2409,
+          "wordCount": 2411,
           "title": "Reply to: Immortal time bias in the analysis of drug prescription trajectories",
           "imageUrl": null
         },
@@ -325,7 +355,7 @@
           "description": "Scientific Reports - A network approach for low dimensional signatures from high throughput data",
           "link": "https://www.nature.com/articles/s41598-022-25549-9",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 7826,
+          "wordCount": 7828,
           "title": "A network approach for low dimensional signatures from high throughput data",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-25549-9/MediaObjects/41598_2022_25549_Fig1_HTML.png"
         },
@@ -335,7 +365,7 @@
           "description": "MetaSTAAR enables functionally informed rare variant association analysis in biobank-scale cohorts using an efficient, sparse matrix approach for summary statistic storage.",
           "link": "https://www.nature.com/articles/s41588-022-01225-6",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 12154,
+          "wordCount": 12156,
           "title": "Powerful, scalable and resource-efficient meta-analysis of rare variant associations in large whole genome sequencing studies",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-022-01225-6/MediaObjects/41588_2022_1225_Fig1_HTML.png"
         },
@@ -345,7 +375,7 @@
           "description": "Analysis of a large number of Ribo-seq datasets and genomic alignments led to detection of novel non-AUG proteoforms. Unexpectedly the number of non-AUG proteoforms identified with Ribo-seq greatly exceeds those with strong phylogenetic support.",
           "link": "https://www.nature.com/articles/s41467-022-35595-6",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 13097,
+          "wordCount": 13099,
           "title": "Thousands of human non-AUG extended proteoforms lack evidence of evolutionary selection among mammals",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-35595-6/MediaObjects/41467_2022_35595_Fig1_HTML.png"
         },
@@ -355,7 +385,7 @@
           "description": "A deep-learning model that transforms cryosectioned whole-slide tissue images into the style of whole-slide formalin-fixed and paraffin-embedded tissue improves the rates of accurate tumour subtyping.",
           "link": "https://www.nature.com/articles/s41551-022-00952-9",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 5543,
+          "wordCount": 5545,
           "title": "A deep-learning model for transforming the style of tissue images from cryosectioned to formalin-fixed and paraffin-embedded",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-022-00952-9/MediaObjects/41551_2022_952_Fig1_HTML.png"
         },
@@ -365,7 +395,7 @@
           "description": "Scientific Reports - Deep learning-based 3D OCT imaging for detection of lamina cribrosa defects in eyes with high myopia",
           "link": "https://www.nature.com/articles/s41598-022-26520-4",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 6239,
+          "wordCount": 6241,
           "title": "Deep learning-based 3D OCT imaging for detection of lamina cribrosa defects in eyes with high myopia",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26520-4/MediaObjects/41598_2022_26520_Fig1_HTML.png"
         },
@@ -375,7 +405,7 @@
           "description": "Scientific Reports - Correlation of internet search enquiries, incidence of ophthalmological diseases and corneal, cataract and refractive surgical procedures",
           "link": "https://www.nature.com/articles/s41598-022-26704-y",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 6298,
+          "wordCount": 6300,
           "title": "Correlation of internet search enquiries, incidence of ophthalmological diseases and corneal, cataract and refractive surgical procedures",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26704-y/MediaObjects/41598_2022_26704_Fig1_HTML.png"
         },
@@ -385,7 +415,7 @@
           "description": "Scientific Reports - Artificial intelligence convolutional neural networks map giant kelp forests from satellite imagery",
           "link": "https://www.nature.com/articles/s41598-022-26439-w",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 8428,
+          "wordCount": 8430,
           "title": "Artificial intelligence convolutional neural networks map giant kelp forests from satellite imagery",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26439-w/MediaObjects/41598_2022_26439_Fig1_HTML.png"
         },
@@ -395,7 +425,7 @@
           "description": "Scientific Reports - In silico activity and ADMET profiling of phytochemicals from Ethiopian indigenous aloes using pharmacophore models",
           "link": "https://www.nature.com/articles/s41598-022-26446-x",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 11049,
+          "wordCount": 11051,
           "title": "In silico activity and ADMET profiling of phytochemicals from Ethiopian indigenous aloes using pharmacophore models",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26446-x/MediaObjects/41598_2022_26446_Fig1_HTML.png"
         },
@@ -405,7 +435,7 @@
           "description": "An online, amendable classifier for detecting malaria parasite country of origin from genomic data is developed using a machine learning approach.",
           "link": "https://www.nature.com/articles/s42003-022-04352-2",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 12523,
+          "wordCount": 12525,
           "title": "A molecular barcode and web-based data analysis tool to identify imported Plasmodium vivax malaria",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-04352-2/MediaObjects/42003_2022_4352_Fig1_HTML.png"
         },
@@ -415,7 +445,7 @@
           "description": "Scientific Reports - A novel feature for monitoring the enzymatic harvesting process of adherent cell cultures based on lens-free imaging",
           "link": "https://www.nature.com/articles/s41598-022-22561-x",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 8691,
+          "wordCount": 8693,
           "title": "A novel feature for monitoring the enzymatic harvesting process of adherent cell cultures based on lens-free imaging",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-22561-x/MediaObjects/41598_2022_22561_Fig1_HTML.png"
         },
@@ -425,7 +455,7 @@
           "description": "Scientific Reports - A metagenomic insight into the microbiomes of geothermal springs in the Subantarctic Kerguelen Islands",
           "link": "https://www.nature.com/articles/s41598-022-26299-4",
           "publishedOn": "2022-12-23T00:00:00.000Z",
-          "wordCount": 9919,
+          "wordCount": 9923,
           "title": "A metagenomic insight into the microbiomes of geothermal springs in the Subantarctic Kerguelen Islands",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26299-4/MediaObjects/41598_2022_26299_Fig1_HTML.png"
         },
@@ -445,7 +475,7 @@
           "description": "Nature Communications - A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis",
           "link": "https://www.nature.com/articles/s41467-022-35519-4",
           "publishedOn": "2022-12-22T00:00:00.000Z",
-          "wordCount": 4109,
+          "wordCount": 4140,
           "title": "A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-35519-4/MediaObjects/41467_2022_35519_Fig1_HTML.png"
         },
@@ -558,26 +588,6 @@
           "wordCount": 9718,
           "title": "A method to build extended sequence context models of point mutations and indels",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-35596-5/MediaObjects/41467_2022_35596_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-26389-3",
-          "author": null,
-          "description": "Scientific Reports - Construction of a machine learning-based artificial neural network for discriminating PANoptosis related subgroups to predict prognosis in low-grade gliomas",
-          "link": "https://www.nature.com/articles/s41598-022-26389-3",
-          "publishedOn": "2022-12-21T00:00:00.000Z",
-          "wordCount": 11443,
-          "title": "Construction of a machine learning-based artificial neural network for discriminating PANoptosis related subgroups to predict prognosis in low-grade gliomas",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26389-3/MediaObjects/41598_2022_26389_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41551-022-00996-x",
-          "author": null,
-          "description": "A machine-learning model identifies cell-type-specific predictors of the pathogenic effects of promoter and enhancer mutations in the human genome.",
-          "link": "https://www.nature.com/articles/s41551-022-00996-x",
-          "publishedOn": "2022-12-21T00:00:00.000Z",
-          "wordCount": 2674,
-          "title": "Predicting pathogenicity from non-coding mutations",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-022-00996-x/MediaObjects/41551_2022_996_Fig1_HTML.png"
         }
       ]
     },
@@ -699,7 +709,7 @@
           "description": "Across the Institute, MIT’s communities took part in light-hearted traditions new and old.",
           "link": "https://news.mit.edu/2022/mit-dlc-holiday-traditions-2022-1223",
           "publishedOn": "2022-12-23T05:00:00.000Z",
-          "wordCount": 3090,
+          "wordCount": 3101,
           "title": "MIT’s departments, labs, and centers celebrate the holidays",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/MIT_EAPS-01-PRESS.jpg"
         },
@@ -709,7 +719,7 @@
           "description": "Using this approach, researchers can map how light spreads in opaque environments.",
           "link": "https://news.mit.edu/2022/mri-light-detection-1222",
           "publishedOn": "2022-12-22T16:00:00.000Z",
-          "wordCount": 2719,
+          "wordCount": 2721,
           "title": "New sensor uses MRI to detect light deep in the brain",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/MIT-MRI-Light-01.jpg"
         },
@@ -719,7 +729,7 @@
           "description": "The new fellowship from the governments of Australia, India, Japan, and the United States, administered by Schmidt Futures, supports graduate education in STEM fields.",
           "link": "https://news.mit.edu/2022/five-mit-named-2023-quad-fellows-1214",
           "publishedOn": "2022-12-14T16:00:00.000Z",
-          "wordCount": 2403,
+          "wordCount": 2405,
           "title": "Five from MIT named 2023 Quad Fellows",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/2023-Quad-Fellows.png"
         },
@@ -729,7 +739,7 @@
           "description": "First-gen MIT graduate students are claiming their identity, forming community, and holding space for one another.",
           "link": "https://news.mit.edu/2022/reframing-first-generation-academic-experience-1213",
           "publishedOn": "2022-12-13T20:30:00.000Z",
-          "wordCount": 3080,
+          "wordCount": 3082,
           "title": "Reframing the first-generation academic experience",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/2022-FirstGenSummit.png"
         },
@@ -739,7 +749,7 @@
           "description": "The new design works with the diaphragm to improve breathing.",
           "link": "https://news.mit.edu/2022/diaphragm-implantable-ventilator-1212",
           "publishedOn": "2022-12-12T16:00:00.000Z",
-          "wordCount": 2897,
+          "wordCount": 2899,
           "title": "MIT engineers design a soft, implantable ventilator",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/MIT-Implantable-Ventilator-01-PRESS.jpg"
         },
@@ -749,7 +759,7 @@
           "description": "Rachel Chae and Sihao Huang ’22 will pursue graduate studies in the United Kingdom.",
           "link": "https://news.mit.edu/2022/two-mit-named-2023-marshall-scholars-1212",
           "publishedOn": "2022-12-12T15:00:00.000Z",
-          "wordCount": 2369,
+          "wordCount": 2371,
           "title": "Two from MIT named 2023 Marshall Scholars",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/2022-Marshall-scholars.png"
         },
@@ -759,7 +769,7 @@
           "description": "Harnessing these protective molecules may offer a new way to treat the disease, which spreads through contaminated water.",
           "link": "https://news.mit.edu/2022/mucus-cholera-infection-1212",
           "publishedOn": "2022-12-12T11:00:00.000Z",
-          "wordCount": 2634,
+          "wordCount": 2636,
           "title": "Molecules found in mucus could prevent cholera infection",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/MIT-Cholera-Mucins-01-press.jpg"
         }
@@ -856,7 +866,7 @@
           "description": "The biosynthetic pathway of type II ganoderic acids (GAs) in Ganoderma lucidum, a traditional medicinal mushroom, is unknown. Here, the authors assemble the genome of type II GAs accumulating accession, identify CYPs involving in type II GAs biosynthesis, and achieve their production in engineered baker’s yeast.",
           "link": "https://www.nature.com/articles/s41467-022-35500-1",
           "publishedOn": "2022-12-14T00:00:00.000Z",
-          "wordCount": 15620,
+          "wordCount": 15590,
           "title": "Biosynthesis of mushroom-derived type II ganoderic acids by engineered yeast",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-35500-1/MediaObjects/41467_2022_35500_Fig1_HTML.png"
         },
@@ -869,16 +879,6 @@
           "wordCount": 3467,
           "title": "Programming Multicellular Assembly with Synthetic Cell Adhesion Molecules",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-25895-8",
-          "author": null,
-          "description": "Scientific Reports - Direct encapsulation of biomolecules in semi-permeable microcapsules produced with double-emulsions",
-          "link": "https://www.nature.com/articles/s41598-022-25895-8",
-          "publishedOn": "2022-12-10T00:00:00.000Z",
-          "wordCount": 7277,
-          "title": "Direct encapsulation of biomolecules in semi-permeable microcapsules produced with double-emulsions",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-25895-8/MediaObjects/41598_2022_25895_Fig1_HTML.png"
         }
       ]
     },
@@ -1123,7 +1123,7 @@
           "description": "Abstract\nIn vitro experiments in which tumour cells are seeded in a gelatinous medium, or hydrogel, show how mechanical interactions between tumour cells and the tissue in which they are embedded, together with local levels of an externally-supplied, diffusible nutrient (e.g., oxygen), affect the tumour’s growth dynamics. In this article, we present a mathematical model that describes these in vitro experiments. We use the model to understand how tumour growth generates mechanical deformations in the hydrogel and how these deformations in turn influence the tumour’s growth. The hydrogel is viewed as a nonlinear hyperelastic material and the tumour is modelled as a two-phase mixture, comprising a viscous tumour cell phase and an isotropic, inviscid interstitial fluid phase. Using a combination of numerical and analytical techniques, we show how the tumour’s growth dynamics change as the mechanical properties of the hydrogel vary. When the hydrogel is soft, nutrient availability dominates the dynamics: the tumour evolves to a large equilibrium configuration where the proliferation rate of nutrient-rich cells on the tumour boundary balances the death rate of nutrient-starved cells in the central, necrotic core. As the hydrogel stiffness increases, mechanical resistance to growth increases and the tumour’s equilibrium size decreases. Indeed, for small tumours embedded in stiff hydrogels, the inhibitory force experienced by the tumour cells may be so large that the tumour is eliminated. Analysis of the model identifies parameter regimes in which the presence of the hydrogel drives tumour elimination.",
           "link": "http://link.springer.com/10.1007/s00285-022-01851-y",
           "publishedOn": "2022-12-20T00:00:00.000Z",
-          "wordCount": 4216,
+          "wordCount": 5176,
           "title": "Two-phase model of compressive stress induced on a surrounding hyperelastic medium by an expanding tumour",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
         },
@@ -1133,7 +1133,7 @@
           "description": "Abstract\nThis article presents a biological neural network model driven by inhomogeneous Poisson processes accounting for the intrinsic randomness of synapses. The main novelty is the introduction of sparse interactions: each firing neuron triggers an instantaneous increase in electric potential to a fixed number of randomly chosen neurons. We prove that, as the number of neurons approaches infinity, the finite network converges to a nonlinear mean-field process characterised by a jump-type stochastic differential equation. We show that this process displays a phase transition: the activity of a typical neuron in the infinite network either rapidly dies out, or persists forever, depending on the global parameters describing the intensity of interconnection. This provides a way to understand the emergence of persistent activity triggered by weak input signals in large neural networks.",
           "link": "http://link.springer.com/10.1007/s00285-022-01844-x",
           "publishedOn": "2022-12-19T00:00:00.000Z",
-          "wordCount": 2603,
+          "wordCount": 3551,
           "title": "Persistence in a large network of sparsely interacting neurons",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/285.jpg"
         },
@@ -1175,13 +1175,13 @@
       "siteUrl": "https://www.sciencedirect.com/journal/journal-of-differential-equations",
       "articles": [
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007124",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007082",
           "author": null,
-          "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Guowei Dai, Yong Zhang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007124?dgcid=rss_sd_all",
-          "publishedOn": "2022-12-24T00:31:39.087Z",
-          "wordCount": 7386,
-          "title": "Global bifurcation structure and some properties of steady periodic water waves with vorticity",
+          "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Zhong-Jie Han, Han-Qi Song, Kai Yu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007082?dgcid=rss_sd_all",
+          "publishedOn": "2022-12-25T00:38:28.832Z",
+          "wordCount": 7493,
+          "title": "Sharp decay rates of degenerate hyperbolic-parabolic coupled system: Rectangular domain vs one-dimensional domain",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -1189,19 +1189,19 @@
           "author": null,
           "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Giusy Chirillo, Luigi Montoro, Luigi Muglia, Berardino Sciunzi",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007069?dgcid=rss_sd_all",
-          "publishedOn": "2022-12-24T00:31:39.011Z",
+          "publishedOn": "2022-12-25T00:38:28.808Z",
           "wordCount": 7191,
           "title": "Existence and regularity for a general class of quasilinear elliptic problems involving the Hardy potential",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007082",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007124",
           "author": null,
-          "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Zhong-Jie Han, Han-Qi Song, Kai Yu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007082?dgcid=rss_sd_all",
-          "publishedOn": "2022-12-24T00:31:38.882Z",
-          "wordCount": 7493,
-          "title": "Sharp decay rates of degenerate hyperbolic-parabolic coupled system: Rectangular domain vs one-dimensional domain",
+          "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Guowei Dai, Yong Zhang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007124?dgcid=rss_sd_all",
+          "publishedOn": "2022-12-25T00:38:28.788Z",
+          "wordCount": 7386,
+          "title": "Global bifurcation structure and some properties of steady periodic water waves with vorticity",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -1209,7 +1209,7 @@
           "author": null,
           "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Bilal Al Taki",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007100?dgcid=rss_sd_all",
-          "publishedOn": "2022-12-24T00:31:38.869Z",
+          "publishedOn": "2022-12-25T00:38:28.777Z",
           "wordCount": 7410,
           "title": "Well-posedness for a class of compressible non-Newtonian fluids equations",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -1219,7 +1219,7 @@
           "author": null,
           "description": "Publication date: 25 March 2023\nSource: Journal of Differential Equations, Volume 350\nAuthor(s): Meng Liu, Hongbin Wang, Weihua Jiang",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007136?dgcid=rss_sd_all",
-          "publishedOn": "2022-12-24T00:31:38.842Z",
+          "publishedOn": "2022-12-25T00:38:28.732Z",
           "wordCount": 7377,
           "title": "Bifurcations and pattern formation in a predator-prey model with memory-based diffusion",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -1229,7 +1229,7 @@
           "author": null,
           "description": "Publication date: 15 March 2023\nSource: Journal of Differential Equations, Volume 349\nAuthor(s): Rakesh Arora, Sergey Shmarev",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007094?dgcid=rss_sd_all",
-          "publishedOn": "2022-12-24T00:31:36.859Z",
+          "publishedOn": "2022-12-25T00:38:26.051Z",
           "wordCount": 7300,
           "title": "Existence and global second-order regularity for anisotropic parabolic equations with variable growth",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -1246,10 +1246,30 @@
           "author": null,
           "description": "",
           "link": "http://link.springer.com/10915",
-          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
           "wordCount": null,
           "title": "Journal of Scientific Computing",
           "imageUrl": null
+        },
+        {
+          "id": "10.1007/s10915-022-02046-9",
+          "author": null,
+          "description": "Abstract\nWe propose and analyze the support vector approach to approximating the solution of a severely ill-posed problem \n                      \n                      \\(Au=f\\)\n                      \n                     on the sphere, in which A is an ill-posed map from the unit sphere to a concentric larger sphere. The Vapnik’s \n                      \n                      \\(\\varepsilon \\)\n                      \n                    -intensive function is adopted in the regularization technique to reduce the error induced by noisy data. The method is then extended to a multiscale algorithm by varying the support radius of the radial basis functions at each scale. We discuss the convergence of the multiscale support vector approach and provide strategies for choosing both regularization parameters and cut-off parameters at each level. Numerical examples are constructed to verify the efficiency of the multiscale support vector approach.",
+          "link": "http://link.springer.com/10.1007/s10915-022-02046-9",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 3706,
+          "title": "A Multiscale RBF Method for Severely Ill-Posed Problems on Spheres",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
+        },
+        {
+          "id": "10.1007/s10915-022-02084-3",
+          "author": null,
+          "description": "Abstract\nMany optimization problems arising from machine learning applications can be cast as the minimization of the sum of two functions: the first one typically represents the expected risk, and in practice it is replaced by the empirical risk, and the other one imposes a priori information on the solution. Since in general the first term is differentiable and the second one is convex, proximal gradient methods are very well suited to face such optimization problems. However, when dealing with large-scale machine learning issues, the computation of the full gradient of the differentiable term can be prohibitively expensive by making these algorithms unsuitable. For this reason, proximal stochastic gradient methods have been extensively studied in the optimization area in the last decade…",
+          "link": "http://link.springer.com/10.1007/s10915-022-02084-3",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 6357,
+          "title": "A Line Search Based Proximal Stochastic Gradient Algorithm with Dynamical Variance Reduction",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
         {
           "id": "10.1007/s10915-022-02074-5",
@@ -1257,7 +1277,7 @@
           "description": "Abstract\nA posteriori upper and lower bounds are derived for the linear finite element method (FEM) for the Helmholtz equation with large wavenumber. It is proved rigorously that the standard residual type error estimator seriously underestimates the true error of the FE solution for the mesh size h in the preasymptotic regime, which is first observed by Babuška et al. (Int J Numer Methods Eng 40:3443–3462, 1997) for a one dimensional problem. By establishing an equivalence relationship between the error estimators for the FE solution and the corresponding elliptic projection of the exact solution, an adaptive algorithm is proposed and its convergence and quasi-optimality are proved under the condition that \n                      \n                      \\(k^3h_0^{1+\\alpha }\\)\n                      \n                     is sufficiently small, where k is the wavenumber, \n                      \n                      \\(h_0\\)\n                      \n                     is the initial mesh size, and \n                      \n                      \\(\\frac{1}{2}<\\alpha \\le 1\\)\n                      \n                     is a regularity constant depending on the maximum reentrant angle of the domain. Numerical tests are given to verify the theoretical findings and to show that the adaptive continuous interior penalty finite element method (CIP-FEM) with appropriately selected penalty parameters can greatly reduce the pollution error and hence the residual type error estimator for this CIP-FEM is reliable and efficient even in the preasymptotic regime.",
           "link": "http://link.springer.com/10.1007/s10915-022-02074-5",
           "publishedOn": "2022-12-20T00:00:00.000Z",
-          "wordCount": 3164,
+          "wordCount": 4108,
           "title": "Adaptive FEM for Helmholtz Equation with Large Wavenumber",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
