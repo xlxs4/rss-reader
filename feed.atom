@@ -1,87 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T00:39:52.011Z</id>
+    <id>urn:2023-01-25T00:37:14.937Z</id>
     <title>A curated list of immersive ramblings</title>
-    <updated>2023-01-24T00:39:52.011Z</updated>
+    <updated>2023-01-25T00:37:14.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Heat kernels and theory of Hardy spaces associated to Schrödinger operators on stratified groups]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000025</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000025?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.397Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 April 2023
-Source: Journal of Differential Equations, Volume 353
-Author(s): The Anh Bui, Qing Hong, Guorong Hu]]></summary>
+        <title type="html"><![CDATA[Tracking Distributed Parameters System Dynamics with Recursive Dynamic Mode Decomposition with Control]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M1478665?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1478665?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-01-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 1, Page 37-64, March 2023. 
+ Abstract. The goal of this work is to introduce a new online data driven modeling solution for tracking the dynamics of systems, the behavior of which is governed by (nonlinear) partial differential equations (PDEs). In order to reach this goal, this paper introduces a recursive algorithm for black box time varying model identification along with an online algorithm for reducing the order of the identified model. The resulting system model is a linear time varying low order state space representation usable, e.g., for controller design or prediction. The model reduction step relies on the recursive determination of the orthonormal basis of a specific data based proper orthogonal decomposition. The system identification procedure is initialized with the dynamic mode decomposition with control and updated recursively via the introduction of a specific recursive least squares algorithm. In both steps, a forgetting factor is used to focus on the most recent variations of the system. As case studies, a linear heat diffusion equation with a time varying diffusion parameter is first considered. The Burgers equation, a nonlinear hyperbolic PDE, is then utilized to assess the introduced methods applicability with nonlinear systems. Identification results based on simulation show the high accuracy of this new approach.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Taleb Bou Hamdan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General renewal equations motivated by biology and epidemiology]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962300013X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300013X?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.380Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): R.M. Colombo, M. Garavello, F. Marcellini, E. Rossi]]></summary>
+        <title type="html"><![CDATA[Continuation with Noninvasive Control Schemes: Revealing Unstable States in a Pedestrian Evacuation Scenario]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M1482032?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1482032?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-01-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 1, Page 1-36, March 2023. 
+ Abstract. This paper presents a framework to perform bifurcation analysis in laboratory experiments or simulations. We employ control-based continuation to study the dynamics of a macroscopic variable of a microscopically defined model, exploring the potential viability of the underlying feedback control techniques in an experiment. In contrast to previous experimental studies that used iterative root-finding methods on the feedback control targets, we propose a feedback control law that is inherently noninvasive. That is, the control discovers the location of equilibria and stabilizes them simultaneously. We call the proposed control zero-in-equilibrium feedback control and we prove that it is able to stabilize branches of equilibria, except at singularities of codimension [math], where [math] is the number of state space dimensions the feedback can depend on. We apply the method to a simulated evacuation scenario where pedestrians have to reach an exit after maneuvering left or right around an obstacle. The scenario shows a hysteresis phenomenon with bistability and tipping between two possible steady pedestrian flows in microscopic simulations. We demonstrate for the evacuation scenario that the proposed control law is able to uniformly discover and stabilize steady flows along the entire branch, including points where other noninvasive approaches to feedback control become singular.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Ilias Panagiotopoulos</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kato square root problem for degenerate elliptic operators on bounded Lipschitz domains]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962200763X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200763X?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.363Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 April 2023
-Source: Journal of Differential Equations, Volume 353
-Author(s): Junqiang Zhang, Dachun Yang, Sibei Yang]]></summary>
+        <title type="html"><![CDATA[Paraxial Wave Propagation in Random Media with Long-Range Correlations]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M149524X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M149524X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-01-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Mathematics, Volume 83, Issue 1, Page 25-51, February 2023. 
+ Abstract. We study the paraxial wave equation with a randomly perturbed index of refraction, which can model the propagation of a wave beam in a turbulent medium. The random perturbation is a stationary and isotropic process with a general form of the covariance that may or may not be integrable. We focus attention mostly on the nonintegrable case, which corresponds to a random perturbation with long-range correlations, that is, relevant for propagation through a cloudy turbulent atmosphere. The analysis is carried out in a high-frequency regime where the forward scattering approximation holds. It reveals that the randomization of the wave field is multiscale: The travel time of the wave front is randomized at short distances of propagation, and it can be described by a fractional Brownian motion. The wave field observed in the random travel time frame is affected by the random perturbations at long distances, and it is described by a Schrödinger-type equation driven by a standard Brownian field. We use these results to quantify how scattering leads to decorrelation of the spatial and spectral components of the wave field and to a deformation of the pulse emitted by the source. These are important questions for applications, such as imaging and free space communications with pulsed laser beams through a turbulent atmosphere. We also compare the results with those used in the optics literature, which are based on the Kolmogorov model of turbulence. We show explicitly that the commonly used approximations for the decorrelation of spatial and spectral components are appropriate for the Kolmogorov model but fail for models with long-range correlations.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Liliana Borcea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The combined non-equilibrium diffusion and low Mach number limits of a model arising in radiation magnetohydrodynamics]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007689</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007689?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.254Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 April 2023
-Source: Journal of Differential Equations, Volume 353
-Author(s): Fucai Li, Shuxing Zhang]]></summary>
+        <title type="html"><![CDATA[Wave Propagation On a String Resting on a General Nonlinear Substrate]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M1503488?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1503488?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-01-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Mathematics, Volume 83, Issue 1, Page 1-24, February 2023. 
+ Abstract. Traveling waves propagating on a taut cable resting on an elastic substrate are investigated by an equivalent mechanical model based on the classical Klein–Gordon equation. The formulation is devised for an elastic response of generally arbitrary shape, and permits one to compute the propagation wave velocity without solving the equation of motion, thus providing a unified theoretical framework for a large class of response functions, linear or nonlinear, smooth or nonsmooth. The general solution is then applied to the cases of a general polynomial substrate, a bilinear substrate, a bilinear substrate with a cubic correction, and a negative linear stiffness substrate, all of them falling within the realm of nonsmooth systems when a piecewise continuous stiffness is chosen; in the second one, we recover results present in the literature and obtained by employing a method based on matching conditions, which are spared in the approach used in this paper. Finally, the application to the sine-Gordon equation is considered.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Lucio Demeio</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the strongly competitive case in a fully parabolic two-species chemotaxis system with Lotka-Volterra competitive kinetics]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000086</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000086?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.224Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Xu Pan, Chunlai Mu, Weirun Tao]]></summary>
+        <title type="html"><![CDATA[CLAP: A New Algorithm for Promise CSPs]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M1476435?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1476435?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-01-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 52, Issue 1, Page 1-37, February 2023. 
+ Abstract. We propose a new algorithm for Promise Constraint Satisfaction Problems (PCSPs). It is a combination of the Constraint Basic LP relaxation and the Affine IP relaxation (CLAP). We give a characterization of the power of CLAP in terms of a minion homomorphism. Using this characterization, we identify a certain weak notion of symmetry which, if satisfied by infinitely many polymorphisms of PCSPs, guarantees tractability. We demonstrate that there are PCSPs solved by CLAP that are not solved by any of the existing algorithms for PCSPs; in particular, not by the [math] algorithm of Brakensiek et al. [SIAM J. Comput., 49 (2020), pp. 1232--1248] and not by a reduction to tractable finite-domain CSPs.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal <em>L</em><sup>2</sup>-decay of solutions to the dissipative nonlinear Schrödinger equation in higher space dimensions]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000013</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000013?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.211Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Naoyasu Kita, Takuya Sato]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Lorenzo Ciardo</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Existence of global weak solutions to an inhomogeneous Doi model for active liquid crystals]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623000062</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000062?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.153Z</updated>
+        <updated>2023-01-25T00:36:59.647Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
 Author(s): Oliver Sieber]]></summary>
@@ -93,7 +76,7 @@ Author(s): Oliver Sieber]]></summary>
         <title type="html"><![CDATA[Inviscid limit of compressible viscoelastic equations with the no-slip boundary condition]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622007641</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007641?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.137Z</updated>
+        <updated>2023-01-25T00:36:59.496Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 April 2023
 Source: Journal of Differential Equations, Volume 353
 Author(s): Dehua Wang, Feng Xie]]></summary>
@@ -102,13 +85,61 @@ Author(s): Dehua Wang, Feng Xie]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Local diffusion vs. nonlocal dispersal in periodic logistic equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000098</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000098?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.092Z</updated>
+        <title type="html"><![CDATA[Kato square root problem for degenerate elliptic operators on bounded Lipschitz domains]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962200763X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962200763X?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:59.328Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 April 2023
+Source: Journal of Differential Equations, Volume 353
+Author(s): Junqiang Zhang, Dachun Yang, Sibei Yang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the strongly competitive case in a fully parabolic two-species chemotaxis system with Lotka-Volterra competitive kinetics]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000086</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000086?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:59.220Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
-Author(s): Jian-Wen Sun]]></summary>
+Author(s): Xu Pan, Chunlai Mu, Weirun Tao]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General renewal equations motivated by biology and epidemiology]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962300013X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300013X?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:59.175Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): R.M. Colombo, M. Garavello, F. Marcellini, E. Rossi]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat kernels and theory of Hardy spaces associated to Schrödinger operators on stratified groups]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000025</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000025?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:59.095Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 April 2023
+Source: Journal of Differential Equations, Volume 353
+Author(s): The Anh Bui, Qing Hong, Guorong Hu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal <em>L</em><sup>2</sup>-decay of solutions to the dissipative nonlinear Schrödinger equation in higher space dimensions]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000013</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000013?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:58.982Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Naoyasu Kita, Takuya Sato]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -117,7 +148,7 @@ Author(s): Jian-Wen Sun]]></summary>
         <title type="html"><![CDATA[Invariant measures and stochastic Liouville type theorem for non-autonomous stochastic reaction-diffusion equations]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039622007471</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007471?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:40.034Z</updated>
+        <updated>2023-01-25T00:36:58.971Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 April 2023
 Source: Journal of Differential Equations, Volume 353
 Author(s): Zhang Chen, Dandan Yang]]></summary>
@@ -129,7 +160,7 @@ Author(s): Zhang Chen, Dandan Yang]]></summary>
         <title type="html"><![CDATA[Basins of attraction and paired Hopf bifurcations for delay differential equations with bistable nonlinearity and delay-dependent coefficient]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623000153</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000153?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:39.130Z</updated>
+        <updated>2023-01-25T00:36:58.960Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
 Author(s): Genghong Lin, Lin Wang, Jianshe Yu]]></summary>
@@ -138,15 +169,94 @@ Author(s): Genghong Lin, Lin Wang, Jianshe Yu]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The combined non-equilibrium diffusion and low Mach number limits of a model arising in radiation magnetohydrodynamics]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007689</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007689?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:58.905Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 April 2023
+Source: Journal of Differential Equations, Volume 353
+Author(s): Fucai Li, Shuxing Zhang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative description on initial trace for the solvability to heat equation with exponential boundary in unbounded domain]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000268</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000268?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:58.886Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Bingchen Liu, Yuxi Wang, Ping Li]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local diffusion vs. nonlocal dispersal in periodic logistic equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000098</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000098?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:58.872Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Jian-Wen Sun]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quasi-periodic solutions to the incompressible Euler equations in dimensions two and higher]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623000128</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000128?dgcid=rss_sd_all"/>
-        <updated>2023-01-24T00:39:38.489Z</updated>
+        <updated>2023-01-25T00:36:58.529Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
 Author(s): Alberto Enciso, Daniel Peralta-Salas, Francisco Torres de Lizaur]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function spaces, time derivatives and compactness for evolving families of Banach spaces with applications to PDEs]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039622007495</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039622007495?dgcid=rss_sd_all"/>
+        <updated>2023-01-25T00:36:58.500Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 April 2023
+Source: Journal of Differential Equations, Volume 353
+Author(s): Amal Alphonse, Diogo Caetano, Ana Djurdjevac, Charles M. Elliott]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Find an Infinity of Possible Black Hole Shapes]]></title>
+        <id>https://www.quantamagazine.org/?p=122537</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-an-infinity-of-possible-black-hole-shapes-20230124/"/>
+        <updated>2023-01-24T14:57:45.000Z</updated>
+        <summary type="html"><![CDATA[In three-dimensional space, the surface of a black hole must be a sphere. But a new result shows that in higher dimensions, an infinite number of configurations are possible.            
+The post Mathematicians Find an Infinity of Possible Black Hole Shapes first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Additive pre-diagnostic and diagnostic value of routine blood-based biomarkers in the detection of colorectal cancer in the UK Biobank cohort]]></title>
+        <id>https://www.nature.com/articles/s41598-023-28631-y</id>
+        <link href="https://www.nature.com/articles/s41598-023-28631-y"/>
+        <updated>2023-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Additive pre-diagnostic and diagnostic value of routine blood-based biomarkers in the detection of colorectal cancer in the UK Biobank cohort]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intrinsic fluctuations of reinforcement learning promote cooperation]]></title>
+        <id>https://www.nature.com/articles/s41598-023-27672-7</id>
+        <link href="https://www.nature.com/articles/s41598-023-27672-7"/>
+        <updated>2023-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Intrinsic fluctuations of reinforcement learning promote cooperation]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -404,17 +514,6 @@ The post Mathematicians Roll Dice and Get Rock-Paper-Scissors first appeared on 
 The post Finally, a Fast Algorithm for Shortest Paths on Negative Graphs first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Ben Brubaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Genes From the Mother Shape the Baby’s Microbiome]]></title>
-        <id>https://www.quantamagazine.org/?p=122139</id>
-        <link href="https://www.quantamagazine.org/mobile-genes-from-the-mother-shape-the-babys-microbiome-20230117/"/>
-        <updated>2023-01-17T16:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Tiny genetic sequences in a mother’s bacteria seem to hop into the infant's bacteria, perhaps ensuring a healthy microbiome later in life.            
-The post Mobile Genes From the Mother Shape the Baby’s Microbiome first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Yasemin Saplakoglu</name>
         </author>
     </entry>
     <entry>
@@ -807,46 +906,6 @@ In this paper, a novel multigrid method based on Newton iteration is proposed to
                     . Then in the presented multigrid method, only one discrete linear boundary value problem needs to be solved for each level of the multigrid sequence. Because we avoid solving large-scale nonlinear eigenvalue problems directly, the overall efficiency is significantly improved. The optimal error estimate and linear computational complexity can be derived simultaneously. In addition, we also provide an improved multigrid method coupled with a mixing scheme to further guarantee the convergence and stability of the iteration scheme. More importantly, we prove convergence for the residuals after each iteration step. For nonlinear eigenvalue problems, such theoretical analysis is missing from the existing literatures on the mixing iteration scheme.]]></summary>
         <author>
             <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A vision transformer architecture for the automated segmentation of retinal lesions in spectral domain optical coherence tomography images]]></title>
-        <id>https://www.nature.com/articles/s41598-023-27616-1</id>
-        <link href="https://www.nature.com/articles/s41598-023-27616-1"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - A vision transformer architecture for the automated segmentation of retinal lesions in spectral domain optical coherence tomography images]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning the dynamics of realistic models of C. elegans nervous system with recurrent neural networks]]></title>
-        <id>https://www.nature.com/articles/s41598-022-25421-w</id>
-        <link href="https://www.nature.com/articles/s41598-022-25421-w"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Learning the dynamics of realistic models of C. elegans nervous system with recurrent neural networks]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High accuracy gender determination using the egg shape index]]></title>
-        <id>https://www.nature.com/articles/s41598-023-27772-4</id>
-        <link href="https://www.nature.com/articles/s41598-023-27772-4"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - High accuracy gender determination using the egg shape index]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning the dynamics of realistic models of C. elegans nervous system with recurrent neural networks]]></title>
-        <id>https://www.nature.com/articles/s41598-022-25421-w</id>
-        <link href="https://www.nature.com/articles/s41598-022-25421-w"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Learning the dynamics of realistic models of C. elegans nervous system with recurrent neural networks]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
         </author>
     </entry>
 </feed>
