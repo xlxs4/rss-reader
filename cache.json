@@ -11,7 +11,7 @@
           "description": "Computer scientists want to know the exact limits in our ability to clean up, and reconstruct, partly blurred images.",
           "link": "https://news.mit.edu/2023/putting-clear-bounds-uncertainty-0123",
           "publishedOn": "2023-01-23T19:40:00.000Z",
-          "wordCount": 2639,
+          "wordCount": 2642,
           "title": "Putting clear bounds on uncertainty",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/MIT-Face-GANs-edit.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "“I wouldn’t let the aggressor in the war squash my dreams,” says Ukrainian mathematician and MITx MicroMasters learner Tetiana Herasymova.",
           "link": "https://news.mit.edu/2023/research-education-connection-face-war-tetiana-herasymova-0120",
           "publishedOn": "2023-01-20T19:45:00.000Z",
-          "wordCount": 2872,
+          "wordCount": 2880,
           "title": "Research, education, and connection in the face of war",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202212/MIT-MicroMasters-Tetiana-Herasymova.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "Deep-learning model takes a personalized approach to assessing each patient’s risk of lung cancer based on CT scans.",
           "link": "https://news.mit.edu/2023/ai-model-can-detect-future-lung-cancer-0120",
           "publishedOn": "2023-01-20T14:40:00.000Z",
-          "wordCount": 2712,
+          "wordCount": 2720,
           "title": "MIT researchers develop an AI model that can detect future lung cancer risk",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/mit-mgh.jpg"
         },
@@ -41,7 +41,7 @@
           "description": "A new experiential learning opportunity challenges undergraduates across the Greater Boston area to apply their AI skills to a range of industry projects.",
           "link": "https://news.mit.edu/2023/break-through-tech-ai-mit-0118",
           "publishedOn": "2023-01-18T21:50:00.000Z",
-          "wordCount": 2389,
+          "wordCount": 2397,
           "title": "Gaining real-world industry experience through Break Through Tech AI at MIT",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/breakthrough-tech-students.jpg"
         },
@@ -51,7 +51,7 @@
           "description": "Study shows that if autonomous vehicles are widely adopted, hardware efficiency will need to advance rapidly to keep computing-related emissions in check.",
           "link": "https://news.mit.edu/2023/autonomous-vehicles-carbon-emissions-0113",
           "publishedOn": "2023-01-13T05:00:00.000Z",
-          "wordCount": 3112,
+          "wordCount": 3120,
           "title": "Computers that power self-driving cars could be a huge driver of global carbon emissions",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/MIT_Autonomous-Emissions-01-PRESS.jpg"
         },
@@ -61,7 +61,7 @@
           "description": "New fellows are working on health records, robot control, pandemic preparedness, brain injuries, and more.",
           "link": "https://news.mit.edu/2023/takeda-fellows-leveraging-ai-positively-impact-human-health-0112",
           "publishedOn": "2023-01-12T20:15:00.000Z",
-          "wordCount": 2413,
+          "wordCount": 2421,
           "title": "2022-23 Takeda Fellows: Leveraging AI to positively impact human health",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/Takeda-fellows.jpg"
         },
@@ -71,7 +71,7 @@
           "description": "AeroAstro major and accomplished tuba player Frederick Ajisafe relishes the community he has found in the MIT Wind Ensemble.",
           "link": "https://news.mit.edu/2023/frederick-ajisafe-music-aerospace-engineering-0112",
           "publishedOn": "2023-01-12T05:00:00.000Z",
-          "wordCount": 2489,
+          "wordCount": 2497,
           "title": "Engineering in harmony",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/MIT-Frederick-Ajisafe-01-press.jpg"
         }
@@ -83,12 +83,62 @@
       "siteUrl": "https://www.nature.com/subjects/computer-science",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s42256-022-00596-z",
+          "author": null,
+          "description": "Gathering big datasets has become an essential component of machine learning in many scientific areas, but it is unavoidable that some data values are missing. An important and growing effect that needs careful attention, especially when heterogeneous data sources are combined, is that of structured missingness, where data values are missing not at random, but with a specific structure.",
+          "link": "https://www.nature.com/articles/s42256-022-00596-z",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 5479,
+          "title": "Learning from data with structured missingness",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00596-z/MediaObjects/42256_2022_596_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42256-022-00599-w",
+          "author": null,
+          "description": "Olfactory navigation is a well-studied topic in insect behaviour, but many aspects of the challenging task of odour plume tracking are unknown. In a deep reinforcement learning approach, artificial agents are trained to produce (in silico) trajectories to localize the source of an odour plume, showing dynamics that mimic real insect behaviours.",
+          "link": "https://www.nature.com/articles/s42256-022-00599-w",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 13175,
+          "title": "Emergent behaviour and neural dynamics in artificial agents tracking odour plumes",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00599-w/MediaObjects/42256_2022_599_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-28588-y",
+          "author": null,
+          "description": "Scientific Reports - Cross-domain few-shot learning based on pseudo-Siamese neural network",
+          "link": "https://www.nature.com/articles/s41598-023-28588-y",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 9414,
+          "title": "Cross-domain few-shot learning based on pseudo-Siamese neural network",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-28588-y/MediaObjects/41598_2023_28588_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42256-022-00583-4",
+          "author": null,
+          "description": "When it comes to reasoning about the motion of physical objects, humans have natural intuitive physics knowledge. To test how good artificial learning agents are in similar predictive abilities, Xue and colleagues present a benchmark based on a two-dimensional physics environment in which 15 physical reasoning skills are measured.",
+          "link": "https://www.nature.com/articles/s42256-022-00583-4",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 11580,
+          "title": "Phy-Q as a measure for physical reasoning intelligence",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00583-4/MediaObjects/42256_2022_583_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-28633-w",
+          "author": null,
+          "description": "Scientific Reports - Non-task expert physicians benefit from correct explainable AI advice when reviewing X-rays",
+          "link": "https://www.nature.com/articles/s41598-023-28633-w",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 9472,
+          "title": "Non-task expert physicians benefit from correct explainable AI advice when reviewing X-rays",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-28633-w/MediaObjects/41598_2023_28633_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41598-023-28631-y",
           "author": null,
           "description": "Scientific Reports - Additive pre-diagnostic and diagnostic value of routine blood-based biomarkers in the detection of colorectal cancer in the UK Biobank cohort",
           "link": "https://www.nature.com/articles/s41598-023-28631-y",
           "publishedOn": "2023-01-24T00:00:00.000Z",
-          "wordCount": 8900,
+          "wordCount": 8902,
           "title": "Additive pre-diagnostic and diagnostic value of routine blood-based biomarkers in the detection of colorectal cancer in the UK Biobank cohort",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-28631-y/MediaObjects/41598_2023_28631_Fig1_HTML.png"
         },
@@ -98,7 +148,7 @@
           "description": "Scientific Reports - Intrinsic fluctuations of reinforcement learning promote cooperation",
           "link": "https://www.nature.com/articles/s41598-023-27672-7",
           "publishedOn": "2023-01-24T00:00:00.000Z",
-          "wordCount": 10781,
+          "wordCount": 10783,
           "title": "Intrinsic fluctuations of reinforcement learning promote cooperation",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-27672-7/MediaObjects/41598_2023_27672_Fig1_HTML.png"
         },
@@ -168,7 +218,7 @@
           "description": "Snippets from Nature’s past.",
           "link": "https://www.nature.com/articles/d41586-023-00029-w",
           "publishedOn": "2023-01-17T00:00:00.000Z",
-          "wordCount": 2600,
+          "wordCount": 2616,
           "title": "From the archive: an economic model named after a goddess, and an ill-fated octopus",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00029-w/d41586-023-00029-w_15948434.jpg"
         },
@@ -218,7 +268,7 @@
           "description": "A data set funded by the Chan Zuckerberg Initiative shows how research software and tools are used across disciplines — and helps developers gain credit for their work.",
           "link": "https://www.nature.com/articles/d41586-023-00053-w",
           "publishedOn": "2023-01-12T00:00:00.000Z",
-          "wordCount": 3707,
+          "wordCount": 3723,
           "title": "Hunting for the best bioscience software tool? Check this database",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00053-w/d41586-023-00053-w_23911084.jpg"
         },
@@ -241,36 +291,6 @@
           "wordCount": 21003,
           "title": "Multiple vehicle cooperation and collision avoidance in automated vehicles: survey and an AI-enabled conceptual framework",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-27026-9/MediaObjects/41598_2022_27026_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-27498-3",
-          "author": null,
-          "description": "Scientific Reports - A novel optimization method for belief rule base expert system with activation rate",
-          "link": "https://www.nature.com/articles/s41598-023-27498-3",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 9335,
-          "title": "A novel optimization method for belief rule base expert system with activation rate",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-27498-3/MediaObjects/41598_2023_27498_Figa_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-022-26029-w",
-          "author": null,
-          "description": "Scientific Reports - A reliable vaccine tracking and monitoring system for health clinics using blockchain",
-          "link": "https://www.nature.com/articles/s41598-022-26029-w",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 8840,
-          "title": "A reliable vaccine tracking and monitoring system for health clinics using blockchain",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-26029-w/MediaObjects/41598_2022_26029_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-27729-7",
-          "author": null,
-          "description": "Scientific Reports - Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment: a machine learning-based solution",
-          "link": "https://www.nature.com/articles/s41598-023-27729-7",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 10292,
-          "title": "Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment: a machine learning-based solution",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-27729-7/MediaObjects/41598_2023_27729_Fig1_HTML.png"
         }
       ]
     },
@@ -279,6 +299,36 @@
       "feedUrl": "https://www.nature.com/subjects/computational-science.rss",
       "siteUrl": "https://www.nature.com/subjects/computational-science",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s42256-022-00596-z",
+          "author": null,
+          "description": "Gathering big datasets has become an essential component of machine learning in many scientific areas, but it is unavoidable that some data values are missing. An important and growing effect that needs careful attention, especially when heterogeneous data sources are combined, is that of structured missingness, where data values are missing not at random, but with a specific structure.",
+          "link": "https://www.nature.com/articles/s42256-022-00596-z",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 5479,
+          "title": "Learning from data with structured missingness",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-022-00596-z/MediaObjects/42256_2022_596_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-28048-7",
+          "author": null,
+          "description": "Scientific Reports - A novel bi-planar calibration method for digital templating in total hip arthroplasty",
+          "link": "https://www.nature.com/articles/s41598-023-28048-7",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 7115,
+          "title": "A novel bi-planar calibration method for digital templating in total hip arthroplasty",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-28048-7/MediaObjects/41598_2023_28048_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-28393-7",
+          "author": null,
+          "description": "Scientific Reports - Comparing machine learning approaches to incorporate time-varying covariates in predicting cancer survival time",
+          "link": "https://www.nature.com/articles/s41598-023-28393-7",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 7253,
+          "title": "Comparing machine learning approaches to incorporate time-varying covariates in predicting cancer survival time",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-28393-7/MediaObjects/41598_2023_28393_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41598-023-28328-2",
           "author": null,
@@ -415,7 +465,7 @@
           "description": "Scientific Reports - Fast calculation of scattering patterns using hypergeometric function algorithms",
           "link": "https://www.nature.com/articles/s41598-023-27558-8",
           "publishedOn": "2023-01-15T00:00:00.000Z",
-          "wordCount": 8011,
+          "wordCount": 7769,
           "title": "Fast calculation of scattering patterns using hypergeometric function algorithms",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-27558-8/MediaObjects/41598_2023_27558_Fig1_HTML.png"
         },
@@ -488,26 +538,6 @@
           "wordCount": 5067,
           "title": "Identification of potent antimicrobial peptides via a machine-learning pipeline that mines the entire space of peptide sequences",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-022-00991-2/MediaObjects/41551_2022_991_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-022-35685-5",
-          "author": null,
-          "description": "Feedback control applied to mechanical resonators can lead to the formation of various complex dynamic behaviors. Here the authors demonstrate flexible and controllable switching between dynamical structures in the response of harmonically driven micro-mechanical resonators.",
-          "link": "https://www.nature.com/articles/s41467-022-35685-5",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 8130,
-          "title": "Controllable branching of robust response patterns in nonlinear mechanical resonators",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-35685-5/MediaObjects/41467_2022_35685_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-27565-9",
-          "author": null,
-          "description": "Scientific Reports - Generative hypergraph models and spectral embedding",
-          "link": "https://www.nature.com/articles/s41598-023-27565-9",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 9815,
-          "title": "Generative hypergraph models and spectral embedding",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-27565-9/MediaObjects/41598_2023_27565_Figa_HTML.png"
         }
       ]
     },
@@ -517,12 +547,22 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=122568",
+          "author": "Ben Brubaker",
+          "description": "In Shang-Hua Teng’s work, theoretical and practical questions have long been intertwined. Now he’s turning his focus to the impractical.            \nThe post The Computer Scientist Who Finds Life Lessons in Games first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lessons-in-board-games-20230125/",
+          "publishedOn": "2023-01-25T17:34:30.000Z",
+          "wordCount": 7235,
+          "title": "The Computer Scientist Who Finds Life Lessons in Games",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Shang-Hua-Teng-byEmilioFlores-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=122537",
           "author": "Steve Nadis",
           "description": "In three-dimensional space, the surface of a black hole must be a sphere. But a new result shows that in higher dimensions, an infinite number of configurations are possible.            \nThe post Mathematicians Find an Infinity of Possible Black Hole Shapes first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/mathematicians-find-an-infinity-of-possible-black-hole-shapes-20230124/",
           "publishedOn": "2023-01-24T14:57:45.000Z",
-          "wordCount": 7040,
+          "wordCount": 7042,
           "title": "Mathematicians Find an Infinity of Possible Black Hole Shapes",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/BlackHoleShapes-byKristinaArmitage-Social.webp"
         },
@@ -532,7 +572,7 @@
           "description": "Whether you’re passing secret notes in class or downloading images from a space probe, Reed-Solomon codes offer an ingenious way to embed information and correct for errors.            \nThe post The Basic Algebra Behind Secret Codes and Space Communication first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/",
           "publishedOn": "2023-01-23T16:01:22.000Z",
-          "wordCount": 8126,
+          "wordCount": 8128,
           "title": "The Basic Algebra Behind Secret Codes and Space Communication",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/Jan23Academy-byRobertNeubecker-Social.webp"
         },
@@ -542,7 +582,7 @@
           "description": "Reports that the James Webb Space Telescope killed the reigning cosmological model turn out to have been exaggerated. But astronomers still have much to learn from distant galaxies glimpsed by Webb.            \nThe post Standard Model of Cosmology Survives a Telescope’s Surprising Finds first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/standard-model-of-cosmology-survives-jwsts-surprising-finds-20230120/",
           "publishedOn": "2023-01-20T15:49:50.000Z",
-          "wordCount": 9322,
+          "wordCount": 9324,
           "title": "Standard Model of Cosmology Survives a Telescope’s Surprising Finds",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/EarlyGalaxies-NASA-SamuelVelasco-Social-2.webp"
         },
@@ -552,19 +592,9 @@
           "description": "Mathematicians have uncovered a surprising wealth of rock-paper-scissors-like patterns in randomly chosen dice.            \nThe post Mathematicians Roll Dice and Get Rock-Paper-Scissors first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/",
           "publishedOn": "2023-01-19T15:02:36.000Z",
-          "wordCount": 5596,
+          "wordCount": 5598,
           "title": "Mathematicians Roll Dice and Get Rock-Paper-Scissors",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/IntransitiveDice-byKristinaArmitage-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122171",
-          "author": "Ben Brubaker",
-          "description": "Researchers can now find the shortest route through a network nearly as fast as theoretically possible, even when some steps can cancel out others.            \nThe post Finally, a Fast Algorithm for Shortest Paths on Negative Graphs first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/",
-          "publishedOn": "2023-01-18T17:02:40.000Z",
-          "wordCount": 7332,
-          "title": "Finally, a Fast Algorithm for Shortest Paths on Negative Graphs",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/ShortestPaths-bySamuelVelasco-Social3.webp"
         }
       ]
     },
@@ -578,49 +608,9 @@
           "author": null,
           "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Oliver Sieber",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000062?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:59.647Z",
+          "publishedOn": "2023-01-26T00:37:18.967Z",
           "wordCount": 7261,
           "title": "Existence of global weak solutions to an inhomogeneous Doi model for active liquid crystals",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007641",
-          "author": null,
-          "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Dehua Wang, Feng Xie",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007641?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:59.496Z",
-          "wordCount": 7479,
-          "title": "Inviscid limit of compressible viscoelastic equations with the no-slip boundary condition",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200763X",
-          "author": null,
-          "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Junqiang Zhang, Dachun Yang, Sibei Yang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200763X?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:59.328Z",
-          "wordCount": 7886,
-          "title": "Kato square root problem for degenerate elliptic operators on bounded Lipschitz domains",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623000086",
-          "author": null,
-          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Xu Pan, Chunlai Mu, Weirun Tao",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000086?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:59.220Z",
-          "wordCount": 7537,
-          "title": "On the strongly competitive case in a fully parabolic two-species chemotaxis system with Lotka-Volterra competitive kinetics",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962300013X",
-          "author": null,
-          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): R.M. Colombo, M. Garavello, F. Marcellini, E. Rossi",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962300013X?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:59.175Z",
-          "wordCount": 7513,
-          "title": "General renewal equations motivated by biology and epidemiology",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -628,29 +618,19 @@
           "author": null,
           "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): The Anh Bui, Qing Hong, Guorong Hu",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000025?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:59.095Z",
+          "publishedOn": "2023-01-26T00:37:18.949Z",
           "wordCount": 7427,
           "title": "Heat kernels and theory of Hardy spaces associated to Schrödinger operators on stratified groups",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623000013",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007641",
           "author": null,
-          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Naoyasu Kita, Takuya Sato",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000013?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.982Z",
-          "wordCount": 7211,
-          "title": "Optimal <em>L</em><sup>2</sup>-decay of solutions to the dissipative nonlinear Schrödinger equation in higher space dimensions",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007471",
-          "author": null,
-          "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Zhang Chen, Dandan Yang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007471?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.971Z",
-          "wordCount": 7355,
-          "title": "Invariant measures and stochastic Liouville type theorem for non-autonomous stochastic reaction-diffusion equations",
+          "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Dehua Wang, Feng Xie",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007641?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.911Z",
+          "wordCount": 7479,
+          "title": "Inviscid limit of compressible viscoelastic equations with the no-slip boundary condition",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -658,9 +638,69 @@
           "author": null,
           "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Genghong Lin, Lin Wang, Jianshe Yu",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000153?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.960Z",
+          "publishedOn": "2023-01-26T00:37:18.778Z",
           "wordCount": 7503,
           "title": "Basins of attraction and paired Hopf bifurcations for delay differential equations with bistable nonlinearity and delay-dependent coefficient",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623000013",
+          "author": null,
+          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Naoyasu Kita, Takuya Sato",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000013?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.721Z",
+          "wordCount": 7211,
+          "title": "Optimal <em>L</em><sup>2</sup>-decay of solutions to the dissipative nonlinear Schrödinger equation in higher space dimensions",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962200763X",
+          "author": null,
+          "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Junqiang Zhang, Dachun Yang, Sibei Yang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962200763X?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.707Z",
+          "wordCount": 7886,
+          "title": "Kato square root problem for degenerate elliptic operators on bounded Lipschitz domains",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039622007471",
+          "author": null,
+          "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Zhang Chen, Dandan Yang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007471?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.672Z",
+          "wordCount": 7355,
+          "title": "Invariant measures and stochastic Liouville type theorem for non-autonomous stochastic reaction-diffusion equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962300013X",
+          "author": null,
+          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): R.M. Colombo, M. Garavello, F. Marcellini, E. Rossi",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962300013X?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.582Z",
+          "wordCount": 7513,
+          "title": "General renewal equations motivated by biology and epidemiology",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623000098",
+          "author": null,
+          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Jian-Wen Sun",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000098?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.552Z",
+          "wordCount": 7207,
+          "title": "Local diffusion vs. nonlocal dispersal in periodic logistic equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623000086",
+          "author": null,
+          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Xu Pan, Chunlai Mu, Weirun Tao",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000086?dgcid=rss_sd_all",
+          "publishedOn": "2023-01-26T00:37:18.540Z",
+          "wordCount": 7537,
+          "title": "On the strongly competitive case in a fully parabolic two-species chemotaxis system with Lotka-Volterra competitive kinetics",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -668,7 +708,7 @@
           "author": null,
           "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Fucai Li, Shuxing Zhang",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007689?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.905Z",
+          "publishedOn": "2023-01-26T00:37:18.511Z",
           "wordCount": 7513,
           "title": "The combined non-equilibrium diffusion and low Mach number limits of a model arising in radiation magnetohydrodynamics",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -678,19 +718,9 @@
           "author": null,
           "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Bingchen Liu, Yuxi Wang, Ping Li",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000268?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.886Z",
+          "publishedOn": "2023-01-26T00:37:18.491Z",
           "wordCount": 7323,
           "title": "Quantitative description on initial trace for the solvability to heat equation with exponential boundary in unbounded domain",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623000098",
-          "author": null,
-          "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Jian-Wen Sun",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000098?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.872Z",
-          "wordCount": 7207,
-          "title": "Local diffusion vs. nonlocal dispersal in periodic logistic equations",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -698,7 +728,7 @@
           "author": null,
           "description": "Publication date: 5 May 2023\nSource: Journal of Differential Equations, Volume 354\nAuthor(s): Alberto Enciso, Daniel Peralta-Salas, Francisco Torres de Lizaur",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623000128?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.529Z",
+          "publishedOn": "2023-01-26T00:37:18.072Z",
           "wordCount": 7421,
           "title": "Quasi-periodic solutions to the incompressible Euler equations in dimensions two and higher",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -708,7 +738,7 @@
           "author": null,
           "description": "Publication date: 25 April 2023\nSource: Journal of Differential Equations, Volume 353\nAuthor(s): Amal Alphonse, Diogo Caetano, Ana Djurdjevac, Charles M. Elliott",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039622007495?dgcid=rss_sd_all",
-          "publishedOn": "2023-01-25T00:36:58.500Z",
+          "publishedOn": "2023-01-26T00:37:17.623Z",
           "wordCount": 7452,
           "title": "Function spaces, time derivatives and compactness for evolving families of Banach spaces with applications to PDEs",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -756,7 +786,7 @@
           "description": "Abstract\nIn this work we study various continuous finite element discretization for two dimensional hyperbolic partial differential equations, varying the polynomial space (Lagrangian on equispaced, Lagrangian on quadrature points (Cubature) and Bernstein), the stabilization techniques (streamline-upwind Petrov–Galerkin, continuous interior penalty, orthogonal subscale stabilization) and the time discretization (Runge–Kutta (RK), strong stability preserving RK and deferred correction). This is an extension of the one dimensional study by Michel et al. (J Sci Comput 89(2):31, 2021. https://doi.org/10.1007/s10915-021-01632-7), whose results do not hold in multi-dimensional frameworks. The study ranks these schemes based on efficiency (most of them are mass-matrix free), stability and dispersion error, providing the best CFL and stabilization coefficients. The challenges in two-dimensions are related to the Fourier analysis. Here, we perform it on two types of periodic triangular meshes varying the angle of the advection, and we combine all the results for a general stability analysis. Furthermore, we introduce additional high order viscosity to stabilize the discontinuities, in order to show how to use these methods for tests of practical interest. All the theoretical results are thoroughly validated numerically both on linear and non-linear problems, and error-CPU time curves are provided. Our final conclusions suggest that Cubature elements combined with SSPRK and OSS stabilization is the most promising combination.",
           "link": "http://link.springer.com/10.1007/s10915-022-02087-0",
           "publishedOn": "2023-01-21T00:00:00.000Z",
-          "wordCount": 19803,
+          "wordCount": 19823,
           "title": "Spectral Analysis of High Order Continuous FEM for Hyperbolic PDEs on Triangular Meshes: Influence of Approximation, Stabilization, and Time-Stepping",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -786,7 +816,7 @@
           "description": "Abstract\nTackling new machine learning problems with neural networks always means optimizing numerous hyperparameters that define their structure and strongly impact their performances. In this work, we study the use of goal-oriented sensitivity analysis, based on the Hilbert–Schmidt independence criterion (HSIC), for hyperparameter analysis and optimization. Hyperparameters live in spaces that are often complex and awkward. They can be of different natures (categorical, discrete, boolean, continuous), interact, and have inter-dependencies. All this makes it non-trivial to perform classical sensitivity analysis. We alleviate these difficulties to obtain a robust analysis index that is able to quantify hyperparameters’ relative impact on a neural network’s final error. This valuable tool allows us to better understand hyperparameters and to make hyperparameter optimization more interpretable. We illustrate the benefits of this knowledge in the context of hyperparameter optimization and derive an HSIC-based optimization algorithm that we apply on MNIST and Cifar, classical machine learning data sets, but also on the approximation of Runge function and Bateman equations solution, of interest for scientific machine learning. This method yields neural networks that are both competitive and cost-effective.",
           "link": "http://link.springer.com/10.1007/s10915-022-02083-4",
           "publishedOn": "2023-01-16T00:00:00.000Z",
-          "wordCount": 5055,
+          "wordCount": 5057,
           "title": "Goal-Oriented Sensitivity Analysis of Hyperparameters in Deep Learning",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -808,26 +838,6 @@
           "publishedOn": "2023-01-12T00:00:00.000Z",
           "wordCount": 4657,
           "title": "A Family of Fast Multi-resolution ENO Schemes for Compressible Flows",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-023-02097-6",
-          "author": null,
-          "description": "Abstract\nThis paper describes some numerical verification procedures to prove the invertibility of a linear operator in Hilbert spaces and to compute a bound on the norm of its inverse. These approaches improve on previous procedures that use an orthogonal projection of the Hilbert space and its a priori error estimations. Several verified examples which confirm the effectiveness of the new procedures are presented.",
-          "link": "http://link.springer.com/10.1007/s10915-023-02097-6",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 8266,
-          "title": "Efficient Approaches for Verifying the Existence and Bound of Inverse of Linear Operators in Hilbert Spaces",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-022-02070-9",
-          "author": null,
-          "description": "Abstract\nIn this paper, a novel multigrid method based on Newton iteration is proposed to solve nonlinear eigenvalue problems. Instead of handling the eigenvalue \n                      \n                      \\(\\lambda \\)\n                      \n                     and eigenfunction u separately, we treat the eigenpair \n                      \n                      \\((\\lambda , u)\\)\n                      \n                     as one element in a product space \n                      \n                      \\({\\mathbb {R}} \\times H_0^1(\\Omega )\\)\n                      \n                    . Then in the presented multigrid method, only one discrete linear boundary value problem needs to be solved for each level of the multigrid sequence. Because we avoid solving large-scale nonlinear eigenvalue problems directly, the overall efficiency is significantly improved. The optimal error estimate and linear computational complexity can be derived simultaneously. In addition, we also provide an improved multigrid method coupled with a mixing scheme to further guarantee the convergence and stability of the iteration scheme. More importantly, we prove convergence for the residuals after each iteration step. For nonlinear eigenvalue problems, such theoretical analysis is missing from the existing literatures on the mixing iteration scheme.",
-          "link": "http://link.springer.com/10.1007/s10915-022-02070-9",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 3676,
-          "title": "Multigrid Method for Nonlinear Eigenvalue Problems Based on Newton Iteration",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         }
       ]
