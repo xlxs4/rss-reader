@@ -1,78 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T00:43:55.245Z</id>
+    <id>urn:2023-02-02T00:39:36.476Z</id>
     <title>A curated list of immersive ramblings</title>
-    <updated>2023-02-01T00:43:55.245Z</updated>
+    <updated>2023-02-02T00:39:36.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Existence of global weak solutions to an inhomogeneous Doi model for active liquid crystals]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000062</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000062?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.520Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Oliver Sieber]]></summary>
+        <title type="html"><![CDATA[Two-Scale Elastic Shape Optimization for Additive Manufacturing]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1450859?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1450859?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 21, Issue 1, Page 119-142, March 2023. 
+ Abstract. In this paper, a two-scale approach for elastic shape optimization of fine-scale structures in additive manufacturing is investigated. To this end, a free material optimization is performed on the macro-scale using elasticity tensors in a set of microscopically realizable tensors. A database of these realizable tensors and their cost values is obtained with a shape and topology optimization on microscopic cells, working within a fixed set of elasticity tensors samples. This microscopic optimization takes into account manufacturability constraints via predefined material bridges to neighboring cells at the faces of the microscopic fundamental cell. For the actual additive manufacturing on a chosen fine-scale, a piecewise constant elasticity tensor ansatz on grid cells of a macroscopic mesh is applied. The macroscopic optimization is performed in an efficient online phase, whereas the associated cellwise optimal material patterns are retrieved from the database that was computed offline. For that, the set of admissible realizable elasticity tensors is parametrized using tensor product cubic B-splines over the unit square matching the precomputed samples. This representation is then efficiently used in an interior point method for the free material optimization on the macro-scale.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Sergio Conti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantitative description on initial trace for the solvability to heat equation with exponential boundary in unbounded domain]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000268</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000268?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.509Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Bingchen Liu, Yuxi Wang, Ping Li]]></summary>
+        <title type="html"><![CDATA[Speckle Memory Effect in the Frequency Domain and Stability in Time-Reversal Experiments]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M1470414?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1470414?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 21, Issue 1, Page 80-118, March 2023. 
+ Abstract. When waves propagate through a complex medium like the turbulent atmosphere the wave field becomes incoherent and the wave intensity forms a complex speckle pattern. In this paper we study a speckle memory effect in the frequency domain and some of its consequences. This effect means that certain properties of the speckle pattern produced by wave transmission through a randomly scattering medium is preserved when shifting the frequency of the illumination. The speckle memory effect is characterized via a detailed novel analysis of the fourth-order moment of the random paraxial Green’s function at four different frequencies. We arrive at a precise characterization of the frequency memory effect and what governs the strength of the memory. As an application we quantify the statistical stability of time-reversal wave refocusing through a randomly scattering medium in the paraxial or beam regime. Time reversal refers to the situation when a transmitted wave field is recorded on a time-reversal mirror then time reversed and sent back into the complex medium. The re-emitted wave field then refocuses at the original source point. We compute the mean of the refocused wave and identify a novel quantitative description of its variance in terms of the radius of the time-reversal mirror, the size of its elements, the source bandwidth, and the statistics of the random medium fluctuations.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Josselin Garnier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Semi-hyperbolic patch characterized by 2D steady relativistic Euler equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000293</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000293?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.495Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Yongqiang Fan, Lihui Guo, Yanbo Hu, Shouke You]]></summary>
+        <title type="html"><![CDATA[Competitively Chasing Convex Bodies]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/20M1312332?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/20M1312332?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 52, Issue 1, Page 67-81, February 2023. 
+ Abstract. Let [math] be a family of sets in some metric space. In the [math] -chasing problem, an online algorithm observes a request sequence of sets in [math] and responds (online) by giving a sequence of points in these sets. The movement cost is the distance between consecutive such points. The competitive ratio is the worst case ratio (over request sequences) between the total movement of the online algorithm and the smallest movement one could have achieved by knowing in advance the request sequence. The family [math] is said to be chaseable if there exists an online algorithm with finite competitive ratio. In 1991, Linial and Friedman conjectured that the family of convex sets in Euclidean space is chaseable. We prove this conjecture.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Sébastien Bubeck</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Basins of attraction and paired Hopf bifurcations for delay differential equations with bistable nonlinearity and delay-dependent coefficient]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000153</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000153?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.439Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Genghong Lin, Lin Wang, Jianshe Yu]]></summary>
+        <title type="html"><![CDATA[A Polynomial Lower Bound on the Number of Rounds for Parallel Submodular Function Minimization and Matroid Intersection]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M147685X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M147685X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjcat&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Computing, Volume 52, Issue 1, Page 38-66, February 2023. 
+ Abstract. Submodular function minimization (SFM) and matroid intersection are fundamental discrete optimization problems with applications in many fields. It is well known that both of these can be solved making [math] queries to a relevant oracle (evaluation oracle for SFM and rank oracle for matroid intersection), where [math] denotes the universe size. However, all known polynomial query algorithms are highly adaptive, requiring at least [math] rounds of querying the oracle. A natural question is whether these can be efficiently solved in a highly parallel manner, namely, with [math] queries using only polylogarithmic rounds of adaptivity. An important step towards understanding the adaptivity needed for efficient parallel SFM was taken recently in the work of Balkanski and Singer who showed that any SFM algorithm making [math] queries necessarily requires [math] rounds. This left open the possibility of efficient SFM algorithms in polylogarithmic rounds. For matroid intersection, even the possibility of a constant round, [math] query algorithm was not hitherto ruled out. In this work, we prove that any, possibly randomized, algorithm for submodular function minimization or matroid intersection making [math] queries requires (Throughout the paper, we use the usual convention of using [math] to denote [math] and using [math] to denote [math] for some unspecified constant [math]) [math] rounds of adaptivity. In fact, we show a polynomial lower bound on the number of rounds of adaptivity even for algorithms that make at most [math] queries for any constant [math]. Therefore, even though SFM and matroid intersection are efficiently solvable, they are not highly parallelizable in the oracle model.]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Deeparnab Chakrabarty</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Global existence and stabilization in a two-dimensional chemotaxis-Navier-Stokes system with consumption and production of chemosignals]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962300027X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300027X?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.407Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Li Xie, Yan Xu]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Periodic dynamics of a single species model with seasonal Michaelis-Menten type harvesting]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000141</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000141?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.396Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Xiaomei Feng, Yunfeng Liu, Shigui Ruan, Jianshe Yu]]></summary>
+        <title type="html"><![CDATA[Existence of exact solution of the Susceptible-Exposed-Infectious-Recovered (SEIR) epidemic model]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000244</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000244?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.837Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 May 2023
+Source: Journal of Differential Equations, Volume 355
+Author(s): Norio Yoshida]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -81,7 +65,7 @@ Author(s): Xiaomei Feng, Yunfeng Liu, Shigui Ruan, Jianshe Yu]]></summary>
         <title type="html"><![CDATA[On the strongly competitive case in a fully parabolic two-species chemotaxis system with Lotka-Volterra competitive kinetics]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623000086</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000086?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.359Z</updated>
+        <updated>2023-02-02T00:39:21.825Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
 Author(s): Xu Pan, Chunlai Mu, Weirun Tao]]></summary>
@@ -90,49 +74,13 @@ Author(s): Xu Pan, Chunlai Mu, Weirun Tao]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[General renewal equations motivated by biology and epidemiology]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962300013X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300013X?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.340Z</updated>
+        <title type="html"><![CDATA[Basins of attraction and paired Hopf bifurcations for delay differential equations with bistable nonlinearity and delay-dependent coefficient]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000153</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000153?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.764Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
-Author(s): R.M. Colombo, M. Garavello, F. Marcellini, E. Rossi]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local diffusion vs. nonlocal dispersal in periodic logistic equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000098</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000098?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:42.307Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Jian-Wen Sun]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal <em>L</em><sup>2</sup>-decay of solutions to the dissipative nonlinear Schrödinger equation in higher space dimensions]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000013</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000013?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:41.985Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 May 2023
-Source: Journal of Differential Equations, Volume 354
-Author(s): Naoyasu Kita, Takuya Sato]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Existence and non-degeneracy of positive multi-bubbling solutions to critical elliptic systems of Hamiltonian type]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000311</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000311?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:41.956Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 May 2023
-Source: Journal of Differential Equations, Volume 355
-Author(s): Qing Guo, Junyuan Liu, Shuangjie Peng]]></summary>
+Author(s): Genghong Lin, Lin Wang, Jianshe Yu]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -141,7 +89,7 @@ Author(s): Qing Guo, Junyuan Liu, Shuangjie Peng]]></summary>
         <title type="html"><![CDATA[Degenerate T-singularity bifurcation and crossing periodic orbits in a 3-dimensional piecewise smooth system]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623000256</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000256?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:41.940Z</updated>
+        <updated>2023-02-02T00:39:21.742Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
 Author(s): Yingying Zheng, Xingwu Chen]]></summary>
@@ -150,13 +98,133 @@ Author(s): Yingying Zheng, Xingwu Chen]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the pathwise uniqueness of solutions to stochastic differential equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000402</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000402?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:41.052Z</updated>
+        <title type="html"><![CDATA[Local diffusion vs. nonlocal dispersal in periodic logistic equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000098</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000098?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.711Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Jian-Wen Sun]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commuting vector fields]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000116</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000116?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.700Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 May 2023
 Source: Journal of Differential Equations, Volume 355
-Author(s): R. Negrea]]></summary>
+Author(s): D. Cerveau, A. Lins Neto]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global existence and stabilization in a two-dimensional chemotaxis-Navier-Stokes system with consumption and production of chemosignals]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962300027X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300027X?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.675Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Li Xie, Yan Xu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative description on initial trace for the solvability to heat equation with exponential boundary in unbounded domain]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000268</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000268?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.661Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Bingchen Liu, Yuxi Wang, Ping Li]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Existence and non-degeneracy of positive multi-bubbling solutions to critical elliptic systems of Hamiltonian type]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000311</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000311?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.631Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 May 2023
+Source: Journal of Differential Equations, Volume 355
+Author(s): Qing Guo, Junyuan Liu, Shuangjie Peng]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Existence of global weak solutions to an inhomogeneous Doi model for active liquid crystals]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000062</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000062?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.567Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Oliver Sieber]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal <em>L</em><sup>2</sup>-decay of solutions to the dissipative nonlinear Schrödinger equation in higher space dimensions]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000013</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000013?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.458Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Naoyasu Kita, Takuya Sato]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Periodic dynamics of a single species model with seasonal Michaelis-Menten type harvesting]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000141</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000141?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.325Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Xiaomei Feng, Yunfeng Liu, Shigui Ruan, Jianshe Yu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General renewal equations motivated by biology and epidemiology]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962300013X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300013X?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.306Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): R.M. Colombo, M. Garavello, F. Marcellini, E. Rossi]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A note on endpoint <em>L</em><sup><em>p</em></sup>-continuity of wave operators for classical and higher order Schrödinger operators]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000414</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000414?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.212Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 May 2023
+Source: Journal of Differential Equations, Volume 355
+Author(s): M. Burak Erdoğan, William R. Green]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semi-hyperbolic patch characterized by 2D steady relativistic Euler equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000293</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000293?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:21.133Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 May 2023
+Source: Journal of Differential Equations, Volume 354
+Author(s): Yongqiang Fan, Lihui Guo, Yanbo Hu, Shouke You]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -165,12 +233,131 @@ Author(s): R. Negrea]]></summary>
         <title type="html"><![CDATA[Quasi-periodic solutions to the incompressible Euler equations in dimensions two and higher]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623000128</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000128?dgcid=rss_sd_all"/>
-        <updated>2023-02-01T00:43:41.019Z</updated>
+        <updated>2023-02-02T00:39:20.439Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 May 2023
 Source: Journal of Differential Equations, Volume 354
 Author(s): Alberto Enciso, Daniel Peralta-Salas, Francisco Torres de Lizaur]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the pathwise uniqueness of solutions to stochastic differential equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000402</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000402?dgcid=rss_sd_all"/>
+        <updated>2023-02-02T00:39:20.372Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 May 2023
+Source: Journal of Differential Equations, Volume 355
+Author(s): R. Negrea]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machines Learn Better if We Teach Them the Basics]]></title>
+        <id>https://www.quantamagazine.org/?p=122775</id>
+        <link href="https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/"/>
+        <updated>2023-02-01T15:34:01.000Z</updated>
+        <summary type="html"><![CDATA[A wave of research improves reinforcement learning algorithms by pre-training them as if they were human.            
+The post Machines Learn Better if We Teach Them the Basics first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Max G. Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Majority networks and local consensus algorithm]]></title>
+        <id>https://www.nature.com/articles/s41598-023-28835-2</id>
+        <link href="https://www.nature.com/articles/s41598-023-28835-2"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Majority networks and local consensus algorithm]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Majority networks and local consensus algorithm]]></title>
+        <id>https://www.nature.com/articles/s41598-023-28835-2</id>
+        <link href="https://www.nature.com/articles/s41598-023-28835-2"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Majority networks and local consensus algorithm]]></summary>
+        <author>
+            <name>Computational science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
+        <id>10915</id>
+        <link href="http://link.springer.com/10915"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Compressed Sensing Based Least Squares Approach to Semi-supervised Local Cluster Extraction]]></title>
+        <id>10.1007/s10915-022-02052-x</id>
+        <link href="http://link.springer.com/10.1007/s10915-022-02052-x"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+A least squares semi-supervised local clustering algorithm based on the idea of compressed sensing is proposed to extract clusters from a graph with known adjacency matrix. The algorithm is based on a two-stage approach similar to the one proposed by Lai and Mckenzie (SIAM J Math Data Sci 2:368–395, 2020). However, under a weaker assumption and with less computational complexity, our algorithms are shown to be able to find a desired cluster with high probability. The “one cluster at a time" feature of our method distinguishes it from other global clustering methods. Numerical experiments are conducted on the synthetic data such as stochastic block model and real data such as MNIST, political blogs network, AT &T and YaleB human faces data sets to demonstrate the effectiveness and efficiency of our algorithms.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete Adjoint Computations for Relaxation Runge–Kutta Methods]]></title>
+        <id>10.1007/s10915-023-02102-y</id>
+        <link href="http://link.springer.com/10.1007/s10915-023-02102-y"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Relaxation Runge–Kutta methods reproduce a fully discrete dissipation (or conservation) of entropy for entropy stable semi-discretizations of nonlinear conservation laws. In this paper we derive the discrete adjoint of relaxation Runge–Kutta schemes, which are applicable to discretize-then-optimize approaches for optimal control problems. Furthermore, we prove that the derived discrete relaxation Runge–Kutta adjoint preserves time-symmetry when applied to linear skew-symmetric systems of ODEs. Numerical experiments verify these theoretical results while demonstrating the importance of appropriately treating the relaxation parameter when computing the discrete adjoint.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interface/Boundary-Unfitted EXtended HDG Method for Linear Elasticity Problems]]></title>
+        <id>10.1007/s10915-023-02107-7</id>
+        <link href="http://link.springer.com/10.1007/s10915-023-02107-7"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+An interface/boundary-unfitted eXtended hybridizable discontinuous Galerkin (X-HDG) method of arbitrary order is proposed for linear elasticity interface problems on unfitted meshes with respect to the interface and domain boundary. The method uses piecewise polynomials of degrees 
+                      
+                      \(k\ (\ge 1)\)
+                      
+                     and 
+                      
+                      \(k-1\)
+                      
+                     respectively for the displacement and stress approximations in the interior of elements inside the subdomains separated by the interface, and piecewise polynomials of degree k for the numerical traces of the displacement on the inter-element boundaries inside the subdomains and on the interface/boundary of the domain. Optimal error estimates in 
+                      
+                      \(L^2\)
+                      
+                    -norm for the stress and displacement are derived. Finally, numerical experiments confirm the theoretical results and show that the method also applies to the case of crack-tip domain.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Spectral Petrov–Galerkin Method for Solving Optimal Control Problem Governed by Fractional Diffusion Equations with Fractional Noise]]></title>
+        <id>10.1007/s10915-022-02088-z</id>
+        <link href="http://link.springer.com/10.1007/s10915-022-02088-z"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+In this paper, a spectral Petrov–Galerkin method is developed to solve an optimal control problem governed by a two-sided space-fractional diffusion-reaction equation with additive fractional noise. In order to compensate weak singularities of the solution near boundaries, regularities of both the fractional noise and the optimal control problem are analyzed in weighted Sobolev space. The spectral Petrov–Galerkin method is presented by employing truncated spectral expansion of the fractional Brownian motion (fBm) type noise, and error estimates are given based on the obtained regularity of the optimal control problem. Numerical experiments are carried out to verify the theoretical findings.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Convergence of the Preconditioned PDHG Method: A View of Indefinite Proximal ADMM]]></title>
+        <id>10.1007/s10915-023-02105-9</id>
+        <link href="http://link.springer.com/10.1007/s10915-023-02105-9"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+The primal-dual hybrid gradient (PDHG) algorithm is popular in solving min-max problems which are being widely used in a variety of areas. To improve the applicability and efficiency of PDHG for different application scenarios, we focus on the preconditioned PDHG (PrePDHG) algorithm, which is a framework covering PDHG, alternating direction method of multipliers (ADMM), and other methods. We give the optimal convergence condition of PrePDHG in the sense that the key parameters in the condition can not be further improved, which fills the theoretical gap in the-state-of-art convergence results of PrePDHG, and obtain the ergodic and non-ergodic sublinear convergence rates of PrePDHG. The theoretical analysis is achieved by establishing the equivalence between PrePDHG and indefinite proximal ADMM. Besides, we discuss various choices of the proximal matrices in PrePDHG and derive some interesting results. For example, the convergence condition of diagonal PrePDHG is improved to be tight, the dual stepsize of the balanced augmented Lagrangian method can be enlarged to 4/3 from 1, and a balanced augmented Lagrangian method with symmetric Gauss-Seidel iterations is also explored. Numerical results on the matrix game, projection onto the Birkhoff polytope, earth mover’s distance, and CT reconstruction verify the effectiveness and superiority of PrePDHG.]]></summary>
+        <author>
+            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -262,15 +449,6 @@ The post When Does the Brain Operate at Peak Performance? first appeared on Quan
         <summary type="html"><![CDATA[Scientific Reports - Knowledge mining of unstructured information: application to cyber domain]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
-        <id>10915</id>
-        <link href="http://link.springer.com/10915"/>
-        <updated>2023-01-31T00:00:00.000Z</updated>
-        <author>
-            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -601,17 +779,6 @@ The post The Cause of Depression Is Probably Not What You Think first appeared o
         <summary type="html"><![CDATA[Scientific Reports - Feature-rich multiplex lexical networks reveal mental strategies of early language learning]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Computer Scientist Who Finds Life Lessons in Games]]></title>
-        <id>https://www.quantamagazine.org/?p=122568</id>
-        <link href="https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lessons-in-board-games-20230125/"/>
-        <updated>2023-01-25T17:34:30.000Z</updated>
-        <summary type="html"><![CDATA[In Shang-Hua Teng’s work, theoretical and practical questions have long been intertwined. Now he’s turning his focus to the impractical.            
-The post The Computer Scientist Who Finds Life Lessons in Games first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Ben Brubaker</name>
         </author>
     </entry>
     <entry>
