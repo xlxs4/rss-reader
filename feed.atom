@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T00:39:44.418Z</id>
+    <id>urn:2023-02-16T00:39:28.873Z</id>
     <title>A curated list of immersive ramblings</title>
-    <updated>2023-02-15T00:39:44.418Z</updated>
+    <updated>2023-02-16T00:39:28.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimal Transport for Parameter Identification of Chaotic Dynamics via Invariant Measures]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1421337?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1421337?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 1, Page 269-310, March 2023. 
+ Abstract. We study an optimal transportation approach for recovering parameters in dynamical systems with a single smoothly varying attractor. We assume that the data are not sufficient for estimating time derivatives of state variables but enough to approximate the long-time behavior of the system through an approximation of its physical measure. Thus, we fit physical measures by taking the Wasserstein distance from optimal transportation as a misfit function between two probability distributions. In particular, we analyze the regularity of the resulting loss function for general transportation costs and derive gradient formulas. Physical measures are approximated as fixed points of suitable PDE-based Perron–Frobenius operators. Test cases discussed in the paper include common low-dimensional dynamical systems.]]></summary>
+        <author>
+            <name>Yunan Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Asymptotic Frequency of Stochastic Oscillators]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1439584?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1439584?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 1, Page 311-338, March 2023. 
+ Abstract. We study stochastic perturbations of ODEs with stable limit cycles — referred to as stochastic oscillators — and investigate the response of the asymptotic (in time) frequency of oscillations to changing noise amplitude. Unlike previous studies, we do not restrict our attention to the small-noise limit, and we account for the fact that large deviation events may push the system out of its oscillatory regime. To do so, we consider stochastic oscillators conditioned on their remaining in an oscillatory regime for all time. This leads us to use the theory of quasi-ergodic measures, and to define quasi-asymptotic frequencies as conditional, long-time average frequencies. We show that quasi-asymptotic frequencies exist under minimal assumptions, though they may or may not be observable in practice. Our discussion recovers and expands upon previous results on stochastic oscillators in the literature. In particular, existing results imply that the asymptotic frequency of a stochastic oscillator depends quadratically on the noise amplitude. We describe scenarios where this prediction holds, though we also show that it is not true in general — potentially, even for small noise.]]></summary>
+        <author>
+            <name>Zachary P. Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Optimized Dynamic Mode Decomposition Model Robust to Multiplicative Noise]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1443832?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1443832?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 1, Page 235-268, March 2023. 
+ Abstract. Dynamic mode decomposition (DMD) is an efficient tool for decomposing spatio-temporal data into a set of low-dimensional modes, yielding the oscillation frequencies and the growth rates of physically significant modes. In this paper, we propose a novel DMD model that can be used for dynamical systems affected by multiplicative noise. We first derive a maximum a posteriori (MAP) estimator for the data-based model decomposition of a linear dynamical system corrupted by certain multiplicative noise. Applying penalty relaxation to the MAP estimator, we obtain the proposed DMD model whose epigraphical limits are the MAP estimator and the conventional optimized DMD model. We also propose an efficient alternating gradient descent method for solving the proposed DMD model and analyze its convergence behavior. The proposed model is demonstrated on both the synthetic data and the numerically generated one-dimensional combustor data and is shown to have superior reconstruction properties compared to state-of-the-art DMD models. Considering that multiplicative noise is ubiquitous in numerous dynamical systems, the proposed DMD model opens up new possibilities for accurate data-based modal decomposition.]]></summary>
+        <author>
+            <name>Minwoo Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualitative Behavior of a Metabolic Pathway with Hybrid Feedback]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M1451282?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M1451282?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 1, Page 339-381, March 2023. 
+ Abstract. We study the qualitative behavior of a model to represent local regulation in a metabolic network. The model is based on the end-product control structure introduced in [A. Goelzer et al., BMC Syst.  Biol., 2 (2008), 20]. In this class of regulation, the metabolite effector is the end product of a metabolic pathway. We suppose the input to the pathway to switch between zero and a positive value according to the concentration of the metabolite effector. Considering the switching system as a differential inclusion, we prove that it converges to a globally uniformly asymptotically stable equilibrium point, reaches the sliding mode, or oscillates around the sliding mode depending on the positive value of the input. Finally, we show that in any case the solution of the switching system is the limit of solutions of equation sequences with smooth or piecewise linear inputs.]]></summary>
+        <author>
+            <name>Claudia Lopez-Zazueta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverse scattering problem for a third-order operator with non-local potential]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000566</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000566?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.361Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 June 2023
+Source: Journal of Differential Equations, Volume 358
+Author(s): V.A. Zolotarev]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear Schrödinger equation in the Bopp-Podolsky electrodynamics: Global boundedness, blow-up and no scattering in the energy space]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000724</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000724?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.328Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 June 2023
+Source: Journal of Differential Equations, Volume 357
+Author(s): Yanfang Gao]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnack inequality and interior regularity for Markov processes with degenerate jump kernels]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000761</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000761?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.297Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 June 2023
+Source: Journal of Differential Equations, Volume 357
+Author(s): Panki Kim, Renming Song, Zoran Vondraček]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The role of the pressure in the regularity theory for the Navier-Stokes equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000621</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000621?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.273Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 June 2023
+Source: Journal of Differential Equations, Volume 357
+Author(s): Hyunju Kwon]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traveling waves for an epidemic system with bilinear incidence in a periodic patchy environment]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962300075X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300075X?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.253Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 June 2023
+Source: Journal of Differential Equations, Volume 357
+Author(s): Xue-Feng San, Zhi-Cheng Wang, Zhaosheng Feng]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bifurcation analysis in a diffusive predator-prey model with spatial memory of prey, Allee effect and maturation delay of predator]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000785</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000785?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.223Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 June 2023
+Source: Journal of Differential Equations, Volume 357
+Author(s): Shuai Li, Sanling Yuan, Zhen Jin, Hao Wang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectral analysis and long-time asymptotics for the Harry Dym-type equation with the Schwartz initial data]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000700</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000700?dgcid=rss_sd_all"/>
+        <updated>2023-02-16T00:39:13.171Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 June 2023
+Source: Journal of Differential Equations, Volume 357
+Author(s): Wenhao Liu, Xianguo Geng, Kedong Wang, Mingming Chen]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Teach Computers Math, Researchers Merge AI Approaches]]></title>
+        <id>https://www.quantamagazine.org/?p=123112</id>
+        <link href="https://www.quantamagazine.org/to-teach-computers-math-researchers-merge-ai-approaches-20230215/"/>
+        <updated>2023-02-15T15:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Large language models still struggle with basic reasoning tasks. Two new papers that apply machine learning to math provide a blueprint for how that could change.            
+The post To Teach Computers Math, Researchers Merge AI Approaches first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accuracy and Stability Analysis of the Semi-Lagrangian Method for Stiff Hyperbolic Relaxation Systems and Kinetic BGK Model]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/21M141871X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/21M141871X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-02-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 21, Issue 1, Page 143-167, March 2023. 
+ Abstract. In this paper, we develop a family of third order asymptotic-preserving (AP) and asymptotically accurate (AA) diagonally implicit Runge–Kutta (DIRK) time discretization methods for the stiff hyperbolic relaxation systems and kinetic Bhatnagar–Gross–Krook (BGK) model in the semi-Lagrangian (SL) setting. The methods are constructed based on an accuracy analysis of the SL scheme for stiff hyperbolic relaxation systems and kinetic BGK model in the limiting fluid regime when the Knudsen number approaches 0. An extra order condition for the asymptotic third order accuracy in the limiting regime is derived. Linear von Neumann stability analysis of the proposed third order DIRK methods are performed to a simplified two-velocity linear kinetic model. Extensive numerical tests are presented to demonstrate the AA, AP, and stability properties of our proposed schemes.]]></summary>
+        <author>
+            <name>Mingchang Ding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angular Values of Nonautonomous Linear Dynamical Systems: Part II – Reduction Theory and Algorithm]]></title>
         <id>https://epubs.siam.org/doi/abs/10.1137/20M1387766?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
@@ -39,147 +189,53 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The stability of diverging traveling fronts and threshold phenomenon for the buffered bistable system]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000451</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000451?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.807Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Fu-Jie Jia, Zhi-Cheng Wang]]></summary>
+        <title type="html"><![CDATA[Restoring speech intelligibility for hearing aid users with deep learning]]></title>
+        <id>https://www.nature.com/articles/s41598-023-29871-8</id>
+        <link href="https://www.nature.com/articles/s41598-023-29871-8"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Restoring speech intelligibility for hearing aid users with deep learning]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sub-exponential stability for the beam equation]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000505</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000505?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.783Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Roberto Feola, Jessica Elisa Massetti]]></summary>
+        <title type="html"><![CDATA[Generalisability of fetal ultrasound deep learning models to low-resource imaging settings in five African countries]]></title>
+        <id>https://www.nature.com/articles/s41598-023-29490-3</id>
+        <link href="https://www.nature.com/articles/s41598-023-29490-3"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Generalisability of fetal ultrasound deep learning models to low-resource imaging settings in five African countries]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero Mach number limit of the compressible primitive equations: Ill-prepared initial data]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962300044X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300044X?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.771Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Xin Liu, Edriss S. Titi]]></summary>
+        <title type="html"><![CDATA[Large network community detection by fast label propagation]]></title>
+        <id>https://www.nature.com/articles/s41598-023-29610-z</id>
+        <link href="https://www.nature.com/articles/s41598-023-29610-z"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Large network community detection by fast label propagation]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Existence and blow up behavior of positive normalized solution to the Kirchhoff equation with general nonlinearities: Mass super-critical case]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000529</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000529?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.725Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Qihan He, Zongyan Lv, Yimin Zhang, Xuexiu Zhong]]></summary>
+        <title type="html"><![CDATA[Efficient breast cancer mammograms diagnosis using three deep neural networks and term variance]]></title>
+        <id>https://www.nature.com/articles/s41598-023-29875-4</id>
+        <link href="https://www.nature.com/articles/s41598-023-29875-4"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Efficient breast cancer mammograms diagnosis using three deep neural networks and term variance]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Finsler type Lipschitz optimal transport metric for a quasilinear wave equation]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000487</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000487?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.702Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Hong Cai, Geng Chen, Yannan Shen]]></summary>
+        <title type="html"><![CDATA[Large network community detection by fast label propagation]]></title>
+        <id>https://www.nature.com/articles/s41598-023-29610-z</id>
+        <link href="https://www.nature.com/articles/s41598-023-29610-z"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Large network community detection by fast label propagation]]></summary>
         <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schrödinger equation on non-compact symmetric spaces]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000736</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000736?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.675Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Jean-Philippe Anker, Stefano Meda, Vittoria Pierfelice, Maria Vallarino, Hong-Wei Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upper and lower <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><msup><mrow><mover accent="true"><mrow><mi>H</mi></mrow><mrow><mo>˙</mo></mrow></mover></mrow><mrow><mi>m</mi></mrow></msup></math> estimates for solutions to parabolic equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000499</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000499?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.614Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Robert H. Guterres, César J. Niche, Cilon F. Perusato, Paulo R. Zingano]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pushed fronts of monostable reaction-diffusion-advection equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000554</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000554?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.566Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Hongjun Guo]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The role of the pressure in the regularity theory for the Navier-Stokes equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000621</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000621?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.520Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 June 2023
-Source: Journal of Differential Equations, Volume 357
-Author(s): Hyunju Kwon]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost reducibility of quasiperiodic <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg" class="math"><mi>S</mi><mi>L</mi><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mi mathvariant="double-struck">R</mi><mo stretchy="false">)</mo></math>-cocycles in ultradifferentiable classes]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000530</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000530?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.503Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Maxime Chatal, Claire Chavaudret]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The pointwise estimates of solutions for the 3D compressible viscoelastic fluids]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962300058X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300058X?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:26.483Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Yige Bai, Ting Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convex sets with obstacle and gradient constraints]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623000542</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623000542?dgcid=rss_sd_all"/>
-        <updated>2023-02-15T00:39:25.840Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 May 2023
-Source: Journal of Differential Equations, Volume 356
-Author(s): Assis Azevedo, Davide Azevedo, Lisa Santos]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+            <name>Computational science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -255,6 +311,37 @@ The post Gene Expression in Neurons Solves a Brain Evolution Puzzle first appear
         <summary type="html"><![CDATA[Scientific Reports - A logarithmically amortising temperature effect for supervised learning of wheat solar disinfestation of rice weevil Sitophilus oryzae (Coleoptera: Curculionidae) using plastic...]]></summary>
         <author>
             <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
+        <id>10915</id>
+        <link href="http://link.springer.com/10915"/>
+        <updated>2023-02-14T00:00:00.000Z</updated>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong Convergence of Forward–Reflected–Backward Splitting Methods for Solving Monotone Inclusions with Applications to Image Restoration and Optimal Control]]></title>
+        <id>10.1007/s10915-023-02132-6</id>
+        <link href="http://link.springer.com/10.1007/s10915-023-02132-6"/>
+        <updated>2023-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+In this paper, we propose and study several strongly convergent versions of the forward–reflected–backward splitting method of Malitsky and Tam for finding a zero of the sum of two monotone operators in a real Hilbert space. Our proposed methods only require one forward evaluation of the single-valued operator and one backward evaluation of the set-valued operator at each iteration; a feature that is absent in many other available strongly convergent splitting methods in the literature. We also develop inertial versions of our methods and strong convergence results are obtained for these methods when the set-valued operator is maximal monotone and the single-valued operator is Lipschitz continuous and monotone. Finally, we discuss some examples from image restorations and optimal control regarding the implementations of our methods in comparisons with known related methods in the literature.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-linear Manifold Reduced-Order Models with Convolutional Autoencoders and Reduced Over-Collocation Method]]></title>
+        <id>10.1007/s10915-023-02128-2</id>
+        <link href="http://link.springer.com/10.1007/s10915-023-02128-2"/>
+        <updated>2023-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Non-affine parametric dependencies, nonlinearities and advection-dominated regimes of the model of interest can result in a slow Kolmogorov n-width decay, which precludes the realization of efficient reduced-order models based on linear subspace approximations. Among the possible solutions, there are purely data-driven methods that leverage autoencoders and their variants to learn a latent representation of the dynamical system, and then evolve it in time with another architecture. Despite their success in many applications where standard linear techniques fail, more has to be done to increase the interpretability of the results, especially outside the training range and not in regimes characterized by an abundance of data. Not to mention that none of the knowledge on the physics of the model is exploited during the predictive phase. In order to overcome these weaknesses, we implement the non-linear manifold method introduced by Lee and Carlberg (J Comput Phys 404:108973, 2020) with hyper-reduction achieved through reduced over-collocation and teacher–student training of a reduced decoder. We test the methodology on a 2d non-linear conservation law and a 2d shallow water models, and compare the results obtained with a purely data-driven method for which the dynamics is evolved in time with a long-short term memory network.]]></summary>
+        <author>
+            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -617,15 +704,6 @@ The post The Joy of Asking About Infinity, Jellyfish and the End of the Universe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
-        <id>10915</id>
-        <link href="http://link.springer.com/10915"/>
-        <updated>2023-02-09T00:00:00.000Z</updated>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimal Error Estimates of Coupled and Divergence-Free Virtual Element Methods for the Poisson–Nernst–Planck/Navier–Stokes Equations and Applications in Electrochemical Systems]]></title>
         <id>10.1007/s10915-023-02126-4</id>
         <link href="http://link.springer.com/10.1007/s10915-023-02126-4"/>
@@ -654,17 +732,6 @@ In this article, we propose and analyze a fully coupled, nonlinear, and energy-s
                     -norms, respectively. Finally, several numerical experiments are presented to support the theoretical analysis of convergence and to illustrate the satisfactory performance of the method in simulating the onset of electrokinetic instabilities in ionic fluids, and studying how they are influenced by different values of ion concentration and applied voltage. These tests are relevant in applications of water desalination.]]></summary>
         <author>
             <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Lights the Universe’s Standard Candles?]]></title>
-        <id>https://www.quantamagazine.org/?p=122916</id>
-        <link href="https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/"/>
-        <updated>2023-02-08T15:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Type Ia supernovas are astronomers’ best tools for measuring cosmic distances. In a first, researchers have managed to re-create one on a supercomputer, giving a boost to a leading hypothesis for how they form.            
-The post What Lights the Universe’s Standard Candles? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Lyndie Chiou</name>
         </author>
     </entry>
     <entry>
@@ -973,16 +1040,6 @@ A solution technique is proposed for flows in porous media that guarantees local
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding microbiome dynamics via interpretable graph representation learning]]></title>
-        <id>https://www.nature.com/articles/s41598-023-29098-7</id>
-        <link href="https://www.nature.com/articles/s41598-023-29098-7"/>
-        <updated>2023-02-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Understanding microbiome dynamics via interpretable graph representation learning]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Persistence of Weighted Ordinal Partition Networks for Dynamic State Detection]]></title>
         <id>https://epubs.siam.org/doi/abs/10.1137/22M1476848?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
         <link href="https://epubs.siam.org/doi/abs/10.1137/22M1476848?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
@@ -1002,36 +1059,6 @@ A solution technique is proposed for flows in porous media that guarantees local
  Abstract. We present a mean-field formalism for modeling firing-rate statistics of brain regions whose neurons exhibit atypical firing patterns and heterogeneous electrophysiological properties. We apply the formalism to the suprachiasmatic nucleus (SCN)—the human circadian pacemaker—whose neurons can intrinsically exhibit depolarized low-amplitude membrane oscillations (DLAMOs), depolarization block (DB), and standard action potential firing at different times of day. Further, gamma-aminobutyric acid reversal potentials and molecular circadian phases of SCN neurons, among other properties, vary across the network and/or slowly over time. Our formalism consists of a system of integro-differential equations describing the time evolution of the mean and standard deviation of synaptic conductances across the network. Electrophysiological properties of SCN neurons are incorporated by computing responses to synaptic conductance inputs of a Hodgkin–Huxley-type SCN neuron model that exhibits DLAMOs and DB. Such responses are then averaged over distributions of relevant quantities and included in the differential equations. Results suggest mechanisms by which physiologically relevant changes to firing activities may arise, highlighting means by which the amplitude of firing rates may shrink, the standard deviation of firing rates may grow, and by which a mid-day dip in firing rates may appear. For instance, results show that a large spread in circadian phases across SCN neurons reduces the size of oscillations in SCN network firing activity across the 24-hour day, identifying a mechanism by which heterogeneities in neuron electrophysiology could influence circadian rhythms.]]></summary>
         <author>
             <name>Alexander G. Ginsberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retraction Note: Facial expressions can detect Parkinson’s disease: preliminary evidence from videos collected online]]></title>
-        <id>https://www.nature.com/articles/s41746-023-00761-7</id>
-        <link href="https://www.nature.com/articles/s41746-023-00761-7"/>
-        <updated>2023-02-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[npj Digital Medicine - Retraction Note: Facial expressions can detect Parkinson’s disease: preliminary evidence from videos collected online]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT: five priorities for research]]></title>
-        <id>https://www.nature.com/articles/d41586-023-00288-7</id>
-        <link href="https://www.nature.com/articles/d41586-023-00288-7"/>
-        <updated>2023-02-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Conversational AI is a game-changer for science. Here’s how to respond.]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multimodal sensor fusion in the latent representation space]]></title>
-        <id>https://www.nature.com/articles/s41598-022-24754-w</id>
-        <link href="https://www.nature.com/articles/s41598-022-24754-w"/>
-        <updated>2023-02-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Multimodal sensor fusion in the latent representation space]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -1084,93 +1111,6 @@ A solution technique is proposed for flows in porous media that guarantees local
         <summary type="html"><![CDATA[Scientific Reports - CT-based data generation for foreign object detection on a single X-ray projection]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Majority networks and local consensus algorithm]]></title>
-        <id>https://www.nature.com/articles/s41598-023-28835-2</id>
-        <link href="https://www.nature.com/articles/s41598-023-28835-2"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Majority networks and local consensus algorithm]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Compressed Sensing Based Least Squares Approach to Semi-supervised Local Cluster Extraction]]></title>
-        <id>10.1007/s10915-022-02052-x</id>
-        <link href="http://link.springer.com/10.1007/s10915-022-02052-x"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-A least squares semi-supervised local clustering algorithm based on the idea of compressed sensing is proposed to extract clusters from a graph with known adjacency matrix. The algorithm is based on a two-stage approach similar to the one proposed by Lai and Mckenzie (SIAM J Math Data Sci 2:368–395, 2020). However, under a weaker assumption and with less computational complexity, our algorithms are shown to be able to find a desired cluster with high probability. The “one cluster at a time" feature of our method distinguishes it from other global clustering methods. Numerical experiments are conducted on the synthetic data such as stochastic block model and real data such as MNIST, political blogs network, AT &T and YaleB human faces data sets to demonstrate the effectiveness and efficiency of our algorithms.]]></summary>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discrete Adjoint Computations for Relaxation Runge–Kutta Methods]]></title>
-        <id>10.1007/s10915-023-02102-y</id>
-        <link href="http://link.springer.com/10.1007/s10915-023-02102-y"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-Relaxation Runge–Kutta methods reproduce a fully discrete dissipation (or conservation) of entropy for entropy stable semi-discretizations of nonlinear conservation laws. In this paper we derive the discrete adjoint of relaxation Runge–Kutta schemes, which are applicable to discretize-then-optimize approaches for optimal control problems. Furthermore, we prove that the derived discrete relaxation Runge–Kutta adjoint preserves time-symmetry when applied to linear skew-symmetric systems of ODEs. Numerical experiments verify these theoretical results while demonstrating the importance of appropriately treating the relaxation parameter when computing the discrete adjoint.]]></summary>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interface/Boundary-Unfitted EXtended HDG Method for Linear Elasticity Problems]]></title>
-        <id>10.1007/s10915-023-02107-7</id>
-        <link href="http://link.springer.com/10.1007/s10915-023-02107-7"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-An interface/boundary-unfitted eXtended hybridizable discontinuous Galerkin (X-HDG) method of arbitrary order is proposed for linear elasticity interface problems on unfitted meshes with respect to the interface and domain boundary. The method uses piecewise polynomials of degrees 
-                      
-                      \(k\ (\ge 1)\)
-                      
-                     and 
-                      
-                      \(k-1\)
-                      
-                     respectively for the displacement and stress approximations in the interior of elements inside the subdomains separated by the interface, and piecewise polynomials of degree k for the numerical traces of the displacement on the inter-element boundaries inside the subdomains and on the interface/boundary of the domain. Optimal error estimates in 
-                      
-                      \(L^2\)
-                      
-                    -norm for the stress and displacement are derived. Finally, numerical experiments confirm the theoretical results and show that the method also applies to the case of crack-tip domain.]]></summary>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Spectral Petrov–Galerkin Method for Solving Optimal Control Problem Governed by Fractional Diffusion Equations with Fractional Noise]]></title>
-        <id>10.1007/s10915-022-02088-z</id>
-        <link href="http://link.springer.com/10.1007/s10915-022-02088-z"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-In this paper, a spectral Petrov–Galerkin method is developed to solve an optimal control problem governed by a two-sided space-fractional diffusion-reaction equation with additive fractional noise. In order to compensate weak singularities of the solution near boundaries, regularities of both the fractional noise and the optimal control problem are analyzed in weighted Sobolev space. The spectral Petrov–Galerkin method is presented by employing truncated spectral expansion of the fractional Brownian motion (fBm) type noise, and error estimates are given based on the obtained regularity of the optimal control problem. Numerical experiments are carried out to verify the theoretical findings.]]></summary>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Convergence of the Preconditioned PDHG Method: A View of Indefinite Proximal ADMM]]></title>
-        <id>10.1007/s10915-023-02105-9</id>
-        <link href="http://link.springer.com/10.1007/s10915-023-02105-9"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-The primal-dual hybrid gradient (PDHG) algorithm is popular in solving min-max problems which are being widely used in a variety of areas. To improve the applicability and efficiency of PDHG for different application scenarios, we focus on the preconditioned PDHG (PrePDHG) algorithm, which is a framework covering PDHG, alternating direction method of multipliers (ADMM), and other methods. We give the optimal convergence condition of PrePDHG in the sense that the key parameters in the condition can not be further improved, which fills the theoretical gap in the-state-of-art convergence results of PrePDHG, and obtain the ergodic and non-ergodic sublinear convergence rates of PrePDHG. The theoretical analysis is achieved by establishing the equivalence between PrePDHG and indefinite proximal ADMM. Besides, we discuss various choices of the proximal matrices in PrePDHG and derive some interesting results. For example, the convergence condition of diagonal PrePDHG is improved to be tight, the dual stepsize of the balanced augmented Lagrangian method can be enlarged to 4/3 from 1, and a balanced augmented Lagrangian method with symmetric Gauss-Seidel iterations is also explored. Numerical results on the matrix game, projection onto the Birkhoff polytope, earth mover’s distance, and CT reconstruction verify the effectiveness and superiority of PrePDHG.]]></summary>
-        <author>
-            <name>Latest Results</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make hydrogels more injectable]]></title>
-        <id>https://news.mit.edu/2023/hydrogels-blocks-injectable-tissue-repair-0131</id>
-        <link href="https://news.mit.edu/2023/hydrogels-blocks-injectable-tissue-repair-0131"/>
-        <updated>2023-01-31T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new computational framework could help researchers design granular hydrogels to repair or replace diseased tissues.]]></summary>
-        <author>
-            <name>Anne Trafton | MIT News Office</name>
         </author>
     </entry>
 </feed>
