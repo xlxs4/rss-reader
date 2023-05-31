@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T00:38:35.779Z</id>
+    <id>urn:2023-05-31T00:41:03.550Z</id>
     <title>A curated list of immersive ramblings</title>
-    <updated>2023-05-30T00:38:35.779Z</updated>
+    <updated>2023-05-31T00:41:03.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Computational Translation Framework Identifies Biochemical Reaction Networks with Special Topologies and Their Long-Term Dynamics]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/22M150469X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/22M150469X?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=smjmap&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2023-05-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SIAM Journal on Applied Mathematics, Volume 83, Issue 3, Page 1025-1048, June 2023. 
+ Abstract. Long-term behaviors of biochemical systems are described by steady states in deterministic models and stationary distributions in stochastic models. Obtaining their analytic solutions can be done for limited cases, such as linear or finite-state systems, as it generally requires solving many coupled equations. Interestingly, analytic solutions can be easily obtained when underlying networks have special topologies, called weak reversibility (WR) and zero deficiency (ZD), and the kinetic law follows a generalized form of mass-action kinetics. However, such desired topological conditions do not hold for the majority of cases. Thus, translating networks to have WR and ZD while preserving the original dynamics was proposed. Yet, this approach is limited because manually obtaining the desired network translation among the large number of candidates is challenging. Here, we prove necessary conditions for having WR and ZD after translation, and based on these conditions, we develop a user-friendly computational package, TOWARDZ, that automatically and efficiently identifies translated networks with WR and ZD. This allows us to quantitatively examine how likely it is to obtain WR and ZD after translation depending on the number of species and reactions. Importantly, we also describe how our package can be used to analytically derive steady states of deterministic models and stationary distributions of stochastic models. TOWARDZ provides an effective tool to analyze biochemical systems.]]></summary>
+        <author>
+            <name>Hyukpyo Hong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Computer assisted proofs for transverse collision and near collision orbits in the restricted three body problem]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623002486</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002486?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:25.448Z</updated>
+        <updated>2023-05-31T00:40:53.416Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): Maciej J. Capiński, Shane Kepley, J.D. Mireles James]]></summary>
@@ -18,154 +29,10 @@ Author(s): Maciej J. Capiński, Shane Kepley, J.D. Mireles James]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Continuation sheaves in dynamics: Sheaf cohomology and bifurcation]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003194</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003194?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:25.309Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): K. Alex Dowling, William D. Kalies, Robert C.A.M. Vandervorst]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global well-posedness for 2D Euler-Boussinesq equations with temperature-dependent thermal diffusivity]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003467</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003467?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:25.243Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Zhuan Ye]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharp Hessian estimates for fully nonlinear elliptic equations under relaxed convexity assumptions, oblique boundary conditions and applications]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003339</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003339?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:25.116Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Junior da S. Bessa, João Vitor da Silva, Maria N.B. Frederico, Gleydson C. Ricarte]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controlled polyhedral sweeping processes: Existence, stability, and optimality conditions]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002711</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002711?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.934Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): René Henrion, Abderrahim Jourani, Boris S. Mordukhovich]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fokas-Lenells equation on the line: Global well-posedness with solitons]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002760</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002760?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.853Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Qiaoyuan Cheng, Engui Fan]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence rates in homogenization of parabolic systems with locally periodic coefficients]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002875</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002875?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.802Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Yao Xu]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passage from the Boltzmann equation with diffuse boundary to the incompressible Euler equation with heat convection]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003005</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003005?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.724Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Yunbai Cao, Juhi Jang, Chanwoo Kim]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Least energy positive solutions for <em>d</em>-coupled Schrödinger systems with critical exponent in dimension three]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003170</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003170?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.594Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Tianhao Liu, Song You, Wenming Zou]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exponential mixing of Vlasov equations under the effect of gravity and boundary]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003157</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003157?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.446Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Jiaxin Jin, Chanwoo Kim]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient continuity for <em>p</em>(<em>x</em>)-Laplacian systems under minimal conditions on the exponent]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003285</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003285?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.348Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Paolo Baroni]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hölder estimates of weak solutions to degenerate chemotaxis systems with a source term]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002735</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002735?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.280Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): M. Marras, F. Ragnedda, S. Vernier-Piro, V. Vespri]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partial functional differential equations and Conley index]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002759</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002759?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.188Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): M.C. Carbinatto, K.P. Rybakowski]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Large time behavior of solutions to a diffusion approximation radiation hydrodynamics model]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623003029</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003029?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.139Z</updated>
+        <updated>2023-05-31T00:40:53.299Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): Wenjun Wang, Feng Xie, Xiongfeng Yang]]></summary>
@@ -174,13 +41,25 @@ Author(s): Wenjun Wang, Feng Xie, Xiongfeng Yang]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A BSDEs approach to pathwise uniqueness for stochastic evolution equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002747</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002747?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:24.022Z</updated>
+        <title type="html"><![CDATA[Exponential mixing of Vlasov equations under the effect of gravity and boundary]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003157</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003157?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:53.197Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
-Author(s): Davide Addona, Federica Masiero, Enrico Priola]]></summary>
+Author(s): Jiaxin Jin, Chanwoo Kim]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlled polyhedral sweeping processes: Existence, stability, and optimality conditions]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002711</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002711?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:53.082Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): René Henrion, Abderrahim Jourani, Boris S. Mordukhovich]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -189,7 +68,7 @@ Author(s): Davide Addona, Federica Masiero, Enrico Priola]]></summary>
         <title type="html"><![CDATA[Boundary value problems with rough boundary data]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623002541</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002541?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.926Z</updated>
+        <updated>2023-05-31T00:40:53.028Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): Robert Denk, David Ploß, Sophia Rau, Jörg Seiler]]></summary>
@@ -198,118 +77,10 @@ Author(s): Robert Denk, David Ploß, Sophia Rau, Jörg Seiler]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The field-road diffusion model: Fundamental solution and asymptotic behavior]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003303</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003303?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.867Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Matthieu Alfaro, Romain Ducasse, Samuel Tréton]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global existence and boundedness for an <em>N</em>-dimensional parabolic-elliptic chemotaxis-fluid system with indirect pursuit-evasion]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003273</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003273?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.822Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Jiashan Zheng, Pengmei Zhang, Xiuran Liu]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On well-posedness of an evolutionary model for magnetoelasticity: hydrodynamics of viscoelasticity and Landau-Lifshitz-Gilbert systems]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003182</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003182?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.736Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Ning Jiang, Hui Liu, Yi-Long Luo]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local well-posedness for the kinetic Cucker–Smale model with super-Coulombic communication weights]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003625</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003625?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.629Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Young-Pil Choi, Jinwook Jung]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lipschitz structural stability of group actions with the shadowing property]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002243</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002243?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.554Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Alfonso Artigue, Meihua Dong]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pointwise decay of solutions to the energy critical nonlinear Schrödinger equations]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962300284X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300284X?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.495Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Zihua Guo, Chunyan Huang, Liang Song]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive singular solutions of a nonlinear Maxwell equation arising in mesoscopic electromagnetism]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002528</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002528?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.436Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Zongming Guo, Fangshu Wan, Feng Zhou]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotation sets and rotational entropy for random dynamical systems on the torus]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003455</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003455?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.371Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 September 2023
-Source: Journal of Differential Equations, Volume 367
-Author(s): Yujun Zhu]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schrödinger-Lohe type models of quantum synchronization with nonidentical oscillators]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002772</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002772?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.314Z</updated>
-        <summary type="html"><![CDATA[Publication date: 5 September 2023
-Source: Journal of Differential Equations, Volume 366
-Author(s): Paolo Antonelli, David N. Reynolds]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Global small solutions of MHD boundary layer equations in Gevrey function space*]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623002851</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002851?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.265Z</updated>
+        <updated>2023-05-31T00:40:52.976Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): Zhong Tan, Zhonger Wu]]></summary>
@@ -318,13 +89,265 @@ Author(s): Zhong Tan, Zhonger Wu]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nagumo-type uniqueness and stability for nonlinear differential equations on semi-infinite intervals]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003297</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003297?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.178Z</updated>
+        <title type="html"><![CDATA[Global well-posedness for 2D Euler-Boussinesq equations with temperature-dependent thermal diffusivity]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003467</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003467?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.885Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Zhuan Ye]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passage from the Boltzmann equation with diffuse boundary to the incompressible Euler equation with heat convection]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003005</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003005?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.782Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Yunbai Cao, Juhi Jang, Chanwoo Kim]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharp Hessian estimates for fully nonlinear elliptic equations under relaxed convexity assumptions, oblique boundary conditions and applications]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003339</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003339?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.685Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 September 2023
 Source: Journal of Differential Equations, Volume 367
-Author(s): Jifeng Chu, Zihao Wang]]></summary>
+Author(s): Junior da S. Bessa, João Vitor da Silva, Maria N.B. Frederico, Gleydson C. Ricarte]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of diffusion and advection on predator-prey dynamics in closed environments]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003327</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003327?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.543Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Hua Nie, Shixia Xin, Hongying Shu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hölder estimates of weak solutions to degenerate chemotaxis systems with a source term]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002735</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002735?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.485Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): M. Marras, F. Ragnedda, S. Vernier-Piro, V. Vespri]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The field-road diffusion model: Fundamental solution and asymptotic behavior]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003303</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003303?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.414Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Matthieu Alfaro, Romain Ducasse, Samuel Tréton]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A BSDEs approach to pathwise uniqueness for stochastic evolution equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002747</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002747?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.355Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Davide Addona, Federica Masiero, Enrico Priola]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fokas-Lenells equation on the line: Global well-posedness with solitons]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002760</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002760?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.283Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Qiaoyuan Cheng, Engui Fan]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positive singular solutions of a nonlinear Maxwell equation arising in mesoscopic electromagnetism]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002528</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002528?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.228Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Zongming Guo, Fangshu Wan, Feng Zhou]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schrödinger-Lohe type models of quantum synchronization with nonidentical oscillators]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002772</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002772?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.168Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Paolo Antonelli, David N. Reynolds]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuation sheaves in dynamics: Sheaf cohomology and bifurcation]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003194</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003194?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:52.107Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): K. Alex Dowling, William D. Kalies, Robert C.A.M. Vandervorst]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradient continuity for <em>p</em>(<em>x</em>)-Laplacian systems under minimal conditions on the exponent]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003285</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003285?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.984Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Paolo Baroni]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pointwise decay of solutions to the energy critical nonlinear Schrödinger equations]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962300284X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300284X?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.927Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Zihua Guo, Chunyan Huang, Liang Song]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partial functional differential equations and Conley index]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002759</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002759?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.886Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): M.C. Carbinatto, K.P. Rybakowski]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global existence and boundedness for an <em>N</em>-dimensional parabolic-elliptic chemotaxis-fluid system with indirect pursuit-evasion]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003273</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003273?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.763Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Jiashan Zheng, Pengmei Zhang, Xiuran Liu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local well-posedness for the kinetic Cucker–Smale model with super-Coulombic communication weights]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003625</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003625?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.636Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Young-Pil Choi, Jinwook Jung]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On well-posedness of an evolutionary model for magnetoelasticity: hydrodynamics of viscoelasticity and Landau-Lifshitz-Gilbert systems]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003182</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003182?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.572Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Ning Jiang, Hui Liu, Yi-Long Luo]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convergence rates in homogenization of parabolic systems with locally periodic coefficients]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002875</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002875?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.459Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Yao Xu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rigidity of the sharp Bezout estimate on nonnegatively curved Riemann surfaces]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003340</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003340?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.272Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Chengjie Yu, Chuangyuan Zhang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Least energy positive solutions for <em>d</em>-coupled Schrödinger systems with critical exponent in dimension three]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003170</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003170?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.230Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Tianhao Liu, Song You, Wenming Zou]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rigorous biaxial limit of a molecular-theory-based two-tensor hydrodynamics]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962300356X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962300356X?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:51.129Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Sirui Li, Jie Xu]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lipschitz structural stability of group actions with the shadowing property]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623002243</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002243?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:50.991Z</updated>
+        <summary type="html"><![CDATA[Publication date: 5 September 2023
+Source: Journal of Differential Equations, Volume 366
+Author(s): Alfonso Artigue, Meihua Dong]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -333,7 +356,7 @@ Author(s): Jifeng Chu, Zihao Wang]]></summary>
         <title type="html"><![CDATA[Normality and second-order optimality conditions in state-constrained optimal control problems with bounded minimizers]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S002203962300270X</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S002203962300270X?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:23.077Z</updated>
+        <updated>2023-05-31T00:40:50.952Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): D.Yu. Karamzin]]></summary>
@@ -342,10 +365,22 @@ Author(s): D.Yu. Karamzin]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nagumo-type uniqueness and stability for nonlinear differential equations on semi-infinite intervals]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003297</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003297?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:50.872Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Jifeng Chu, Zihao Wang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Physical measures for ash attractors]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623003315</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003315?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:22.956Z</updated>
+        <updated>2023-05-31T00:40:50.809Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 September 2023
 Source: Journal of Differential Equations, Volume 367
 Author(s): B. San Martín, Kendry J. Vivas]]></summary>
@@ -357,7 +392,7 @@ Author(s): B. San Martín, Kendry J. Vivas]]></summary>
         <title type="html"><![CDATA[Weak-strong uniqueness and vanishing viscosity for incompressible Euler equations in exponential spaces]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623003595</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003595?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:22.901Z</updated>
+        <updated>2023-05-31T00:40:50.769Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): Luigi De Rosa, Marco Inversi, Giorgio Stefani]]></summary>
@@ -366,25 +401,25 @@ Author(s): Luigi De Rosa, Marco Inversi, Giorgio Stefani]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rigidity of the sharp Bezout estimate on nonnegatively curved Riemann surfaces]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003340</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003340?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:22.816Z</updated>
+        <title type="html"><![CDATA[Sign-changing bubble tower solutions for sinh-Poisson type equations on pierced domains]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003443</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003443?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:50.473Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 September 2023
 Source: Journal of Differential Equations, Volume 367
-Author(s): Chengjie Yu, Chuangyuan Zhang]]></summary>
+Author(s): Pablo Figueroa]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Effects of diffusion and advection on predator-prey dynamics in closed environments]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003327</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003327?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:22.669Z</updated>
+        <title type="html"><![CDATA[Rotation sets and rotational entropy for random dynamical systems on the torus]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003455</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003455?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:50.401Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 September 2023
 Source: Journal of Differential Equations, Volume 367
-Author(s): Hua Nie, Shixia Xin, Hongying Shu]]></summary>
+Author(s): Yujun Zhu]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -393,7 +428,7 @@ Author(s): Hua Nie, Shixia Xin, Hongying Shu]]></summary>
         <title type="html"><![CDATA[On 2D incompressible Boussinesq systems: Global stabilization under dynamic boundary conditions]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623003364</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003364?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:21.528Z</updated>
+        <updated>2023-05-31T00:40:49.321Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 September 2023
 Source: Journal of Differential Equations, Volume 367
 Author(s): Jiahong Wu, Kun Zhao]]></summary>
@@ -405,12 +440,103 @@ Author(s): Jiahong Wu, Kun Zhao]]></summary>
         <title type="html"><![CDATA[A priori estimates for non-coercive Dirichlet problems with subquadratic gradient terms]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039623002723</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039623002723?dgcid=rss_sd_all"/>
-        <updated>2023-05-30T00:38:21.493Z</updated>
+        <updated>2023-05-31T00:40:49.238Z</updated>
         <summary type="html"><![CDATA[Publication date: 5 September 2023
 Source: Journal of Differential Equations, Volume 366
 Author(s): José Carmona, Salvador López-Martínez, Pedro J. Martínez-Aparicio]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weak and classical solutions to an asymptotic model for atmospheric flows]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039623003637</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039623003637?dgcid=rss_sd_all"/>
+        <updated>2023-05-31T00:40:48.625Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 September 2023
+Source: Journal of Differential Equations, Volume 367
+Author(s): Bogdan-Vasile Matioc, Luigi Roberti]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 3D Changes in the Genome Turned Sharks Into Skates]]></title>
+        <id>https://www.quantamagazine.org/?p=126374</id>
+        <link href="https://www.quantamagazine.org/how-3d-changes-in-the-genome-turned-sharks-into-skates-20230530/"/>
+        <updated>2023-05-30T13:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Changes in the 3D structure of their genome gave skates and rays their distinctive winglike fins and pancake flatness.            
+The post How 3D Changes in the Genome Turned Sharks Into Skates first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Viviane Callier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmic coding and transfer storage (COSMOCATS) for invincible key storage]]></title>
+        <id>https://www.nature.com/articles/s41598-023-35325-y</id>
+        <link href="https://www.nature.com/articles/s41598-023-35325-y"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Cosmic coding and transfer storage (COSMOCATS) for invincible key storage]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-driven direct diagnosis of Li-ion batteries connected to photovoltaics]]></title>
+        <id>https://www.nature.com/articles/s41467-023-38895-7</id>
+        <link href="https://www.nature.com/articles/s41467-023-38895-7"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Li-ion batteries are used to store energy harvested from photovoltaics. However, battery use is sporadic and standard diagnostic methods cannot be applied. Here, the authors propose a methodology for diagnosing photovoltaics-connected Li-ion batteries that use trained machine learning algorithms.]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmic coding and transfer storage (COSMOCATS) for invincible key storage]]></title>
+        <id>https://www.nature.com/articles/s41598-023-35325-y</id>
+        <link href="https://www.nature.com/articles/s41598-023-35325-y"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Cosmic coding and transfer storage (COSMOCATS) for invincible key storage]]></summary>
+        <author>
+            <name>Computational science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hopf physical reservoir computer for reconfigurable sound recognition]]></title>
+        <id>https://www.nature.com/articles/s41598-023-35760-x</id>
+        <link href="https://www.nature.com/articles/s41598-023-35760-x"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Hopf physical reservoir computer for reconfigurable sound recognition]]></summary>
+        <author>
+            <name>Computational science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
+        <id>10915</id>
+        <link href="http://link.springer.com/10915"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primal-Dual Finite Element Method for Scalar and Vectorial Total Variation Minimization]]></title>
+        <id>10.1007/s10915-023-02209-2</id>
+        <link href="http://link.springer.com/10.1007/s10915-023-02209-2"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Based on the Fenchel duality we build a primal-dual framework for minimizing a general functional consisting of a combined 
+                      
+                      \(L^1\)
+                      
+                     and 
+                      
+                      \(L^2\)
+                      
+                     data-fidelity term and a scalar or vectorial total variation regularisation term. The minimization is performed over the space of functions of bounded variations and appropriate discrete subspaces. We analyze the existence and uniqueness of solutions of the respective minimization problems. For computing a numerical solution we derive a semi-smooth Newton method on finite element spaces and highlight applications in denoising, inpainting and optical flow estimation.]]></summary>
+        <author>
+            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -461,15 +587,6 @@ Author(s): José Carmona, Salvador López-Martínez, Pedro J. Martínez-Aparicio
         <summary type="html"><![CDATA[Scientific Reports - Dynamic patterns of electroosmosis peristaltic flow of a Bingham fluid model in a complex wavy microchannel]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
-        <id>10915</id>
-        <link href="http://link.springer.com/10915"/>
-        <updated>2023-05-29T00:00:00.000Z</updated>
-        <author>
-            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -786,6 +903,16 @@ The inverse eigenvalue problem for a weighted Helmholtz equation is investigated
 The post Is It Real or Imagined? How Your Brain Tells the Difference. first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Yasemin Saplakoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards quantum machine learning]]></title>
+        <id>https://www.nature.com/articles/d41586-023-01718-2</id>
+        <link href="https://www.nature.com/articles/d41586-023-01718-2"/>
+        <updated>2023-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jungsang Kim discusses his interest in the pioneering technology.]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -1254,17 +1381,6 @@ In this paper, semi-discrete numerical scheme for the approximation of the perio
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Secret Messages Can Hide in AI-Generated Media]]></title>
-        <id>https://www.quantamagazine.org/?p=126078</id>
-        <link href="https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/"/>
-        <updated>2023-05-18T14:00:05.000Z</updated>
-        <summary type="html"><![CDATA[In steganography, an ordinary message masks the presence of a secret communication. Humans can never do it perfectly, but a new study shows it’s possible for machines.            
-The post Secret Messages Can Hide in AI-Generated Media first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Stephen Ornes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stacked Central Configurations with a Homogeneous Potential in [math]]]></title>
         <id>https://epubs.siam.org/doi/abs/10.1137/22M1495032?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
         <link href="https://epubs.siam.org/doi/abs/10.1137/22M1495032?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
@@ -1283,47 +1399,6 @@ The post Secret Messages Can Hide in AI-Generated Media first appeared on Quanta
         <summary type="html"><![CDATA[Dmitry Krotov discusses recent theoretical advances in Hopfield networks and their broader impact in the context of energy-based neural architectures.]]></summary>
         <author>
             <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M100 ExaData: a data collection campaign on the CINECA’s Marconi100 Tier-0 supercomputer]]></title>
-        <id>https://www.nature.com/articles/s41597-023-02174-3</id>
-        <link href="https://www.nature.com/articles/s41597-023-02174-3"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Data - M100 ExaData: a data collection campaign on the CINECA’s Marconi100 Tier-0 supercomputer]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General framework for E(3)-equivariant neural network representation of density functional theory Hamiltonian]]></title>
-        <id>https://www.nature.com/articles/s41467-023-38468-8</id>
-        <link href="https://www.nature.com/articles/s41467-023-38468-8"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fundamental symmetries are crucial to the deep-learning modeling of physical systems. Here the authors use equivariant neural networks preserving the Euclidean symmetries to accelerate electronic structure calculations by orders of magnitude keeping sub-meV accuracy.]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embedding responsibility in intelligent systems: from AI ethics to responsible AI ecosystems]]></title>
-        <id>https://www.nature.com/articles/s41598-023-34622-w</id>
-        <link href="https://www.nature.com/articles/s41598-023-34622-w"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Embedding responsibility in intelligent systems: from AI ethics to responsible AI ecosystems]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence Analysis of the Fully Discrete Projection Method for Inductionless Magnetohydrodynamics System Based on Charge Conservation]]></title>
-        <id>10.1007/s10915-023-02226-1</id>
-        <link href="http://link.springer.com/10.1007/s10915-023-02226-1"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-In this paper, we focus on a finite element projection method for inductionless magnetohydrodynamics equations. A fully discrete projection method based on Euler semi-implicit scheme is proposed in which continuous elements are used to approximate the Navier–Stokes equations and the divergence-conforming element is used to approximate the current density. The key of the projection method is that it must be compatible with two different spaces for calculating velocity, which leads to solve the pressure by solving a Poisson equation. The results show that the proposed projection scheme meets a discrete energy stability and the discrete current density keeps charge conservation property. In addition, this paper provides a rigorous optimal error analysis of velocity, pressure and current density. Finally, several numerical examples are performed to demonstrate both accuracy and efficiency of our proposed scheme.]]></summary>
-        <author>
-            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -1396,46 +1471,6 @@ In this paper, we focus on a finite element projection method for inductionless 
         <summary type="html"><![CDATA[Leo Anthony Celi invites industry to broaden its focus in gathering and analyzing clinical data for every population.]]></summary>
         <author>
             <name>Eric Bender | MIT Industrial Liaison Program</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving video surveillance systems in banks using deep learning techniques]]></title>
-        <id>https://www.nature.com/articles/s41598-023-35190-9</id>
-        <link href="https://www.nature.com/articles/s41598-023-35190-9"/>
-        <updated>2023-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Improving video surveillance systems in banks using deep learning techniques]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparse identification of Lagrangian for nonlinear dynamical systems via proximal gradient method]]></title>
-        <id>https://www.nature.com/articles/s41598-023-34931-0</id>
-        <link href="https://www.nature.com/articles/s41598-023-34931-0"/>
-        <updated>2023-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Sparse identification of Lagrangian for nonlinear dynamical systems via proximal gradient method]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative and discriminative training of Boltzmann machine through quantum annealing]]></title>
-        <id>https://www.nature.com/articles/s41598-023-34652-4</id>
-        <link href="https://www.nature.com/articles/s41598-023-34652-4"/>
-        <updated>2023-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Generative and discriminative training of Boltzmann machine through quantum annealing]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GaNDLF: the generally nuanced deep learning framework for scalable end-to-end clinical workflows]]></title>
-        <id>https://www.nature.com/articles/s44172-023-00066-3</id>
-        <link href="https://www.nature.com/articles/s44172-023-00066-3"/>
-        <updated>2023-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The increasing complexity of the implementation and operation of deep learning techniques hinders their reproducibility and deployment at scale, especially in healthcare. Pati and colleagues introduce a deep learning framework to analyse healthcare data without requiring extensive computational experience, facilitating the integration of artificial intelligence in clinical workflows.]]></summary>
-        <author>
-            <name>Computational science : nature.com subject feeds</name>
         </author>
     </entry>
 </feed>
