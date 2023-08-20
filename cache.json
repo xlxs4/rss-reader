@@ -41,7 +41,7 @@
           "description": "A new study bridging neuroscience and machine learning offers insights into the potential role of astrocytes in the human brain.",
           "link": "https://news.mit.edu/2023/ai-models-astrocytes-role-brain-0815",
           "publishedOn": "2023-08-15T17:00:00.000Z",
-          "wordCount": 2991,
+          "wordCount": 3003,
           "title": "AI models are powerful, but are they biologically plausible?",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202308/MIT_Astrocyte-Transformer-01-press.jpg"
         },
@@ -61,7 +61,7 @@
           "description": "Predictions from the OncoNPC model could enable doctors to choose targeted treatments for difficult-to-treat tumors.",
           "link": "https://news.mit.edu/2023/ai-model-can-help-determine-where-patients-cancer-arose-0807",
           "publishedOn": "2023-08-07T15:00:00.000Z",
-          "wordCount": 2885,
+          "wordCount": 2888,
           "title": "AI model can help determine where a patient’s cancer arose",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202308/MIT-Unknown-Cancer-01.jpg"
         }
@@ -78,7 +78,7 @@
           "description": "Scientific Reports - Deepfakes and scientific knowledge dissemination",
           "link": "https://www.nature.com/articles/s41598-023-39944-3",
           "publishedOn": "2023-08-18T00:00:00.000Z",
-          "wordCount": 11060,
+          "wordCount": 11062,
           "title": "Deepfakes and scientific knowledge dissemination",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-39944-3/MediaObjects/41598_2023_39944_Fig1_HTML.png"
         },
@@ -380,12 +380,22 @@
       "siteUrl": "https://www.nature.com/subjects/computational-science",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41598-023-40564-0",
+          "author": null,
+          "description": "Scientific Reports - Land use and land cover (LULC) performance modeling using machine learning algorithms: a case study of the city of Melbourne, Australia",
+          "link": "https://www.nature.com/articles/s41598-023-40564-0",
+          "publishedOn": "2023-08-19T00:00:00.000Z",
+          "wordCount": 8007,
+          "title": "Land use and land cover (LULC) performance modeling using machine learning algorithms: a case study of the city of Melbourne, Australia",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-40564-0/MediaObjects/41598_2023_40564_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s42005-023-01331-9",
           "author": null,
           "description": "The paper presents an approach for solving optimization problems with multiple arbitrary constraints on quantum computers by combining quantum Zeno dynamics with common quantum optimization algorithms like QAOA. The number of Zeno measurements required is shown to be independent of the problem size in QAOA.",
           "link": "https://www.nature.com/articles/s42005-023-01331-9",
           "publishedOn": "2023-08-18T00:00:00.000Z",
-          "wordCount": 16803,
+          "wordCount": 16805,
           "title": "Constrained optimization via quantum Zeno dynamics",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-023-01331-9/MediaObjects/42005_2023_1331_Fig1_HTML.png"
         },
@@ -628,16 +638,6 @@
           "wordCount": 11176,
           "title": "STENCIL-NET for equation-free forecasting from data",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-39418-6/MediaObjects/41598_2023_39418_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41597-023-02405-7",
-          "author": null,
-          "description": "Scientific Data - ReCANVo: A database of real-world communicative and affective nonverbal vocalizations",
-          "link": "https://www.nature.com/articles/s41597-023-02405-7",
-          "publishedOn": "2023-08-05T00:00:00.000Z",
-          "wordCount": 8191,
-          "title": "ReCANVo: A database of real-world communicative and affective nonverbal vocalizations",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-023-02405-7/MediaObjects/41597_2023_2405_Fig1_HTML.png"
         }
       ]
     },
@@ -704,13 +704,93 @@
       "siteUrl": "https://www.sciencedirect.com/journal/journal-of-differential-equations",
       "articles": [
         {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623004953",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Yeyao Hu, Weihong Xie",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623004953?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:16.509Z",
+          "wordCount": 16728,
+          "title": "Cluster solutions for the FitzHugh-Nagumo system with Neumann boundary conditions",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S002203962300493X",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Alain Blaustein",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002203962300493X?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:16.326Z",
+          "wordCount": 17602,
+          "title": "Large coupling in a FitzHugh-Nagumo neural network: Quantitative and strong convergence results",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005156",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Jincheng Gao, Lianyun Peng, Zheng-an Yao",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005156?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:16.262Z",
+          "wordCount": 17938,
+          "title": "Local-in-time well-posedness theory for the inhomogeneous MHD boundary layer equations without resistivity in lower regular Sobolev space",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623004990",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Ke Wang, Zengji Du, Jiang Liu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623004990?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:16.195Z",
+          "wordCount": 17746,
+          "title": "Traveling pulses of coupled FitzHugh-Nagumo equations with doubly-diffusive effect",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005302",
+          "author": null,
+          "description": "Publication date: 5 December 2023\nSource: Journal of Differential Equations, Volume 375\nAuthor(s): Rainer Buckdahn, Juan Li, Chuanzhi Xing",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005302?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:16.138Z",
+          "wordCount": 19809,
+          "title": "Doubly-stochastic interpretation for nonlocal semi-linear backward stochastic partial differential equations",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005107",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Wenhua He, Ruixiang Xing",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005107?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.966Z",
+          "wordCount": 18386,
+          "title": "Bifurcation analysis of a free boundary problem modeling multilayered tumor growth with time delay",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005089",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Michael Winkler, Tomomi Yokota",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005089?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.869Z",
+          "wordCount": 18700,
+          "title": "Avoiding critical mass phenomena by arbitrarily mild saturation of cross-diffusive fluxes in two-dimensional Keller-Segel-Navier-Stokes systems",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005168",
           "author": null,
           "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Feng Dai",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005168?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:09.465Z",
+          "publishedOn": "2023-08-20T00:32:15.804Z",
           "wordCount": 23143,
           "title": "Asymptotic stabilization in a three-dimensional Keller-Segel-Stokes system with indirect signal production and subquadratic degradation",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005144",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Song Gao, Shengxin Li, Jing Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005144?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.677Z",
+          "wordCount": 19343,
+          "title": "Vanishing dissipation limit of solutions to initial boundary value problem for three dimensional incompressible magneto-hydrodynamic equations with transverse magnetic field",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -718,7 +798,7 @@
           "author": null,
           "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Weiwei Hu, Carlos N. Rautenberg, Xiaoming Zheng",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623004825?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:09.226Z",
+          "publishedOn": "2023-08-20T00:32:15.579Z",
           "wordCount": 19053,
           "title": "Feedback control for fluid mixing via advection",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -728,139 +808,9 @@
           "author": null,
           "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Chan Li, Jin Liang, Ti-Jun Xiao",
           "link": "https://www.sciencedirect.com/science/article/pii/S002203962300517X?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:09.110Z",
+          "publishedOn": "2023-08-20T00:32:15.443Z",
           "wordCount": 19638,
           "title": "Regularity and stability of wave equations with variable coefficients and Wentzell type boundary conditions",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962300493X",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Alain Blaustein",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962300493X?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:09.025Z",
-          "wordCount": 17602,
-          "title": "Large coupling in a FitzHugh-Nagumo neural network: Quantitative and strong convergence results",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623004953",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Yeyao Hu, Weihong Xie",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623004953?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.945Z",
-          "wordCount": 16724,
-          "title": "Cluster solutions for the FitzHugh-Nagumo system with Neumann boundary conditions",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005089",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Michael Winkler, Tomomi Yokota",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005089?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.892Z",
-          "wordCount": 18700,
-          "title": "Avoiding critical mass phenomena by arbitrarily mild saturation of cross-diffusive fluxes in two-dimensional Keller-Segel-Navier-Stokes systems",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005144",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Song Gao, Shengxin Li, Jing Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005144?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.793Z",
-          "wordCount": 19343,
-          "title": "Vanishing dissipation limit of solutions to initial boundary value problem for three dimensional incompressible magneto-hydrodynamic equations with transverse magnetic field",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005156",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Jincheng Gao, Lianyun Peng, Zheng-an Yao",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005156?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.696Z",
-          "wordCount": 17938,
-          "title": "Local-in-time well-posedness theory for the inhomogeneous MHD boundary layer equations without resistivity in lower regular Sobolev space",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005107",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Wenhua He, Ruixiang Xing",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005107?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.623Z",
-          "wordCount": 18386,
-          "title": "Bifurcation analysis of a free boundary problem modeling multilayered tumor growth with time delay",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623004990",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Ke Wang, Zengji Du, Jiang Liu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623004990?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.497Z",
-          "wordCount": 17746,
-          "title": "Traveling pulses of coupled FitzHugh-Nagumo equations with doubly-diffusive effect",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005120",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Xiaoping Zhai",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005120?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.382Z",
-          "wordCount": 14387,
-          "title": "Stability for the 2D incompressible MHD equations with only magnetic diffusion",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005090",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Yan Zhuang, Daxiong Piao, Yanmin Niu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005090?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.354Z",
-          "wordCount": 16783,
-          "title": "Invariant curves of quasi-periodic reversible mappings and its application",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005193",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Alan V. Lair, Ahmed Mohammed",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005193?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.247Z",
-          "wordCount": 16257,
-          "title": "Necessary and sufficient conditions for the existence of large solutions to semilinear elliptic equations with gradient terms",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005181",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Hyunseok Kim, Hyunwoo Kwon",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005181?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.170Z",
-          "wordCount": 18193,
-          "title": "Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005119",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Bomi Shin",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005119?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:08.086Z",
-          "wordCount": 15755,
-          "title": "Stability properties of singular suspension flows",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005132",
-          "author": null,
-          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Katherine Zhiyuan Zhang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005132?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:07.780Z",
-          "wordCount": 19478,
-          "title": "Continuous family of equilibria of the 3D axisymmetric relativistic Vlasov-Maxwell system",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -868,19 +818,79 @@
           "author": null,
           "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Mahyar Mahinzaeim, Gen Qi Xu, Hai E Zhang",
           "link": "https://www.sciencedirect.com/science/article/pii/S002203962300520X?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:07.719Z",
+          "publishedOn": "2023-08-20T00:32:15.383Z",
           "wordCount": 18060,
           "title": "On the exponential stability of Beck's Problem on a star-shaped graph",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005302",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005181",
           "author": null,
-          "description": "Publication date: 5 December 2023\nSource: Journal of Differential Equations, Volume 375\nAuthor(s): Rainer Buckdahn, Juan Li, Chuanzhi Xing",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005302?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:06.031Z",
-          "wordCount": 19809,
-          "title": "Doubly-stochastic interpretation for nonlocal semi-linear backward stochastic partial differential equations",
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Hyunseok Kim, Hyunwoo Kwon",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005181?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.320Z",
+          "wordCount": 18193,
+          "title": "Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005090",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Yan Zhuang, Daxiong Piao, Yanmin Niu",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005090?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.220Z",
+          "wordCount": 16783,
+          "title": "Invariant curves of quasi-periodic reversible mappings and its application",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005132",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Katherine Zhiyuan Zhang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005132?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.156Z",
+          "wordCount": 19478,
+          "title": "Continuous family of equilibria of the 3D axisymmetric relativistic Vlasov-Maxwell system",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005120",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Xiaoping Zhai",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005120?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.108Z",
+          "wordCount": 14387,
+          "title": "Stability for the 2D incompressible MHD equations with only magnetic diffusion",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005193",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Alan V. Lair, Ahmed Mohammed",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005193?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:15.053Z",
+          "wordCount": 16257,
+          "title": "Necessary and sufficient conditions for the existence of large solutions to semilinear elliptic equations with gradient terms",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005119",
+          "author": null,
+          "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Bomi Shin",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005119?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:14.837Z",
+          "wordCount": 15755,
+          "title": "Stability properties of singular suspension flows",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005363",
+          "author": null,
+          "description": "Publication date: 5 December 2023\nSource: Journal of Differential Equations, Volume 375\nAuthor(s): Jong-Shenq Guo, Masahiko Shimojo",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005363?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:14.700Z",
+          "wordCount": 15192,
+          "title": "Convergence to traveling waves in reaction-diffusion systems with equal diffusivities",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -888,9 +898,19 @@
           "author": null,
           "description": "Publication date: 5 December 2023\nSource: Journal of Differential Equations, Volume 375\nAuthor(s): Manas Bhatnagar, Hailiang Liu, Changhui Tan",
           "link": "https://www.sciencedirect.com/science/article/pii/S002203962300534X?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:05.399Z",
+          "publishedOn": "2023-08-20T00:32:14.562Z",
           "wordCount": 16163,
           "title": "Critical thresholds in the Euler-Poisson-alignment system",
+          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623005351",
+          "author": null,
+          "description": "Publication date: 5 December 2023\nSource: Journal of Differential Equations, Volume 375\nAuthor(s): Jia-Cheng Zhao, Rong-Nian Wang",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005351?dgcid=rss_sd_all",
+          "publishedOn": "2023-08-20T00:32:13.896Z",
+          "wordCount": 17412,
+          "title": "The invariant manifold approach applied to global long-time dynamics of FitzHugh-Nagumo systems",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
@@ -898,7 +918,7 @@
           "author": null,
           "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): Guozhen Li, Xiaoyue Li, Xuerong Mao, Guoting Song",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005077?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:05.355Z",
+          "publishedOn": "2023-08-20T00:32:13.703Z",
           "wordCount": 11352,
           "title": "Hybrid stochastic functional differential equations with infinite delay: Approximations and numerics",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -908,7 +928,7 @@
           "author": null,
           "description": "Publication date: 25 November 2023\nSource: Journal of Differential Equations, Volume 374\nAuthor(s): A.A. Abrashkin, A. Constantin",
           "link": "https://www.sciencedirect.com/science/article/pii/S0022039623005296?dgcid=rss_sd_all",
-          "publishedOn": "2023-08-19T00:29:05.321Z",
+          "publishedOn": "2023-08-20T00:32:13.689Z",
           "wordCount": 11320,
           "title": "A steady azimuthal stratified flow modelling the Antarctic Circumpolar Current",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
@@ -946,7 +966,7 @@
           "description": "Abstract\nWe present a finite element discretization scheme for multidimensional fractional diffusion problems with spatially varying diffusivity and fractional order. We consider the symmetric integral form of these nonlocal equations defined on general geometries and in arbitrary bounded domains. A number of challenges are encountered when discretizing these equations. The first comes from the heterogeneous kernel singularity in the fractional integral operator. The second comes from the formally dense discrete operator with its quadratic growth in memory footprint and arithmetic operations. An additional challenge comes from the need to handle volume conditions—the generalization of classical local boundary conditions to the nonlocal setting. Satisfying these conditions requires that the…",
           "link": "http://link.springer.com/10.1007/s10915-023-02318-y",
           "publishedOn": "2023-08-16T00:00:00.000Z",
-          "wordCount": 18914,
+          "wordCount": 18573,
           "title": "Finite Element Discretizations for Variable-Order Fractional Diffusion Problems",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -996,7 +1016,7 @@
           "description": "Abstract\nIn this paper, based on a double inertial extrapolation steps strategy and relaxation techniques, we introduce a modified Tseng splitting method with double inertial extrapolation steps and self-adaptive step sizes for solving monotone inclusion problems in real Hilbert spaces. Under mild and standard assumptions, we establish successively the weak convergence, nonasymptotic \n                      \n                      \\(O(\\frac{1}{\\sqrt{n}})\\)\n                      \n                     convergence rate, strong convergence and linear convergence rate of the proposed algorithm. Finally, several numerical experiments are provided to illustrate the performance and theoretical outcomes of our algorithm.",
           "link": "http://link.springer.com/10.1007/s10915-023-02311-5",
           "publishedOn": "2023-08-11T00:00:00.000Z",
-          "wordCount": 3832,
+          "wordCount": 2874,
           "title": "A Modified Tseng Splitting Method with Double Inertial Steps for Solving Monotone Inclusion Problems",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -1026,7 +1046,7 @@
           "description": "Abstract\nIn this paper, a new class of spectral volume (SV) methods are proposed, analyzed, and implemented for diffusion equations, with the viscous flux taken as an interior penalty or direct discontinuous Galerkin formulation. The control volumes are constructed by using four kinds of special points (including Legendre–Gauss, Legendre–Gauss–Lobatto, right Legendre–Gauss–Radau and left Legendre–Gauss–Radau points) in subintervals of the underlying meshes, which leads to four different SV schemes. A framework for the stability analysis and error estimates of the four SV schemes is established. In particular, the influence of the choice of the parameters in the numerical fluxes on the convergence rate and the optimal choices of coefficients for each SV scheme are discussed and provided. Numerical experiments are presented to demonstrate the stability and accuracy of the four SV schemes for both linear and nonlinear diffusion equations.",
           "link": "http://link.springer.com/10.1007/s10915-023-02309-z",
           "publishedOn": "2023-08-08T00:00:00.000Z",
-          "wordCount": 4485,
+          "wordCount": 3533,
           "title": "Unified Analysis of Any Order Spectral Volume Methods for Diffusion Equations",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -1046,7 +1066,7 @@
           "description": "Abstract\nWe present a meshfree collocation scheme to discretize intrinsic surface differential operators over scalar fields on smooth curved surfaces with given normal vectors and a non-intersecting tubular neighborhood. The method is based on discretization-corrected particle strength exchange (DC-PSE), which generalizes finite difference methods to meshfree point clouds. The proposed Surface DC-PSE method is derived from an embedding theorem, but we analytically reduce the operator kernels along surface normals to obtain a purely intrinsic computational scheme over surface point clouds. We benchmark Surface DC-PSE by discretizing the Laplace–Beltrami operator on a circle and a sphere, and we present convergence results for both explicit and implicit solvers. We then showcase the algorithm on the problem of computing Gauss and mean curvature of an ellipsoid and of the Stanford Bunny by approximating the intrinsic divergence of the normal vector field. Finally, we compare Surface DC-PSE with surface finite elements (SFEM) and diffuse-interface finite elements (DI FEM) in a validation case.",
           "link": "http://link.springer.com/10.1007/s10915-023-02313-3",
           "publishedOn": "2023-08-07T00:00:00.000Z",
-          "wordCount": 9892,
+          "wordCount": 10233,
           "title": "A Meshfree Collocation Scheme for Surface Differential Operators on Point Clouds",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -1058,26 +1078,6 @@
           "publishedOn": "2023-08-07T00:00:00.000Z",
           "wordCount": 7164,
           "title": "Multilayer Shallow Model for Dry Granular Flows with a Weakly Non-hydrostatic Pressure",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-023-02307-1",
-          "author": null,
-          "description": "Abstract\nThis paper introduces a conjugate gradients (CG) acceleration of the coordinate descent algorithm (CD) for linear systems. It is shown that the Kaczmarz algorithm (KACZ) can simulate CD exactly, so CD can be accelerated by CG similarly to the CG acceleration of KACZ (Björck and Elfving in BIT 19:145–163, 1979). Experimental results were carried out on large sets of problems of reconstructing bandlimited functions from random sampling. The randomness causes extreme variance between different instances of these problems, thus causing extreme variance in the advantage of CGCD over CD. The reduction of the number of iterations by CGCD varies from about 50–90% and beyond. The implementation of CGCD is simple. CGCD can also be used for the parallel solution of linear systems derived from partial differential equations, and for the efficient solution of multiple right-hand-side problems and matrix inversion.",
-          "link": "http://link.springer.com/10.1007/s10915-023-02307-1",
-          "publishedOn": "2023-08-05T00:00:00.000Z",
-          "wordCount": 3211,
-          "title": "Conjugate Gradients Acceleration of Coordinate Descent for Linear Systems",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-023-02300-8",
-          "author": null,
-          "description": "Abstract\nWe consider frictional contact problems in small strain elasticity discretized with finite elements and Nitsche method. Both bilateral and unilateral contact problems are taken into account, as well as both Tresca and Coulomb friction models. We derive residual a posteriori error estimates for each friction model, following (Chouly et al., in IMA J Numer Anal 38: 921–954, 2018). For the incomplete variant of Nitsche, we prove an upper bound for the dual norm of the residual, for Tresca and Coulomb friction, without any extra regularity and without a saturation assumption. We prove also local lower bounds. Numerical experiments allow to assess the accuracy of the estimates and their interest for adaptive meshing in different situations.",
-          "link": "http://link.springer.com/10.1007/s10915-023-02300-8",
-          "publishedOn": "2023-08-05T00:00:00.000Z",
-          "wordCount": 5011,
-          "title": "Residual a Posteriori Error Estimation for Frictional Contact with Nitsche Method",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         }
       ]
