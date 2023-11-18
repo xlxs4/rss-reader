@@ -11,7 +11,7 @@
           "description": "With the PockEngine training method, machine-learning models can efficiently and continuously learn from user data on edge devices like smartphones.",
           "link": "https://news.mit.edu/2023/technique-enables-ai-edge-devices-keep-learning-over-time",
           "publishedOn": "2023-11-16T05:00:00.000Z",
-          "wordCount": 3096,
+          "wordCount": 3069,
           "title": "Technique enables AI on edge devices to keep learning over time",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202311/MIT-Pocket-Engine-01-press.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "Computer vision enables contact-free 3D printing, letting engineers print with high-performance materials they couldn’t use before.",
           "link": "https://news.mit.edu/2023/3d-printer-can-watch-itself-fabricate-objects-1115",
           "publishedOn": "2023-11-15T16:00:00.000Z",
-          "wordCount": 3475,
+          "wordCount": 3448,
           "title": "This 3D printer can watch itself fabricate objects",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202311/MIT-VisionJetting-01-press.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "How do powerful generative AI systems like ChatGPT work, and what makes them different from other types of artificial intelligence?",
           "link": "https://news.mit.edu/2023/explained-generative-ai-1109",
           "publishedOn": "2023-11-09T05:00:00.000Z",
-          "wordCount": 3407,
+          "wordCount": 3380,
           "title": "Explained: Generative AI",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202311/GenAI-explain-01-press.jpg"
         },
@@ -41,39 +41,9 @@
           "description": "MIT CSAIL researchers combine AI and electron microscopy to expedite detailed brain network mapping, aiming to enhance connectomics research and clinical pathology.",
           "link": "https://news.mit.edu/2023/using-ai-optimize-rapid-neural-imaging-1106",
           "publishedOn": "2023-11-06T18:00:00.000Z",
-          "wordCount": 2827,
+          "wordCount": 2800,
           "title": "Using AI to optimize for rapid neural imaging",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202310/SmartEM7.png"
-        },
-        {
-          "id": "https://news.mit.edu/2023/using-language-give-robots-better-grasp-open-ended-world-1102",
-          "author": "Alex Shipps | MIT CSAIL",
-          "description": "By blending 2D images with foundation models to build 3D feature fields, a new MIT method helps robots understand and manipulate nearby objects with open-ended language prompts.",
-          "link": "https://news.mit.edu/2023/using-language-give-robots-better-grasp-open-ended-world-1102",
-          "publishedOn": "2023-11-02T20:25:00.000Z",
-          "wordCount": 3134,
-          "title": "Using language to give robots a better grasp of an open-ended world",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202310/MIT-F3RM.png"
-        },
-        {
-          "id": "https://news.mit.edu/2023/takeda-fellows-advancing-research-intersection-ai-health-1102",
-          "author": "School of Engineering",
-          "description": "Thirteen new graduate student fellows will pursue exciting new paths of knowledge and discovery.",
-          "link": "https://news.mit.edu/2023/takeda-fellows-advancing-research-intersection-ai-health-1102",
-          "publishedOn": "2023-11-02T19:50:00.000Z",
-          "wordCount": 4130,
-          "title": "2023-24 Takeda Fellows: Advancing research at the intersection of AI and health",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202310/takeda-fellows.png"
-        },
-        {
-          "id": "https://news.mit.edu/2023/generating-opportunities-generative-ai-rama-ramakrishnan-1102",
-          "author": "Eric Bender | MIT Industrial Liaison Program",
-          "description": "Rama Ramakrishnan helps companies explore the promises and perils of large language models and other transformative AI technologies.",
-          "link": "https://news.mit.edu/2023/generating-opportunities-generative-ai-rama-ramakrishnan-1102",
-          "publishedOn": "2023-11-02T16:15:00.000Z",
-          "wordCount": 3126,
-          "title": "Generating opportunities with generative AI",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202310/Rama-Ramakrishnan.jpg"
         }
       ]
     },
@@ -83,12 +53,142 @@
       "siteUrl": "https://www.nature.com/subjects/computer-science",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/d41586-023-03596-0",
+          "author": null,
+          "description": "Artificial intelligence is asking questions that humans hope to answer.",
+          "link": "https://www.nature.com/articles/d41586-023-03596-0",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 4093,
+          "title": "Hypotheses devised by AI could find ‘blind spots’ in research",
+          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03596-0/d41586-023-03596-0_26300796.jpg"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42256-023-00754-x",
+          "author": null,
+          "description": "Advances in machine intelligence often depend on data assimilation, but data generation has been neglected. The authors discuss mechanisms that might achieve continuous novel data generation and the creation of intelligent systems that are capable of human-like innovation, focusing on social aspects of intelligence.",
+          "link": "https://www.nature.com/articles/s42256-023-00754-x",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 5461,
+          "title": "A social path to human-like artificial intelligence",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-023-00754-x/MediaObjects/42256_2023_754_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42256-023-00743-0",
+          "author": null,
+          "description": "Traditionally, 3D graphics involves numerical methods for physical and virtual simulations of real-world scenes. Spielberg et al. review how deep learning enables differentiable visual computing, which determines how graphics outputs change when the environment changes, with applications in areas such as computer-aided design, manufacturing and robotics.",
+          "link": "https://www.nature.com/articles/s42256-023-00743-0",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 5518,
+          "title": "Differentiable visual computing for inverse problems and machine learning",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-023-00743-0/MediaObjects/42256_2023_743_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-47398-w",
+          "author": null,
+          "description": "Scientific Reports - Keypoint regression strategy and angle loss based YOLO for object detection",
+          "link": "https://www.nature.com/articles/s41598-023-47398-w",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 7618,
+          "title": "Keypoint regression strategy and angle loss based YOLO for object detection",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47398-w/MediaObjects/41598_2023_47398_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-44918-6",
+          "author": null,
+          "description": "Scientific Reports - Semantic segmentation of methane plumes with hyperspectral machine learning models",
+          "link": "https://www.nature.com/articles/s41598-023-44918-6",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 11342,
+          "title": "Semantic segmentation of methane plumes with hyperspectral machine learning models",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-44918-6/MediaObjects/41598_2023_44918_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-47479-w",
+          "author": null,
+          "description": "Scientific Reports - Evaluating automatic sentence alignment approaches on English-Slovak sentences",
+          "link": "https://www.nature.com/articles/s41598-023-47479-w",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 8963,
+          "title": "Evaluating automatic sentence alignment approaches on English-Slovak sentences",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47479-w/MediaObjects/41598_2023_47479_Fig1_HTML.jpg"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42256-023-00749-8",
+          "author": null,
+          "description": "Deep learning is a powerful method to process large datasets, and shown to be useful in many scientific fields, but models are highly parameterized and there are often challenges in interpretation and generalization. David Gleich and colleagues develop a method rooted in computational topology, starting with a graph-based topological representation of the data, to help assess and diagnose predictions from deep learning and other complex prediction methods.",
+          "link": "https://www.nature.com/articles/s42256-023-00749-8",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 8429,
+          "title": "Topological structure of complex predictions",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-023-00749-8/MediaObjects/42256_2023_749_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-47460-7",
+          "author": null,
+          "description": "Scientific Reports - Fracture detection in pediatric wrist trauma X-ray images using YOLOv8 algorithm",
+          "link": "https://www.nature.com/articles/s41598-023-47460-7",
+          "publishedOn": "2023-11-16T00:00:00.000Z",
+          "wordCount": 8844,
+          "title": "Fracture detection in pediatric wrist trauma X-ray images using YOLOv8 algorithm",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47460-7/MediaObjects/41598_2023_47460_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-47296-1",
+          "author": null,
+          "description": "Scientific Reports - Spatial-temporal simulation for hospital infection spread and outbreaks of Clostridioides difficile",
+          "link": "https://www.nature.com/articles/s41598-023-47296-1",
+          "publishedOn": "2023-11-16T00:00:00.000Z",
+          "wordCount": 10506,
+          "title": "Spatial-temporal simulation for hospital infection spread and outbreaks of Clostridioides difficile",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47296-1/MediaObjects/41598_2023_47296_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-47219-0",
+          "author": null,
+          "description": "Scientific Reports - Deep learning-based solution for smart contract vulnerabilities detection",
+          "link": "https://www.nature.com/articles/s41598-023-47219-0",
+          "publishedOn": "2023-11-16T00:00:00.000Z",
+          "wordCount": 10320,
+          "title": "Deep learning-based solution for smart contract vulnerabilities detection",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47219-0/MediaObjects/41598_2023_47219_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-46919-x",
+          "author": null,
+          "description": "Scientific Reports - Cephalometric landmark detection without X-rays combining coordinate regression and heatmap regression",
+          "link": "https://www.nature.com/articles/s41598-023-46919-x",
+          "publishedOn": "2023-11-16T00:00:00.000Z",
+          "wordCount": 8918,
+          "title": "Cephalometric landmark detection without X-rays combining coordinate regression and heatmap regression",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46919-x/MediaObjects/41598_2023_46919_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-46580-4",
+          "author": null,
+          "description": "Scientific Reports - MANet: a multi-attention network for automatic liver tumor segmentation in computed tomography (CT) imaging",
+          "link": "https://www.nature.com/articles/s41598-023-46580-4",
+          "publishedOn": "2023-11-16T00:00:00.000Z",
+          "wordCount": 12374,
+          "title": "MANet: a multi-attention network for automatic liver tumor segmentation in computed tomography (CT) imaging",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46580-4/MediaObjects/41598_2023_46580_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-023-45385-9",
+          "author": null,
+          "description": "Scientific Reports - Deep learning workflow for the inverse design of molecules with specific optoelectronic properties",
+          "link": "https://www.nature.com/articles/s41598-023-45385-9",
+          "publishedOn": "2023-11-16T00:00:00.000Z",
+          "wordCount": 10894,
+          "title": "Deep learning workflow for the inverse design of molecules with specific optoelectronic properties",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-45385-9/MediaObjects/41598_2023_45385_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s43588-023-00565-5",
           "author": null,
           "description": "Nature Computational Science - A full-stack platform for spiking deep learning",
           "link": "https://www.nature.com/articles/s43588-023-00565-5",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 2340,
+          "wordCount": 2342,
           "title": "A full-stack platform for spiking deep learning",
           "imageUrl": null
         },
@@ -98,7 +198,7 @@
           "description": "Nature Computational Science - Memory and computation together at last",
           "link": "https://www.nature.com/articles/s43588-023-00559-3",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 2297,
+          "wordCount": 2299,
           "title": "Memory and computation together at last",
           "imageUrl": null
         },
@@ -108,7 +208,7 @@
           "description": "Researchers, educators and companies are experimenting with ways to turn flawed but famous large language models into trustworthy, accurate ‘thought partners’ for learning.",
           "link": "https://www.nature.com/articles/d41586-023-03507-3",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 5367,
+          "wordCount": 5397,
           "title": "ChatGPT has entered the classroom: how LLMs could transform education",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03507-3/d41586-023-03507-3_26278198.jpg"
         },
@@ -118,7 +218,7 @@
           "description": "Many students now use AI chatbots to help with their assignments. Educators need to study how to include these tools in teaching and learning — and minimize pitfalls.",
           "link": "https://www.nature.com/articles/d41586-023-03505-5",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 3592,
+          "wordCount": 3622,
           "title": "Why teachers should explore ChatGPT’s potential — despite the risks",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03505-5/d41586-023-03505-5_26293228.jpg"
         },
@@ -128,7 +228,7 @@
           "description": "Scientific Reports - The psychophysics of human three-dimensional active visuospatial problem-solving",
           "link": "https://www.nature.com/articles/s41598-023-47188-4",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 10397,
+          "wordCount": 10399,
           "title": "The psychophysics of human three-dimensional active visuospatial problem-solving",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47188-4/MediaObjects/41598_2023_47188_Fig1_HTML.png"
         },
@@ -138,7 +238,7 @@
           "description": "Scientific Reports - Correcting spelling mistakes in Persian texts with rules and deep learning methods",
           "link": "https://www.nature.com/articles/s41598-023-47295-2",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 12290,
+          "wordCount": 12292,
           "title": "Correcting spelling mistakes in Persian texts with rules and deep learning methods",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47295-2/MediaObjects/41598_2023_47295_Fig1_HTML.png"
         },
@@ -148,7 +248,7 @@
           "description": "Scientific Reports - Accelerated preprocessing of large numbers of brain images by parallel computing on supercomputers",
           "link": "https://www.nature.com/articles/s41598-023-46073-4",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 6957,
+          "wordCount": 6959,
           "title": "Accelerated preprocessing of large numbers of brain images by parallel computing on supercomputers",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46073-4/MediaObjects/41598_2023_46073_Fig1_HTML.png"
         },
@@ -158,7 +258,7 @@
           "description": "Scientific Reports - Unboxing machine learning models for concrete strength prediction using XAI",
           "link": "https://www.nature.com/articles/s41598-023-47169-7",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 10294,
+          "wordCount": 10296,
           "title": "Unboxing machine learning models for concrete strength prediction using XAI",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47169-7/MediaObjects/41598_2023_47169_Fig1_HTML.png"
         },
@@ -188,7 +288,7 @@
           "description": "Scientific Reports - Image denoising and segmentation model construction based on IWOA-PCNN",
           "link": "https://www.nature.com/articles/s41598-023-47089-6",
           "publishedOn": "2023-11-13T00:00:00.000Z",
-          "wordCount": 9891,
+          "wordCount": 9893,
           "title": "Image denoising and segmentation model construction based on IWOA-PCNN",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47089-6/MediaObjects/41598_2023_47089_Fig1_HTML.png"
         },
@@ -251,136 +351,6 @@
           "wordCount": 7461,
           "title": "Features extraction from multi-spectral remote sensing images based on multi-threshold binarization",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46785-7/MediaObjects/41598_2023_46785_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41597-023-02681-3",
-          "author": null,
-          "description": "Scientific Data - MMLKG: Knowledge Graph for Mathematical Definitions, Statements and Proofs",
-          "link": "https://www.nature.com/articles/s41597-023-02681-3",
-          "publishedOn": "2023-11-10T00:00:00.000Z",
-          "wordCount": 8161,
-          "title": "MMLKG: Knowledge Graph for Mathematical Definitions, Statements and Proofs",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-023-02681-3/MediaObjects/41597_2023_2681_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46523-z",
-          "author": null,
-          "description": "Scientific Reports - Repurposing existing skeletal spatial structure (SkS) system designs using the Field Information Modeling (FIM) framework for generative decision-support in future construction...",
-          "link": "https://www.nature.com/articles/s41598-023-46523-z",
-          "publishedOn": "2023-11-10T00:00:00.000Z",
-          "wordCount": 12957,
-          "title": "Repurposing existing skeletal spatial structure (SkS) system designs using the Field Information Modeling (FIM) framework for generative decision-support in future construction projects",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46523-z/MediaObjects/41598_2023_46523_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-45725-9",
-          "author": null,
-          "description": "Scientific Reports - E-DPNCT: an enhanced attack resilient differential privacy model for smart grids using split noise cancellation",
-          "link": "https://www.nature.com/articles/s41598-023-45725-9",
-          "publishedOn": "2023-11-09T00:00:00.000Z",
-          "wordCount": 9598,
-          "title": "E-DPNCT: an enhanced attack resilient differential privacy model for smart grids using split noise cancellation",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-45725-9/MediaObjects/41598_2023_45725_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46626-7",
-          "author": null,
-          "description": "Scientific Reports - Automated deep learning-based AMD detection and staging in real-world OCT datasets (PINNACLE study report 5)",
-          "link": "https://www.nature.com/articles/s41598-023-46626-7",
-          "publishedOn": "2023-11-09T00:00:00.000Z",
-          "wordCount": 11305,
-          "title": "Automated deep learning-based AMD detection and staging in real-world OCT datasets (PINNACLE study report 5)",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46626-7/MediaObjects/41598_2023_46626_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s42256-023-00736-z",
-          "author": null,
-          "description": "Halide perovskites are promising materials for light-emitting devices, given their narrowband emission and solution processability. However, detailed information on device degradation during operation is required to improve their stability, and this is challenging to obtain. Ji et al. propose a self-supervised deep learning method to capture multi-dimensional images of such devices in their operating regime faster than allowed by conventional imaging techniques.",
-          "link": "https://www.nature.com/articles/s42256-023-00736-z",
-          "publishedOn": "2023-11-09T00:00:00.000Z",
-          "wordCount": 13088,
-          "title": "Self-supervised deep learning for tracking degradation of perovskite light-emitting diodes with multispectral imaging",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-023-00736-z/MediaObjects/42256_2023_736_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-44281-6",
-          "author": null,
-          "description": "Scientific Reports - Visualizing software refactoring using radar charts",
-          "link": "https://www.nature.com/articles/s41598-023-44281-6",
-          "publishedOn": "2023-11-09T00:00:00.000Z",
-          "wordCount": 11263,
-          "title": "Visualizing software refactoring using radar charts",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-44281-6/MediaObjects/41598_2023_44281_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46971-7",
-          "author": null,
-          "description": "Scientific Reports - Machine learning framework for precise localization of bleached corals using bag-of-hybrid visual feature classification",
-          "link": "https://www.nature.com/articles/s41598-023-46971-7",
-          "publishedOn": "2023-11-09T00:00:00.000Z",
-          "wordCount": 8456,
-          "title": "Machine learning framework for precise localization of bleached corals using bag-of-hybrid visual feature classification",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46971-7/MediaObjects/41598_2023_46971_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46625-8",
-          "author": null,
-          "description": "Scientific Reports - Multimodal graph attention network for COVID-19 outcome prediction",
-          "link": "https://www.nature.com/articles/s41598-023-46625-8",
-          "publishedOn": "2023-11-09T00:00:00.000Z",
-          "wordCount": 12496,
-          "title": "Multimodal graph attention network for COVID-19 outcome prediction",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46625-8/MediaObjects/41598_2023_46625_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41586-023-06647-8",
-          "author": null,
-          "description": "By casting large-language-model-based dialogue-agent behaviour in terms of role play, it is possible to describe dialogue-agent behaviour such as (apparent) deception and (apparent) self-awareness without misleadingly ascribing human characteristics to the models.",
-          "link": "https://www.nature.com/articles/s41586-023-06647-8",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 8176,
-          "title": "Role play with large language models",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06647-8/MediaObjects/41586_2023_6647_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-45392-w",
-          "author": null,
-          "description": "Scientific Reports - Best practices for portfolio optimization by quantum computing, experimented on real quantum devices",
-          "link": "https://www.nature.com/articles/s41598-023-45392-w",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 12104,
-          "title": "Best practices for portfolio optimization by quantum computing, experimented on real quantum devices",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-45392-w/MediaObjects/41598_2023_45392_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-45039-w",
-          "author": null,
-          "description": "Scientific Reports - Skin cancer diagnosis (SCD) using Artificial Neural Network (ANN) and Improved Gray Wolf Optimization (IGWO)",
-          "link": "https://www.nature.com/articles/s41598-023-45039-w",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 11367,
-          "title": "Skin cancer diagnosis (SCD) using Artificial Neural Network (ANN) and Improved Gray Wolf Optimization (IGWO)",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-45039-w/MediaObjects/41598_2023_45039_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41746-023-00955-z",
-          "author": null,
-          "description": "npj Digital Medicine - Quantifying the impact of AI recommendations with explanations on prescription decision making",
-          "link": "https://www.nature.com/articles/s41746-023-00955-z",
-          "publishedOn": "2023-11-07T00:00:00.000Z",
-          "wordCount": 8432,
-          "title": "Quantifying the impact of AI recommendations with explanations on prescription decision making",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-023-00955-z/MediaObjects/41746_2023_955_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46761-1",
-          "author": null,
-          "description": "Scientific Reports - Research on digital twin modeling and monitoring technology for smoke alarm calibration system",
-          "link": "https://www.nature.com/articles/s41598-023-46761-1",
-          "publishedOn": "2023-11-07T00:00:00.000Z",
-          "wordCount": 7892,
-          "title": "Research on digital twin modeling and monitoring technology for smoke alarm calibration system",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46761-1/MediaObjects/41598_2023_46761_Fig1_HTML.png"
         }
       ]
     },
@@ -389,6 +359,26 @@
       "feedUrl": "https://www.nature.com/subjects/computational-science.rss",
       "siteUrl": "https://www.nature.com/subjects/computational-science",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41598-023-46789-3",
+          "author": null,
+          "description": "Scientific Reports - Probabilistic analysis of agent-based opinion formation models",
+          "link": "https://www.nature.com/articles/s41598-023-46789-3",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 15007,
+          "title": "Probabilistic analysis of agent-based opinion formation models",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46789-3/MediaObjects/41598_2023_46789_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s42256-023-00743-0",
+          "author": null,
+          "description": "Traditionally, 3D graphics involves numerical methods for physical and virtual simulations of real-world scenes. Spielberg et al. review how deep learning enables differentiable visual computing, which determines how graphics outputs change when the environment changes, with applications in areas such as computer-aided design, manufacturing and robotics.",
+          "link": "https://www.nature.com/articles/s42256-023-00743-0",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 5518,
+          "title": "Differentiable visual computing for inverse problems and machine learning",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-023-00743-0/MediaObjects/42256_2023_743_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41598-023-46753-1",
           "author": null,
@@ -405,7 +395,7 @@
           "description": "Scientific Reports - Deep learning-based solution for smart contract vulnerabilities detection",
           "link": "https://www.nature.com/articles/s41598-023-47219-0",
           "publishedOn": "2023-11-16T00:00:00.000Z",
-          "wordCount": 10316,
+          "wordCount": 10320,
           "title": "Deep learning-based solution for smart contract vulnerabilities detection",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47219-0/MediaObjects/41598_2023_47219_Fig1_HTML.png"
         },
@@ -425,7 +415,7 @@
           "description": "A hybrid machine learning–physics model is developed that reduces simulation cost by two orders of magnitude while retaining high ab initio accuracy, to predict free-energy transition states for hydrogen combustion reactions.",
           "link": "https://www.nature.com/articles/s43588-023-00549-5",
           "publishedOn": "2023-11-16T00:00:00.000Z",
-          "wordCount": 4517,
+          "wordCount": 4519,
           "title": "Using machine learning to go beyond potential energy surface benchmarking for chemical reactivity",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-023-00549-5/MediaObjects/43588_2023_549_Fig1_HTML.png"
         },
@@ -475,7 +465,7 @@
           "description": "npj Digital Medicine - Population mobility data provides meaningful indicators of fast food intake and diet-related diseases in diverse populations",
           "link": "https://www.nature.com/articles/s41746-023-00949-x",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 12176,
+          "wordCount": 12178,
           "title": "Population mobility data provides meaningful indicators of fast food intake and diet-related diseases in diverse populations",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-023-00949-x/MediaObjects/41746_2023_949_Fig1_HTML.png"
         },
@@ -485,7 +475,7 @@
           "description": "Scientific Reports - Correcting spelling mistakes in Persian texts with rules and deep learning methods",
           "link": "https://www.nature.com/articles/s41598-023-47295-2",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 12290,
+          "wordCount": 12292,
           "title": "Correcting spelling mistakes in Persian texts with rules and deep learning methods",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47295-2/MediaObjects/41598_2023_47295_Fig1_HTML.png"
         },
@@ -495,7 +485,7 @@
           "description": "Inspired by the construction of insect eyes, Gkanias and colleagues built a navigation sensor which finds the North using skylight polarisation. An array of polarization analysers detects the Sun’s location even in cloudy skies, providing a low-complexity compass for autonomous vehicles and robots.",
           "link": "https://www.nature.com/articles/s44172-023-00132-w",
           "publishedOn": "2023-11-15T00:00:00.000Z",
-          "wordCount": 12263,
+          "wordCount": 12265,
           "title": "Celestial compass sensor mimics the insect eye for navigation under cloudy and occluded skies",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44172-023-00132-w/MediaObjects/44172_2023_132_Fig1_HTML.png"
         },
@@ -505,7 +495,7 @@
           "description": "Scientific Reports - Unboxing machine learning models for concrete strength prediction using XAI",
           "link": "https://www.nature.com/articles/s41598-023-47169-7",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 10294,
+          "wordCount": 10296,
           "title": "Unboxing machine learning models for concrete strength prediction using XAI",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47169-7/MediaObjects/41598_2023_47169_Fig1_HTML.png"
         },
@@ -515,7 +505,7 @@
           "description": "Scientific Reports - Efficient estimation of population variance of a sensitive variable using a new scrambling response model",
           "link": "https://www.nature.com/articles/s41598-023-45427-2",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 7028,
+          "wordCount": 7030,
           "title": "Efficient estimation of population variance of a sensitive variable using a new scrambling response model",
           "imageUrl": null
         },
@@ -525,7 +515,7 @@
           "description": "Scientific Reports - Data-driven prediction of the shear capacity of ETS-FRP-strengthened beams in the hybrid 2PKT–ML approach",
           "link": "https://www.nature.com/articles/s41598-023-47064-1",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 13830,
+          "wordCount": 13832,
           "title": "Data-driven prediction of the shear capacity of ETS-FRP-strengthened beams in the hybrid 2PKT–ML approach",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-47064-1/MediaObjects/41598_2023_47064_Fig1_HTML.png"
         },
@@ -668,26 +658,6 @@
           "wordCount": 8491,
           "title": "Handwritten digit recognition by spin waves in a Skyrmion reservoir",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46677-w/MediaObjects/41598_2023_46677_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-45392-w",
-          "author": null,
-          "description": "Scientific Reports - Best practices for portfolio optimization by quantum computing, experimented on real quantum devices",
-          "link": "https://www.nature.com/articles/s41598-023-45392-w",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 12104,
-          "title": "Best practices for portfolio optimization by quantum computing, experimented on real quantum devices",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-45392-w/MediaObjects/41598_2023_45392_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41598-023-46187-9",
-          "author": null,
-          "description": "Scientific Reports - Modelling opinion dynamics under the impact of influencer and media strategies",
-          "link": "https://www.nature.com/articles/s41598-023-46187-9",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 10885,
-          "title": "Modelling opinion dynamics under the impact of influencer and media strategies",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46187-9/MediaObjects/41598_2023_46187_Fig1_HTML.png"
         }
       ]
     },
@@ -702,7 +672,7 @@
           "description": "Some strange mathematical sequences are always whole numbers — until they’re not. The puzzling patterns have revealed ties to graph theory and prime numbers, awing mathematicians.            \nThe post The Astonishing Behavior of Recursive Sequences first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/",
           "publishedOn": "2023-11-16T15:20:25.000Z",
-          "wordCount": 5529,
+          "wordCount": 5545,
           "title": "The Astonishing Behavior of Recursive Sequences",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/11/WeirdSequences-byKristinaArmitage-Social.webp"
         },
@@ -712,7 +682,7 @@
           "description": "By bringing together disparate approaches, machines can reach a new level of creative problem-solving.            \nThe post AI System Beats Chess Puzzles With ‘Artificial Brainstorming’ first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/google-deepmind-trains-artificial-brainstorming-in-chess-ai-20231115/",
           "publishedOn": "2023-11-15T15:48:12.000Z",
-          "wordCount": 7409,
+          "wordCount": 7425,
           "title": "AI System Beats Chess Puzzles With ‘Artificial Brainstorming’",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/11/CreativeChess-byNashWeerasekera-Social.webp"
         },
@@ -722,7 +692,7 @@
           "description": "Cells in the placenta have an unusual trick for activating gentle immune defenses and keeping them turned on when no infection is present. It involves crafting and deploying a fake virus.            \nThe post During Pregnancy, a Fake ‘Infection’ Protects the Fetus first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/during-pregnancy-a-fake-infection-protects-the-fetus-20231114/",
           "publishedOn": "2023-11-14T15:03:10.000Z",
-          "wordCount": 5544,
+          "wordCount": 5560,
           "title": "During Pregnancy, a Fake ‘Infection’ Protects the Fetus",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/11/ImmuneTrickery-byKristinaArmitage-Social.webp"
         },
@@ -732,7 +702,7 @@
           "description": "Scientists have recently discovered scores of free-floating worlds that defy classification. The new observations have forced them to rethink their theories of star and planet formation.            \nThe post Rogue Worlds Throw Planetary Ideas Out of Orbit first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/rogue-worlds-throw-planetary-ideas-out-of-orbit-20231113/",
           "publishedOn": "2023-11-13T15:37:51.000Z",
-          "wordCount": 8947,
+          "wordCount": 8963,
           "title": "Rogue Worlds Throw Planetary Ideas Out of Orbit",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/11/Free-Floating-Worlds-byKouzouSakai-Social.webp"
         },
@@ -742,7 +712,7 @@
           "description": "The discovery that the brain has different systems for representing small and large numbers provokes new questions about memory, attention and mathematics.            \nThe post Why the Human Brain Perceives Small Numbers Better first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/",
           "publishedOn": "2023-11-09T15:06:58.000Z",
-          "wordCount": 7682,
+          "wordCount": 7698,
           "title": "Why the Human Brain Perceives Small Numbers Better",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/11/NumbersBrain-byMyriamWares-Social.webp"
         }
@@ -754,173 +724,33 @@
       "siteUrl": "https://www.sciencedirect.com/journal/journal-of-differential-equations",
       "articles": [
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623006629",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007325",
           "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Kai Xu, Yiling Yang, Engui Fan",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623006629?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:05.015Z",
-          "wordCount": 19087,
-          "title": "The Cauchy problem of the Camassa-Holm equation in a weighted Sobolev space: Long-time and Painlevé asymptotics",
+          "description": "Publication date: 15 February 2024\nSource: Journal of Differential Equations, Volume 382\nAuthor(s): Monica Conti, Stefania Gatti, Alain Miranville",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007325?dgcid=rss_sd_all",
+          "publishedOn": "2023-11-18T00:04:00.064Z",
+          "wordCount": 15465,
+          "title": "A perturbation of the Cahn–Hilliard equation with logarithmic nonlinearity",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623006873",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007313",
           "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Yanqin Xiong",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623006873?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.955Z",
-          "wordCount": 17236,
-          "title": "On the number of limit cycles near a homoclinic loop with a nilpotent cusp of order <em>m</em>",
+          "description": "Publication date: 15 February 2024\nSource: Journal of Differential Equations, Volume 382\nAuthor(s): Qi Qiao",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007313?dgcid=rss_sd_all",
+          "publishedOn": "2023-11-18T00:03:59.951Z",
+          "wordCount": 13795,
+          "title": "Traveling waves and their spectral instability in volume–filling chemotaxis model",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         },
         {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623006848",
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007234",
           "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Peter De Maesschalck, Joan Torregrosa",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623006848?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.775Z",
-          "wordCount": 16296,
-          "title": "Critical periods in planar polynomial centers near a maximum number of cusps",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007052",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Zhoumeng Xie, Yuxiang Li",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007052?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.716Z",
-          "wordCount": 17533,
-          "title": "Existence and qualitative analysis of a fully cross-diffusive predator-prey system with nonlinear taxis sensitivity",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962300709X",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Xiaolong He",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962300709X?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.614Z",
-          "wordCount": 20395,
-          "title": "Quasi-periodic solutions for differential equations with an elliptic equilibrium under delayed perturbation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007064",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Leyi Jiang, Taishan Yi, Xiao-Qiang Zhao",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007064?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.549Z",
-          "wordCount": 15940,
-          "title": "Propagation dynamics for a class of integro-difference equations in a shifting environment",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007039",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): André Zegeling",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007039?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.508Z",
-          "wordCount": 17097,
-          "title": "Perturbation of a piecewise regular-singular Liénard system",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007003",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): McKenzie Black, Changhui Tan",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007003?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.435Z",
-          "wordCount": 19116,
-          "title": "Asymptotic behaviors for the compressible Euler system with nonlinear velocity alignment",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007106",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Nicolas Camps, Louise Gassot, Slim Ibrahim",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007106?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.391Z",
-          "wordCount": 22244,
-          "title": "Refined probabilistic local well-posedness for a cubic Schrödinger half-wave equation",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623006630",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Meiirkhan B. Borikhanov, Berikbol T. Torebek",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623006630?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.260Z",
-          "wordCount": 16372,
-          "title": "On inhomogeneous exterior Robin problems with critical nonlinearities",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S002203962300685X",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Agnid Banerjee, Pritam Ganguly, Abhishek Ghosh",
-          "link": "https://www.sciencedirect.com/science/article/pii/S002203962300685X?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:04.012Z",
-          "wordCount": 16444,
-          "title": "Strong unique continuation for variable coefficient parabolic operators with Hardy type potential",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007210",
-          "author": null,
-          "description": "Publication date: 5 February 2024\nSource: Journal of Differential Equations, Volume 381\nAuthor(s): Yun Li, Danhua Jiang, Zhi-Cheng Wang",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007210?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:03.136Z",
-          "wordCount": 20145,
-          "title": "Concentration phenomenon of single phytoplankton species with changing-sign advection term",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007118",
-          "author": null,
-          "description": "Publication date: 5 February 2024\nSource: Journal of Differential Equations, Volume 381\nAuthor(s): G. Deugoué, A. Ndongmo Ngana, T. Tachim Medjo",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007118?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:03.057Z",
-          "wordCount": 17090,
-          "title": "Exponential stability and stabilization of a stochastic 2D nonlocal Cahn-Hilliard-Navier-Stokes equations with multiplicative noise",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007088",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Ying-Chieh Lin, Kuan-Hsiang Wang, Tsung-fang Wu",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007088?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:02.861Z",
-          "wordCount": 17982,
-          "title": "Concentrating ground state for linearly coupled Schrödinger systems involving critical exponent cases",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007076",
-          "author": null,
-          "description": "Publication date: 5 February 2024\nSource: Journal of Differential Equations, Volume 381\nAuthor(s): Toru Kan, Rolando Magnanini, Michiaki Onodera",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007076?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:02.716Z",
-          "wordCount": 16598,
-          "title": "The interior Backus problem: Local resolution in Hölder spaces",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623007040",
-          "author": null,
-          "description": "Publication date: 5 February 2024\nSource: Journal of Differential Equations, Volume 381\nAuthor(s): Yurong Zhang, Taishan Yi, Yuming Chen",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007040?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:02.665Z",
-          "wordCount": 15943,
-          "title": "Spreading dynamics of an impulsive reaction-diffusion model with shifting environments",
-          "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022039623006836",
-          "author": null,
-          "description": "Publication date: 25 January 2024\nSource: Journal of Differential Equations, Volume 380\nAuthor(s): Dinis Amaro, Mário Bessa, Helder Vilarinho",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623006836?dgcid=rss_sd_all",
-          "publishedOn": "2023-11-17T00:04:01.751Z",
-          "wordCount": 11416,
-          "title": "Genericity of trivial Lyapunov spectrum for <em>L</em><sup><em>p</em></sup>-cocycles derived from second order linear homogeneous differential equations",
+          "description": "Publication date: 25 February 2024\nSource: Journal of Differential Equations, Volume 383\nAuthor(s): Lorenzo Cavallina",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022039623007234?dgcid=rss_sd_all",
+          "publishedOn": "2023-11-18T00:03:57.529Z",
+          "wordCount": 11297,
+          "title": "Nondegeneracy implies the existence of parametrized families of free boundaries",
           "imageUrl": "https://ars.els-cdn.com/content/image/S00220396.gif"
         }
       ]
@@ -946,7 +776,7 @@
           "description": "Abstract\nWe present a class of arbitrarily high-order conservative schemes for the Klein–Gordon Schrödinger equations. These schemes combine the symplectic Runge–Kutta method with the quadratic auxiliary variable approach. We first introduce an auxiliary variable that satisfies a quadratic equation to reformulate the original system into an equivalent one. This reformulated system possesses two strong quadratic invariants: energy and mass. Next, we discretize the reformulated system using symplectic Runge–Kutta methods, yielding a class of semi-discrete systems with arbitrarily high-order accuracy in time. The semi-discrete systems naturally preserve the discrete contour part of the strong invariants and the relationship of the quadratic equation. By eliminating the intermediate variable, we obtain the original energy conservation law. Then, the Fourier pseudo-spectral method is employed to obtain the fully discrete scheme that preserves the original energy and mass. We provide a fast solver to implement the proposed methods effectively. Numerical experiments demonstrate the expected accuracy and conservation of proposed schemes.",
           "link": "http://link.springer.com/10.1007/s10915-023-02388-y",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 3425,
+          "wordCount": 4151,
           "title": "Mass-, and Energy Preserving Schemes with Arbitrarily High Order for the Klein–Gordon–Schrödinger Equations",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -956,7 +786,7 @@
           "description": "Abstract\nThe shear shallow water model is an extension of the classical shallow water model to include the effects of vertical shear. It is a system of six non-linear hyperbolic PDE with non-conservative products. We develop a high-order entropy stable finite difference scheme for this model in one dimension and extend it to two dimensions on rectangular grids. The key idea is to rewrite the system so that non-conservative terms do not contribute to the entropy evolution. Then, we first develop an entropy conservative scheme for the conservative part, which is then extended to the complete system using the fact that the non-conservative terms do not contribute to the entropy production. The entropy dissipative scheme, which leads to an entropy inequality, is then obtained by carefully adding dissipative flux terms. The proposed schemes are then tested on several one and two-dimensional problems to demonstrate their stability and accuracy.",
           "link": "http://link.springer.com/10.1007/s10915-023-02374-4",
           "publishedOn": "2023-11-14T00:00:00.000Z",
-          "wordCount": 5795,
+          "wordCount": 5797,
           "title": "Entropy Stable Schemes for the Shear Shallow Water Model Equations",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -1006,7 +836,7 @@
           "description": "Abstract\nThis article proposes entropy stable discontinuous Galerkin schemes (DG) for two-fluid relativistic plasma flow equations. These equations couple the flow of relativistic fluids via electromagnetic quantities evolved using Maxwell’s equations. The proposed schemes are based on the Gauss–Lobatto quadrature rule, which has the summation by parts property. We exploit the structure of the equations having the flux with three independent parts coupled via nonlinear source terms. We design entropy stable DG schemes for each flux part, coupled with the fact that the source terms do not affect entropy, resulting in an entropy stable scheme for the complete system. The proposed schemes are then tested on various test problems in one and two dimensions to demonstrate their accuracy and stability.",
           "link": "http://link.springer.com/10.1007/s10915-023-02387-z",
           "publishedOn": "2023-11-06T00:00:00.000Z",
-          "wordCount": 5485,
+          "wordCount": 6208,
           "title": "Entropy Stable Discontinuous Galerkin Schemes for Two-Fluid Relativistic Plasma Flow Equations",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -1016,7 +846,7 @@
           "description": "Abstract\nThis paper deals with a high-order \n                      \n                      \\(H({\\text {curl}})\\)\n                      \n                    -conforming Bernstein–Bézier finite element method (BBFEM) to accurately solve time-harmonic Maxwell short wave problems on unstructured triangular mesh grids. We suggest enhanced basis functions, defined on the reference triangle and tetrahedron, aiming to reduce the condition number of the resulting global matrix. Moreover, element-level static condensation of the interior degrees of freedom is performed in order to reduce memory requirements. The performance of BBFEM is assessed using several benchmark tests. A preliminary analysis is first conducted to highlight the advantage of the suggested basis functions in improving the conditioning. Numerical results dealing with the electromagnetic scattering from a perfect electric conductor demonstrate the effectiveness of BBFEM in mitigating the pollution effect and its efficiency in capturing high-order evanescent wave modes. Electromagnetic wave scattering by a circular dielectric, with high wave speed contrast, is also investigated. The interior curved interface between layers is accurately described based on a linear blending map to avoid numerical errors due to geometry description. The achieved results support our expectations for highly accurate and efficient BBFEM for time harmonic wave problems.",
           "link": "http://link.springer.com/10.1007/s10915-023-02381-5",
           "publishedOn": "2023-11-04T00:00:00.000Z",
-          "wordCount": 5059,
+          "wordCount": 4336,
           "title": "Bernstein–Bézier $$H({\\text {curl}})$$ -Conforming Finite Elements for Time-Harmonic Electromagnetic Scattering Problems",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         },
@@ -1026,18 +856,8 @@
           "description": "Abstract\nThis paper deals with the construction of a discontinuous Galerkin scheme for the solution of Lighthill–Whitham–Richards traffic flows on networks. The focus of the paper is the construction of two new numerical fluxes at junctions, which are based on the Godunov numerical flux. We analyze the basic properties of the two Godunov-based fluxes and the resulting scheme, namely conservativity and the traffic distribution property. We prove that if the junction is not congested, the traffic flows according to predetermined preferences of the drivers. Otherwise a small traffic distribution error is present, which we interpret as either the existence of dedicated turning lanes, or factoring of human behavior into the model. We compare our approach to that of Čanić et al. (J Sci Comput 63:233–255, 2015). Numerical experiments are provided.",
           "link": "http://link.springer.com/10.1007/s10915-023-02386-0",
           "publishedOn": "2023-11-04T00:00:00.000Z",
-          "wordCount": 3334,
+          "wordCount": 2611,
           "title": "Godunov-Like Numerical Fluxes for Conservation Laws on Networks",
-          "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
-        },
-        {
-          "id": "10.1007/s10915-023-02379-z",
-          "author": null,
-          "description": "Abstract\nIn this work, we propose adaptive deep learning approaches based on normalizing flows for solving fractional Fokker–Planck equations (FPEs). The solution of a FPE is a probability density function (PDF). Traditional mesh-based methods are ineffective because of a unbounded computation domain, a large number of dimensions and a nonlocal fractional operator. To this end, we represent the solution with an explicit PDF model induced by a flow-based deep generative model, which constructs a transport map from a simple distribution to the target distribution. We consider two methods to approximate the fractional Laplacian. One method is the Monte Carlo approximation. The other method is to construct an auxiliary model with Gaussian radial basis functions (GRBFs) to approximate the solution such that we may take advantage of the fact that the fractional Laplacian of a Gaussian is known analytically. Based on these two different ways for the approximation of the fractional Laplacian, we propose two models to approximate stationary FPEs and one model to approximate time-dependent FPEs. To further improve the accuracy, we refine the training set and the approximate solution alternately. A variety of numerical examples is presented to demonstrate the effectiveness of our adaptive deep density approaches.",
-          "link": "http://link.springer.com/10.1007/s10915-023-02379-z",
-          "publishedOn": "2023-11-03T00:00:00.000Z",
-          "wordCount": 3687,
-          "title": "Adaptive Deep Density Approximation for Fractional Fokker–Planck Equations",
           "imageUrl": "https://media.springernature.com/w200/springer-static/cover/journal/10915.jpg"
         }
       ]
@@ -1055,16 +875,6 @@
           "publishedOn": "2023-11-14T08:00:00.000Z",
           "wordCount": null,
           "title": "Extending the Regime of Linear Response with Synthetic Forcings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/22M1514040?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Daria Sushnikova",
-          "description": "Multiscale Modeling & Simulation, Volume 21, Issue 4, Page 1570-1601, December 2023. \n Abstract. We present a fast direct solver for boundary integral equations on complex surfaces in three dimensions using an extension of the recently introduced recursive strong skeletonization scheme. For problems that are not highly oscillatory, our algorithm computes an [math]-like hierarchical factorization of the dense system matrix, permitting application of the inverse in [math] time, where [math] is the number of unknowns on the surface. The factorization itself also scales linearly with the system size, albeit with a somewhat larger constant. The scheme is built on a level-restricted adaptive octree data structure, and therefore, it is compatible with highly nonuniform discretizations. Furthermore, the scheme is coupled with high-order accurate locally-corrected Nyström quadrature methods to integrate the singular and weakly-singular Green’s functions used in the integral representations. Our method has immediate applications to a variety of problems in computational physics. We concentrate here on studying its performance in acoustic scattering (governed by the Helmholtz equation) at low to moderate frequencies, and provide rigorous justification for compression of submatrices via proxy surfaces.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/22M1514040?mi=9v4ths&af=R&countTerms=true&publication=mmsubt&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2023-11-03T07:00:00.000Z",
-          "wordCount": null,
-          "title": "FMM-LU: A Fast Direct Solver for Multiscale Boundary Integral Equations in Three Dimensions",
           "imageUrl": null
         }
       ]
@@ -1092,16 +902,6 @@
           "publishedOn": "2023-11-09T08:00:00.000Z",
           "wordCount": null,
           "title": "Spectral Properties of Pullback Operators on Vector Bundles of a Dynamical System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/22M152551X?mi=9v4ths&af=R&countTerms=true&publication=sjaday&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Jason L. Torchinsky",
-          "description": "SIAM Journal on Applied Dynamical Systems, Volume 22, Issue 4, Page 3025-3058, December 2023. \n Abstract. Developing a model to capture all aspects of a complex dynamical system is an immense task, and each model will have deficiencies in some areas, such as global climate models having difficulty in capturing tropical intraseasonal variability such as the Madden–Julian oscillation. Besides complex models, it is possible to create simplified, low-dimensional models to capture specific phenomena while ignoring many aspects of the full system. Here, we propose a strategy to allow complex models to communicate with simplified models throughout a simulation. The communication allows one to leverage the strengths of each model, without needing to change their dynamics, to mitigate model error. Furthermore, to ensure ease of implementation in complex systems, the strategy is based on common data assimilation techniques that are normally used to combine models and real-world data. This strategy is investigated here in a test case that is nonlinear, non-Gaussian, and high-dimensional (approximately [math] degrees of freedom), and the multiple models have different state spaces. In particular, it is an idealized tropical climate model in three spatial dimensions. The multimodel communication strategy is seen to mitigate model error and reproduce statistical features akin to those of the truth model when the communication is sufficiently frequent. In these tests, the low-dimensional model contributes only two degrees of freedom, which suggests that, in some systems, large amounts of model error can possibly be reduced by focusing on a small set of model components.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/22M152551X?mi=9v4ths&af=R&countTerms=true&publication=sjaday&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2023-11-03T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Mitigating Model Error via a Multimodel Method and Application to Tropical Intraseasonal Oscillations",
           "imageUrl": null
         }
       ]
@@ -1180,16 +980,6 @@
           "wordCount": null,
           "title": "Wearable Data Assimilation to Estimate the Circadian Phase",
           "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/23M1556757?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Tung D. Nguyen",
-          "description": "SIAM Journal on Applied Mathematics, Volume 83, Issue 6, Page 2145-2168, December 2023. \n Abstract. We consider the logistic metapopulation model over a stream network and use the metapopulation growth rate and the total biomass (of the positive equilibrium) as metrics for different aspects of population persistence. Our objective is to find distributions of resources that maximize these persistence measures. We begin our study by considering stream networks consisting of three nodes and prove that the strategy to maximize the total biomass is to concentrate all the resources in the most upstream locations. In contrast, when the diffusion rates are sufficiently small, the metapopulation growth rate is maximized when all resources are concentrated in one of the most downstream locations. These two main results are generalized to stream networks with any number of patches.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/23M1556757?mi=9v4ths&af=R&countTerms=true&publication=smjmap&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2023-11-03T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Maximizing Metapopulation Growth Rate and Biomass in Stream Networks",
-          "imageUrl": null
         }
       ]
     },
@@ -1198,6 +988,16 @@
       "feedUrl": "https://epubs.siam.org/action/showFeed?ui=0&mi=9v4ths&type=search&feed=rss&query=%2526countTerms%253Dtrue%2526publication%253Dsmjcat%2526searchCollection%253Djb%2526sortBy%253DEarliest_desc%2526target%253Dmulti-search",
       "siteUrl": "https://epubs.siam.org/action/doSearch?type=advanced&mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
       "articles": [
+        {
+          "id": "https://epubs.siam.org/doi/abs/10.1137/20M1316500?mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
+          "author": "Aviad Rubinstein",
+          "description": "SIAM Journal on Computing, Ahead of Print. \n Abstract. Longest common subsequence (LCS) is a classic and central problem in combinatorial optimization. While LCS admits a quadratic time solution, recent evidence suggests that solving the problem may be impossible in truly subquadratic time. A special case of LCS wherein each character appears at most once in every string is equivalent to the longest increasing subsequence (LIS) problem which can be solved in quasilinear time. In this work, we present novel algorithms for approximating LCS in truly subquadratic time and LIS in truly sublinear time. Our approximation factors depend on the ratio of the optimal solution size to the input size. We denote this ratio by [math] and obtain the following results for LCS and LIS without any prior knowledge of [math]: a truly subquadratic time algorithm for LCS with approximation factor [math] and a truly sublinear time algorithm for LIS with approximation factor [math]. The triangle inequality was recently used by M. Boroujeni, S. Ehsani, M. Ghodsi, M. HajiAghayi, and S. Seddingham [Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, 2018, pp. 1170–1189] and D. Chakraborty, D. Das, E. Goldenberg, M. Koucky, and M. Saks [Proceedings of the 59th Annual IEEE Symposium on Foundations of Computer Science, 2018, pp. 979–990] to present new approximation algorithms for edit distance. Our techniques for LCS extend the notion of the triangle inequality to nonmetric settings.",
+          "link": "https://epubs.siam.org/doi/abs/10.1137/20M1316500?mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
+          "publishedOn": "2023-11-17T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Approximation Algorithms for LCS and LIS with Truly Improved Running Times",
+          "imageUrl": null
+        },
         {
           "id": "https://epubs.siam.org/doi/abs/10.1137/22M1480719?mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
           "author": "Xiao Mao",
@@ -1226,16 +1026,6 @@
           "publishedOn": "2023-11-14T08:00:00.000Z",
           "wordCount": null,
           "title": "A Single-Exponential Time 2-Approximation Algorithm for Treewidth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/21M1441924?mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "author": "Noga Alon",
-          "description": "SIAM Journal on Computing, Ahead of Print. \n Abstract. Laws of large numbers guarantee that given a large enough sample from some population, the measure of any fixed subpopulation is well-estimated by its frequency in the sample. We study laws of large numbers in sampling processes that can affect the environment they are acting upon and interact with it. Specifically, we consider the sequential sampling model proposed by [O. Ben-Eliezer and E. Yogev, The adversarial robustness of sampling, in Proceedings of the 39th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems (PODS), 2020, pp. 49–62] and characterize the classes which admit a uniform law of large numbers in this model: these are exactly the classes that are online learnable. Our characterization may be interpreted as an online analogue to the equivalence between learnability and uniform convergence in statistical (PAC) learning. The sample-complexity bounds we obtain are tight for many parameter regimes, and as an application, we determine the optimal regret bounds in online learning, stated in terms of Littlestone’s dimension, thus resolving the main open question from [S. Ben-David, D. Pál, and S. Shalev-Shwartz, Agnostic online learning, in Proceedings of the 22nd Conference on Learning Theory (COLT), 2009], which was also posed by [A. Rakhlin, K. Sridharan, and A. Tewari, J. Mach. Learn. Res., 16 (2015), pp. 155–186].",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/21M1441924?mi=9v4ths&af=R&countTerms=true&publication=smjcat&searchCollection=jb&sortBy=Earliest_desc&target=multi-search",
-          "publishedOn": "2023-11-03T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Adversarial Laws of Large Numbers and Optimal Regret in Online Classification",
           "imageUrl": null
         }
       ]
