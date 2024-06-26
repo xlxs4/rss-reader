@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-25T00:04:32.030Z</id>
+    <id>urn:2024-06-26T00:04:35.492Z</id>
     <title>A curated list of immersive ramblings</title>
-    <updated>2024-06-25T00:04:32.031Z</updated>
+    <updated>2024-06-26T00:04:35.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Elliptic problems with superlinear convection terms]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003863</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003863?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.965Z</updated>
+        <title type="html"><![CDATA[Semi-Implicit Particle-in-Cell Methods Embedding Sparse Grid Reconstructions]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/23M1579340?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/23M1579340?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=mmsubt&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
+        <updated>2024-06-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 22, Issue 2, Page 891-924, June 2024. 
+ Abstract. In this article, we introduce semi-implicit particle-in-cell (PIC) methods based on a discretization of the Vlasov–Maxwell system in the electrostatic regime and embedding sparse grid reconstructions: the semi-implict sparse-PIC (SISPIC-sg) scheme, its standard extension (SISPIC-std), and the energy-conserving sparse-PIC (ECSPIC) scheme. These schemes are inspired by the energy-conserving semi-implicit method introduced in [G. Lapenta, J. Comput. Phys., 334 (2017), pp. 349–366]. The particle equations are linearized so that the particle response to the field can be computed by solving a linear system with a stiffness matrix. The methods feature the three following properties: the scheme is unconditionally stable with respect to the plasma period; the finite grid instability is eliminated, allowing the user to use any desired grid discretization; the statistical error is significantly reduced compared to semi-implicit and explicit schemes with standard grid for the same number of particles. The ECSPIC scheme conserves exactly the discrete total energy of the system but we have experienced numerical instability related to the loss of the field energy nonnegativity genuine to the sparse grid combination technique. The SISPIC methods are exempted from this instability and are unconditionally stable with respect to the time and spatial discretization, but do not conserve exactly the discrete total energy. The methods have been investigated on a series of two-dimensional test cases, and gains in terms of memory storage and computational time compared to explicit and existing semi-implicit methods have been observed. These gains are expected to be larger for three-dimensional computations for which the full potential of sparse grid reconstructions can be achieved.]]></summary>
+        <author>
+            <name>C. Guillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized convergence of solutions for nonlinear Hamilton–Jacobi equations with state-constraint]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003826</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003826?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.950Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 October 2024
 Source: Journal of Differential Equations, Volume 406
-Author(s): Lucio Boccardo, Stefano Buccheri, G. Rita Cirmi]]></summary>
+Author(s): Son N.T. Tu, Jianlu Zhang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global solutions of quasi-geostrophic shallow-water fronts]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003577</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003577?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.839Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 October 2024
+Source: Journal of Differential Equations, Volume 406
+Author(s): Fangchi Yan, Qingtian Zhang]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -21,7 +44,7 @@ Author(s): Lucio Boccardo, Stefano Buccheri, G. Rita Cirmi]]></summary>
         <title type="html"><![CDATA[A dynamical systems approach to WKB-methods: The simple turning point]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039624003711</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003711?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.911Z</updated>
+        <updated>2024-06-26T00:04:17.729Z</updated>
         <summary type="html"><![CDATA[Publication date: 15 October 2024
 Source: Journal of Differential Equations, Volume 406
 Author(s): K.U. Kristiansen, P. Szmolyan]]></summary>
@@ -30,10 +53,58 @@ Author(s): K.U. Kristiansen, P. Szmolyan]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On the global existence and uniqueness of solution to 2-D inhomogeneous incompressible Navier-Stokes equations in critical spaces]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003693</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003693?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.659Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 October 2024
+Source: Journal of Differential Equations, Volume 406
+Author(s): Hammadi Abidi, Guilong Gui, Ping Zhang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elliptic problems with superlinear convection terms]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003863</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003863?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.577Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 October 2024
+Source: Journal of Differential Equations, Volume 406
+Author(s): Lucio Boccardo, Stefano Buccheri, G. Rita Cirmi]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-input linear control systems on the homogeneous spaces of the Heisenberg group - The singular case]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003851</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003851?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.548Z</updated>
+        <summary type="html"><![CDATA[Publication date: 25 October 2024
+Source: Journal of Differential Equations, Volume 407
+Author(s): Adriano Da Silva, Okan Duman, Eyüp Kizil]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A necessary and sufficient condition on algebraic limit cycles of a hybrid van der Pol-Rayleigh oscillator]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S002203962400370X</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S002203962400370X?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.472Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 October 2024
+Source: Journal of Differential Equations, Volume 406
+Author(s): Hebai Chen, Lina Wang, Xiang Zhang]]></summary>
+        <author>
+            <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Properties of eigenfunctions of a boundary value problem for ordinary differential equations of fourth-order with boundary conditions depending on the spectral parameter]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039624003723</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003723?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.759Z</updated>
+        <updated>2024-06-26T00:04:17.435Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 October 2024
 Source: Journal of Differential Equations, Volume 407
 Author(s): Ziyatkhan S. Aliyev, Ayna E. Fleydanli]]></summary>
@@ -45,7 +116,7 @@ Author(s): Ziyatkhan S. Aliyev, Ayna E. Fleydanli]]></summary>
         <title type="html"><![CDATA[Singular backward stochastic Volterra integral equations in infinite dimensional spaces]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039624003619</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003619?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.714Z</updated>
+        <updated>2024-06-26T00:04:17.385Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 October 2024
 Source: Journal of Differential Equations, Volume 407
 Author(s): Tianxiao Wang, Mengliang Zheng]]></summary>
@@ -54,70 +125,10 @@ Author(s): Tianxiao Wang, Mengliang Zheng]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generalized convergence of solutions for nonlinear Hamilton–Jacobi equations with state-constraint]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003826</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003826?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.641Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 October 2024
-Source: Journal of Differential Equations, Volume 406
-Author(s): Son N.T. Tu, Jianlu Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A necessary and sufficient condition on algebraic limit cycles of a hybrid van der Pol-Rayleigh oscillator]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S002203962400370X</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S002203962400370X?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.527Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 October 2024
-Source: Journal of Differential Equations, Volume 406
-Author(s): Hebai Chen, Lina Wang, Xiang Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global solutions of quasi-geostrophic shallow-water fronts]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003577</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003577?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.444Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 October 2024
-Source: Journal of Differential Equations, Volume 406
-Author(s): Fangchi Yan, Qingtian Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the global existence and uniqueness of solution to 2-D inhomogeneous incompressible Navier-Stokes equations in critical spaces]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003693</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003693?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.351Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 October 2024
-Source: Journal of Differential Equations, Volume 406
-Author(s): Hammadi Abidi, Guilong Gui, Ping Zhang]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topologically mildly mixing of higher orders along generalized polynomials]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003747</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003747?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:20.261Z</updated>
-        <summary type="html"><![CDATA[Publication date: 15 October 2024
-Source: Journal of Differential Equations, Volume 406
-Author(s): Yang Cao, Jianjie Zhao]]></summary>
-        <author>
-            <name>ScienceDirect Publication: Journal of Differential Equations</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Global existence of nonlinear elastic waves: Non-hyperelastic case]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039624003875</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003875?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:19.913Z</updated>
+        <updated>2024-06-26T00:04:17.313Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 October 2024
 Source: Journal of Differential Equations, Volume 407
 Author(s): Dongbing Zha]]></summary>
@@ -126,13 +137,13 @@ Author(s): Dongbing Zha]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One-input linear control systems on the homogeneous spaces of the Heisenberg group - The singular case]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003851</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003851?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:17.932Z</updated>
-        <summary type="html"><![CDATA[Publication date: 25 October 2024
-Source: Journal of Differential Equations, Volume 407
-Author(s): Adriano Da Silva, Okan Duman, Eyüp Kizil]]></summary>
+        <title type="html"><![CDATA[Topologically mildly mixing of higher orders along generalized polynomials]]></title>
+        <id>https://www.sciencedirect.com/science/article/pii/S0022039624003747</id>
+        <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003747?dgcid=rss_sd_all"/>
+        <updated>2024-06-26T00:04:17.258Z</updated>
+        <summary type="html"><![CDATA[Publication date: 15 October 2024
+Source: Journal of Differential Equations, Volume 406
+Author(s): Yang Cao, Jianjie Zhao]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
         </author>
@@ -141,7 +152,7 @@ Author(s): Adriano Da Silva, Okan Duman, Eyüp Kizil]]></summary>
         <title type="html"><![CDATA[Energy distribution for Dirichlet eigenfunctions on right triangles]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039624003838</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003838?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:17.852Z</updated>
+        <updated>2024-06-26T00:04:17.061Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 October 2024
 Source: Journal of Differential Equations, Volume 407
 Author(s): Hans Christianson, Daniel Pezzi]]></summary>
@@ -153,12 +164,92 @@ Author(s): Hans Christianson, Daniel Pezzi]]></summary>
         <title type="html"><![CDATA[Parameterized family of annular homeomorphisms with pseudo-circle attractors]]></title>
         <id>https://www.sciencedirect.com/science/article/pii/S0022039624003735</id>
         <link href="https://www.sciencedirect.com/science/article/pii/S0022039624003735?dgcid=rss_sd_all"/>
-        <updated>2024-06-25T00:04:17.391Z</updated>
+        <updated>2024-06-26T00:04:16.176Z</updated>
         <summary type="html"><![CDATA[Publication date: 25 October 2024
 Source: Journal of Differential Equations, Volume 407
 Author(s): Jernej Činč, Piotr Oprocha]]></summary>
         <author>
             <name>ScienceDirect Publication: Journal of Differential Equations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An efficient point cloud semantic segmentation network with multiscale super-patch transformer]]></title>
+        <id>https://www.nature.com/articles/s41598-024-63451-8</id>
+        <link href="https://www.nature.com/articles/s41598-024-63451-8"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - An efficient point cloud semantic segmentation network with multiscale super-patch transformer]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A retrospective study of deep learning generalization across two centers and multiple models of X-ray devices using COVID-19 chest-X rays]]></title>
+        <id>https://www.nature.com/articles/s41598-024-64941-5</id>
+        <link href="https://www.nature.com/articles/s41598-024-64941-5"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - A retrospective study of deep learning generalization across two centers and multiple models of X-ray devices using COVID-19 chest-X rays]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction and reliability analysis of shear strength of RC deep beams]]></title>
+        <id>https://www.nature.com/articles/s41598-024-64386-w</id>
+        <link href="https://www.nature.com/articles/s41598-024-64386-w"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Prediction and reliability analysis of shear strength of RC deep beams]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extraction of water bodies from high-resolution remote sensing imagery based on a deep semantic segmentation network]]></title>
+        <id>https://www.nature.com/articles/s41598-024-65430-5</id>
+        <link href="https://www.nature.com/articles/s41598-024-65430-5"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Extraction of water bodies from high-resolution remote sensing imagery based on a deep semantic segmentation network]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI nutrition recommendation using a deep generative model and ChatGPT]]></title>
+        <id>https://www.nature.com/articles/s41598-024-65438-x</id>
+        <link href="https://www.nature.com/articles/s41598-024-65438-x"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - AI nutrition recommendation using a deep generative model and ChatGPT]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep learning-based localization algorithms on fluorescence human brain 3D reconstruction: a comparative study using stereology as a reference]]></title>
+        <id>https://www.nature.com/articles/s41598-024-65092-3</id>
+        <link href="https://www.nature.com/articles/s41598-024-65092-3"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Reports - Deep learning-based localization algorithms on fluorescence human brain 3D reconstruction: a comparative study using stereology as a reference]]></summary>
+        <author>
+            <name>Computer science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
+        <id>10915</id>
+        <link href="http://link.springer.com/10915"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convergent Authalic Energy Minimization for Disk Area-Preserving Parameterizations]]></title>
+        <id>10.1007/s10915-024-02594-2</id>
+        <link href="http://link.springer.com/10.1007/s10915-024-02594-2"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+An area-preserving parameterization of a surface is a bijective mapping that maps the surface onto a specified domain and preserves the local area. This paper formulates the computation of disk area-preserving parameterization as an improved optimization problem and develops a preconditioned nonlinear conjugate gradient method with guaranteed theoretical convergence for solving the problem. Numerical experiments indicate that our new approach has significantly improved area-preserving accuracy and computational efficiency compared to other state-of-the-art algorithms. Furthermore, we present an application of surface registration to illustrate the practical utility of area-preserving mappings as parameterizations of surfaces.]]></summary>
+        <author>
+            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -271,6 +362,40 @@ The post The Question of What’s Fair Illuminates the Question of What’s Hard
         <summary type="html"><![CDATA[Scientific Reports - Temporal dynamics of user activities: deep learning strategies and mathematical modeling for long-term and short-term profiling]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stabilizing Discontinuous Galerkin Methods Using Dafermos’ Entropy Rate Criterion: II—Systems of Conservation Laws and Entropy Inequality Predictors]]></title>
+        <id>10.1007/s10915-024-02595-1</id>
+        <link href="http://link.springer.com/10.1007/s10915-024-02595-1"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+A novel approach for the stabilization of the Discontinuous Galerkin method based on the Dafermos entropy rate crition is presented. First, estimates for the maximal possible entropy dissipation rate of a weak solution are derived. Second, families of conservative Hilbert–Schmidt operators are identified to dissipate entropy. Steering these operators using the bounds on the entropy dissipation results in high-order accurate shock-capturing DG schemes for the one-dimensional Euler equations, satisfying the entropy rate criterion and an entropy inequality. Other testcases include the one-dimensional Buckley–Leverett equation.]]></summary>
+        <author>
+            <name>Latest Results</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharp Error Bounds for a Fractional Collocation Method for Weakly Singular Volterra Integral Equations with Variable Exponent]]></title>
+        <id>10.1007/s10915-024-02593-3</id>
+        <link href="http://link.springer.com/10.1007/s10915-024-02593-3"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Variable-exponent weakly singular Volterra integral equations of the second kind with integral kernels of the form 
+                      
+                      \((t-s)^{-\alpha (t)}\)
+                      
+                     are considered. In Liang and Stynes (IMA J Numer Anal 19:drad072, 2023) it is shown that a typical solution of such an equation exhibits a weak singularity at the initial time 
+                      
+                      \(t=0\)
+                      
+                    , similarly to the case where 
+                      
+                      \(\alpha (t)\)
+                      
+                     is constant. Our paper extends this analysis further by giving a decomposition for the exact solution. To solve the problem numerically, a fractional polynomial collocation method is applied on a graded mesh. The convergence of the collocation solution to the exact solution is analysed rigorously and it is proved that specific choices of the fractional polynomials and mesh grading yield optimal-order convergence of the computed solution. Superconvergence properties of the iterated collocation solution are also analysed. Numerical experiments illustrate the sharpness of our theoretical results.]]></summary>
+        <author>
+            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -434,15 +559,6 @@ The post How the Square Root of 2 Became a Number first appeared on Quanta Magaz
         <summary type="html"><![CDATA[Ziller and colleagues present a balanced investigation of the trade-off between privacy and performance when training artificially intelligent models for medical imaging analysis tasks. The authors evaluate the use of differential privacy in realistic threat scenarios, leading to their conclusion to promote the use of differential privacy, but implementing it in a manner that also retains performance.]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journal of Scientific Computing]]></title>
-        <id>10915</id>
-        <link href="http://link.springer.com/10915"/>
-        <updated>2024-06-21T00:00:00.000Z</updated>
-        <author>
-            <name>Latest Results</name>
         </author>
     </entry>
     <entry>
@@ -935,36 +1051,6 @@ The post The Enduring Mystery of How Water Freezes first appeared on Quanta Maga
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimal key forwarding strategy in QKD behaviours]]></title>
-        <id>https://www.nature.com/articles/s41598-024-64994-6</id>
-        <link href="https://www.nature.com/articles/s41598-024-64994-6"/>
-        <updated>2024-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Optimal key forwarding strategy in QKD behaviours]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An explanatory study of factors influencing engagement in AI education at the K-12 Level: an extension of the classic TAM model]]></title>
-        <id>https://www.nature.com/articles/s41598-024-64363-3</id>
-        <link href="https://www.nature.com/articles/s41598-024-64363-3"/>
-        <updated>2024-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - An explanatory study of factors influencing engagement in AI education at the K-12 Level: an extension of the classic TAM model]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint stereo 3D object detection and implicit surface reconstruction]]></title>
-        <id>https://www.nature.com/articles/s41598-024-64677-2</id>
-        <link href="https://www.nature.com/articles/s41598-024-64677-2"/>
-        <updated>2024-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Joint stereo 3D object detection and implicit surface reconstruction]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Training deep Boltzmann networks with sparse Ising machines]]></title>
         <id>https://www.nature.com/articles/s41928-024-01182-4</id>
         <link href="https://www.nature.com/articles/s41928-024-01182-4"/>
@@ -985,16 +1071,6 @@ The post The Enduring Mystery of How Water Freezes first appeared on Quanta Maga
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep learning-based approach for 3D bone segmentation and prediction of missing tooth region for dental implant planning]]></title>
-        <id>https://www.nature.com/articles/s41598-024-64609-0</id>
-        <link href="https://www.nature.com/articles/s41598-024-64609-0"/>
-        <updated>2024-06-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - Deep learning-based approach for 3D bone segmentation and prediction of missing tooth region for dental implant planning]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Development of optimization method for truss structure by quantum annealing]]></title>
         <id>https://www.nature.com/articles/s41598-024-64588-2</id>
         <link href="https://www.nature.com/articles/s41598-024-64588-2"/>
@@ -1002,26 +1078,6 @@ The post The Enduring Mystery of How Water Freezes first appeared on Quanta Maga
         <summary type="html"><![CDATA[Scientific Reports - Development of optimization method for truss structure by quantum annealing]]></summary>
         <author>
             <name>Computational science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A very lightweight image super-resolution network]]></title>
-        <id>https://www.nature.com/articles/s41598-024-64724-y</id>
-        <link href="https://www.nature.com/articles/s41598-024-64724-y"/>
-        <updated>2024-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - A very lightweight image super-resolution network]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA encoding schemes herald a new age in cybersecurity for safeguarding digital assets]]></title>
-        <id>https://www.nature.com/articles/s41598-024-64419-4</id>
-        <link href="https://www.nature.com/articles/s41598-024-64419-4"/>
-        <updated>2024-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Reports - DNA encoding schemes herald a new age in cybersecurity for safeguarding digital assets]]></summary>
-        <author>
-            <name>Computer science : nature.com subject feeds</name>
         </author>
     </entry>
     <entry>
@@ -1198,46 +1254,6 @@ We propose a novel methodology for forecasting spatio-temporal data using superv
         <summary type="html"><![CDATA[DenseAV, developed at MIT, learns to parse and understand the meaning of language just by watching videos of people talking, with potential applications in multimedia search, language learning, and robotics.]]></summary>
         <author>
             <name>Rachel Gordon | MIT CSAIL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New computer vision method helps speed up screening of electronic materials]]></title>
-        <id>https://news.mit.edu/2024/new-computer-vision-method-helps-speed-screening-electronic-materials-0611</id>
-        <link href="https://news.mit.edu/2024/new-computer-vision-method-helps-speed-screening-electronic-materials-0611"/>
-        <updated>2024-06-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The technique characterizes a material’s electronic properties 85 times faster than conventional methods.]]></summary>
-        <author>
-            <name>Jennifer Chu | MIT News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergence of Polarization in a Sigmoidal Bounded-Confidence Model of Opinion Dynamics]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/22M1527258?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/22M1527258?mi=9v4ths&amp;af=R&amp;countTerms=true&amp;publication=sjaday&amp;searchCollection=jb&amp;sortBy=Earliest_desc&amp;target=multi-search"/>
-        <updated>2024-06-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SIAM Journal on Applied Dynamical Systems, Volume 23, Issue 2, Page 1442-1470, June 2024. 
-Abstract.We study a nonlinear bounded-confidence model (BCM) of continuous-time opinion dynamics on networks with both persuadable individuals and zealots. The model is parameterized by a nonnegative scalar [math], which controls the steepness of a smooth influence function. This influence function encodes the relative weights that individuals place on the opinions of other individuals. When [math], this influence function recovers Taylor’s averaging model; when [math], the influence function converges to that of a modified Hegselmann–Krause (HK) BCM. Unlike the classical HK model, however, our sigmoidal bounded-confidence model (SBCM) is smooth for any finite [math]. We show that the set of steady states of our SBCM is qualitatively similar to that of the Taylor model when [math] is small and that the set of steady states approaches a subset of the set of steady states of a modified HK model as [math]. For certain special graph topologies, we give analytical descriptions of important features of the space of steady states. A notable result is a closed-form relationship between graph topology and the stability of polarized states in a simple special case that models echo chambers in social networks. Because the influence function of our BCM is smooth, we are able to study it with linear stability analysis, which is difficult to employ with the usual discontinuous influence functions in BCMs.]]></summary>
-        <author>
-            <name>Heather Z. Brooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A $$\tau $$ -Preconditioner for Space Fractional Diffusion Equation with Non-separable Variable Coefficients]]></title>
-        <id>10.1007/s10915-024-02574-6</id>
-        <link href="http://link.springer.com/10.1007/s10915-024-02574-6"/>
-        <updated>2024-06-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-In this paper, we study a 
-                      
-                      \(\tau \)
-                      
-                    -matrix approximation based preconditioner for the linear systems arising from discretization of unsteady state Riesz space fractional diffusion equation with non-separable variable coefficients. The structure of coefficient matrices of the linear systems is identity plus summation of diagonal-times-multilevel-Toeplitz matrices. In our preconditioning technique, the diagonal matrices are approximated by scalar identity matrices and the Toeplitz matrices are approximated by 
-                      
-                      \(\tau \)
-                      
-                    -matrices (a type of matrices diagonalizable by discrete sine transforms). The proposed preconditioner is fast invertible through the fast sine transform (FST) algorithm. Theoretically, we show that the GMRES solver for the preconditioned systems has an optimal convergence rate (a convergence rate independent of discretization stepsizes). To the best of our knowledge, this is the first preconditioning method with the optimal convergence rate for the variable-coefficients space fractional diffusion equation. Numerical results are reported to demonstrate the efficiency of the proposed method.]]></summary>
-        <author>
-            <name>Latest Results</name>
         </author>
     </entry>
 </feed>
